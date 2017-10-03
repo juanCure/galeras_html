@@ -1,0 +1,1 @@
+Repositorio para mantener los archivos JATS/XML utilizados en las galeras HTML de la revista Terra Digitalis
