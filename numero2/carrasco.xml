@@ -26,7 +26,7 @@
             <surname>Carrasco-Núñez</surname>
             <given-names>G.</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="aff" rid="aff1" />
           <xref ref-type="corresp" rid="cor1">*</xref>
         </contrib>
         <!-- Segundo autor -->
@@ -35,7 +35,7 @@
             <surname>Hernández</surname>
             <given-names>J.</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="aff" rid="aff1" />
         </contrib>
         <!-- Tercer autor -->
         <contrib contrib-type="author">
@@ -43,7 +43,7 @@
             <surname>De León</surname>
             <given-names>L.</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="aff" rid="aff1" />
         </contrib>
         <!-- Cuarto autor -->
         <contrib contrib-type="author">
@@ -51,7 +51,7 @@
             <surname>Dávila</surname>
             <given-names>P.</given-names>
           </name>
-          <xref ref-type="aff" rid="aff2"/>
+          <xref ref-type="aff" rid="aff2" />
         </contrib>
         <!-- Quinto autor -->
         <contrib contrib-type="author">
@@ -59,7 +59,7 @@
             <surname>Norini</surname>
             <given-names>G.</given-names>
           </name>
-          <xref ref-type="aff" rid="aff3"/>
+          <xref ref-type="aff" rid="aff3" />
         </contrib>
         <!-- Sexto autor -->
         <contrib contrib-type="author">
@@ -67,7 +67,7 @@
             <surname>Bernal</surname>
             <given-names>J.P.</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="aff" rid="aff1" />
         </contrib>
         <!-- Séptimo autor -->
         <contrib contrib-type="author">
@@ -75,7 +75,7 @@
             <surname>Jicha</surname>
             <given-names>B.</given-names>
           </name>
-          <xref ref-type="aff" rid="aff4"/>
+          <xref ref-type="aff" rid="aff4" />
         </contrib>
         <!-- Octavo autor -->
         <contrib contrib-type="author">
@@ -83,7 +83,7 @@
             <surname>Navarro</surname>
             <given-names>M.</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="aff" rid="aff1" />
         </contrib>
         <!-- Noveno autor -->
         <contrib contrib-type="author">
@@ -91,7 +91,7 @@
             <surname>López</surname>
             <given-names>P.</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="aff" rid="aff1" />
         </contrib>
         <aff id="aff1">
           <institution>Centro de Geociencias, Universidad Nacional Autónoma de México, Campus UNAM Juriquilla, Queretaro, 76230, Mexico</institution>
@@ -121,328 +121,408 @@
       <permissions>
         <copyright-statement>&#169; 2017, Carrasco-Núñez, G. &amp; Hernández, J. &amp; De León, L. &amp; Dávila, P. &amp; Norini, G. &amp; Bernal, J.P. &amp; Jicha, B. &amp; Navarro, M. &amp; López, P. Published by Terra Digitalis. </copyright-statement>
         <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
-          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
         </license>
       </permissions>
-      <self-uri>https://www.martineve.com/</self-uri>
-      <abstract>
-        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      <self-uri></self-uri>
+      <abstract abstract-type="section">
+        <sec>
+          <title>Abstract</title>
+          <p>We present an updated version of the geologic map of Los Humeros Volcanic Complex (LHVC) and geothermal field, based on a complete revised characterization of the rock units and contacts, structural features, stratigraphy and recent radiometric dating with modern methods (
+            <xref rid="TO_LINK" ref-type="bibr" id="IDd532797b-2dc9-45c5-9f5a-ab7cd488e12c">U/Th, 40Ar/39Ar, Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>), together with the use of high resolution Digital Terrain Model at 1m resolution and Google Earth optical imagery. Improvements of this version include refined stratigraphic sequence, revised classification of each lithostratigraphic unit, updated structural features and geochronologic data; all together providing constrains to support a new evolutionary volcanic history for LHVC. Main changes with previous works involve the recently discovery of much younger ages for the main (first and most voluminous) caldera-forming eruption (115 km<sup>3</sup> X&#225;ltipan ignimbrite) at 164.0&#177;4.2 ka (error-weighted mean U/Th-40Ar/39Ar) compared with the previous reported K/Ar age of 460 ka (
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID5fdbeafb-a838-4ebd-a342-cbb7dd0b0d6c">Ferriz and Mahood, 1984</xref>), postdating an important episode of rhyolitic dome activity occurred at LHVC. Much younger ages were also obtained for other important explosive phases: the Faby plinian fallout tuff has been dated at 70&#177;23 ka and the second caldera-forming ignimbrite eruption (15 km<sup>3</sup> Zaragoza ignimbrite) at 69&#177;16 ka. Multiple resurgent rhyolitic domes erupted in the range of 44.8&#177;1.7 ka to 74.2&#177;4.5 ka, pre- and postdating the Zaragoza ignimbrite. New 14C radiometric dates (this paper) reveal the Late Pleistocene (27 ka) and Holocene (8.9, 3.8 and 2.8 ka) eruptive history of the LHVC, which occurred both along the main caldera ring faults and also inside the caldera. These findings reveal the existence of a much younger long-lived magmatic system with Holocene activity and a high geothermal potential that requires a further assessment for exploration and volcanic hazard purposes.</p>
+          <p>
+            <bold>Key words:</bold>
+          </p>
+        </sec>
+        <sec>
+          <title>Resumen</title>
+          <p>Aquí debera venir el resumen en español</p>
+          <p>
+            <bold>Palabras clave:</bold>
+          </p>
+        </sec>
       </abstract>
     </article-meta>
   </front>
+
   <body>
     <sec>
+      <title>Introduction</title>
+      <p>The Los Humeros Volcanic Complex (LHVC), located in the northernmost part of the eastern sector of the Trans-Mexican Volcanic Belt (TMVB), is the third most important geothermal field in Mexico, with a current installed capacity of 65 MW of electric power generated by around 20 wells out of a total of about 50 drilled wells (Fig. 1). The LHVC is a multiple large caldera structure with a complex evolution involving at least two major caldera-forming eruptions, generating the Los Humeros caldera and the nested Los Potreros caldera, with alternated episodes of effusive and explosive eruptions since the Pleistocene to the Holocene (
+        <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDc745a569-ecf3-4085-8c11-a2f572176cf4">Ferriz and Mahood, 1984</xref>;
+        <xref rid="ID6aafd7b3-d5db-4910-b5f0-1d54fb91a182" ref-type="bibr" id="ID47816a87-6e8b-4628-bf8e-3da978d03834">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>).</p>
+      <p>Several geologic maps have been constructed during the early stages of the geothermal exploration program in the late 70&#8217;s-early 80&#8217;s (
+        <xref rid="ID0e3cd136-c9aa-4a0b-b5e1-0448fc1c7b40" ref-type="bibr" id="ID471ac41b-60cf-4f1b-8a97-2fa329db0bc4">e.g. P&#233;rez-Reynoso, 1978</xref>;
+        <xref rid="IDd06fcd88-aafa-4b40-b40f-20ff55b0aef1" ref-type="bibr" id="ID2f07b3f4-a435-4222-8a6e-2b09cf02b6b0">De la Cruz, 1983</xref>;
+        <xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="ID58466a55-aaa4-453e-809f-c1d8ec85640f">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>;
+        <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDdd8a2dc6-5265-419e-8266-19eeb3f15859">Ferriz and Mahood, 1984</xref>). Among these works, the map of Ferriz and Mahood (
+        <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID2342e032-430a-421c-8537-ddc2774c20dc">1984</xref>) provided the most comprehensive summary of the geology, stratigraphy and evolution of the Los Humeros caldera complex, supported by a number of K/Ar radiometric dates. With all these available data, a more recent geologic map was compiled and a reduced version was published as part of an article that includes a comprehensive analysis of the subsurface stratigraphy of the geothermal field (
+        <xref rid="ID6aafd7b3-d5db-4910-b5f0-1d54fb91a182" ref-type="bibr" id="ID428af4f6-44a8-4a2b-8881-01e6206334cb">Carrasco-N&#250;&#241;ez et al., 2017</xref>).</p>
+      <p>Nevertheless, the renovated interest to study the LHVC, as a basis to reassess its geothermal potential, create the necessity to develop an updated geologic map. Recent high-precision U/Th and 40Ar/39Ar radiometric dating, presented in a companion paper (
+        <xref rid="ID6aafd7b3-d5db-4910-b5f0-1d54fb91a182" ref-type="bibr" id="IDda165cf6-2b06-485e-a9a2-ff63bd3e6a76">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>), provide strong support to the new stratigraphic scheme, together with the use of 1m resolution digital terrain model and a though revision of the structural features, stratigraphic relationships and a revised geochemical classification of each lithostratigraphic unit. The new version of the LHVC geologic map (see Plate 1) shows a detailed account and complete stratigraphic framework providing information of each of the different lithostratigraphic units exposed in an adequate scale, serving as a main basic reference for further studies. The new 14C dating, coupled with recent geochronology, as well as the field geological features and stratigraphic definitions provided in this study, represent a highly relevant data set, for further asses the most complete and new evolutionary volcanic history for LHVC.</p>
+    </sec>
+    <sec>
       <title>
-        <bold>Geologic Map of Los Humeros volcanic complex and geothermal field, eastern Trans-Mexican Volcanic Belt</bold>
+        <bold>Methodology</bold>
       </title>
+      <p>After an extensive review of all the existing cartography for the LHVC, we identify some inconsistencies in the stratigraphic units, lithological contacts and structures, accompanied by rather low-precision dating framework. Therefore, a revised geological map to resolve the inconsistencies was largely overdue.</p>
+      <p> This work represents the result of more than 10 years of fieldwork at the LHVC performed during many field campaigns. During the last two years, the authors worked exhaustively on specific objectives, in particular defining contacts previously not well constrained, verifying faults, sampling rocks and paleosols, acquiring structural data, describing eruptive units and lithologies, and establishing petrological, geochemical and geochronological constrains on its evolution. </p>
+      <p>The combined use of a new high-resolution Digital Terrain Model with 1 m resolution obtained by digital photogrammetry of 0.5 m multispectral satellite optical images allowed us to map in detail structural and morphological features (particularly in the geothermal field), refine rock unit contacts (especially in the forested areas) and revise in greater detail the location of volcanic vents. Systematic sampling and field verification on key outcrops allowed to collect data and samples for petrographic and geochemical characterization of the rock units that integrate the revised stratigraphic column. We include a new classification of the LHVC based on the Total Alkali Silica diagram (Fig. 2), in which we include all the available chemical analysis plus 111 new ones obtained for this work. Geochemical data are provided in Table 1 (see Supplementary material).</p>
+      <p>Modern, high-precision radiometric age, including those obtained by U/Th (Bernal et al, 2014), and 40Ar/39Ar (
+        <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID64056066-9bfb-4db9-a244-7d6f7a5ad99c">reported in Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) along with new 14C dating are presented here (calibrated by Calib 7.1 program to INTCAL 13;
+        <xref rid="IDf1241d56-4f94-4224-bbb6-6db212b7d8f6" ref-type="bibr" id="ID35610927-8e05-40fd-93ec-8b949d09289a">Stuiver et al., 2017</xref>), and represents a significant improvement with respect to previous K/Ar geochronology, for the caldera units (
+        <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID961c8db8-5c9a-4593-9306-3a1f1bd49c6f">Ferriz and Mahood, 1984</xref>) and the pre-caldera formations (
+        <xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="IDa970974d-4e24-4870-8200-748331063e13">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>). All the new and revised data were integrated in a GIS-based geologic map. </p>
     </sec>
     <sec>
-      <title>by </title>
-      <sec>
-        <title>Carrasco-N&#250;&#241;ez, G.1*, Hern&#225;ndez, J. 1, De Le&#243;n, L. 1, D&#225;vila, P. 2, Norini, G. 3, Bernal, J.P. 1, Jicha, B. 4, Navarro, M. 1, L&#243;pez, P. 1</title>
-        <list list-type="simple">
-          <list-item>
-            <p>1 Centro de Geociencias, Universidad Nacional Aut&#243;noma de M&#233;xico, Campus UNAM Juriquilla, Queretaro, 76230, Mexico;</p>
-          </list-item>
-          <list-item>
-            <p>2 Instituto Potosino de Investigaci&#243;n Cient&#237;fica y Tecnol&#243;gica, (IPICYT), San Luis Potosi, SLP, 78216,Mexico</p>
-          </list-item>
-          <list-item>
-            <p rend="ref">3 Istituto per la Dinamica dei Processi Ambientali, CNR, 20125 Milano </p>
-            <p>Italy</p>
-          </list-item>
-          <list-item>
-            <p>4 University of Wisconsin-Madison, Madison, WI 53706 USA</p>
-          </list-item>
-          <list-item>
-            <p>* Corresponding author: gerardoc@geociencias.unam.mx</p>
-          </list-item>
-        </list>
-        <p>Revised manuscript to be submitted to: <bold>Terra Digitalis</bold>
-            </p>
-      </sec>
+      <title>
+        <bold>Geologic and tectonic setting</bold>
+      </title>
+      <p>The LHVC is the easternmost Quaternary caldera of the TMVB, a Miocene-Quaternary continental volcanic arc resulting from the subduction of the Cocos and Rivera plates beneath the North American plate along the Middle American trench (
+        <xref rid="IDae4dc9df-8a7f-4aea-8ac6-59fec0501f7b" ref-type="bibr" id="IDe82c9c58-9e01-4dcd-b67f-8cf049f224f5">Ferrari et al., 2012, and references therein</xref>). The volcanic complex is located to the north of the Pico de Orizaba &#8210; Cofre de Perote volcanic range. In this area, the volcanic rocks of the TMVB stand on top of an intrusive, metamorphic and sedimentary sequence (described in Section 1.1). The volcanic activity in the area, prior to the emplacement of the LHVC, is represented by a thick sequence of 10.5&#8211;1.55 Ma andesites and basaltic andesitic lava flows whose upper part is known as Teziutl&#225;n formation (
+        <xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="ID60bc6786-facc-4883-a4ff-d11c73be8b9e">Ya&#241;ez and Garc&#237;a, 1982</xref>;
+        <xref rid="ID872d977f-7d35-48bf-a996-cf4f28e41885" ref-type="bibr" id="ID304b51bc-0997-4319-a882-0d46051a0dde">Cedillo-Rodr&#237;guez, 1984, 1997, 1999</xref>;
+        <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDfb0ac77a-b617-4d1e-971f-520a995f756c">Ferriz and Mahood, 1984</xref>;
+        <xref rid="ID2ce7c74e-5e09-45a5-9c48-c04106503897" ref-type="bibr" id="IDe4129f79-8625-470c-9bda-41b676fabba8">L&#243;pez-Hern&#225;ndez, 1995</xref>;
+        <xref rid="ID06ccd502-d01f-40d3-be4d-0d796b60ea07" ref-type="bibr" id="IDe600d823-e3d8-4e2f-92ca-2b5190eb5e28">Arellano et al., 2003</xref>;
+        <xref rid="ID046aa900-caa6-45df-bddf-43b78f3865ac" ref-type="bibr" id="ID57cc0695-9bd6-4907-bc9b-a611ba6f4b18">Guti&#233;rrez-Negr&#237;n and Izquierdo-Montalvo, 2010</xref>).</p>
+      <p>The LHVC basement has been deformed by two main tectonic events: The Late Cretaceous to Paleocene contractile Laramide Orogeny, which produced NW-SE thrusts and folds affecting the Mesozoic sedimentary and older rocks (
+        <xref rid="IDfea7168c-692d-4513-8b9a-215abae6007c" ref-type="bibr" id="ID88e9c680-2881-472e-a4ad-9c612cf09896">e.g. Campos-Enriquez and Gardu&#241;o-Monroy, 1987</xref>;
+        <xref rid="ID2ce7c74e-5e09-45a5-9c48-c04106503897" ref-type="bibr" id="IDd219839c-94f8-414e-8215-23535b00dde6">L&#243;pez-Hern&#225;ndez, 1995</xref>;
+        <xref rid="IDe008e39d-64d1-4ca9-8464-74560ee936f1" ref-type="bibr" id="IDaa0c4607-fe88-4855-93e4-4e80c8ce47bb">Fitz-D&#237;az et al., 2017</xref>), followed by one, or more, not well-defined Eocene-Pliocene extensional and transtensional phases that produced N-S to NE-striking faults (
+        <xref rid="IDfea7168c-692d-4513-8b9a-215abae6007c" ref-type="bibr" id="IDf0ffd2ed-db14-48d7-81b1-95343ab2eebf">e.g. Campos-Enriquez and Gardu&#241;o-Monroy, 1987</xref>;
+        <xref rid="ID2ce7c74e-5e09-45a5-9c48-c04106503897" ref-type="bibr" id="IDcdbc154e-1906-42cb-abda-0284962b907e">L&#243;pez-Hern&#225;ndez, 1995</xref>).</p>
+      <p>The emplacement of the LHVC is associated with prominent Pleistocene-Holocene volcanotectonic structures (
+        <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDaf98f966-03ff-4036-bc56-89bac3ed79b2">e.g. Ferriz and Mahood, 1984</xref>;
+        <xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="ID57ceb961-4791-485b-806d-62398e48352b">Norini et al., 2015</xref>). Quaternary semicircular scarps define the edge of the Los Humeros and Los Potreros calderas (Fig. 1). These morphological rims have been interpreted as landslide scarps generated by the Los Humeros and Los Potreros calderas collapse along outward dipping ring faults (
+        <xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="IDda42c2c4-7c13-4204-9244-ea30d5a62207">Norini et al., 2015</xref>). The outward dipping geometry of the ring faults has been recently imaged by a magnetotelluric (MT) survey of the LHVC (<xref rid="ref1" ref-type="bibr">Corbo et al., submitted</xref>). The geometry of the Los Humeros caldera recalls an asymmetric trap-door structure, with the major vertical displacements occurring along the SW sector of the caldera ring faults (
+        <xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="IDc77c0110-2c12-4dc1-ad66-043099bec514">Norini et al., 2015</xref>). The Los Potreros caldera floor is also traversed by a prominent fault system, made by dip-slip NNW-SSE, N-S, NE-SW and E-W curvilinear fault splays related to the probable active resurgence of the Los Potreros caldera floor (Fig. 1) (
+        <xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="ID28754627-73cf-4920-ae43-02417e6b16f7">Norini et al., 2015</xref>). The subvertical inward dipping geometry of these faults have been also recently observed by MT data (
+        <xref rid="ref1" ref-type="bibr">Corbo et al., submitted</xref>). The producing geothermal wells are located along the main NNW&#8211;SSE active faults (Maxtaloya-Los Humeros faults) or near pervasive N&#8211;S-striking fault splays in the central-northern sector of the Los Potreros caldera (
+        <xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="IDc169c23e-a439-454c-aac0-b691274afa1a">Norini et al., 2015</xref>).</p>
     </sec>
     <sec>
-      <title>Sep 8, 2017</title>
+      <title>Stratigraphic units </title>
+      <p>A description of each lithostratigraphic unit is provided as follows. A summary of the main features of each unit can be found in Table 2. A compilation of the radiometric dating used in this map is shown in Table 3. See both tables in Supplementary material.</p>
       <sec>
-        <title>Abstract</title>
-        <p>We present an updated version of the geologic map of Los Humeros Volcanic Complex (LHVC) and geothermal field, based on a complete revised characterization of the rock units and contacts, structural features, stratigraphy and recent radiometric dating with modern methods (<xref rid="TO_LINK" ref-type="bibr" id="IDd532797b-2dc9-45c5-9f5a-ab7cd488e12c">U/Th, 40Ar/39Ar, Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>), together with the use of high resolution Digital Terrain Model at 1m resolution and Google Earth optical imagery. Improvements of this version include refined stratigraphic sequence, revised classification of each lithostratigraphic unit, updated structural features and geochronologic data; all together providing constrains to support a new evolutionary volcanic history for LHVC. Main changes with previous works involve the recently discovery of much younger ages for the main (first and most voluminous) caldera-forming eruption (115 km3 X&#225;ltipan ignimbrite) at 164.0&#177;4.2 ka (error-weighted mean U/Th-40Ar/39Ar) compared with the previous reported K/Ar age of 460 ka (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID5fdbeafb-a838-4ebd-a342-cbb7dd0b0d6c">Ferriz and Mahood, 1984</xref>), postdating an important episode of rhyolitic dome activity occurred at LHVC. Much younger ages were also obtained for other important explosive phases: the Faby plinian fallout tuff has been dated at 70&#177;23 ka and the second caldera-forming ignimbrite eruption (15 km3 Zaragoza ignimbrite) at 69&#177;16 ka. Multiple resurgent rhyolitic domes erupted in the range of 44.8&#177;1.7 ka to 74.2&#177;4.5 ka, pre- and postdating the Zaragoza ignimbrite. New 14C radiometric dates (this paper) reveal the Late Pleistocene (27 ka) and Holocene (8.9, 3.8 and 2.8 ka) eruptive history of the LHVC, which occurred both along the main caldera ring faults and also inside the caldera. These findings reveal the existence of a much younger long-lived magmatic system with Holocene activity and a high geothermal potential that requires a further assessment for exploration and volcanic hazard purposes.</p>
-        <list list-type="simple">
-          <list-item>
-            <p>
-              <bold>Introduction</bold>
-            </p>
-          </list-item>
-        </list>
-        <p>The Los Humeros Volcanic Complex (LHVC), located in the northernmost part of the eastern sector of the Trans-Mexican Volcanic Belt (TMVB), is the third most important geothermal field in Mexico, with a current installed capacity of 65 MW of electric power generated by around 20 wells out of a total of about 50 drilled wells (Fig. 1). The LHVC is a multiple large caldera structure with a complex evolution involving at least two major caldera-forming eruptions, generating the Los Humeros caldera and the nested Los Potreros caldera, with alternated episodes of effusive and explosive eruptions since the Pleistocene to the Holocene (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDc745a569-ecf3-4085-8c11-a2f572176cf4">Ferriz and Mahood, 1984</xref>; <xref rid="ID6aafd7b3-d5db-4910-b5f0-1d54fb91a182" ref-type="bibr" id="ID47816a87-6e8b-4628-bf8e-3da978d03834">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>).</p>
-        <p>Several geologic maps have been constructed during the early stages of the geothermal exploration program in the late 70&#8217;s-early 80&#8217;s (<xref rid="ID0e3cd136-c9aa-4a0b-b5e1-0448fc1c7b40" ref-type="bibr" id="ID471ac41b-60cf-4f1b-8a97-2fa329db0bc4">e.g. P&#233;rez-Reynoso, 1978</xref>; <xref rid="IDd06fcd88-aafa-4b40-b40f-20ff55b0aef1" ref-type="bibr" id="ID2f07b3f4-a435-4222-8a6e-2b09cf02b6b0">De la Cruz, 1983</xref>; <xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="ID58466a55-aaa4-453e-809f-c1d8ec85640f">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>; <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDdd8a2dc6-5265-419e-8266-19eeb3f15859">Ferriz and Mahood, 1984</xref>). Among these works, the map of Ferriz and Mahood (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID2342e032-430a-421c-8537-ddc2774c20dc">1984</xref>) provided the most comprehensive summary of the geology, stratigraphy and evolution of the Los Humeros caldera complex, supported by a number of K/Ar radiometric dates. With all these available data, a more recent geologic map was compiled and a reduced version was published as part of an article that includes a comprehensive analysis of the subsurface stratigraphy of the geothermal field (<xref rid="ID6aafd7b3-d5db-4910-b5f0-1d54fb91a182" ref-type="bibr" id="ID428af4f6-44a8-4a2b-8881-01e6206334cb">Carrasco-N&#250;&#241;ez et al., 2017</xref>).</p>
-        <p>Nevertheless, the renovated interest to study the LHVC, as a basis to reassess its geothermal potential, create the necessity to develop an updated geologic map. Recent high-precision U/Th and 40Ar/39Ar radiometric dating, presented in a companion paper (<xref rid="ID6aafd7b3-d5db-4910-b5f0-1d54fb91a182" ref-type="bibr" id="IDda165cf6-2b06-485e-a9a2-ff63bd3e6a76">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>), provide strong support to the new stratigraphic scheme, together with the use of 1m resolution digital terrain model and a though revision of the structural features, stratigraphic relationships and a revised geochemical classification of each lithostratigraphic unit. The new version of the LHVC geologic map (see Plate 1) shows a detailed account and complete stratigraphic framework providing information of each of the different lithostratigraphic units exposed in an adequate scale, serving as a main basic reference for further studies. The new 14C dating, coupled with recent geochronology, as well as the field geological features and stratigraphic definitions provided in this study, represent a highly relevant data set, for further asses the most complete and new evolutionary volcanic history for LHVC.</p>
+        <title>1.1 Pre-caldera basement and intrusive rocks</title>
+        <sec>
+          <title>Pz/K.- Granodiorites and schists</title>
+          <p>The regional basement is formed by a Paleozoic-Cretaceous crystalline complex known as the Teziutl&#225;n Massif, which includes green schists with quartz-muscovite, hipidiomorphic granodiorites composed of plagioclase, K feldspar, quartz, biotite and hornblende, as well as granites with K/Ar ages of 131 and 246 Ma (
+            <xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="IDd5bdec74-2522-4d6e-a8f4-87ede5aeb619">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>). The Teziutl&#225;n Massif outcrops are located to the north and northeastern sides of the Los Humeros caldera, to the western side of Altotonga city at the Chignautla range. This basement is partially covered by a Mesozoic sedimentary sequence, which corresponds to the Sierra Madre Oriental fold and thrust province, described below.</p>
+        </sec>
+        <sec>
+          <title>
+            <bold>K/J.- Limestones and shales</bold>
+          </title>
+          <p>The regional basement is overlain by a Jurassic sedimentary sequence, which corresponds mainly to highly folded and thrusted shales and limestones (
+            <xref rid="IDbf2c750b-5c36-4d80-8785-5c0b21c5206c" ref-type="bibr" id="IDa81956c0-8ecb-4602-8760-d7854e0b2ce9">Viniegra-Osorio, 1965</xref>). Outcrops around the caldera mainly consists of thick sandstone strata with red shale lenses that correspond to the Cahuasas Formation (
+            <xref rid="ID2b0e21f9-33f0-4e8c-97ad-b6ba77917a4b" ref-type="bibr" id="IDd2f14e70-9754-4fad-b0ac-52e6f4e51ad1">Carrillo-Bravo, 1961</xref>), clayey and calcareous rocks from the Tam&#225;n Formation, and limestone and dolomites of the Pimienta Formation (
+            <xref rid="IDaaf333ca-ff38-4cd1-bc66-9a3474d3af72" ref-type="bibr" id="ID510c6cd4-7924-4a8d-88bc-0d6dcf472367">L&#243;pez-Ramos, 1979</xref>).</p>
+          <p>The Cretaceous is represented by carbonate facies exposed around most of the extra-caldera region. These rocks correspond to the Tamaulipas Inferior and Tamaulipas Superior Formations, composed of clayey limestones with flint intercalations (
+            <xref rid="IDaaf333ca-ff38-4cd1-bc66-9a3474d3af72" ref-type="bibr" id="ID14346d76-3496-4278-95a3-67cf46199085">L&#243;pez-Ramos, 1979</xref>) that laterally shift to reef limestone facies of the Orizaba Formation (
+            <xref rid="IDbf2c750b-5c36-4d80-8785-5c0b21c5206c" ref-type="bibr" id="ID27e341df-a87c-4de4-9257-e272a89001b4">Viniegra-Osorio, 1965</xref>). Several clayey limestone formations, including the Maltrata, Agua Nueva, San Felipe, and M&#233;ndez Formations overlie the Orizaba Formation in a transitional manner. </p>
+        </sec>
+        <sec>
+          <title>
+            <bold>Tig.-Granites</bold>
+          </title>
+          <p>The Mesozoic sedimentary sequence is intruded by a phaneritic granite and granodiorite stock composed of quartz, K feldspar, plagioclase, and biotite with a K/Ar age of 14.5 to 31 Ma (
+            <xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="IDbd1bf635-d403-455c-82c3-610ccb74d837">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>). New U/Pb zircon data is reported in this paper, giving an age of 15.12 &#177; 0.64 Ma (Table 3, see Supplementary material).</p>
+        </sec>
       </sec>
       <sec>
-        <title>
-          <bold>Methodology</bold>
-        </title>
-        <p>After an extensive review of all the existing cartography for the LHVC, we identify some inconsistencies in the stratigraphic units, lithological contacts and structures, accompanied by rather low-precision dating framework. Therefore, a revised geological map to resolve the inconsistencies was largely overdue.</p>
-        <p>	This work represents the result of more than 10 years of fieldwork at the LHVC performed during many field campaigns. During the last two years, the authors worked exhaustively on specific objectives, in particular defining contacts previously not well constrained, verifying faults, sampling rocks and paleosols, acquiring structural data, describing eruptive units and lithologies, and establishing petrological, geochemical and geochronological constrains on its evolution. </p>
-        <p>The combined use of a new high-resolution Digital Terrain Model with 1 m resolution obtained by digital photogrammetry of 0.5 m multispectral satellite optical images allowed us to map in detail structural and morphological features (particularly in the geothermal field), refine rock unit contacts (especially in the forested areas) and revise in greater detail the location of volcanic vents. Systematic sampling and field verification on key outcrops allowed to collect data and samples for petrographic and geochemical characterization of the rock units that integrate the revised stratigraphic column. We include a new classification of the LHVC based on the Total Alkali Silica diagram (Fig. 2), in which we include all the available chemical analysis plus 111 new ones obtained for this work. Geochemical data are provided in Table 1 (see Supplementary material).</p>
-        <p>Modern, high-precision radiometric age, including those obtained by U/Th (Bernal et al, 2014), and 40Ar/39Ar (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID64056066-9bfb-4db9-a244-7d6f7a5ad99c">reported in Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) along with new 14C dating are presented here (calibrated by Calib 7.1 program to INTCAL 13; <xref rid="IDf1241d56-4f94-4224-bbb6-6db212b7d8f6" ref-type="bibr" id="ID35610927-8e05-40fd-93ec-8b949d09289a">Stuiver et al., 2017</xref>), and represents a significant improvement with respect to previous K/Ar geochronology, for the caldera units (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID961c8db8-5c9a-4593-9306-3a1f1bd49c6f">Ferriz and Mahood, 1984</xref>) and the pre-caldera formations (<xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="IDa970974d-4e24-4870-8200-748331063e13">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>). All the new and revised data were integrated in a GIS-based geologic map. </p>
+        <title>1.2 Pre-caldera volcanism </title>
+        <sec>
+          <title>
+            <bold>Tm.- Miocene dacitic and andesitic lava flows</bold>
+          </title>
+          <p>Miocene andesitic volcanism is associated with the Cerro Grande volcanic complex with K/Ar ages of 8.9 to 11 Ma (
+            <xref rid="ID6d51c342-7c7b-4def-841f-34bbbd0d5b02" ref-type="bibr" id="IDaba86c52-fbc1-4e6b-8f36-de22bd7bca37">Carrasco-N&#250;&#241;ez et al. 1997</xref>;
+            <xref rid="IDe2c58183-16f5-4bf8-814a-80827c979c9b" ref-type="bibr" id="ID07da80c8-79d8-4a80-9bb9-7af8ef0ac9aa">G&#243;mez-Tuena and Carrasco-N&#250;&#241;ez, 2000</xref>). This can be correlated with the Cuyoaco Andesite Formation (
+            <xref rid="ID2ce7c74e-5e09-45a5-9c48-c04106503897" ref-type="bibr" id="ID53ecc77b-cefa-44ad-9137-18731c339fc2">L&#243;pez-Hern&#225;ndez, 1995</xref>) or the Alseseca Andesite (
+            <xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="ID35bc0013-e7f0-474e-bb10-e48fc1b0f7e3">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>) dated at K/Ar at 10.5 &#177; 0.7 Ma; the latter are dark-gray porphyritic andesite-dacite lava flows with plagioclase, pyroxene, biotite and hornblende. Outcrops of this sequence are located at the western side of the caldera.</p>
+        </sec>
+        <sec>
+          <title>
+            <bold>Tpa.- Pliocene Teziutl&#225;n basaltic lava flows</bold>
+          </title>
+          <p>The unit consists of massive, black, porphyritic basaltic and andesitic lava flows, composed of plagioclase, olivine and two-pyroxene phenochrysts. Even though pre-caldera outcrops are scarce, there are a few exposures to the north side of the caldera, to the east of the town of Zaragoza and in the surroundings of the City of Teziutl&#225;n. Several 40Ar/39Ar ages of this unit have been reported, varying from 1.46 &#177; 0.31 to 2.61 &#177; 0.43 Ma (
+            <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDedf925b0-81d2-430b-9afa-1bd522f24eb1">Carrasco-N&#250;&#241;ez et al., 2017</xref>), with an older K-Ar age of 3.5 Ma reported by Y&#225;&#241;ez and Garc&#237;a (
+            <xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="IDb4073aa1-9bc4-491e-bee6-97cbccbac3ff">1982</xref>). </p>
+        </sec>
       </sec>
       <sec>
-        <title>
-          <bold>Geologic and tectonic setting</bold>
-        </title>
-        <p>The LHVC is the easternmost Quaternary caldera of the TMVB, a Miocene-Quaternary continental volcanic arc resulting from the subduction of the Cocos and Rivera plates beneath the North American plate along the Middle American trench (<xref rid="IDae4dc9df-8a7f-4aea-8ac6-59fec0501f7b" ref-type="bibr" id="IDe82c9c58-9e01-4dcd-b67f-8cf049f224f5">Ferrari et al., 2012, and references therein</xref>). The volcanic complex is located to the north of the Pico de Orizaba &#8210; Cofre de Perote volcanic range. In this area, the volcanic rocks of the TMVB stand on top of an intrusive, metamorphic and sedimentary sequence (described in Section 1.1). The volcanic activity in the area, prior to the emplacement of the LHVC, is represented by a thick sequence of 10.5&#8211;1.55 Ma andesites and basaltic andesitic lava flows whose upper part is known as Teziutl&#225;n formation (<xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="ID60bc6786-facc-4883-a4ff-d11c73be8b9e">Ya&#241;ez and Garc&#237;a, 1982</xref>; <xref rid="ID872d977f-7d35-48bf-a996-cf4f28e41885" ref-type="bibr" id="ID304b51bc-0997-4319-a882-0d46051a0dde">Cedillo-Rodr&#237;guez, 1984, 1997, 1999</xref>; <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDfb0ac77a-b617-4d1e-971f-520a995f756c">Ferriz and Mahood, 1984</xref>; <xref rid="ID2ce7c74e-5e09-45a5-9c48-c04106503897" ref-type="bibr" id="IDe4129f79-8625-470c-9bda-41b676fabba8">L&#243;pez-Hern&#225;ndez, 1995</xref>; <xref rid="ID06ccd502-d01f-40d3-be4d-0d796b60ea07" ref-type="bibr" id="IDe600d823-e3d8-4e2f-92ca-2b5190eb5e28">Arellano et al., 2003</xref>; <xref rid="ID046aa900-caa6-45df-bddf-43b78f3865ac" ref-type="bibr" id="ID57cc0695-9bd6-4907-bc9b-a611ba6f4b18">Guti&#233;rrez-Negr&#237;n and Izquierdo-Montalvo, 2010</xref>).</p>
-        <p>The LHVC basement has been deformed by two main tectonic events: The Late Cretaceous to Paleocene contractile Laramide Orogeny, which produced NW-SE thrusts and folds affecting the Mesozoic sedimentary and older rocks (<xref rid="IDfea7168c-692d-4513-8b9a-215abae6007c" ref-type="bibr" id="ID88e9c680-2881-472e-a4ad-9c612cf09896">e.g. Campos-Enriquez and Gardu&#241;o-Monroy, 1987</xref>; <xref rid="ID2ce7c74e-5e09-45a5-9c48-c04106503897" ref-type="bibr" id="IDd219839c-94f8-414e-8215-23535b00dde6">L&#243;pez-Hern&#225;ndez, 1995</xref>; <xref rid="IDe008e39d-64d1-4ca9-8464-74560ee936f1" ref-type="bibr" id="IDaa0c4607-fe88-4855-93e4-4e80c8ce47bb">Fitz-D&#237;az et al., 2017</xref>), followed by one, or more, not well-defined Eocene-Pliocene extensional and transtensional phases that produced N-S to NE-striking faults (<xref rid="IDfea7168c-692d-4513-8b9a-215abae6007c" ref-type="bibr" id="IDf0ffd2ed-db14-48d7-81b1-95343ab2eebf">e.g. Campos-Enriquez and Gardu&#241;o-Monroy, 1987</xref>; <xref rid="ID2ce7c74e-5e09-45a5-9c48-c04106503897" ref-type="bibr" id="IDcdbc154e-1906-42cb-abda-0284962b907e">L&#243;pez-Hern&#225;ndez, 1995</xref>).</p>
-        <p>The emplacement of the LHVC is associated with prominent Pleistocene-Holocene volcanotectonic structures (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDaf98f966-03ff-4036-bc56-89bac3ed79b2">e.g. Ferriz and Mahood, 1984</xref>; <xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="ID57ceb961-4791-485b-806d-62398e48352b">Norini et al., 2015</xref>). Quaternary semicircular scarps define the edge of the Los Humeros and Los Potreros calderas (Fig. 1). These morphological rims have been interpreted as landslide scarps generated by the Los Humeros and Los Potreros calderas collapse along outward dipping ring faults (<xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="IDda42c2c4-7c13-4204-9244-ea30d5a62207">Norini et al., 2015</xref>). The outward dipping geometry of the ring faults has been recently imaged by a magnetotelluric (MT) survey of the LHVC (Corbo et al., submitted). The geometry of the Los Humeros caldera recalls an asymmetric trap-door structure, with the major vertical displacements occurring along the SW sector of the caldera ring faults (<xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="IDc77c0110-2c12-4dc1-ad66-043099bec514">Norini et al., 2015</xref>). The Los Potreros caldera floor is also traversed by a prominent fault system, made by dip-slip NNW-SSE, N-S, NE-SW and E-W curvilinear fault splays related to the probable active resurgence of the Los Potreros caldera floor (Fig. 1) (<xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="ID28754627-73cf-4920-ae43-02417e6b16f7">Norini et al., 2015</xref>). The subvertical inward dipping geometry of these faults have been also recently observed by MT data (<xref rid="TO_LINK" ref-type="bibr" id="ID4a85aec1-ea64-46d9-b98f-7e996c056326">Corbo et al., submitted</xref>). The producing geothermal wells are located along the main NNW&#8211;SSE active faults (Maxtaloya-Los Humeros faults) or near pervasive N&#8211;S-striking fault splays in the central-northern sector of the Los Potreros caldera (<xref rid="IDead69b6d-b4cb-4030-a338-b6e2043352cf" ref-type="bibr" id="IDc169c23e-a439-454c-aac0-b691274afa1a">Norini et al., 2015</xref>).</p>
-      </sec>
-      <sec>
-        <title>Stratigraphic units </title>
-        <p>A description of each lithostratigraphic unit is provided as follows. A summary of the main features of each unit can be found in Table 2. A compilation of the radiometric dating used in this map is shown in Table 3. See both tables in Supplementary material.</p>
-        <list list-type="order">
-          <list-item>
-            <p>
-              <bold>Pre-caldera basement and intrusive rocks</bold>
-            </p>
-          </list-item>
-          <list-item>
-            <p>
-              <bold>Pz/K.- Granodiorites and schists</bold>
-            </p>
-          </list-item>
-        </list>
-        <p>The regional basement is formed by a Paleozoic-Cretaceous crystalline complex known as the Teziutl&#225;n Massif, which includes green schists with quartz-muscovite, hipidiomorphic granodiorites composed of plagioclase, K feldspar, quartz, biotite and hornblende, as well as granites with K/Ar ages of 131 and 246 Ma (<xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="IDd5bdec74-2522-4d6e-a8f4-87ede5aeb619">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>). The Teziutl&#225;n Massif outcrops are located to the north and northeastern sides of the Los Humeros caldera, to the western side of Altotonga city at the Chignautla range. This basement is partially covered by a Mesozoic sedimentary sequence, which corresponds to the Sierra Madre Oriental fold and thrust province, described below.</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>K/J.- Limestones and shales</bold>
-        </title>
-        <p>The regional basement is overlain by a Jurassic sedimentary sequence, which corresponds mainly to highly folded and thrusted shales and limestones (<xref rid="IDbf2c750b-5c36-4d80-8785-5c0b21c5206c" ref-type="bibr" id="IDa81956c0-8ecb-4602-8760-d7854e0b2ce9">Viniegra-Osorio, 1965</xref>). Outcrops around the caldera mainly consists of thick sandstone strata with red shale lenses that correspond to the Cahuasas Formation (<xref rid="ID2b0e21f9-33f0-4e8c-97ad-b6ba77917a4b" ref-type="bibr" id="IDd2f14e70-9754-4fad-b0ac-52e6f4e51ad1">Carrillo-Bravo, 1961</xref>), clayey and calcareous rocks from the Tam&#225;n Formation, and limestone and dolomites of the Pimienta Formation (<xref rid="IDaaf333ca-ff38-4cd1-bc66-9a3474d3af72" ref-type="bibr" id="ID510c6cd4-7924-4a8d-88bc-0d6dcf472367">L&#243;pez-Ramos, 1979</xref>).</p>
-        <p>The Cretaceous is represented by carbonate facies exposed around most of the extra-caldera region. These rocks correspond to the Tamaulipas Inferior and Tamaulipas Superior Formations, composed of clayey limestones with flint intercalations (<xref rid="IDaaf333ca-ff38-4cd1-bc66-9a3474d3af72" ref-type="bibr" id="ID14346d76-3496-4278-95a3-67cf46199085">L&#243;pez-Ramos, 1979</xref>) that laterally shift to reef limestone facies of the Orizaba Formation (<xref rid="IDbf2c750b-5c36-4d80-8785-5c0b21c5206c" ref-type="bibr" id="ID27e341df-a87c-4de4-9257-e272a89001b4">Viniegra-Osorio, 1965</xref>). Several clayey limestone formations, including the Maltrata, Agua Nueva, San Felipe, and M&#233;ndez Formations overlie the Orizaba Formation in a transitional manner. </p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Tig.-Granites</bold>
-        </title>
-        <p>The Mesozoic sedimentary sequence is intruded by a phaneritic granite and granodiorite stock composed of quartz, K feldspar, plagioclase, and biotite with a K/Ar age of 14.5 to 31 Ma (<xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="IDbd1bf635-d403-455c-82c3-610ccb74d837">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>). New U/Pb zircon data is reported in this paper, giving an age of 15.12 &#177; 0.64 Ma (Table 3, see Supplementary material).</p>
-      </sec>
-    </sec>
-    <sec>
-      <title>1.2 Pre-caldera volcanism </title>
-      <sec>
-        <title>
-          <bold>Tm.- Miocene dacitic and andesitic lava flows</bold>
-        </title>
-        <p>Miocene andesitic volcanism is associated with the Cerro Grande volcanic complex with K/Ar ages of 8.9 to 11 Ma (<xref rid="ID6d51c342-7c7b-4def-841f-34bbbd0d5b02" ref-type="bibr" id="IDaba86c52-fbc1-4e6b-8f36-de22bd7bca37">Carrasco-N&#250;&#241;ez et al. 1997</xref>; <xref rid="IDe2c58183-16f5-4bf8-814a-80827c979c9b" ref-type="bibr" id="ID07da80c8-79d8-4a80-9bb9-7af8ef0ac9aa">G&#243;mez-Tuena and Carrasco-N&#250;&#241;ez, 2000</xref>). This can be correlated with the Cuyoaco Andesite Formation (<xref rid="ID2ce7c74e-5e09-45a5-9c48-c04106503897" ref-type="bibr" id="ID53ecc77b-cefa-44ad-9137-18731c339fc2">L&#243;pez-Hern&#225;ndez, 1995</xref>) or the Alseseca Andesite (<xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="ID35bc0013-e7f0-474e-bb10-e48fc1b0f7e3">Y&#225;&#241;ez and Garc&#237;a, 1982</xref>) dated at K/Ar at 10.5 &#177; 0.7 Ma; the latter are dark-gray porphyritic andesite-dacite lava flows with plagioclase, pyroxene, biotite and hornblende. Outcrops of this sequence are located at the western side of the caldera.</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Tpa.- Pliocene Teziutl&#225;n basaltic lava flows</bold>
-        </title>
-        <p>The unit consists of massive, black, porphyritic basaltic and andesitic lava flows, composed of plagioclase, olivine and two-pyroxene phenochrysts. Even though pre-caldera outcrops are scarce, there are a few exposures to the north side of the caldera, to the east of the town of Zaragoza and in the surroundings of the City of Teziutl&#225;n. Several 40Ar/39Ar ages of this unit have been reported, varying from 1.46 &#177; 0.31 to 2.61 &#177; 0.43 Ma (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDedf925b0-81d2-430b-9afa-1bd522f24eb1">Carrasco-N&#250;&#241;ez et al., 2017</xref>), with an older K-Ar age of 3.5 Ma reported by Y&#225;&#241;ez and Garc&#237;a (<xref rid="ID107dc5f8-e836-4c96-8256-9bf046738f6c" ref-type="bibr" id="IDb4073aa1-9bc4-491e-bee6-97cbccbac3ff">1982</xref>). </p>
-      </sec>
-    </sec>
-    <sec>
-      <title>1.3 Other volcanism</title>
-      <sec>
-        <title>
-          <bold>Qacp2-Qacp3.- Cofre de Perote andesitic and trachyandesitic lava flows</bold>
-        </title>
-        <p>These units are associated to the nearby Cofre de Perote shield-like compound volcano, formed by a succession of andesitic-trachyandesitic to dacitic domes and associated breccias composed of plagioclase and two pyroxenes. This unit has an age between 510 &#177; 60 and 307 &#177; 35 ka (<xref rid="IDd8924163-9b2a-4e87-809d-fb4f12eafe2b" ref-type="bibr" id="ID5629e425-c16a-4ff4-bb36-f13d5e82f448">40Ar/39Ar, Carrasco-N&#250;&#241;ez et al., 2010</xref>). Outcrops are located at the southeastern side of the caldera.</p>
-        <list list-type="simple">
-          <list-item>
-            <p>
-              <bold>Qr.- Cerro Pizarro-&#193;guilas rhyolitic domes </bold>
-            </p>
-          </list-item>
-          <list-item>
-            <p>Cerro Pizarro consists of a complex polygenetic isolated dome system (<xref rid="ID8ff38360-14b5-4d71-b15d-f308f41928af" ref-type="bibr" id="IDa8d8dc62-ae12-4160-bc7c-ae052de83c83">Riggs and Carrasco-N&#250;&#241;ez, 2004</xref>; <xref rid="IDd62acdb0-4d39-435a-94d6-f7642f923685" ref-type="bibr" id="IDd2590ad4-5e8f-48ee-902a-f80875639710">Carrasco-N&#250;&#241;ez and Riggs, 2008</xref>), which involves the emplacement of a vitrophyric dome (40Ar/39Ar: 220 &#177; 60 ka), followed by the intrusion of a cryptodome (40Ar/39Ar: 115 &#177; 12 ka), and explosive deposits (40Ar/39Ar : 65 &#177; 10 ka). Cerro Pizarro is located SW of Los Humeros caldera, but is not part of this volcanic system. </p>
-          </list-item>
-        </list>
-        <p>The &#193;guilas dome, located to the NW of Cerro Pizarro, consists of light-gray flow banded porhyritic rhyolitic lava flow, comprising quartz, K feldespar, plagioclase and biotite. The eroded morphology shown by the volcanic dome, suggests an age older than the Cerro Pizarro dome.</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qb2.- Basaltic and basaltic andesite lava flows</bold>
-        </title>
-        <p>The unit is composed of highly to moderate vesicular, porphyritic basalts and scoriaceous basaltic-andesite lava flows. Both lava flows are black and are composed of plagioclase, pyroxene and olivine, within a glassy and microlithic matrix. Basaltic andesite outcrops are located in a sequence of Cerro Tezontepec scoria cone and to the south side of Las &#193;guilas dome, surrounding Cerro Pizarro dome. The basaltic lava flows are isolated outcrops to the south and to the northern side of the caldera, forming the Cerro Bola scoria cone. Nevertheless, it is possible that this basaltic sequence is not directly associated to the caldera&#8217;s volcanic activity. This unit has an 40Ar/39Ar age of 190 &#177; 20 ka (<xref rid="IDd62acdb0-4d39-435a-94d6-f7642f923685" ref-type="bibr" id="IDda443439-e316-4b61-a621-ab7c528164bf">Carrasco-N&#250;&#241;ez and Riggs, 2008</xref>).</p>
+        <title>1.3 Other volcanism</title>
+        <sec>
+          <title>
+            <bold>Qacp2-Qacp3.- Cofre de Perote andesitic and trachyandesitic lava flows</bold>
+          </title>
+          <p>These units are associated to the nearby Cofre de Perote shield-like compound volcano, formed by a succession of andesitic-trachyandesitic to dacitic domes and associated breccias composed of plagioclase and two pyroxenes. This unit has an age between 510 &#177; 60 and 307 &#177; 35 ka (
+            <xref rid="IDd8924163-9b2a-4e87-809d-fb4f12eafe2b" ref-type="bibr" id="ID5629e425-c16a-4ff4-bb36-f13d5e82f448">40Ar/39Ar, Carrasco-N&#250;&#241;ez et al., 2010</xref>). Outcrops are located at the southeastern side of the caldera.</p>
+        </sec>
+        <sec>
+          <title>
+            <bold>Qr.- Cerro Pizarro-&#193;guilas rhyolitic domes </bold>
+          </title>
+          <p>Cerro Pizarro consists of a complex polygenetic isolated dome system (
+            <xref rid="ID8ff38360-14b5-4d71-b15d-f308f41928af" ref-type="bibr" id="IDa8d8dc62-ae12-4160-bc7c-ae052de83c83">Riggs and Carrasco-N&#250;&#241;ez, 2004</xref>;
+            <xref rid="IDd62acdb0-4d39-435a-94d6-f7642f923685" ref-type="bibr" id="IDd2590ad4-5e8f-48ee-902a-f80875639710">Carrasco-N&#250;&#241;ez and Riggs, 2008</xref>), which involves the emplacement of a vitrophyric dome (40Ar/39Ar: 220 &#177; 60 ka), followed by the intrusion of a cryptodome (40Ar/39Ar: 115 &#177; 12 ka), and explosive deposits (40Ar/39Ar : 65 &#177; 10 ka). Cerro Pizarro is located SW of Los Humeros caldera, but is not part of this volcanic system. </p>
+          <p>The &#193;guilas dome, located to the NW of Cerro Pizarro, consists of light-gray flow banded porhyritic rhyolitic lava flow, comprising quartz, K feldespar, plagioclase and biotite. The eroded morphology shown by the volcanic dome, suggests an age older than the Cerro Pizarro dome.</p>
+        </sec>
+        <sec>
+          <title>
+            <bold>Qb2.- Basaltic and basaltic andesite lava flows</bold>
+          </title>
+          <p>The unit is composed of highly to moderate vesicular, porphyritic basalts and scoriaceous basaltic-andesite lava flows. Both lava flows are black and are composed of plagioclase, pyroxene and olivine, within a glassy and microlithic matrix. Basaltic andesite outcrops are located in a sequence of Cerro Tezontepec scoria cone and to the south side of Las &#193;guilas dome, surrounding Cerro Pizarro dome. The basaltic lava flows are isolated outcrops to the south and to the northern side of the caldera, forming the Cerro Bola scoria cone. Nevertheless, it is possible that this basaltic sequence is not directly associated to the caldera&#8217;s volcanic activity. This unit has an 40Ar/39Ar age of 190 &#177; 20 ka (
+            <xref rid="IDd62acdb0-4d39-435a-94d6-f7642f923685" ref-type="bibr" id="IDda443439-e316-4b61-a621-ab7c528164bf">Carrasco-N&#250;&#241;ez and Riggs, 2008</xref>).</p>
+        </sec>
       </sec>
     </sec>
     <sec>
       <title>2 Los Humeros evolutionary stages</title>
-    </sec>
-    <sec>
-      <title>2.1 Pre-caldera stage</title>
       <sec>
-        <title>
-          <bold>Qr3.- Rhyolitic domes</bold>
-        </title>
-        <p>This unit consists of light-gray flow banded, porphyritic, rhyolitic domes with a mineral assemblage of quartz, plagioclase and biotite. A special characteristic is the presence of pristine spherulites and lythophysae with diameters up to 0.3 m. Outcrops are located near the western caldera rim, and to the northwestern and north sides out of the caldera. This unit has U/Th zircon ages of 270 &#177; 17 ka and 155.7 &#177; 4.9 ka, (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDd732c295-fc57-4e78-aa09-f8e33b3101b8">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) and was previously dated by K/Ar method at 220 &#177; 20 ka (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDee7327b5-9c1b-43f6-8553-65ef5902734d">Ferriz and Mahood, 1984</xref>). The younger age (155.7 ka) is close to the age of the Xaltipan ignimbrite, but represent outer volcanism that is linked with the western dome field, that is why is included in this unit.</p>
+        <title>2.1 Pre-caldera stage</title>
+        <sec>
+          <title>
+            <bold>Qr3.- Rhyolitic domes</bold>
+          </title>
+          <p>This unit consists of light-gray flow banded, porphyritic, rhyolitic domes with a mineral assemblage of quartz, plagioclase and biotite. A special characteristic is the presence of pristine spherulites and lythophysae with diameters up to 0.3 m. Outcrops are located near the western caldera rim, and to the northwestern and north sides out of the caldera. This unit has U/Th zircon ages of 270 &#177; 17 ka and 155.7 &#177; 4.9 ka, (
+            <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDd732c295-fc57-4e78-aa09-f8e33b3101b8">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) and was previously dated by K/Ar method at 220 &#177; 20 ka (
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDee7327b5-9c1b-43f6-8553-65ef5902734d">Ferriz and Mahood, 1984</xref>). The younger age (155.7 ka) is close to the age of the Xaltipan ignimbrite, but represent outer volcanism that is linked with the western dome field, that is why is included in this unit.</p>
+        </sec>
+        <sec>
+          <title>
+            <bold>Qr4.- Rhyolitic lavas and dome</bold>
+          </title>
+          <p>This unit is composed of light-gray, flow banded, and porphyritic rhyolitic lavas with a mineral assemblage of quartz, plagioclase and biotite. It is exposed in the caldera&#8217;s southern rim, at 16 km to the W-NW from Perote and at a dome cut by the western scarp. Carrasco-N&#250;&#241;ez et al. (
+            <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDd58a43c3-24cc-4c80-953b-1c2aa35298bf">2017, in press</xref>) obtained two 40Ar/39Ar dates of 485.7 &#177; 2.2 and 693 &#177; 1.7 ka for this unit, which is close to the age of 470 &#177; 40 ka reported by Ferriz and Mahood (
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID831db275-e170-4368-bfaf-cc442f7c1674">1984</xref>)</p>
+        </sec>
       </sec>
       <sec>
-        <title>
-          <bold>Qr4.- Rhyolitic lavas and dome</bold>
-        </title>
-        <p>This unit is composed of light-gray, flow banded, and porphyritic rhyolitic lavas with a mineral assemblage of quartz, plagioclase and biotite. It is exposed in the caldera&#8217;s southern rim, at 16 km to the W-NW from Perote and at a dome cut by the western scarp. Carrasco-N&#250;&#241;ez et al. (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDd58a43c3-24cc-4c80-953b-1c2aa35298bf">2017, in press</xref>) obtained two 40Ar/39Ar dates of 485.7 &#177; 2.2 and 693 &#177; 1.7 ka for this unit, which is close to the age of 470 &#177; 40 ka reported by Ferriz and Mahood (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID831db275-e170-4368-bfaf-cc442f7c1674">1984</xref>)</p>
-        <p>
-          <italic>2.2 Caldera stage</italic>
-        </p>
-      </sec>
-      <sec>
-        <title>
-          <bold>QigX.- X&#225;ltipan ignimbrite</bold>
-        </title>
-        <p>According to Ferriz and Mahood (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDd777ba2d-b8aa-497d-af9b-ad5693a1d51c">1984</xref>), the eruption of the X&#225;ltipan ignimbrite led to the collapse of Los Humeros caldera. The X&#225;ltipan ignimbrite is composed of aphyric high-silica rhyolitic pumice and porphyritic biotite-bearing rhyodacitic pumice in minor proportions. Most of the pumice clasts contain plagioclase, pyroxene, biotite and scarce hornblende. The ignimbrite represents a minimum of 115 km3 DRE of erupted magma and covered 3500 km2. To the northeast side it extends for 50 km away from the caldera, and flowed through the canyons probably reaching the coastal plain. To the southeast side, the flow of the ignimbrite was hindered by the topography and barely reached the city of Xalapa. In the south and southwestern sides of the caldera, the ignimbrite covered a flat terrain, and to the west it crossed the Tlaxco range (Ferriz and Mahood, <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDa4715af3-c788-4e90-8262-4fff924791f3">1984</xref>). In this work, we identified new outcrops located to the NNW side of the caldera, surrounding the Ocotl&#225;n and Zaragoza towns; other outcrops are located to the northeastern side of Atecax and surrounding Tenextepec villages. This unit yielded a U/Th age of 158.4 &#177; 8.3 and 180 &#177; 13 ka and a 40Ar/39Ar age of 153 &#177; 13 ka, which provide an error-weighted mean U/Th-40Ar/39Ar age of 164.0&#177;4.2 ka (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID2ec7e3d7-fe47-4661-8bc0-e5efced30405">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>). This age is significantly younger than the K/Ar date of 460 &#177; 20 ka reported by Ferriz and Mahood (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID449c33c6-4af9-4f62-87b3-942dc74a1d2c">1984</xref>), but is in excellent agreement with previous 40Ar/39Ar dating by Wilcox (<xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="IDfc7c33f1-d3f7-4593-a812-40cc633df516">2011</xref>) and Aliaga-Campuzano et al. (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID5a2ad057-93f4-4829-a904-e54acb84d9de">2017</xref>).</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>QtF.- Faby tuff</bold>
-        </title>
-        <p>This unit was defined by Ferriz and Mahood (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID075823bf-58bb-4d32-ae85-059f954fb88f">1984</xref>) as a succession of 15 andesitic to rhyolitic, plinian pumice fall layers. However, it is important to point out that several paleosols occur between these fall layers, indicating a sequence produced not in a single eruption, but as a result of multiple eruptive episodes. Most of the pumice clasts contain two pyroxene and scarce hornblende. This sequence represents the second major explosive eruption of Los Humeros caldera, but associated to high eruptive columns that gave rise to widely distributed pumice sequences, with a preferred emplacement direction to the east, southeast and south of the caldera, attributed to predominant SE oriented wind during the eruption (<xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="ID6c30652d-96b4-4af4-812c-9f40da668242">Willcox, 2011</xref>). The type locality is a quarry to the southeast of Los Humeros caldera and 2.5 km north of El Frijol Colorado town. New reported 40Ar/39Ar ages (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDcb219967-25fb-4090-9b04-3236492c3a55">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) of 70 &#177; 23 ka indicates a much younger age than previously reported such as 270 &#177; 30 and 19 &#177; 40 ka (K/Ar, Ferriz y Mahood, <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID8f6161f0-535d-4a08-bf14-814e37fe2900">1984</xref>) and 260 &#177; 40 ka and 140 &#177; 20 ka (40Ar/39Ar, <xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="IDda5037c6-e699-4558-b06a-a49bc535fa08">Willcox, 2011</xref>). The Faby tuff has an erupted volume of 10 km3 of Dense Rock Equivalent (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID866dcbea-a88e-4203-9b48-a93258988972">Ferriz y Mahood, 1984</xref>). </p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qr2.- Los Potreros rhyolitic lavas</bold>
-        </title>
-        <p>This unit consists of gray, vertical flow banded, glassy-porphyritic rhyolitic lavas with scarce spherulites. Its mineral assemblage consists of plagioclase, alkali feldespars and scarce pyroxene, quartz microlites and microcrystals. Outcrops consist of irregular lavas, which are underlying the Zaragoza member. This unit has a U/Th zircon age of 74.2 &#177; 4.5 ka (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDe3ac387c-0553-4a1a-b620-b5974aa3a060">40Ar/39Ar, Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) and was previously dated at 100 ka &#177; 30 (K/Ar) by Ferriz and Mahood (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDb5862775-c4d1-4283-b511-79a0cca2f2b7">1984</xref>).</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>QigZ.- Zaragoza ignimbrite</bold>
-        </title>
-        <p>This ignimbrite is the product of the second major caldera-forming eruption of Los Humeros that formed the 10 km in diameter Los Potreros caldera at 0.1 Ma, erupting nearly 15 km3 of DRE (<xref rid="ID037bf6cc-371a-4f17-9975-2cfc32e9dc78" ref-type="bibr" id="ID4cd94712-8e33-444c-9f19-9b3ff796f21c">Carrasco-N&#250;&#241;ez and Branney, 2005</xref>). The unit has a thickness varying from &lt;2 to 60 m, and is composed of juvenile fragments of white to gray rhyodacite, black andesite, subordinated mingled pumice, scarce brown (mixed) pumice, dacitic pumice and trace of basaltic andesitic pumice (<xref rid="ID10bb1583-6953-4f27-bc9e-9438d0a23e8f" ref-type="bibr" id="ID1e300a98-611c-4fda-82a4-02051afa7fd3">Ferriz and Mahood, 1987</xref>). Most of the pumice clasts have a similar mineralogy, and contain microphenocrysts of plagioclase, pyroxene and oxides in a glassy groundmass. The Zaragoza ignimbrite shows an unusual double compositional zonation (<xref rid="ID037bf6cc-371a-4f17-9975-2cfc32e9dc78" ref-type="bibr" id="ID8b6cf503-488f-4a9d-8f73-76b14c8ba427">Carrasco-N&#250;&#241;ez and Branney, 2005</xref>) resulted from complex mixed and mingled magmatic processes (<xref rid="IDba3fef37-0ca8-42a9-b85e-d8d06a2e30c7" ref-type="bibr" id="ID68c023fa-525e-42a1-a1b1-460ca48f935f">Carrasco-N&#250;&#241;ez et al., 2012</xref>). The basal part of the unit is composed predominantly of rhyodacitic pumice, grading upwards to dacitic composition, and rhyodacitic pumice atop. This ignimbrite deposit has a radial distribution surrounding the caldera, reaching distances greater than 18 km from the caldera rim. Several outcrops are located at the Los Potreros fault scarp to the northwestern side of the caldera, to the east side of Ocotl&#225;n town and to the southeastern side of Zaragoza town. Other outcrops are located surrounding Cerro Pizarro dome. Carrasco-N&#250;&#241;ez et al. (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID96e9f7d0-dc2a-4172-89e8-13e9b59063f1">2017, in press</xref>) provided a new 40Ar/39Ar age of 69 &#177; 16 ka, which is much younger than those reported previously of 140 &#177; 12 ka (<xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="ID2c053a0a-beb0-48a6-ad86-5c886af41b4d">40Ar/39Ar, Willcox, 2011</xref>) or estimated at 100 &#177; 30 ka (K/Ar; <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID6466f810-3e95-47d3-b6b1-a398eb37fc5c">Ferriz and Mahood, 1984</xref>). </p>
+        <title>2.2 Caldera stage</title>
+        <sec>
+          <title>
+            <bold>QigX.- X&#225;ltipan ignimbrite</bold>
+          </title>
+          <p>According to Ferriz and Mahood (
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDd777ba2d-b8aa-497d-af9b-ad5693a1d51c">1984</xref>), the eruption of the X&#225;ltipan ignimbrite led to the collapse of Los Humeros caldera. The X&#225;ltipan ignimbrite is composed of aphyric high-silica rhyolitic pumice and porphyritic biotite-bearing rhyodacitic pumice in minor proportions. Most of the pumice clasts contain plagioclase, pyroxene, biotite and scarce hornblende. The ignimbrite represents a minimum of 115 km<sup>3</sup> DRE of erupted magma and covered 3500 km<sup>2</sup>. To the northeast side it extends for 50 km away from the caldera, and flowed through the canyons probably reaching the coastal plain. To the southeast side, the flow of the ignimbrite was hindered by the topography and barely reached the city of Xalapa. In the south and southwestern sides of the caldera, the ignimbrite covered a flat terrain, and to the west it crossed the Tlaxco range (Ferriz and Mahood,
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDa4715af3-c788-4e90-8262-4fff924791f3">1984</xref>). In this work, we identified new outcrops located to the NNW side of the caldera, surrounding the Ocotl&#225;n and Zaragoza towns; other outcrops are located to the northeastern side of Atecax and surrounding Tenextepec villages. This unit yielded a U/Th age of 158.4 &#177; 8.3 and 180 &#177; 13 ka and a 40Ar/39Ar age of 153 &#177; 13 ka, which provide an error-weighted mean U/Th-40Ar/39Ar age of 164.0&#177;4.2 ka (
+            <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID2ec7e3d7-fe47-4661-8bc0-e5efced30405">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>). This age is significantly younger than the K/Ar date of 460 &#177; 20 ka reported by Ferriz and Mahood (
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID449c33c6-4af9-4f62-87b3-942dc74a1d2c">1984</xref>), but is in excellent agreement with previous 40Ar/39Ar dating by Wilcox (
+            <xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="IDfc7c33f1-d3f7-4593-a812-40cc633df516">2011</xref>) and Aliaga-Campuzano et al. (
+            <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID5a2ad057-93f4-4829-a904-e54acb84d9de">2017</xref>).</p>
+        </sec>
+        <sec>
+          <title>
+            <bold>QtF.- Faby tuff</bold>
+          </title>
+          <p>This unit was defined by Ferriz and Mahood (
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID075823bf-58bb-4d32-ae85-059f954fb88f">1984</xref>) as a succession of 15 andesitic to rhyolitic, plinian pumice fall layers. However, it is important to point out that several paleosols occur between these fall layers, indicating a sequence produced not in a single eruption, but as a result of multiple eruptive episodes. Most of the pumice clasts contain two pyroxene and scarce hornblende. This sequence represents the second major explosive eruption of Los Humeros caldera, but associated to high eruptive columns that gave rise to widely distributed pumice sequences, with a preferred emplacement direction to the east, southeast and south of the caldera, attributed to predominant SE oriented wind during the eruption (
+            <xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="ID6c30652d-96b4-4af4-812c-9f40da668242">Willcox, 2011</xref>). The type locality is a quarry to the southeast of Los Humeros caldera and 2.5 km north of El Frijol Colorado town. New reported 40Ar/39Ar ages (
+            <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDcb219967-25fb-4090-9b04-3236492c3a55">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) of 70 &#177; 23 ka indicates a much younger age than previously reported such as 270 &#177; 30 and 19 &#177; 40 ka (K/Ar, Ferriz y Mahood,
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID8f6161f0-535d-4a08-bf14-814e37fe2900">1984</xref>) and 260 &#177; 40 ka and 140 &#177; 20 ka (40Ar/39Ar,
+            <xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="IDda5037c6-e699-4558-b06a-a49bc535fa08">Willcox, 2011</xref>). The Faby tuff has an erupted volume of 10 km<sup>3</sup> of Dense Rock Equivalent (
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID866dcbea-a88e-4203-9b48-a93258988972">Ferriz y Mahood, 1984</xref>). </p>
+        </sec>
+        <sec>
+          <title>
+            <bold>Qr2.- Los Potreros rhyolitic lavas</bold>
+          </title>
+          <p>This unit consists of gray, vertical flow banded, glassy-porphyritic rhyolitic lavas with scarce spherulites. Its mineral assemblage consists of plagioclase, alkali feldespars and scarce pyroxene, quartz microlites and microcrystals. Outcrops consist of irregular lavas, which are underlying the Zaragoza member. This unit has a U/Th zircon age of 74.2 &#177; 4.5 ka (
+            <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDe3ac387c-0553-4a1a-b620-b5974aa3a060">40Ar/39Ar, Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) and was previously dated at 100 ka &#177; 30 (K/Ar) by Ferriz and Mahood (
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDb5862775-c4d1-4283-b511-79a0cca2f2b7">1984</xref>).</p>
+        </sec>
+        <sec>
+          <title>
+            <bold>QigZ.- Zaragoza ignimbrite</bold>
+          </title>
+          <p>This ignimbrite is the product of the second major caldera-forming eruption of Los Humeros that formed the 10 km in diameter Los Potreros caldera at 0.1 Ma, erupting nearly 15 km<sup>3</sup> of DRE (
+            <xref rid="ID037bf6cc-371a-4f17-9975-2cfc32e9dc78" ref-type="bibr" id="ID4cd94712-8e33-444c-9f19-9b3ff796f21c">Carrasco-N&#250;&#241;ez and Branney, 2005</xref>). The unit has a thickness varying from &lt;2 to 60 m, and is composed of juvenile fragments of white to gray rhyodacite, black andesite, subordinated mingled pumice, scarce brown (mixed) pumice, dacitic pumice and trace of basaltic andesitic pumice (
+            <xref rid="ID10bb1583-6953-4f27-bc9e-9438d0a23e8f" ref-type="bibr" id="ID1e300a98-611c-4fda-82a4-02051afa7fd3">Ferriz and Mahood, 1987</xref>). Most of the pumice clasts have a similar mineralogy, and contain microphenocrysts of plagioclase, pyroxene and oxides in a glassy groundmass. The Zaragoza ignimbrite shows an unusual double compositional zonation (
+            <xref rid="ID037bf6cc-371a-4f17-9975-2cfc32e9dc78" ref-type="bibr" id="ID8b6cf503-488f-4a9d-8f73-76b14c8ba427">Carrasco-N&#250;&#241;ez and Branney, 2005</xref>) resulted from complex mixed and mingled magmatic processes (
+            <xref rid="IDba3fef37-0ca8-42a9-b85e-d8d06a2e30c7" ref-type="bibr" id="ID68c023fa-525e-42a1-a1b1-460ca48f935f">Carrasco-N&#250;&#241;ez et al., 2012</xref>). The basal part of the unit is composed predominantly of rhyodacitic pumice, grading upwards to dacitic composition, and rhyodacitic pumice atop. This ignimbrite deposit has a radial distribution surrounding the caldera, reaching distances greater than 18 km from the caldera rim. Several outcrops are located at the Los Potreros fault scarp to the northwestern side of the caldera, to the east side of Ocotl&#225;n town and to the southeastern side of Zaragoza town. Other outcrops are located surrounding Cerro Pizarro dome. Carrasco-N&#250;&#241;ez et al. (
+            <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID96e9f7d0-dc2a-4172-89e8-13e9b59063f1">2017, in press</xref>) provided a new 40Ar/39Ar age of 69 &#177; 16 ka, which is much younger than those reported previously of 140 &#177; 12 ka (
+            <xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="ID2c053a0a-beb0-48a6-ad86-5c886af41b4d">40Ar/39Ar, Willcox, 2011</xref>) or estimated at 100 &#177; 30 ka (K/Ar;
+            <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID6466f810-3e95-47d3-b6b1-a398eb37fc5c">Ferriz and Mahood, 1984</xref>). </p>
+        </sec>
       </sec>
       <sec>
         <title>2.3 Post-Caldera stage</title>
         <p>This includes a Resurgent phase and a Ring-fracture and bimodal phase, which are described as follows:</p>
+        <sec>
+          <title>2.3.1 Resurgent phase</title>
+          <sec>
+            <title>
+              <bold>Qr1.- Rhyolitic domes</bold>
+            </title>
+            <p>This unit corresponds to gray color, flow banding, porphyritic rhyolitic domes with a mineral assemblage composed of plagioclase, alkali feldspar and two pyroxenes, embedded in a glassy-porphyritic matrix. This sequence was formed in the caldera&#8217;s interior in a SE direction from Los Humeros town, and other outcrops are located to the northern boundary of the caldera. New U-Th zircon dating indicates an age of 44.8 &#177; 1.7 ka and (40Ar/39Ar) 50.7 &#177; 6 ka (
+              <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID1dfc4d47-3ef7-4f9b-b26d-610a61f588cf">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>), which is younger than the K/Ar previously reported of 60 &#177; 10 ka (
+              <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID9bd8b4a5-da20-4368-bf9a-74938a76cb70">Ferriz and Mahood, 1984</xref>).</p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qt2.- Chicomiapa-Los Parajes trachytic lava flows</bold>
+            </title>
+            <p>This unit consists of black to dark-gray color, porphyritic trachytic lava flows with plagioclase phenocrysts and two pyroxenes. It is exposed within the caldera&#8217;s inner sector and also in the northern side. This sequence is overlain by pyroclastic deposits that may correlate with the Cuicuiltic Member.</p>
+          </sec>
+          <sec>
+            <title>
+              <bold>QXm.- Xoxoctic member </bold>
+            </title>
+            <p>This member was first described by Ferriz and Mahood (
+              <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID9a71ab59-b31b-48c7-b946-ff2674468242">1984</xref>) as a dacitic air fall tuff, with olivine pumice. Willcox (
+              <xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="ID808ec97c-df84-4733-a269-dcbae31bb8b6">2011</xref>) described this member as a predominantly Sub-Plinian/Plinian fall with well-sorted, clast supported, angular pumice lapilli and lithics. It is overlain by a paleosol and a lava flow that may correlate with the Texcal Member named by Willcox (
+              <xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="ID52ca4d44-316d-49e4-9679-f404f254e30d">2011</xref>), and locally by volcanic pumice ash that may be derived from Cerro Pizarro (65 &#177; 10 ka: 40Ar/39Ar;
+              <xref rid="IDd62acdb0-4d39-435a-94d6-f7642f923685" ref-type="bibr" id="IDadca0b00-34c1-45ea-9ddb-bc48848f5bb9">Carrasco-N&#250;&#241;ez and Riggs, 2008</xref>). This member is not a mapping unit, because is only present in vertical sections.</p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qta4.- Maxtaloya trachyandesitic and trachytic lava flows</bold>
+            </title>
+            <p>This unit consists of black to dark gray, glassy porphyritic trachyandesitic lavas, with plagioclase, pyroxene, and amphibole phenocrysts. Usually this unit is red-colored due to oxidation and probably to auto-brecciation. Outcrops are present inside Los Humeros caldera, surrounding the Maxtaloya town, but mostly exposed on the inner walls of the Xalapazco crater and Maxtaloya small crater, characterized by oxidation and argilic alteration. This sequence was emitted prior to the eruption of Llano tuff, which has a minimum age of 28,270 &#177; 110 yr B.P. (
+              <xref rid="IDd91e7e06-8624-4cca-8d1e-be9659e587c1" ref-type="bibr" id="ID1db863e3-605b-4a59-9c9a-0f183018edf9">14C, Rojas-Ortega, 2016</xref>) and overlies the Maxtaloya lava flows.</p>
+          </sec>
+          <sec>
+            <title>
+              <bold>QLt.- Llano tuff </bold>
+            </title>
+            <p>This unit was described by Ferriz and Mahood (
+              <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDb7a81ff9-619d-4760-bedc-3b72a902447a">1984</xref>) as the Llano ignimbrite, and consists of a partly welded andesitic ignimbrite composed of blocks, bombs, lapilli and ash. According to Rojas-Ortega (
+              <xref rid="IDd91e7e06-8624-4cca-8d1e-be9659e587c1" ref-type="bibr" id="ID7b544934-0be0-42af-a6b4-3d35b40456ef">2016</xref>), the Llano tuff consists of a brown to red, non-welded pyroclastic deposit, which is composed of coarse lapilli and blocks, predominantly with pumice, lithic clasts, glassy fragments and reddish lavas. The formation of this deposit is associated to the Xalapazco volcano explosive eruption and possible collapse (
+              <xref rid="IDd91e7e06-8624-4cca-8d1e-be9659e587c1" ref-type="bibr" id="ID980a5766-ac55-439f-8899-f0a1608a0913">Rojas-Ortega, 2016</xref>). Pumice clasts are gray-colored, and have porphyritic and trachytic texture, with plagioclase, sanidine, hypersthene and augite as phenocrysts, and assimilated clasts. In the proximal zones of the Xalapazco crater, the Llano Tuff is overlain by the Cuicuiltic Member and overlies the Maxtaloya lava flows. A paleosol sample was collected at the top of the Llano Member yielding a 14C age of 28,270 &#177; 110 yr B.P. (
+              <xref rid="IDd91e7e06-8624-4cca-8d1e-be9659e587c1" ref-type="bibr" id="IDb36d3e53-c6b7-4940-874e-c3561a562a2d">Cal BP 31642 to 32647 yr, Rojas-Ortega, 2016</xref>). This member is not a mapping unit, because is only present in vertical sections.</p>
+          </sec>
+        </sec>
+        <sec>
+          <title>2.3.2 Ring-fracture and bimodal phase</title>
+          <sec>
+            <title>
+              <bold>Qta3.- San Antonio-Las Chapas trachyandesitic lava flows</bold>
+            </title>
+            <p>This unit corresponds to a dark-gray color, moderate to highly vesicular, brecciated trachyandesite lavas, with glassy-porphyritic and trachytic texture. Mineral assemblage consists of plagioclase, two pyroxene and scarce olivine. It is exposed within the caldera margins and also in the northern side of the caldera; apparently most of this sequence was erupted through the San Antonio volcano. Other outcrops are located 7 km to the SW of Teziutl&#225;n, discordantly underlain by the Cuicuiltic Member. It is considered that these lava flows erupted through a vent located 1 km to the NW of Las Chapas town. This unit was dated by 14C in charcoal at the lower paleosol, and has an age of 8910 &#177;30 yr B.P. (Cal BP 10185 to 9910 yr, Table 4 (see Supplementary material)).</p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qab2.- Orilla del Monte basaltic andesite lava flows</bold>
+            </title>
+            <p>This unit is composed of black to dark-gray color, moderately vesiculated basaltic andesite lava flows and andesitic flows in minor proportions, with varying glassy-porphyritic texture. The mineral assemblage consists of plagioclase, pyroxene and minor olivine phenocrysts. It is exposed inside the caldera, and also at the E and NE side. To the eastern side of the caldera, near the village Orilla del Monte, there is an outcrop, which is overlain by the Cuicuiltic Tuff, thus it is inferred that these lavas were erupted at approximately the same time of San Antonio-Las Chapas lava flows, at near 8.9 ka.</p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qtc.- Cuicuiltic Member</bold>
+            </title>
+            <p>The Cuicuiltic member represents the last major explosive event registered at Los Humeros caldera, during the Holocene, combining simultaneously both, Plinian and Strombolian activities (
+              <xref rid="ID5b562b50-fa38-4697-b4b5-4f43f86b92b5" ref-type="bibr" id="ID789c998b-1125-4461-90d3-ec171a63fed7">D&#225;vila-Harris and Carrasco-N&#250;&#241;ez, 2014</xref>). This member consists of alternated fallout deposits of white trachydacitic pumice and black basaltic andesite scoria, and it has been sub-divided in 9 units. The mineral assemblage within pumice clasts consists of plagioclase, two pyroxenes, biotite, K feldspar and hornblende. Trachydacitic layers are dispersed from the center towards NW, and the andesitic units have maximum thicknesses over SE and NE sides of the caldera, suggesting active vents connected underneath by one or several hidden fractures at depth. This sequence yields a maximum 14C age of 7,355 &#177; 105 yr B.P. (Cal BP 7982 to 8371 yr,
+              <xref rid="ID5b562b50-fa38-4697-b4b5-4f43f86b92b5" ref-type="bibr" id="ID0785b49c-dadf-40f4-a43a-d4dd919ea947">D&#225;vila-Harris and Carrasco-N&#250;&#241;ez, 2014</xref>). </p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qta2.- Victoria trachyandesitic lava flows</bold>
+            </title>
+            <p>This unit corresponds to black, vesiculated blocky lavas of trachyandesitic composition and basaltic trachyandesitic lavas in minor proportions, with glassy matrix, porphyritic-trachytic texture; plagioclase, two pyroxene and olivine are present as phenocrysts. These lava flows were generated through the south ring-fracture, and are distributed to the southwestern side of the caldera, near Guadalupe Victoria and Madero towns. </p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qtab.- Tepeyahualco basaltic trachyandesitic lava flows</bold>
+            </title>
+            <p>This unit consists of black color, aphanitic to porphyritic texture, trachyandesitic and basaltic trachyandesitic lava flows with plagioclase, two pyroxene phenocrysts. These flows erupted through south ring-fracture, and are distributed to the south side of the caldera. One of these flows reached a distance of 14 km from the caldera rim. </p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qta1.-Sarabia trachyandesitic lava flows </bold>
+            </title>
+            <p>The Sarabia trachyandesitic flows correspond to blocky, black color, porphyritic lavas, with low to high vesiculation, usually elongated; the mineral assemblage consists of plagioclase and two-pyroxene phenocrysts. There are basaltic trachyandesitic and andesitic lava flows in minor proportion. Matrix is composed mostly of tabular plagioclase microlites forming a trachytic texture, cryptocrystaline material and glass occurs in minor proportion. These flows erupted through south ring-fracture, and are distributed to the south side of the caldera and to the eastern side of the Guadalupe Sarabia town. One of these flows reached a length of 13.5 km.</p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qab.- El Lim&#243;n basaltic andesite lava flows</bold>
+            </title>
+            <p>El Lim&#243;n lavas consists of basaltic andesite and basaltic trachyandesite flows. This unit is composed of three different blocky lava flows: Flows I and II are black color and vesiculated, the latter flow is characterized by being the most extensive, with a length of 14 km, while flow III is brecciated, to moderately vesiculated. They have a porphyritic and slightly trachytic texture, and are composed of plagioclase, two pyroxene and minor olivine as phenocrysts. These flows also erupted through south ring-fracture, and are distributed in the SSE part of the caldera. They overlie an extra-caldera pumice fall deposit that correlates with the Cuicuiltic Member, thus, it is inferred that has a maximum age of 7.3 ka. </p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qab1.- Atecax basaltic andesitic lava flows</bold>
+            </title>
+            <p>This unit consists of brecciated, black, basaltic andesite lava flows. These rocks have variable vesicularities, from low to high with porphyritic texture and glassy matrix with embedded phenocrysts of plagioclase and two pyroxenes. Outcrops are located inside and at the western outer flank of the caldera. It is noteworthy to mention that a few outcrops of these lava flows are overlaying a pyroclastic sequence that may correlate with the Cuicuiltic Member, and therefore its inferred maximum age is 7.3 ka (
+              <xref rid="ID5b562b50-fa38-4697-b4b5-4f43f86b92b5" ref-type="bibr" id="ID3528253a-3973-4a0e-bf1e-5ba1c10357f8">D&#225;vila-Harris and Carrasco-N&#250;&#241;ez, 2014</xref>). One of its flows, apparently erupted through a vent located 3 km to the west of Buenavista village, reached a length of 15 km. </p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qb1.- Olivine-bearing basaltic lava flows</bold>
+            </title>
+            <p>This unit consists of black basaltic lava flows, with partial columnar structure, moderately vesiculated, with a porphyritic texture and a groundmass mainly composed of tabular plagioclase microlites, cryptocrystalline material and glass. Lava flows are composed of plagioclase, olivine and pyroxene as phenocrysts. Apparently, this unit represents one of the last volcanic stages associated to the caldera activity. Outcrops are located at the central part of the caldera inside the Xalapazco crater, and surrounding Los Humeros town, where they overlie the Cuicuiltic Member, and also at the SW of the caldera, nearby Texcal town. A paleosol underlying the latter lava flow outcrop was dated by 14C and has a maximum age of 3,870 &#177;130 B.P. (Cal BP 3899 to 4628, 4638 to 4641, 4684 to 4686, Cal BP 4762 to 4797, Table 4 (see Supplementary material)).</p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qt1.- El P&#225;jaro trachytic lava flows.</bold>
+            </title>
+            <p>This unit consists of black color, flow banding, blocky porphyritic trachytic lava flows, with very low vesicularity, sometimes replaced by silica. These flows are composed of plagioclase, two pyroxenes, and scarce amphibole and quartz phenocrysts, which are embedded in a glassy-cryptocrystalline matrix. Outcrops are located inside the caldera, at the NW of the Los Humeros town, and at the western side of the Xalapazco crater, where this unit overlies the Cuicuiltic Tuff. On the other hand, a charcoal sample collected at the basal part of the flow yielded a 14C age of 2,860 &#177; 30 yr B.P. (Cal BP 3065 to 2920 yr, Cal BP 3065 to 2920 yr, Table 4 (see Supplementary material)).</p>
+          </sec>
+          <sec>
+            <title>
+              <bold>Qp- Undefined pyroclastic deposits</bold>
+            </title>
+            <p>This unit includes pyroclastic deposits of unknown source, reworked pumice deposits and soil layers. Outcrops are widely distributed around the caldera. </p>
+          </sec>
+        </sec>
       </sec>
     </sec>
     <sec>
-      <title>2.3.1 Resurgent phase</title>
-      <sec>
-        <title>
-          <bold>Qr1.- Rhyolitic domes</bold>
-        </title>
-        <p>This unit corresponds to gray color, flow banding, porphyritic rhyolitic domes with a mineral assemblage composed of plagioclase, alkali feldspar and two pyroxenes, embedded in a glassy-porphyritic matrix. This sequence was formed in the caldera&#8217;s interior in a SE direction from Los Humeros town, and other outcrops are located to the northern boundary of the caldera. New U-Th zircon dating indicates an age of 44.8 &#177; 1.7 ka and (40Ar/39Ar) 50.7 &#177; 6 ka (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID1dfc4d47-3ef7-4f9b-b26d-610a61f588cf">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>), which is younger than the K/Ar previously reported of 60 &#177; 10 ka (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID9bd8b4a5-da20-4368-bf9a-74938a76cb70">Ferriz and Mahood, 1984</xref>).</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qt2.- Chicomiapa-Los Parajes trachytic lava flows</bold>
-        </title>
-        <p>This unit consists of black to dark-gray color, porphyritic trachytic lava flows with plagioclase phenocrysts and two pyroxenes. It is exposed within the caldera&#8217;s inner sector and also in the northern side. This sequence is overlain by pyroclastic deposits that may correlate with the Cuicuiltic Member.</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>QXm.- Xoxoctic member </bold>
-        </title>
-        <p>This member was first described by Ferriz and Mahood (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID9a71ab59-b31b-48c7-b946-ff2674468242">1984</xref>) as a dacitic air fall tuff, with olivine pumice. Willcox (<xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="ID808ec97c-df84-4733-a269-dcbae31bb8b6">2011</xref>) described this member as a predominantly Sub-Plinian/Plinian fall with well-sorted, clast supported, angular pumice lapilli and lithics. It is overlain by a paleosol and a lava flow that may correlate with the Texcal Member named by Willcox (<xref rid="ID855fe5cd-2cc3-4376-b104-2e186d60499f" ref-type="bibr" id="ID52ca4d44-316d-49e4-9679-f404f254e30d">2011</xref>), and locally by volcanic pumice ash that may be derived from Cerro Pizarro (65 &#177; 10 ka: 40Ar/39Ar; <xref rid="IDd62acdb0-4d39-435a-94d6-f7642f923685" ref-type="bibr" id="IDadca0b00-34c1-45ea-9ddb-bc48848f5bb9">Carrasco-N&#250;&#241;ez and Riggs, 2008</xref>). This member is not a mapping unit, because is only present in vertical sections.</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qta4.- Maxtaloya trachyandesitic and trachytic lava flows</bold>
-        </title>
-        <p>This unit consists of black to dark gray, glassy porphyritic trachyandesitic lavas, with plagioclase, pyroxene, and amphibole phenocrysts. Usually this unit is red-colored due to oxidation and probably to auto-brecciation. Outcrops are present inside Los Humeros caldera, surrounding the Maxtaloya town, but mostly exposed on the inner walls of the Xalapazco crater and Maxtaloya small crater, characterized by oxidation and argilic alteration. This sequence was emitted prior to the eruption of Llano tuff, which has a minimum age of 28,270 &#177; 110 yr B.P. (<xref rid="IDd91e7e06-8624-4cca-8d1e-be9659e587c1" ref-type="bibr" id="ID1db863e3-605b-4a59-9c9a-0f183018edf9">14C, Rojas-Ortega, 2016</xref>) and overlies the Maxtaloya lava flows.</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>QLt.- Llano tuff </bold>
-        </title>
-        <p>This unit was described by Ferriz and Mahood (<xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="IDb7a81ff9-619d-4760-bedc-3b72a902447a">1984</xref>) as the Llano ignimbrite, and consists of a partly welded andesitic ignimbrite composed of blocks, bombs, lapilli and ash. According to Rojas-Ortega (<xref rid="IDd91e7e06-8624-4cca-8d1e-be9659e587c1" ref-type="bibr" id="ID7b544934-0be0-42af-a6b4-3d35b40456ef">2016</xref>), the Llano tuff consists of a brown to red, non-welded pyroclastic deposit, which is composed of coarse lapilli and blocks, predominantly with pumice, lithic clasts, glassy fragments and reddish lavas. The formation of this deposit is associated to the Xalapazco volcano explosive eruption and possible collapse (<xref rid="IDd91e7e06-8624-4cca-8d1e-be9659e587c1" ref-type="bibr" id="ID980a5766-ac55-439f-8899-f0a1608a0913">Rojas-Ortega, 2016</xref>). Pumice clasts are gray-colored, and have porphyritic and trachytic texture, with plagioclase, sanidine, hypersthene and augite as phenocrysts, and assimilated clasts. In the proximal zones of the Xalapazco crater, the Llano Tuff is overlain by the Cuicuiltic Member and overlies the Maxtaloya lava flows. A paleosol sample was collected at the top of the Llano Member yielding a 14C age of 28,270 &#177; 110 yr B.P. (<xref rid="IDd91e7e06-8624-4cca-8d1e-be9659e587c1" ref-type="bibr" id="IDb36d3e53-c6b7-4940-874e-c3561a562a2d">Cal BP 31642 to 32647 yr, Rojas-Ortega, 2016</xref>). This member is not a mapping unit, because is only present in vertical sections.</p>
-        <list list-type="simple">
-          <list-item>
-            <p>2.3.2 Ring-fracture and bimodal phase</p>
-          </list-item>
-          <list-item>
-            <p>
-              <bold>Qta3.- San Antonio-Las Chapas trachyandesitic lava flows</bold>
-            </p>
-          </list-item>
-        </list>
-        <p>This unit corresponds to a dark-gray color, moderate to highly vesicular, brecciated trachyandesite lavas, with glassy-porphyritic and trachytic texture. Mineral assemblage consists of plagioclase, two pyroxene and scarce olivine. It is exposed within the caldera margins and also in the northern side of the caldera; apparently most of this sequence was erupted through the San Antonio volcano. Other outcrops are located 7 km to the SW of Teziutl&#225;n, discordantly underlain by the Cuicuiltic Member. It is considered that these lava flows erupted through a vent located 1 km to the NW of Las Chapas town. This unit was dated by 14C in charcoal at the lower paleosol, and has an age of 8910 &#177;30 yr B.P. (Cal BP 10185 to 9910 yr, Table 4 (see Supplementary material)).</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qab2.- Orilla del Monte basaltic andesite lava flows</bold>
-        </title>
-        <p>This unit is composed of black to dark-gray color, moderately vesiculated basaltic andesite lava flows and andesitic flows in minor proportions, with varying glassy-porphyritic texture. The mineral assemblage consists of plagioclase, pyroxene and minor olivine phenocrysts. It is exposed inside the caldera, and also at the E and NE side. To the eastern side of the caldera, near the village Orilla del Monte, there is an outcrop, which is overlain by the Cuicuiltic Tuff, thus it is inferred that these lavas were erupted at approximately the same time of San Antonio-Las Chapas lava flows, at near 8.9 ka.</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qtc.- Cuicuiltic Member</bold>
-        </title>
-        <p>The Cuicuiltic member represents the last major explosive event registered at Los Humeros caldera, during the Holocene, combining simultaneously both, Plinian and Strombolian activities (<xref rid="ID5b562b50-fa38-4697-b4b5-4f43f86b92b5" ref-type="bibr" id="ID789c998b-1125-4461-90d3-ec171a63fed7">D&#225;vila-Harris and Carrasco-N&#250;&#241;ez, 2014</xref>). This member consists of alternated fallout deposits of white trachydacitic pumice and black basaltic andesite scoria, and it has been sub-divided in 9 units. The mineral assemblage within pumice clasts consists of plagioclase, two pyroxenes, biotite, K feldspar and hornblende. Trachydacitic layers are dispersed from the center towards NW, and the andesitic units have maximum thicknesses over SE and NE sides of the caldera, suggesting active vents connected underneath by one or several hidden fractures at depth. This sequence yields a maximum 14C age of 7,355 &#177; 105 yr B.P. (Cal BP 7982 to 8371 yr, <xref rid="ID5b562b50-fa38-4697-b4b5-4f43f86b92b5" ref-type="bibr" id="ID0785b49c-dadf-40f4-a43a-d4dd919ea947">D&#225;vila-Harris and Carrasco-N&#250;&#241;ez, 2014</xref>). </p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qta2.- Victoria trachyandesitic lava flows</bold>
-        </title>
-        <p>This unit corresponds to black, vesiculated blocky lavas of trachyandesitic composition and basaltic trachyandesitic lavas in minor proportions, with glassy matrix, porphyritic-trachytic texture; plagioclase, two pyroxene and olivine are present as phenocrysts. These lava flows were generated through the south ring-fracture, and are distributed to the southwestern side of the caldera, near Guadalupe Victoria and Madero towns. </p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qtab.- Tepeyahualco basaltic trachyandesitic lava flows</bold>
-        </title>
-        <p>This unit consists of black color, aphanitic to porphyritic texture, trachyandesitic and basaltic trachyandesitic lava flows with plagioclase, two pyroxene phenocrysts. These flows erupted through south ring-fracture, and are distributed to the south side of the caldera. One of these flows reached a distance of 14 km from the caldera rim. </p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qta1.-Sarabia trachyandesitic lava flows </bold>
-        </title>
-        <p>The Sarabia trachyandesitic flows correspond to blocky, black color, porphyritic lavas, with low to high vesiculation, usually elongated; the mineral assemblage consists of plagioclase and two-pyroxene phenocrysts. There are basaltic trachyandesitic and andesitic lava flows in minor proportion. Matrix is composed mostly of tabular plagioclase microlites forming a trachytic texture, cryptocrystaline material and glass occurs in minor proportion. These flows erupted through south ring-fracture, and are distributed to the south side of the caldera and to the eastern side of the Guadalupe Sarabia town. One of these flows reached a length of 13.5 km.</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qab.- El Lim&#243;n basaltic andesite lava flows</bold>
-        </title>
-        <p>El Lim&#243;n lavas consists of basaltic andesite and basaltic trachyandesite flows. This unit is composed of three different blocky lava flows: Flows I and II are black color and vesiculated, the latter flow is characterized by being the most extensive, with a length of 14 km, while flow III is brecciated, to moderately vesiculated. They have a porphyritic and slightly trachytic texture, and are composed of plagioclase, two pyroxene and minor olivine as phenocrysts. These flows also erupted through south ring-fracture, and are distributed in the SSE part of the caldera. They overlie an extra-caldera pumice fall deposit that correlates with the Cuicuiltic Member, thus, it is inferred that has a maximum age of 7.3 ka. </p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qab1.- Atecax basaltic andesitic lava flows</bold>
-        </title>
-        <p>This unit consists of brecciated, black, basaltic andesite lava flows. These rocks have variable vesicularities, from low to high with porphyritic texture and glassy matrix with embedded phenocrysts of plagioclase and two pyroxenes. Outcrops are located inside and at the western outer flank of the caldera. It is noteworthy to mention that a few outcrops of these lava flows are overlaying a pyroclastic sequence that may correlate with the Cuicuiltic Member, and therefore its inferred maximum age is 7.3 ka (<xref rid="ID5b562b50-fa38-4697-b4b5-4f43f86b92b5" ref-type="bibr" id="ID3528253a-3973-4a0e-bf1e-5ba1c10357f8">D&#225;vila-Harris and Carrasco-N&#250;&#241;ez, 2014</xref>). One of its flows, apparently erupted through a vent located 3 km to the west of Buenavista village, reached a length of 15 km. </p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qb1.- Olivine-bearing basaltic lava flows</bold>
-        </title>
-        <p>This unit consists of black basaltic lava flows, with partial columnar structure, moderately vesiculated, with a porphyritic texture and a groundmass mainly composed of tabular plagioclase microlites, cryptocrystalline material and glass. Lava flows are composed of plagioclase, olivine and pyroxene as phenocrysts. Apparently, this unit represents one of the last volcanic stages associated to the caldera activity. Outcrops are located at the central part of the caldera inside the Xalapazco crater, and surrounding Los Humeros town, where they overlie the Cuicuiltic Member, and also at the SW of the caldera, nearby Texcal town. A paleosol underlying the latter lava flow outcrop was dated by 14C and has a maximum age of 3,870 &#177;130 B.P. (Cal BP 3899 to 4628, 4638 to 4641, 4684 to 4686, Cal BP 4762 to 4797, Table 4 (see Supplementary material)).</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qt1.- El P&#225;jaro trachytic lava flows.</bold>
-        </title>
-        <p>This unit consists of black color, flow banding, blocky porphyritic trachytic lava flows, with very low vesicularity, sometimes replaced by silica. These flows are composed of plagioclase, two pyroxenes, and scarce amphibole and quartz phenocrysts, which are embedded in a glassy-cryptocrystalline matrix. Outcrops are located inside the caldera, at the NW of the Los Humeros town, and at the western side of the Xalapazco crater, where this unit overlies the Cuicuiltic Tuff. On the other hand, a charcoal sample collected at the basal part of the flow yielded a 14C age of 2,860 &#177; 30 yr B.P. (Cal BP 3065 to 2920 yr, Cal BP 3065 to 2920 yr, Table 4 (see Supplementary material)).</p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Qp- Undefined pyroclastic deposits</bold>
-        </title>
-        <p>This unit includes pyroclastic deposits of unknown source, reworked pumice deposits and soil layers. Outcrops are widely distributed around the caldera. </p>
-      </sec>
-      <sec>
-        <title>Geochemical characterization</title>
-        <p>Geochemical data shows a wide compositional variation for the different volcanic stages, including both subalkaline to alkaline series in TAS diagram (<xref rid="IDb89a0b5c-03d9-4b9e-96a1-c7b410fe974e" ref-type="bibr" id="IDcdf68e7d-ebc9-49fe-a7cc-f334d8d6fcc6">Le Maitre et al., 1989</xref>). Older volcanism like Teziutl&#225;n lavas (Tpa) are plotted in the alkaline basalt field, and products unrelated to the caldera stages like Cerro Pizarro-&#193;guilas domes (Qr) consist of rhyolites and other lavas (Qb2) which varies from basalts to basaltic andesites, </p>
-        <p>The lithostratigraphic units of the pre-caldera stage (Qr4 and Qr3) corresponds to two different episodes of rhyolitic domes. The caldera stage starts with the X&#225;ltipan ignimbrite (QigX), which dominant composition is rhyolitic, but with variations from trachyandesite to trachyte, dacite and less frequently andesitic composition. Faby Tuff (QtF) and Zaragoza ignimbrite (QigZ) exhibit a compositional variation pattern similar to X&#225;ltipan ignimbrite, except that they show a slight increase in alkalis. Los Potreros lavas (Qr2) have a rhyolithic composition. Moreover, the resurgent phase of the post-caldera stage starts with dome emplacement (Qr1) of rhyolitic composition, slightly enriched in alkalis compared with the pre-caldera and caldera groups. They are followed by the emplacement of Chicomiapa-Los Parajes lava flows (Qt2) of trachytic composition. Maxtaloya lavas (Qta4) are dominantly trachyandesites, but a few samples correspond to trachytic composition; the latter show a decrease in silica and alkalis, compared with rhyolitic domes and Chicomiapa-Los Parajes lavas. The Ring-fracture and bimodal phase of the post-caldera group are dominated by initial effusive activity of trachyandesitic composition of San Antonio-Las Chapas (Qta3) and Victoria lavas (Qta2); the latter with scarce samples that correspond to basaltic trachyandesites. While Orilla del Monte lavas (Qab2) are of andesitic to basaltic andesitic composition, the Cuicuiltic tuff (QtC) shows a wider composition, from alkaline to subalkaline trachytes, to subalkaline basaltic trachyandesite and trachyandesite. The following activity corresponds to lavas with varying composition from basaltic andesites, basaltic trachyandesites and trachyandesites, from Atexcac to Tepeyahualco lava flows (Qab1, Qab, Qta1, Qtab). Later on, a contrasting effusion of basaltic lavas (Qb1) occurs. The youngest activity corresponds to the emplacement of El P&#225;jaro lava flows (Qt1), which corresponds to alkaline to subalkaline trachyte. </p>
-      </sec>
-      <sec>
-        <title>Conclusions	</title>
-        <p>This updated geologic map, accompanied by a revised stratigraphic framework, provides in-depth information of nineteen eruptive units, through time and space. This data set is also supported by the new, more robust radiometric dating, allowing us to propose a new volcanic evolutionary scheme for LHVC, which has important implications on the residence times of the magma bodies and the actual magmatic system (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID3aafe1eb-b692-4291-a8ad-7a011037b0c2">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>). LHVC was considered as a middle Pleistocene volcanic center (460 ka; <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID0bdf313b-f38b-492b-81fb-842af878b82f">Ferriz and Mahood, 1984</xref>). However, the recently published ages (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDeb166e9f-5bec-4275-a8bf-52ed73b738b9">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) reveals a much younger age (&lt; 160-180 ka), which together with the new 14C dates (this study) suggest the possibility of extended thermal conditions that have an important impact on both the volcanic hazard assessment and the geothermal potential of the Los Humeros geothermal field (<xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID7cdb794f-b1a2-4107-a63c-36bc3171a4a9">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>). </p>
-      </sec>
-      <sec>
-        <title>
-          <bold>Acknowledgements</bold>
-        </title>
-        <p>This work was funded by project P05 of the CeMie-GEO Consortium No. 2007032 supported by SENER-CONACYT Sustainability Foundation, and PAPIIT-UNAM grant IN 106314. Partial support was provided by Project GEMEX 268074 (Mexico-European Union). This paper was improved by critical reviews by Jos&#233; Luis Mac&#237;as and editor Luca Ferrari. We want to thank Geothermoelectric Project Management of the Electricity Federal Commission staff for support during this work, particularly to Magaly Flores, Miguel Ram&#237;rez, and Cesar Rosales, as well as to Fidel Cedillo, Germ&#225;n Ram&#237;rez, Mike Branney, Chris Willcox for fruitful discussions and support. </p>
-      </sec>
-      <sec>
-        <title>FIGURE CAPTIONS</title>
-        <p>Fig. 1. A. Map showing the location of Los Humeros volcanic complex (LHVC) in the Eastern sector of the Trans-Mexican Volcanic Belt; B. Landsat Satellite image (Google Earth) showing the main structures of the inner caldera where the geothermal field is located. The main scarps of Los Potreros and Los Humeros caldera are shown, related to the two principal caldera-forming events of the LHVC. </p>
-        <p>Fig. 2. Total Alkali (Na2O + K2O) -Silica (SiO2) diagram (<xref rid="IDb89a0b5c-03d9-4b9e-96a1-c7b410fe974e" ref-type="bibr" id="ID7811ee2c-e113-471c-a3b0-d373cb3a2188">Le Maitre et al., 1989</xref>) for all the lithostratigraphic rock units comprising the LHVC grouped as Pre-caldera, caldera and post-caldera groups. Source data for geochemistry and geochronology is shown in the big box for this work and other papers. All samples are normalized to 100 % in anhydrous basis. </p>
-        <p>Table1. Major elements</p>
-        <p>Table 2. Summary of the main features of each lithostratigraphic units</p>
-        <p>Table 3. Compilation of geochronologic data used for this map</p>
-        <p>Table 4. 14C dating</p>
-      </sec>
+      <title>Geochemical characterization</title>
+      <p>Geochemical data shows a wide compositional variation for the different volcanic stages, including both subalkaline to alkaline series in TAS diagram (
+        <xref rid="IDb89a0b5c-03d9-4b9e-96a1-c7b410fe974e" ref-type="bibr" id="IDcdf68e7d-ebc9-49fe-a7cc-f334d8d6fcc6">Le Maitre et al., 1989</xref>). Older volcanism like Teziutl&#225;n lavas (Tpa) are plotted in the alkaline basalt field, and products unrelated to the caldera stages like Cerro Pizarro-&#193;guilas domes (Qr) consist of rhyolites and other lavas (Qb2) which varies from basalts to basaltic andesites, </p>
+      <p>The lithostratigraphic units of the pre-caldera stage (Qr4 and Qr3) corresponds to two different episodes of rhyolitic domes. The caldera stage starts with the X&#225;ltipan ignimbrite (QigX), which dominant composition is rhyolitic, but with variations from trachyandesite to trachyte, dacite and less frequently andesitic composition. Faby Tuff (QtF) and Zaragoza ignimbrite (QigZ) exhibit a compositional variation pattern similar to X&#225;ltipan ignimbrite, except that they show a slight increase in alkalis. Los Potreros lavas (Qr2) have a rhyolithic composition. Moreover, the resurgent phase of the post-caldera stage starts with dome emplacement (Qr1) of rhyolitic composition, slightly enriched in alkalis compared with the pre-caldera and caldera groups. They are followed by the emplacement of Chicomiapa-Los Parajes lava flows (Qt2) of trachytic composition. Maxtaloya lavas (Qta4) are dominantly trachyandesites, but a few samples correspond to trachytic composition; the latter show a decrease in silica and alkalis, compared with rhyolitic domes and Chicomiapa-Los Parajes lavas. The Ring-fracture and bimodal phase of the post-caldera group are dominated by initial effusive activity of trachyandesitic composition of San Antonio-Las Chapas (Qta3) and Victoria lavas (Qta2); the latter with scarce samples that correspond to basaltic trachyandesites. While Orilla del Monte lavas (Qab2) are of andesitic to basaltic andesitic composition, the Cuicuiltic tuff (QtC) shows a wider composition, from alkaline to subalkaline trachytes, to subalkaline basaltic trachyandesite and trachyandesite. The following activity corresponds to lavas with varying composition from basaltic andesites, basaltic trachyandesites and trachyandesites, from Atexcac to Tepeyahualco lava flows (Qab1, Qab, Qta1, Qtab). Later on, a contrasting effusion of basaltic lavas (Qb1) occurs. The youngest activity corresponds to the emplacement of El P&#225;jaro lava flows (Qt1), which corresponds to alkaline to subalkaline trachyte. </p>
+    </sec>
+    <sec>
+      <title>Conclusions </title>
+      <p>This updated geologic map, accompanied by a revised stratigraphic framework, provides in-depth information of nineteen eruptive units, through time and space. This data set is also supported by the new, more robust radiometric dating, allowing us to propose a new volcanic evolutionary scheme for LHVC, which has important implications on the residence times of the magma bodies and the actual magmatic system (
+        <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID3aafe1eb-b692-4291-a8ad-7a011037b0c2">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>). LHVC was considered as a middle Pleistocene volcanic center (460 ka;
+        <xref rid="ID73014a85-167f-44cb-9a20-2ad3d4fd7f85" ref-type="bibr" id="ID0bdf313b-f38b-492b-81fb-842af878b82f">Ferriz and Mahood, 1984</xref>). However, the recently published ages (
+        <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="IDeb166e9f-5bec-4275-a8bf-52ed73b738b9">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>) reveals a much younger age (&lt; 160-180 ka), which together with the new 14C dates (this study) suggest the possibility of extended thermal conditions that have an important impact on both the volcanic hazard assessment and the geothermal potential of the Los Humeros geothermal field (
+        <xref rid="ID6c1080df-dc1f-4f3b-8332-b8bda29e2a83" ref-type="bibr" id="ID7cdb794f-b1a2-4107-a63c-36bc3171a4a9">Carrasco-N&#250;&#241;ez et al., 2017, in press</xref>). </p>
+    </sec>
+    <sec>
+      <title>
+        <bold>Acknowledgements</bold>
+      </title>
+      <p>This work was funded by project P05 of the CeMie-GEO Consortium No. 2007032 supported by SENER-CONACYT Sustainability Foundation, and PAPIIT-UNAM grant IN 106314. Partial support was provided by Project GEMEX 268074 (Mexico-European Union). This paper was improved by critical reviews by Jos&#233; Luis Mac&#237;as and editor Luca Ferrari. We want to thank Geothermoelectric Project Management of the Electricity Federal Commission staff for support during this work, particularly to Magaly Flores, Miguel Ram&#237;rez, and Cesar Rosales, as well as to Fidel Cedillo, Germ&#225;n Ram&#237;rez, Mike Branney, Chris Willcox for fruitful discussions and support. </p>
+    </sec>
+    <sec>
+      <p>Table1. Major elements</p>
+      <p>Table 2. Summary of the main features of each lithostratigraphic units</p>
+      <p>Table 3. Compilation of geochronologic data used for this map</p>
+      <p>Table 4. 14C dating</p>
+      <fig id="fig1" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/carrasco/figura1.png" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figure 1 / Figura 1</label>
+          <caption>
+            <p><bold>Figure 1.</bold> A. Map showing the location of Los Humeros volcanic complex (LHVC) in the Eastern sector of the Trans-Mexican Volcanic Belt; B. Landsat Satellite image (Google Earth) showing the main structures of the inner caldera where the geothermal field is located. The main scarps of Los Potreros and Los Humeros caldera are shown, related to the two principal caldera-forming events of the LHVC.</p>
+            <p><bold>Figura 1.</bold></p>
+          </caption>
+        </graphic>
+      </fig>
+      <fig id="fig2" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/carrasco/figura2.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figure 2 / Figura 2</label>
+          <caption>
+            <p><bold>Figure 2.</bold> Total Alkali (Na2O + K2O) -Silica (SiO2) diagram (<xref rid="IDb89a0b5c-03d9-4b9e-96a1-c7b410fe974e" ref-type="bibr" id="ID7811ee2c-e113-471c-a3b0-d373cb3a2188">Le Maitre et al., 1989</xref>) for all the lithostratigraphic rock units comprising the LHVC grouped as Pre-caldera, caldera and post-caldera groups. Source data for geochemistry and geochronology is shown in the big box for this work and other papers. All samples are normalized to 100 % in anhydrous basis.</p>
+            <p><bold>Figura 2.</bold></p>
+          </caption>
+        </graphic>
+      </fig>
+      <fig id="fig3" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/carrasco/plate.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <label>Plate 1/ Lámina 1</label>
+          <caption>
+            <p><bold>Plate 1.</bold></p>
+            <p><bold>Lámina 1.</bold></p>
+          </caption>
+        </graphic>
+      </fig>
     </sec>
   </body>
   <back>
@@ -823,7 +903,7 @@
               <given-names>J.</given-names>
             </name>
           </person-group>
-          <article-title>Reappraisal of Los Humeros caldera, revealed by new U/Th and 40Ar/39Ar dating</article-title>
+          <article-title>Reappraisal of Los Humeros caldera, revealed by new U/Th and <sup>40</sup>Ar/<sup>39</sup>Ar dating</article-title>
           <source>Geochemistry, Geophysics, Geosystems</source>
           <date>
             <year>2017</year>
@@ -833,8 +913,47 @@
           <fpage></fpage>
           <lpage></lpage>
         </element-citation>
-        <!-- <mixed-citation>Carrasco-N&#250;&#241;ez. G., Bernal, J.P., Jicha, B., D&#225;vila, P., Giordano, G., Hern&#225;ndez, J., 2017. Reappraisal of Los Humeros caldera, revealed by new U/Th and 40Ar/39Ar dating: Implications for greater geothermal potential. Geochemistry, Geophysics, Geosystems. In press.Corbo, F. Arzate, J., Norini, G., Carrasco, G., Hern&#225;ndez, J., Castro C., Shallow structural model (&lt; 3 km) and hydrological context of Los Humeros Volcanic Complex from magnetotelluric soundings, Geochemistry, Geophysics, Geosystems, submitted.</mixed-citation> -->
       </ref>
+      <ref id="ref1">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Corbo</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Arzate</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Norini</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Carrasco</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Hernández</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Castro</surname>
+              <given-names>C.</given-names>
+            </name>
+          </person-group>
+          <article-title>Shallow structural model (&lt; 3 km) and hydrological context of Los Humeros Volcanic Complex from magnetotelluric soundings</article-title>
+          <source>Geochemistry, Geophysics, Geosystems</source>
+          <date>
+            <year>Sin año</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+      </ref>
+      <!-- <mixed-citation>Carrasco-N&#250;&#241;ez. G., Bernal, J.P., Jicha, B., D&#225;vila, P., Giordano, G., Hern&#225;ndez, J., 2017. Reappraisal of Los Humeros caldera, revealed by new U/Th and 40Ar/39Ar dating: Implications for greater geothermal potential. Geochemistry, Geophysics, Geosystems. In press.Corbo, F. Arzate, J., Norini, G., Carrasco, G., Hern&#225;ndez, J., Castro C., Shallow structural model (&lt; 3 km) and hydrological context of Los Humeros Volcanic Complex from magnetotelluric soundings, Geochemistry, Geophysics, Geosystems, submitted.</mixed-citation> -->
       <ref id="IDc6d957ab-a437-4380-b16e-660b5e63dce2">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1318,7 +1437,9 @@
               <given-names>R.W.</given-names>
             </name>
           </person-group>
-          <article-title>CALIB 7.1 [WWW program] at <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://calib.org" ext-link-type="uri" xlink:type="simple">http://calib.org</ext-link></article-title>
+          <article-title>CALIB 7.1 [WWW program] at
+            <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://calib.org" ext-link-type="uri" xlink:type="simple">http://calib.org</ext-link>
+          </article-title>
           <source></source>
           <date>
             <year>2017</year>
