@@ -293,24 +293,32 @@
     <sec>
       <title>Agradecimientos: </title>
       <p>A la DGAPA, por el financiamiento al proyecto IN223110 &#8220;Dise&#241;o del mapa geopedol&#243;gico de M&#233;xico a escala 1:500,000 con ventanas 1:250,000 en zonas volc&#225;nicas y de karst tropical&#8221;. A la CEPLADE, por el financiamiento parcial al proyecto.</p>
+
+      <fig id="fig1" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero1/bautista/page1.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <label>Lámina 1 / Plate 1</label>
+          <caption>
+            <p><bold>Figura 1:</bold> Conservación e  intensidad de uso de la tierra en la reserva de la biósfera Zicuirán-Infiernillo, Michoacán.</p>
+            <p><bold>Figure 1:</bold> Preservation and intensity of land-use in the biosphere reserve of Zicuiran-Infiernillo, Michoacan.</p>
+          </caption>
+        </graphic>
+      </fig>
     </sec>
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://132.248.14.208/html/mapas_estaticos/Bautista/html5.html"
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero1/Bautista/html5forpc.html"
         mimetype="application/html">
-      <object-id pub-id-type="doi"></object-id>
+      <object-id pub-id-type="doi">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.2.1</object-id>
         <label>Mapa Estático</label>
         <caption>
-          <title>Mapa de intensidad de uso de la Tierra en la reserva de la biósfera Zicuirán-Infiernillo, Mich.</title>
-          <!--
+          <title>Conservación e  intensidad de uso de la tierra en la reserva de la biósfera Zicuirán-Infiernillo, Michoacán.</title>
           <p>
             <bold>DOI:</bold>
-            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.21900.021">http://dx.doi.org/10.7554/eLife.21900.021</ext-link>
+            <ext-link ext-link-type="doi" xlink:href="10.22201/igg.terradigitalis.2017.1.2.1">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.2.1</ext-link>
           </p>
-      -->
         </caption>
-      <media mime-subtype="html" mimetype="application" xlink:href="http://132.248.14.208/html/mapas_estaticos/Bautista/html5.html"/>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero1/Bautista/html5forpc.html"/>
     </supplementary-material>
 	</sec>
   </body>

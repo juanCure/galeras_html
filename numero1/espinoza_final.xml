@@ -594,7 +594,7 @@
         </graphic>
       </fig>
       <fig id="fig6" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.208/html/images_articles/espinoza/ejemplo_espinoza.png" id="id_ejemplo" position="float" orientation="portrait" xlink:type="simple">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero1/espinoza/espinoza-nomenclatura.png" id="id_ejemplo" position="float" orientation="portrait" xlink:type="simple">
           <label>Ejemplo / Example</label>
           <caption>
             <p>Ejemplo de la nomenclatura de la clasificación</p>
@@ -616,18 +616,18 @@
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/regionalizacion-michoacan.php"
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero1/Espinoza/html5forpc.html"
         mimetype="application/html">
-      <object-id pub-id-type="doi">10.7554/eLife.21900.021</object-id>
-        <label>Mapa Interactivo</label>
+      <object-id pub-id-type="doi">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.4.63</object-id>
+        <label>Mapa Estático</label>
         <caption>
           <title>La regionalización</title>
           <p>
             <bold>DOI:</bold>
-            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.21900.021">http://dx.doi.org/10.7554/eLife.21900.021</ext-link>
+            <ext-link ext-link-type="doi" xlink:href="10.22201/igg.terradigitalis.2017.1.4.63">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.4.63</ext-link>
           </p>
         </caption>
-      <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/regionalizacion-michoacan.php"/>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero1/Espinoza/html5forpc.html"/>
     </supplementary-material>
     </sec>
   </body>

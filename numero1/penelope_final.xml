@@ -252,18 +252,18 @@
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/subsidencia.php"
-        mimetype="application/php">
-      <!--<object-id pub-id-type="doi">10.7554/eLife.21900.021</object-id>-->
-        <label>Mapa Dinámico</label>
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero1/Penelope/html5forpc.html"
+        mimetype="application/html">
+      <object-id pub-id-type="doi">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.11.62</object-id>
+        <label>Mapa Estático</label>
         <caption>
           <title>Cumulated subsidence maps of Mexico city</title>
           <p>
             <bold>DOI:</bold>
-            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.21900.021">http://dx.doi.org/10.7554/eLife.21900.021</ext-link>
+            <ext-link ext-link-type="doi" xlink:href="10.22201/igg.terradigitalis.2017.1.11.62">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.11.62</ext-link>
           </p>
         </caption>
-      <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.14.208/html/visualizador_mapas/terra_digitalis/subsidencia.php"/>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero1/Penelope/html5forpc.html"/>
     </supplementary-material>
     </sec>
   </body>
