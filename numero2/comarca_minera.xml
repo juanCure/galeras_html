@@ -223,7 +223,7 @@
         </p>
       </disp-quote> -->
       <fig id="fig1" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/comarcaMinera/Fig-1_PGCM.jpg" position="float" orientation="portrait" xlink:type="simple">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/comarca_minera/Fig-1_PGCM.jpg" position="float" orientation="portrait" xlink:type="simple">
           <label>Figura 1 / Figure 1</label>
           <caption>
             <p><bold>Figura 1.</bold> Tres geositios emblem&#225;ticos del Geoparque Mundial de la UNESCO Comarca Minera, Hidalgo (las ubicaciones se muestran en el mapa y las coordenadas en la <xref ref-type="table" rid="tbl1">Tabla 1</xref>). (A) Prismas bas&#225;lticos de Santa Mar&#237;a Regla y (B) Barranca de Aguacatitla, en el municipio de Huasca de Ocampo, y (C) Pe&#241;as de Las Monjas, en el municipio de Mineral del Chico.</p>
@@ -233,7 +233,7 @@
       </fig>
 
       <fig id="fig2" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/comarcaMinera/Mapa_Final_Terra_Digitalis.png" position="float" orientation="portrait" xlink:type="simple">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/comarca_minera/page1.jpg" position="float" orientation="portrait" xlink:type="simple">
           <label>Lámina 1 / Plate 1</label>
           <caption>
             <p><bold>Lámina 1:</bold> Cartografía geológica para la gestión del geopatrimonio y la planeación de rutas geoturísticas: Aplicación en el Geoparque Mundial de la UNESCO Comarca Minera, Hidalgo</p>
@@ -564,14 +564,14 @@
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://132.248.14.208/html/mapas_estaticos/numero2/comarcaMinera/html5forpc.html"
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero2/comarcaMinera/html5forpc.html"
         mimetype="application/html">
       <object-id pub-id-type="doi"></object-id>
         <label>Mapa Estático</label>
         <caption>
           <title>Mapa estático de la comarca minera</title>
         </caption>
-      <media mime-subtype="html" mimetype="application" xlink:href="http://132.248.14.208/html/mapas_estaticos/numero2/comarcaMinera/html5forpc.html"/>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero2/comarcaMinera/html5forpc.html"/>
       </supplementary-material>
     </sec>
   </body>
