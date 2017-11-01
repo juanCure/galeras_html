@@ -10,7 +10,7 @@
       </publisher>
     </journal-meta>
     <article-meta>
-      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-id pub-id-type="doi">10.22201/igg.terradigitalis.2017.2.25.77</article-id>
       <article-categories>
         <subj-group>
           <subject>Sample Articles</subject>
@@ -664,6 +664,19 @@
           </tbody>
         </table>
       </table-wrap>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Visualizador</title>
+      <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero2/hidrocarburos/html5forpc.html"
+        mimetype="application/html">
+      <object-id pub-id-type="doi"></object-id>
+        <label>Mapa Estático</label>
+        <caption>
+          <title>Mapa estático de las reservas de hidrocarburos de las Provincias Petroleras Mexicanas</title>
+        </caption>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero2/hidrocarburos/html5forpc.html"/>
+      </supplementary-material>
     </sec>
   </body>
   <back>
