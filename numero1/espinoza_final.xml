@@ -616,7 +616,7 @@
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero1/Espinoza/html5forpc.html"
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas_estaticos/numero1/Espinoza/html5forpc.html"
         mimetype="application/html">
       <object-id pub-id-type="doi">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.4.63</object-id>
         <label>Mapa Estático</label>
@@ -627,7 +627,7 @@
             <ext-link ext-link-type="doi" xlink:href="10.22201/igg.terradigitalis.2017.1.4.63">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.4.63</ext-link>
           </p>
         </caption>
-      <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/mapas_estaticos/numero1/Espinoza/html5forpc.html"/>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas_estaticos/numero1/Espinoza/html5forpc.html"/>
     </supplementary-material>
     </sec>
   </body>
