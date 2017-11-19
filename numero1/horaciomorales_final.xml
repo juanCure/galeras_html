@@ -494,7 +494,7 @@
       <!-- Definiendo la figura del mapa -->
 
       <fig id="fig1" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero1/morales/page1.jpg" position="float" orientation="portrait" xlink:type="simple">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero1/morales/page1.jpg" position="float" orientation="portrait" xlink:type="simple">
           <label>Lámina 1 / Plate 1</label>
           <caption>
             <p><bold>Lámina 1:</bold> Mapa de los paisajes físico-geográficos del estado de Chiapas</p>

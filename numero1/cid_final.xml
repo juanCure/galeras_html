@@ -820,7 +820,7 @@ rid="TF1"></xref></th>
         </table-wrap>
 
         <fig id="fig1" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero1/cid/Cid_Baja_California_VI.png" position="float" orientation="portrait" xlink:type="simple">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero1/cid/Cid_Baja_California_VI.png" position="float" orientation="portrait" xlink:type="simple">
           <label>Figure 1 / Figura 1</label>
           <caption>
             <p><bold>Figure 1: </bold> Fault systems in Baja California. a) Class A faults within the Vallecitos-San Miguel, Agua Blanca, Cerro Prieto-Imperial, Laguna Salada and Sierra Juarez-San Pedro Martir fault systems. Inset shows central portion of Laguna Salada fault system. b) Class B faults in southern Baja California including the Loreto, Carrizal, El Saltito, San Juan de los Planes, La Gata and San Jose del Cabo faults. </p>
@@ -829,7 +829,7 @@ rid="TF1"></xref></th>
         </graphic>
       </fig>
       <fig id="fig2" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero1/cid/Cid_Northern_Central_Mexico_VI.png" position="float" orientation="portrait" xlink:type="simple">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero1/cid/Cid_Northern_Central_Mexico_VI.png" position="float" orientation="portrait" xlink:type="simple">
           <label>Figure 2 / Figura 2</label>
           <caption>
             <p><bold>Figure 2.</bold>  a) Northern Mexico fault systems including the Class A faults of Pitaycachi, Teras and Otates near Bavispe, and La Amargosa in northern Chihuahua. b) Fault systems of the TransMexican Volcanic Belt including the Class A faults in the Acambay and Tenango regions. </p>
@@ -838,7 +838,7 @@ rid="TF1"></xref></th>
         </graphic>
       </fig>
       <fig id="plate1" position="float" orientation="portrait">
-        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero1/cid/Cid_Mapa_Mexico_V.png" position="float" orientation="portrait" xlink:type="simple">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero1/cid/Cid_Mapa_Mexico_V.png" position="float" orientation="portrait" xlink:type="simple">
           <label>Plate 1 / Lámina</label>
           <caption>
             <p><bold>Plate 1. </bold> Quaternary faults included in the GIS database. </p>

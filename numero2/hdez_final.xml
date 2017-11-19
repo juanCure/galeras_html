@@ -229,7 +229,7 @@
           <xref rid="ID8f2ea88c-fa8d-46fa-8d61-701b03ea6651" ref-type="bibr" id="IDbd60bb6f-261f-4673-9345-a8ced7efa4ef">Xu et al., 2012</xref>). </p>
         <p>La interpolaci&#243;n por IDW es adecuada para representar la distribuci&#243;n de las reservas de hidrocarburos debido a que es congruente con el m&#233;todo de clasificaci&#243;n de reservas, donde la incertidumbre se incrementa con la distancia de un pozo y por ende la clasificaci&#243;n de los recursos cambia, como se muestra en la <xref rid="fig1" ref-type="fig">Figura 1</xref> (<xref rid="IDeb908577-43d3-4f00-b754-c829308ae5f6" ref-type="bibr" id="IDb042cf98-cc26-4607-999c-628f027d197a">Barker, 2008</xref>; <xref rid="ref_1" ref-type="bibr">SPE et al., 2011</xref>).</p>
         <fig id="fig1" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_1.png" id="ID87d63a2b-2990-43ac-ad40-0e9dcbdc31da" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_1.png" id="ID87d63a2b-2990-43ac-ad40-0e9dcbdc31da" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 1 / Figure 1</label>
             <caption>
               <p><bold>Figura 1:</bold> Variaci&#243;n de la clasificaci&#243;n de recursos petroleros con la distancia. Tomada de Barker, 2008.</p>
@@ -239,7 +239,7 @@
         </fig>
 
         <fig id="fig2" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_2.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_2.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 2 / Figure 2</label>
             <caption>
               <p><bold>Figura 2:</bold> Distribución de volumen original 1P de crudo </p>
@@ -249,7 +249,7 @@
         </fig>
 
         <fig id="fig3" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_3.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_3.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 3 / Figure 3</label>
             <caption>
               <p><bold>Figura 3:</bold> Distribución de volumen original 2P de crudo </p>
@@ -259,7 +259,7 @@
         </fig>
 
         <fig id="fig4" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_4.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_4.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 4 / Figure 4</label>
             <caption>
               <p><bold>Figura 4:</bold> Distribución de volumen original 3P de crudo </p>
@@ -269,7 +269,7 @@
         </fig>
 
         <fig id="fig5" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_5.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_5.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 5 / Figure 5</label>
             <caption>
               <p><bold>Figura 5:</bold> Distribución de la producción acumulada de crudo </p>
@@ -279,7 +279,7 @@
         </fig>
 
         <fig id="fig6" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_6.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_6.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 6 / Figure 6</label>
             <caption>
               <p><bold>Figura 6:</bold> Distribución de reservas 1P de crudo </p>
@@ -289,7 +289,7 @@
         </fig>
 
         <fig id="fig7" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_7.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_7.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 7 / Figure 7</label>
             <caption>
               <p><bold>Figura 7:</bold> Distribución de reservas 2P de crudo </p>
@@ -299,7 +299,7 @@
         </fig>
 
         <fig id="fig8" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_8.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_8.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 8 / Figure 8</label>
             <caption>
               <p><bold>Figura 8:</bold> Distribución de reservas 3P de crudo </p>
@@ -309,7 +309,7 @@
         </fig>
 
         <fig id="fig9" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_9.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_9.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 9 / Figure 9</label>
             <caption>
               <p><bold>Figura 9:</bold> Distribución del volumen original 1P de gas natural </p>
@@ -319,7 +319,7 @@
         </fig>
 
         <fig id="fig10" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_10.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_10.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 10 / Figure 10</label>
             <caption>
               <p><bold>Figura 10:</bold> Distribución del volumen original 2P de gas natural </p>
@@ -329,7 +329,7 @@
         </fig>
 
         <fig id="fig11" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_11.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_11.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 11 / Figure 11</label>
             <caption>
               <p><bold>Figura 11:</bold> Distribución del volumen original 3P de gas natural </p>
@@ -339,7 +339,7 @@
         </fig>
 
         <fig id="fig12" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_12.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_12.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 12 / Figure 12</label>
             <caption>
               <p><bold>Figura 12:</bold> Distribución de la producción acumulada de gas natural </p>
@@ -349,7 +349,7 @@
         </fig>
 
         <fig id="fig13" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_13.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_13.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 13 / Figure 13</label>
             <caption>
               <p><bold>Figura 13:</bold> Distribución de reservas 1P de gas natural </p>
@@ -359,7 +359,7 @@
         </fig>
 
         <fig id="fig14" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_14.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_14.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 14 / Figure 14</label>
             <caption>
               <p><bold>Figura 14:</bold> Distribución de reservas 2P de gas natural </p>
@@ -369,7 +369,7 @@
         </fig>
 
         <fig id="fig15" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_15.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_15.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 15 / Figure 15</label>
             <caption>
               <p><bold>Figura 15:</bold> Distribución de reservas 3P de gas natural </p>
@@ -379,7 +379,7 @@
         </fig>
 
         <fig id="fig16" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_16.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_16.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 16 / Figure 16</label>
             <caption>
               <p><bold>Figura 16:</bold> Distribución de reservas 1P de petróleo crudo equivalente </p>
@@ -389,7 +389,7 @@
         </fig>
 
         <fig id="fig17" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_17.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_17.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 17 / Figure 17</label>
             <caption>
               <p><bold>Figura 17:</bold> Distribución de reservas 2P de petróleo crudo equivalente </p>
@@ -399,7 +399,7 @@
         </fig>
 
         <fig id="fig18" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_18.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_18.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 18 / Figure 18</label>
             <caption>
               <p><bold>Figura 18:</bold> Distribución de reservas 3P de petróleo crudo equivalente </p>
@@ -409,7 +409,7 @@
         </fig>
 
         <fig id="fig19" position="float" orientation="portrait">
-          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/images_articles/numero2/hdez_ferrari/Figura_19.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero2/hdez_ferrari/Figura_19.jpg" position="float" orientation="portrait" xlink:type="simple">
             <label>Figura 19 / Figure 19</label>
             <caption>
               <p><bold>Figura 19:</bold> Distribución de la producción acumulada de petróleo crudo equivalente </p>
