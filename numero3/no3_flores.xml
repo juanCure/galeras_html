@@ -1,0 +1,1052 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>Terra Digitalis</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Research article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Mapeo de áreas inundadas utilizando imágenes de radar Tandem-X en Acapulco de Juárez, Guerrero-México</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Flores-Lorenzo</surname>
+            <given-names>Pablo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="corresp" rid="corr1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Dávila-Hernández</surname>
+            <given-names>N.</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2" />
+          <xref ref-type="corresp" rid="corr2">*</xref>
+        </contrib>
+        <aff id="aff1">
+          <institution>Posgrado de Geografía, Universidad Nacional Autónoma de México, Ciudad Universitaria, 04510, Coyoacán, CDMX, México</institution>
+        </aff>
+        <aff id="aff2">
+          <institution>Laboratorio de Ciencia y Tecnología de Información Geográfica, Facultad de Geografía, Universidad Autónoma del Estado de México, México</institution>
+        </aff>
+      </contrib-group>
+      <author-notes>
+        <corresp id="corr1">
+          <email>pflpablo77@gmail.com</email>
+        </corresp>
+        <corresp id="corr2">
+          <email>nadavilah@uaemex.mx</email>
+        </corresp>
+      </author-notes>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2018, Pablo Flores-Lorenzo &amp; N. Dávila-Hernández. Published by Terra Digitalis.</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <sec>
+        <title>Resumen</title>
+        <p>El presente mapa tiene por objetivo evidenciar el uso de imágenes de radar de alta resolución TanDEM-X en la identificación de zonas inundadas asociadas a la tormenta tropical “Manuel” ocurrida entre el 14 y 16 de septiembre de 2013, en el municipio de Acapulco de Juárez. Se empleó un proceso semi-automatizado mediante técnicas de transformación vectorial reversible para segmentar áreas inundadas, con base en características texturales relacionadas con razones de cambio pre y post-evento. Los resultados permitieron identificar tres tipos de textura asociada al comportamiento de respuesta de la señal de radar, que son relacionados con los distintos estados de cambio de los cuerpos de agua. La utilidad de esta cartografía radica en su contribución al mapeo inmediato (rapid mapping) durante un evento de desastre al emplear imágenes de radar que pueden ser procesadas en corto tiempo; sin embargo, los resultados dependen del nivel de adquisición y polarimetría; así como la inmediatez para adquirir la imagen SAR post-evento.</p>
+        <p><italic>Palabras clave</italic>: imágenes de radar, TanDEM-X, inundación, segmentación, mapeo inmediato.</p>
+      </sec>
+      <sec>
+        <title>Abstract</title>
+        <p>The present map has as an objective to evince the use of TanDEM-X high-resolution radar images to identify flooded zones associated with Hurricane Manuel, which occurred on September 14th -16th 2013, in the municipality of Acapulco de Juarez, Mexico. A semi-automated process was utilized together with reversible vector transformation to segment flooded areas on the basis of textural characteristics related to pre and post-event change ratios. The results allowed the identification of three sorts of textures associated with the behavior of the radar signal response; these textures are related with various states of change of waterbodies. The usefulness of this cartography lies in its contribution to rapid mapping over a disaster event as it utilizes radar images that can be processed in short time; however, results depend on acquisition level and polarimetry, as well as on the immediateness to acquire post-event SAR images.</p>
+        <p><italic>Keywords</italic>: radar images, TanDEM-X, flooding, segmentation, rapid mapping.</p>
+      </sec>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title>1. Introducción</title>
+      <p>De acuerdo con el &#250;ltimo reporte de la Base de Datos Internacional de Eventos de Emergencia (The International Disaster Database, EM-DAT), la ocurrencia de inundaciones es el desastre con mayor recurrencia e impacto en el mundo y, en los &#250;ltimos 20 a&#241;os, el aumento en su frecuencia se ha relacionado con las variaciones clim&#225;ticas experimentadas a nivel mundial. Un ejemplo de esto es la ocurrencia de fen&#243;menos hidrometeorol&#243;gicos de gran intensidad que vienen acompa&#241;ados de precipitaciones extraordinarias y que junto con el crecimiento de las ciudades han producido cuantiosas p&#233;rdidas humanas y econ&#243;micas; as&#237;, en el periodo de 1995 a 2015, ocurrieron 3,062 inundaciones a nivel mundial que dejaron a su paso 157,000 p&#233;rdidas humanas y afectaron a 2.3 billones de personas, mientras que las p&#233;rdidas econ&#243;micas alcanzaron 662 billones de d&#243;lares. Por lo que se puede decir que las inundaciones son uno de los fen&#243;menos naturales con mayor impacto en el sector econ&#243;mico (<xref rid="ID50f2197f-ae13-41d9-84bf-809cce867436" ref-type="bibr" id="ID6b76da79-f8c9-44b3-b120-9370cce858b1">UNISDR, 2015</xref>).</p>
+      <p>En los &#250;ltimos 15 a&#241;os el uso de datos de observaci&#243;n satelital para el estudio de la prevenci&#243;n del riesgo y soporte, ante el manejo de un desastre, se ha incrementado (<xref rid="IDbfd27295-2c3a-4b97-8a00-cd2d10e0bfca" ref-type="bibr" id="ID599f93d3-fb74-4d3c-a2ed-3c7c24394072">Voigt et al., 2016</xref>), permitiendo de esta forma que el monitoreo constante y la detecci&#243;n espacial a detalle de los fen&#243;menos naturales sean una alternativa eficiente para la fase de respuesta inmediata al desastre. En especial, el uso de im&#225;genes de Radar de Apertura Sint&#233;tica (Synthetic Aperture Radar, SAR), al operar independientemente de la iluminaci&#243;n solar y tener la capacidad de contrarrestar, en cierto grado, las condiciones atmosf&#233;ricas adversas, particularmente la presencia de nubosidad resulta una herramienta eficiente para el mapeo inmediato (rapid mapping), ante una situaci&#243;n de emergencia, por la ocurrencia de fen&#243;menos atmosf&#233;ricos extremos.</p>
+      <p>En este trabajo se presenta la cartograf&#237;a de la inundaci&#243;n asociada a la tormenta tropical &#8220;Manuel&#8221; (ocurrida entre el 14 y 16 de septiembre de 2013 en Acapulco de Ju&#225;rez, M&#233;xico), mediante el procesamiento de im&#225;genes SAR. Dicha cartograf&#237;a se deriv&#243; de un m&#233;todo semi-automatizado de segmentaci&#243;n para identificar diferencias en la distribuci&#243;n del backscattering, o respuesta de la se&#241;al de radar, asociadas a cuerpos de agua y &#225;reas inundadas. La utilidad de este tipo de cartograf&#237;a consiste en contribuir al mapeo inmediato durante un evento de desastre mediante el uso de im&#225;genes de radar, adem&#225;s de demostrar c&#243;mo estas im&#225;genes son potencialmente &#250;tiles para ser usadas en un Sistema de Alerta Temprana. </p>
+    </sec>
+    <sec>
+      <title>2. Antecedentes del evento: tormenta tropical Manuel, ocurrida en septiembre 2013, en Acapulco de Ju&#225;rez, Guerrero.</title>
+      <p>Hist&#243;ricamente, la ciudad de Acapulco ha sido afectada por ciclones tropicales que han impactado a M&#233;xico. En octubre de 1997, el hurac&#225;n Paulina dej&#243; a su paso 147 p&#233;rdidas humanas, 50,000 damnificados y p&#233;rdidas econ&#243;micas por 447.8 millones de d&#243;lares (<xref rid="ID41bcabed-6a33-4144-9278-ed013faf8d10" ref-type="bibr" id="ID839faafc-31f1-47ad-a473-cbf522199125">CENAPRED, 2004</xref>). A&#241;os m&#225;s tarde, en septiembre de 2013, dos ciclones tropicales ocurrieron de manera simult&#225;nea en M&#233;xico: en el oc&#233;ano Pac&#237;fico, la tormenta tropical &#8220;Manuel&#8221; y el hurac&#225;n &#8220;Ingrid&#8221; en el Golfo de M&#233;xico, afectando el 77% del territorio nacional. Entre el 14 y 16 de septiembre se presentaron precipitaciones intensas que alcanzaron 885 mm. (<xref rid="fig1" ref-type="fig">Figura 1</xref>), esta cifra representa el 80% de la media anual de precipitaci&#243;n (<xref rid="ID46f3e1c9-3da2-429f-8b9e-c950e4435fdb" ref-type="bibr" id="IDb3021133-3d07-46fc-bf17-164ba739e1c1">CONAGUA, 2013</xref>). En Acapulco de Ju&#225;rez, la tormenta tropical &#8220;Manuel&#8221; ocasion&#243; inundaciones por el desbordamiento de los r&#237;os Papagayo y La Sabana, as&#237; como en el complejo tur&#237;stico denominado Acapulco Diamante y la zona del aeropuerto internacional, las cuales causaron 24 p&#233;rdidas humanas y da&#241;os por 387 millones de d&#243;lares en carreteras, puentes, aproximadamente 13,000 viviendas afectadas, adem&#225;s de 40,000 turistas varados en la zona hotelera (<xref rid="IDa3416d53-91e4-4943-841e-9654abc7a851" ref-type="bibr" id="IDed27780d-b8c9-4511-bbf4-b79873c506dc">IMPLAN, 2015</xref>).</p>
+    </sec>
+    <sec>
+      <title>3. Materiales y M&#233;todos</title>
+      <p>Las t&#233;cnicas utilizadas para el monitoreo de &#225;reas inundadas que usan im&#225;genes de radar, generalmente se basan en el an&#225;lisis de im&#225;genes cercanas al pre y post-evento de inundaci&#243;n. En particular, la segmentaci&#243;n de cuerpos de agua abiertos es un proceso digital pr&#225;ctico de aplicar, pues generan un retorno homog&#233;neo bajo de la se&#241;al al radar, gracias a su reflexi&#243;n especular. Este retorno aumenta en intensidad al interactuar con estructuras verticales o semi-verticales, caracter&#237;sticas de ambientes urbanos o de cobertura vegetal (<xref rid="IDf78f0ea3-4680-468b-afe8-7cd58ba972db" ref-type="bibr" id="ID517a7643-affb-49ec-b600-9e1fa904bf9d">Pulvirenti et al., 2010</xref>). Diversos trabajos se enfocan en la generaci&#243;n de algoritmos semi-automatizados para delinear inundaciones mayores, mediante la detecci&#243;n de cambios basados en el comportamiento estad&#237;stico de la retrodispersi&#243;n de la se&#241;al (<xref rid="ID2025fdf0-5213-493c-a6bc-d543747fe4ec" ref-type="bibr" id="ID9d3a75af-5884-4fb0-8d15-8a04ea715701">Barstch et al., 2008</xref>; <xref rid="ID2ddb75bd-a2be-4803-9ef6-8f6d28903dc0" ref-type="bibr" id="IDf2986ff0-655a-4b55-b780-b1599e9974c9">O&#8217;Grady et al., 2011</xref>; <xref rid="ID5420642a-d6a6-4741-8d05-021706f27420" ref-type="bibr" id="IDadd6fa22-1327-41d8-807a-53e4f8e1e675">Hostache et al., 2012</xref>; <xref rid="ref3" ref-type="bibr" id="ID964b00d1-9f8d-4f00-94fc-aaf321a3e137">Clement et al., 2017</xref>). Del mismo modo, otros m&#233;todos integran el an&#225;lisis textural y la identificaci&#243;n de l&#237;mites en la frecuencia del histograma para la segmentaci&#243;n de las &#225;reas inundadas (<xref rid="ID86beb6a5-0eb9-4702-a528-92b178a3d8fc" ref-type="bibr" id="ID9d07d94d-4045-4227-97fd-345f2b7e6519">Pradhan et al., 2014</xref>; <xref rid="IDd2000499-386c-4350-94e9-9d0189dbbd10" ref-type="bibr" id="IDf396e269-c9ff-4dd5-be9f-556b81724cad">Nazir et al., 2015</xref>; <xref rid="IDf1d6777b-997a-44f3-885a-340f5af4d803" ref-type="bibr" id="ID7645a0be-a4e4-4853-b6e5-775f28e5841e">Mason et al., 2016</xref>). En este mismo sentido, existen trabajos que muestran la generaci&#243;n de modelos que, adem&#225;s de las t&#233;cnicas ya mencionadas, tratan de analizar los mecanismos de doble rebote de se&#241;al de radar (double bounce scattering mechanism) que se presentan en usos de suelo urbano y forestal inundados (<xref rid="IDf78f0ea3-4680-468b-afe8-7cd58ba972db" ref-type="bibr" id="ID1b75ec8c-84d9-4bb8-95eb-03905cebbc80">Pulvirenti et al., 2010</xref>; <xref rid="ID8374fd17-c090-47dc-987d-4794ea6441fb" ref-type="bibr" id="ID533b4f49-dfb7-4e66-96f8-64bef7fda24b">Mason et al., 2014</xref>; <xref rid="ID2fcecd0b-a40c-45d7-8692-1e9af2ff0c67" ref-type="bibr" id="IDd811d9d7-7f5f-4ab0-b33b-017e01edd28f">Schumann et al., 2016</xref>; <xref rid="ID304a93bb-cf48-475e-b0be-2438ca975c77" ref-type="bibr" id="ID34208386-96f9-4ed6-8de0-64c85e921b41">Plank et al., 2017</xref>).</p>
+      <p>Para la generaci&#243;n de la cartograf&#237;a se emplearon dos im&#225;genes TanDEM-X, adquiridas en modo ScanSAR-SC (del 6 de septiembre de 2013) y StripMap-SM (del 28 de septiembre de 2013), con el nivel de procesamiento de un producto de imagen realzado (EEC-Enhanced Ellipsoid Corrected), polarizaci&#243;n HH, en &#243;rbita ascendente (<xref ref-type="table" rid="tbl1">Tabla 1</xref>). Es importante mencionar que las im&#225;genes fueron programadas como parte del sistema de alerta del Servicio de Informaci&#243;n Agroalimentaria y Pesquera (SIAP), que al momento del evento de inundaci&#243;n era el &#250;nico organismo con telemetr&#237;a de radar disponible en el pa&#237;s (<xref rid="fig2" ref-type="fig">Figura 2</xref>). Las im&#225;genes de tipo EEC, tienen una resoluci&#243;n espacial reducida y cuentan con la correcci&#243;n geom&#233;trica de m&#225;s alto nivel de los productos TanDEM-X. </p>
+      <p>En primera instancia, se realiz&#243; la normalizaci&#243;n del coeficiente de retrodispersi&#243;n (backscattering) &#963;<sub>&#963;</sub>(dB), dado por la forma (<xref rid="ID03025c1b-7367-4c88-9d35-a3258ac7af1f" ref-type="bibr" id="ID4f560bff-3e52-472b-8d7c-de9fa35d4013">Hanssen, 2001</xref>):</p>
+      <p>&#963;<sub>&#963;</sub>(dB) = 10.Log<sub>1&#1017;</sub> (coeficiente de energ&#237;a)</p>
+      <p>donde:</p>
+      <p><inline-formula><mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll" id="inf15"><mml:mrow><mml:mrow><mml:mo>〈</mml:mo><mml:mrow><mml:msub><mml:mi>τ</mml:mi><mml:mi mathvariant="italic">off</mml:mi></mml:msub></mml:mrow><mml:mo>〉</mml:mo></mml:mrow></mml:mrow></mml:math></inline-formula></p>
+      <!-- <p>
+        <mml:math xmlns:mml="http://www.w3.org/1998/Math/MathML" overflow="scroll">
+          <mml:mi>c</mml:mi>
+          <mml:mi>o</mml:mi>
+          <mml:mi>e</mml:mi>
+          <mml:mi>f</mml:mi>
+          <mml:mi>i</mml:mi>
+          <mml:mi>c</mml:mi>
+          <mml:mi>i</mml:mi>
+          <mml:mi>e</mml:mi>
+          <mml:mi>n</mml:mi>
+          <mml:mi>t</mml:mi>
+          <mml:mi>e</mml:mi>
+          <mml:mi>d</mml:mi>
+          <mml:mi>e</mml:mi>
+          <mml:mi>e</mml:mi>
+          <mml:mi>n</mml:mi>
+          <mml:mi>e</mml:mi>
+          <mml:mi>r</mml:mi>
+          <mml:mi>g</mml:mi>
+          <mml:mi>&#237;</mml:mi>
+          <mml:mi>a</mml:mi>
+          <mml:mo>=</mml:mo>
+          <mml:mfrac>
+            <mml:mrow>
+              <mml:mi>e</mml:mi>
+              <mml:mi>n</mml:mi>
+              <mml:mi>e</mml:mi>
+              <mml:mi>r</mml:mi>
+              <mml:mi>g</mml:mi>
+              <mml:mi>&#237;</mml:mi>
+              <mml:mi>a</mml:mi>
+              <mml:mi>r</mml:mi>
+              <mml:mi>e</mml:mi>
+              <mml:mi>c</mml:mi>
+              <mml:mi>i</mml:mi>
+              <mml:mi>b</mml:mi>
+              <mml:mi>i</mml:mi>
+              <mml:mi>d</mml:mi>
+              <mml:mi>a</mml:mi>
+              <mml:mi>p</mml:mi>
+              <mml:mi>o</mml:mi>
+              <mml:mi>r</mml:mi>
+              <mml:mi>e</mml:mi>
+              <mml:mi>l</mml:mi>
+              <mml:mi>s</mml:mi>
+              <mml:mi>e</mml:mi>
+              <mml:mi>n</mml:mi>
+              <mml:mi>s</mml:mi>
+              <mml:mi>o</mml:mi>
+              <mml:mi>r</mml:mi>
+            </mml:mrow>
+            <mml:mrow>
+              <mml:maction actiontype="lit">
+                <mml:mtext>energ&#237;a reflejada de forma isotr&#243;pica</mml:mtext>
+              </mml:maction>
+            </mml:mrow>
+          </mml:mfrac>
+        </mml:math>
+      </p> -->
+      <p>Para ambas im&#225;genes se aplic&#243; el filtro de Lee en el espacio de la imagen para la modelaci&#243;n del ruido (speckle), debido a que permite valores de salida cercanos a la media local en &#225;reas uniformes y una estimaci&#243;n de la varianza asociada al ruido global de la imagen, seleccionando de manera interactiva una regi&#243;n homog&#233;nea de la misma donde el ruido es impl&#237;cito, considerando un kernel 5x5 (<xref rid="ID6b3a923d-ddb0-4419-998e-083dc6fffe91" ref-type="bibr" id="ID8f8d2297-38b5-4dff-a4e5-9c9b865c144f">Lira, 2010</xref>). Para generar el mapa de inundaci&#243;n se utilizaron t&#233;cnicas de transformaci&#243;n digital con el objetivo de caracterizar el comportamiento del backscattering asociado a las &#225;reas inundadas. En primer lugar, se llev&#243; a cabo la normalizaci&#243;n de las im&#225;genes pre y post-evento para estimar la raz&#243;n de cambio, adem&#225;s de aplicar la transformada vectorial reversible de Componentes Principales (<xref rid="IDbf2cc2eb-7ec2-4ab3-91be-fee909c68843" ref-type="bibr" id="IDc207bc05-7743-48d1-a824-1eb09008ac54">Hotelling, 1933</xref>), con la intenci&#243;n de obtener valores asociados a la m&#225;xima varianza. Como resultado de la aplicaci&#243;n de esta transformada, se obtuvieron dos im&#225;genes de salida. El proceso de segmentaci&#243;n de las &#225;reas inundadas y cuerpos de agua se realiz&#243; con base en las propiedades texturales de las im&#225;genes, esto derivado de la aplicaci&#243;n de una transformada vectorial, que se convirti&#243; en una nueva banda asociada al cambio en el terreno propiciado por la inundaci&#243;n, lo que demostr&#243; cambios precisos en las frecuencias de los pixeles que brindaron informaci&#243;n importante acerca del estado de la inundaci&#243;n. Posteriormente, se realiz&#243; una composici&#243;n en falso color para facilitar una combinaci&#243;n lineal de los datos correspondientes a distintos estados de inundaci&#243;n y su asociaci&#243;n a diversos usos del suelo y medio natural. Para segmentar las zonas inundadas se utiliz&#243; un algoritmo basado en objetos, donde la selecci&#243;n del grupo de pixeles que los compone toma en cuenta atributos espectrales, espaciales y texturales, a diferencia de los clasificadores tradicionales, donde s&#243;lo se considera la media de las caracter&#237;sticas espectrales (<xref rid="ID95ce3ab5-a2c0-49e1-9804-5e1515e1b434" ref-type="bibr" id="IDa2aebf26-682a-4fa1-b6a2-56c32993f187">Jin y Paswaters, 2007</xref>). </p>
+    </sec>
+    <sec>
+      <title>4. Resultados y discusi&#243;n</title>
+      <p>En la <xref rid="fig3" ref-type="fig">Figura 3</xref> se presentan en conjunto las &#225;reas inundadas identificadas con im&#225;genes de radar, sin embargo, se identificaron tres tipos de textura asociada al comportamiento de respuesta de la se&#241;al de radar, que a su vez muestra los distintos estados de cambio de los cuerpos de agua. De esta forma, el proceso de segmentaci&#243;n de &#225;reas consider&#243; tanto el lecho de los r&#237;os Papagayo y La Sabana, como el canal de desbordamiento de estos dentro de una reflexi&#243;n tipo especular, la cual en t&#233;rminos de segmentaci&#243;n de objetos es la m&#225;s f&#225;cil de identificar debido a una disminuci&#243;n uniforme en la intensidad de respuesta de la se&#241;al; vinculado as&#237; a una textura fina que es caracter&#237;stica de las superficies de agua en calma. En segundo lugar, se identificaron las reflexiones de tipo doble rebote (double bounce scattering mechanism) asociadas a cuerpos de agua en zonas urbanas, en su mayor&#237;a de tipo habitacional, ubicadas a lo largo del borde oeste del r&#237;o La Sabana; de manera similar, el proceso de segmentaci&#243;n incluy&#243; los campos de cultivo inundados en los alrededores y los ubicados en la barra que limita a la Laguna de Tres Palos. Finalmente, el tercer grupo fue relacionado con zonas de manglar inundadas, que en su mayor&#237;a correspond&#237;an al desbordamiento de la Laguna de Tres Palos y Barra Vieja, y que presentaron, de igual manera, una respuesta de doble rebote del sensor. Es importante se&#241;alar que la imagen de radar posterior al fen&#243;meno natural fue adquirida 12 d&#237;as despu&#233;s del evento m&#225;ximo, por lo que hubo un descenso en el nivel de la inundaci&#243;n y de algunos cuerpos de agua; por lo que los ubicados principalmente al norte de la Laguna no pudieron ser detectados mediante esta t&#233;cnica.</p>
+      <p>Con la finalidad de realizar un comparativo de los resultados, se consultaron otras fuentes oficiales que se a&#241;adieron como coberturas al mapa final. Entonces, se presenta el &#225;rea identificada por CONAGUA (<xref rid="ID46f3e1c9-3da2-429f-8b9e-c950e4435fdb" ref-type="bibr" id="ID2b4830fa-722c-44f4-9242-c4f832468349">2013</xref>), que reporta haber utilizado fotograf&#237;as &#225;reas, dos im&#225;genes &#243;pticas de sat&#233;lite adquiridas el 18 y 23 de septiembre, al igual que un modelo hidr&#225;ulico bidimensional y su proceso de validaci&#243;n en campo; todo esto la convierte en la fuente que reporta una mayor extensi&#243;n de la inundaci&#243;n. Mej&#237;a-Estrada (<xref rid="ID23bc638c-843e-434e-9937-c944e36bb2ac" ref-type="bibr" id="ID2dc4c2b6-8522-4430-b5c8-740f28aa8bc1">2014</xref>) realiz&#243; una modelaci&#243;n num&#233;rica de la inundaci&#243;n, con base en datos Lidar del INEGI (<xref rid="ID1d7421eb-e9d8-4db2-93fa-abceaf3dd283" ref-type="bibr" id="ID816e4145-98db-4416-bdcc-6c25c850af9c">2007</xref>), de muy alta resoluci&#243;n y con datos de informaci&#243;n meteorol&#243;gica, hidrol&#243;gica e hidrodin&#225;mica, identificando el sector habitacional, concentrado en el borde oeste del r&#237;o La Sabana, como el &#225;rea m&#225;s afectada, seguida por la barra al sur de la Laguna; esto verificado por medio de mediciones en campo y con imagen del sat&#233;lite RapidEye del 18 de septiembre. Por su parte, el 3 de octubre de 2013, la Secretar&#237;a de Desarrollo Urbano y Obras P&#250;blicas (<xref rid="IDe1229f52-18a8-4ee8-b02d-f7cc5dc90f38" ref-type="bibr" id="ID51f214fd-68e1-4f1c-b3c4-f5df981b1772">SEDUOP, 2015</xref>) gener&#243; un an&#225;lisis de las causas de las inundaciones en la zona tur&#237;stica Acapulco Diamante, en donde se incluy&#243; un diagn&#243;stico y un reporte a nivel colonia de las afectaciones causadas por la tormenta tropical, siendo la caracterizaci&#243;n de las zonas inundadas la de mayor semejanza con los resultados cartogr&#225;ficos obtenidos en este trabajo.</p>
+      <p>Las discrepancias en la distribuci&#243;n espacial de las &#225;reas inundadas propuestas en el presente trabajo con respecto a las estimaciones realizadas por CONAGUA (<xref rid="ID46f3e1c9-3da2-429f-8b9e-c950e4435fdb" ref-type="bibr" id="IDc5b66957-26d6-40bc-bef5-04288cce188c">2013</xref>) y Mej&#237;a-Estrada (<xref rid="ID23bc638c-843e-434e-9937-c944e36bb2ac" ref-type="bibr" id="ID8dbe5f79-24d2-48da-9319-60db9cf99150">2014</xref>), se pueden explicar por el uso de diferentes metodolog&#237;as e insumos empleados. CONAGUA (<xref rid="ID46f3e1c9-3da2-429f-8b9e-c950e4435fdb" ref-type="bibr" id="IDfdef87c5-106e-441d-be87-f0fd6edb5fc9">2013</xref>) gener&#243; su cartograf&#237;a a partir de la fusi&#243;n de resultados entre el modelo hidr&#225;ulico bidimensional y la estimaci&#243;n de cambio empleando im&#225;genes &#243;pticas. Al contar con informaci&#243;n m&#225;s cercana al evento, delimit&#243; una mayor &#225;rea; adem&#225;s, el modelo hidr&#225;ulico simul&#243; &#225;reas que aparecen como no inundadas en los resultados derivados del procesamiento de im&#225;genes satelitales. Por su parte, los resultados reportados por Mej&#237;a-Estrada (<xref rid="ID23bc638c-843e-434e-9937-c944e36bb2ac" ref-type="bibr" id="ID0f4aac3c-309b-4169-9d38-77695b5301ae">2014</xref>) se obtuvieron a partir de la reconstrucci&#243;n del evento, empleando datos de precipitaci&#243;n y caracter&#237;sticas del terreno por medio de datos Lidar de 2007, por lo que las discrepancias pueden deberse a que despu&#233;s de 6 a&#241;os la infraestructura urbana pudo haber experimentado cambios espaciales considerables. Adicionalmente, la simulaci&#243;n s&#243;lo se calcul&#243; a lo largo de los r&#237;os La Sabana y Papagayo, dejando fuera de este an&#225;lisis &#225;reas como la Zona Diamante, el aeropuerto internacional de Acapulco, Barra Vieja y las inmediaciones de la Laguna de Tres Palos, las cuales tambi&#233;n presentaron afectaciones por inundaci&#243;n, dando como resultado un pol&#237;gono con una menor &#225;rea afectada por inundaci&#243;n. </p>
+    </sec>
+    <sec>
+      <title>5. Conclusiones </title>
+      <p>La importancia de este trabajo radica en el uso de t&#233;cnicas semi-automatizadas y de procesamiento pr&#225;ctico para generar una cartograf&#237;a eficaz e inmediata, dependiendo de la disponibilidad de im&#225;genes, que puedan ser utilizadas en una situaci&#243;n de emergencia o en el manejo de la planeaci&#243;n de alerta temprana. En el caso de las im&#225;genes &#243;pticas, estas pueden demorar en su adquisici&#243;n o bien, su utilidad puede resultar limitada debido a la presencia de nubosidad, mientras que una imagen SAR puede ser adquirida pr&#225;cticamente bajo cualquier condici&#243;n atmosf&#233;rica, en un menor tiempo, con la calidad necesaria para ser procesada y obtener la informaci&#243;n de manera oportuna ante el impacto inmediato de este tipo de desastres. No obstante, la calidad de los resultados puede depender en gran medida de la prontitud para adquirir la imagen post-evento, as&#237; como su polarimetr&#237;a y nivel de procesamiento, ya que resulta indispensable su adquisici&#243;n en niveles primarios, con la finalidad de realizar las calibraciones adecuadas para la correcta aplicaci&#243;n de este tipo de t&#233;cnicas semi-automatizadas. La t&#233;cnica presentada en este trabajo para la generaci&#243;n de cartograf&#237;a por inundaci&#243;n podr&#237;a ser mejorada al integrar otros procesos semi-automatizados, como la modelaci&#243;n del comportamiento estad&#237;stico de las zonas de cambio o la identificaci&#243;n de l&#237;mites en la frecuencia de los histogramas, con la finalidad de obtener una mayor exactitud en la segmentaci&#243;n y clasificaci&#243;n de los estados de una inundaci&#243;n.  </p>
+    </sec>
+    <sec>
+      <title>6. Software y dise&#241;o del mapa</title>
+      <p>El tratamiento digital de las im&#225;genes de radar y &#243;pticas se realiz&#243; con el software ENVI 5.1, SNAP 5.0, ERDAS 2015 y Sentinel 1 Toolbox con los que se aplicaron los m&#243;dulos de correcci&#243;n geom&#233;trica, radiom&#233;trica y de segmentaci&#243;n. La edici&#243;n y dise&#241;o final del mapa se llev&#243; a cabo en el sistema de informaci&#243;n geogr&#225;fica QGIS 3.0 Girona, considerando los resultados de otros autores (<xref rid="ID46f3e1c9-3da2-429f-8b9e-c950e4435fdb" ref-type="bibr" id="ID298b70d6-bfc9-4633-9a11-7426e7b585fe">CONAGUA, 2013</xref>; <xref rid="ID23bc638c-843e-434e-9937-c944e36bb2ac" ref-type="bibr" id="ID1e5d05ce-300c-4753-84a2-8eb0e83097bd">Mej&#237;a-Estrada, 2014</xref>; <xref rid="IDe1229f52-18a8-4ee8-b02d-f7cc5dc90f38" ref-type="bibr" id="ID099f0745-1f01-4e63-9784-e263dd83fd76">SEDUOP, 2015</xref>) para cotejar los resultados obtenidos.</p>
+    </sec>
+    <sec>
+      <title>Agradecimientos</title>
+      <p>Los autores agradecen a los revisores an&#243;nimos por brindar su tiempo y esfuerzo, as&#237; como sus invaluables aportaciones para la mejora de este trabajo. De igual forma, los autores externan su agradecimiento al SIAP y a la Estaci&#243;n de Recepci&#243;n M&#233;xico (ERMEX) por la disposici&#243;n y autorizaci&#243;n del uso de las im&#225;genes TanDEM-X en este estudio. </p>
+
+      <!-- Definiendo las figuras que tiene este artículo -->
+      <fig id="fig1" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero3/flores/Figura1.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 1 / Figure 1</label>
+          <caption>
+            <p><bold>Figura 1.</bold> Precipitación diaria y acumulada en milímetros de la cuenca del río La Sabana, del 13 al 18 de septiembre de 2013.</p>
+            <p><bold>Figure 1.</bold> Daily precipitation and accumulation in millimeters for the basin of river La Sabana, September 13 – 18, 2013.</p>
+          </caption>
+        </graphic>
+      </fig>
+
+      <fig id="fig2" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero3/flores/Figura2.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 2 / Figure 2</label>
+          <caption>
+            <p><bold>Figura 2.</bold> a) Imagen TanDEM-X del 6 de septiembre de 2013 (pre-evento); b) Imagen de radar TanDEM-X del 28 de septiembre de 2013 (post-evento); c) Resultado del tratamiento de la imagen del 28 de septiembre de 2013 (post-evento) TanDEM-X.</p>
+            <p><bold>Figure 2.</bold> a) TanDEM-X image of September 6, 2013 (pre-event); b) TanDEM-X image of September 28, 2013 (post-event); c) Processed TanDEM-X image of September 28, 2013 (post-event).</p>
+          </caption>
+        </graphic>
+      </fig>
+
+      <fig id="fig3" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero3/flores/Figura3.jpg" position="float" orientation="portrait" xlink:type="simple">
+          <label>Figura 3 / Figure 3</label>
+          <caption>
+            <p><bold>Figura 3.</bold> Mapa de las áreas inundadas en Acapulco de Juárez, Guerrero, por la tormenta tropical "Manuel", septiembre de 2013.</p>
+            <p><bold>Figure 3.</bold> Map of flooded areas in Acapulco de Juárez, Guerrero, by tropical storm "Manuel", September 2013.</p>
+          </caption>
+        </graphic>
+      </fig>
+
+      <table-wrap specific-use="rules" position="float" orientation="portrait" id="tbl1">
+        <label>Tabla 1 / Table 1</label>
+        <caption>
+          <p><bold>Tabla 1:</bold> Características de las imágenes TanDEM-X.</p>
+          <p><bold>Table 1:</bold> Characteristics of TanDEM-X images.</p>
+        </caption>
+        <table frame="box" rules="all" border="1" cellpadding="5">
+          <thead>
+            <tr>
+              <th align="center">Imagen</th>
+              <th align="center">Sensor</th>
+              <th align="center">Módulo de adquisición</th>
+              <th align="center">Polarización</th>
+              <th align="center">Ángulo de incidencia</th>
+              <th align="center">Órbita</th>
+              <th align="center">Dirección de la órbita</th>
+              <th align="center">Resolución espacial (metros)</th>
+              <th align="center">Nivel de procesamiento</th>
+              <th align="center">Fecha de adquisición</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td rowspan="1" colspan="1">Pre-evento</td>
+              <td rowspan="1" colspan="1">TanDEM-X</td>
+              <td rowspan="1" colspan="1">ScanSAR-SC</td>
+              <td rowspan="1" colspan="1">HH</td>
+              <td rowspan="1" colspan="1">39.55&#186;</td>
+              <td rowspan="1" colspan="1">136</td>
+              <td rowspan="1" colspan="1">Ascendente</td>
+              <td rowspan="1" colspan="1">8.25</td>
+              <td rowspan="1" colspan="1">Enhanced Ellipsoid Corrected (EEC)</td>
+              <td rowspan="1" colspan="1">6-septiembre-2013</td>
+            </tr>
+            <tr>
+              <td rowspan="1" colspan="1">Post-evento</td>
+              <td rowspan="1" colspan="1">TanDEM-X</td>
+              <td rowspan="1" colspan="1">StripMap-SM</td>
+              <td rowspan="1" colspan="1">HH</td>
+              <td rowspan="1" colspan="1">41.50&#186;</td>
+              <td rowspan="1" colspan="1">136</td>
+              <td rowspan="1" colspan="1">Ascendente</td>
+              <td rowspan="1" colspan="1">3</td>
+              <td rowspan="1" colspan="1">Enhanced Ellipsoid Corrected (EEC)</td>
+              <td rowspan="1" colspan="1">28-septiembre-2013</td>
+            </tr>
+          </tbody>
+        </table>
+      </table-wrap>
+    </sec>
+  </body>
+  <back>
+    <ref-list>
+      <ref id="ID2025fdf0-5213-493c-a6bc-d543747fe4ec">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bartsch</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Pathe</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Scipal</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Wagner</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Detection of permanent open water surfaces in central Siberia with ENVISAT ASAR wide swath data with special emphasis on the estimation of methane fluxes from tundra wetlands</italic>
+          </article-title>
+          <source>
+          <italic>Hydrology Research</italic>
+          </source>
+          <date>
+            <year>2008</year>
+          </date>
+          <volume>39(2)</volume>
+          <issue></issue>
+          <fpage>89</fpage>
+          <lpage>100</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Bartsch, A., Pathe, K., Scipal, K., Wagner W., 2008. Detection of permanent open water surfaces in central Siberia with ENVISAT ASAR wide swath data with special emphasis on the estimation of methane fluxes from tundra wetlands. Hydrology Research, 39 (2), 89-100. </mixed-citation> -->
+      </ref>
+      <ref id="ID41bcabed-6a33-4144-9278-ed013faf8d10">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Centro Nacional Prevención de Desastres (CENAPRED)</surname>
+              <given-names></given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Inundaciones, Serie Fascículos, Secretaría de Gobernación, México, 56 pp</italic>
+          </article-title>
+          <date>
+            <year>2004</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>Centro Nacional Prevenci&#243;n de Desastres (CENAPRED), 2004. Inundaciones, Serie Fasc&#237;culos, Secretar&#237;a de Gobernaci&#243;n, M&#233;xico, 56 pp..</mixed-citation> -->
+      </ref>
+      <ref id="ref3">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Clement</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Kilsby</surname>
+              <given-names>C.G.</given-names>
+            </name>
+            <name>
+              <surname>Moore</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Multi-temporal SAR flood mapping using change detection</italic>
+          </article-title>
+          <source>
+          <italic>Journal of Flood Risk Management</italic>
+          </source>
+          <date>
+            <year>2017</year>
+          </date>
+          <volume>1753-318x</volume>
+          <issue></issue>
+          <fpage>1</fpage>
+          <lpage>17</lpage>
+          <pub-id pub-id-type="doi">10.1111/jfr3.12303</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="ID46f3e1c9-3da2-429f-8b9e-c950e4435fdb">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Comisión Nacional del Agua (CONAGUA)</surname>
+              <given-names></given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Datos de precipitación, gasto hidráulico y áreas afectadas en el municipio de Acapulco, Gro., Secretaria de Medio Ambiente y Recursos Naturales, México, 10 pp</italic>
+          </article-title>
+          <date>
+            <year>2013</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>Comisi&#243;n Nacional del Agua (CONAGUA), 2013. Datos de precipitaci&#243;n, gasto hidr&#225;ulico y &#225;reas afectadas en el municipio de Acapulco, Gro., Secretaria de Medio Ambiente y Recursos Naturales, M&#233;xico, 10 pp.</mixed-citation> -->
+      </ref>
+      <ref id="ID03025c1b-7367-4c88-9d35-a3258ac7af1f">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hanssen</surname>
+              <given-names>Ramon. F.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Radar Interferometry: Data Interpretation and Error Analysis. Springer Science &amp; Business Media, 298 pp</italic>
+          </article-title>
+          <date>
+            <year>2001</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>Hanssen, Ramon. F., 2001. Radar Interferometry: Data Interpretation and Error Analysis. Springer Science &amp; Business Media, 298 pp.</mixed-citation> -->
+      </ref>
+      <ref id="ID5420642a-d6a6-4741-8d05-021706f27420">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hostache</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Matgen</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Wagner</surname>
+              <given-names>W.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Change detection approaches for flood extent mapping: How to select the most adequate reference image from online archives?</italic>
+          </article-title>
+          <source>
+          <italic>International Journal of Applied Earth Observation and Geoinformation</italic>
+          </source>
+          <date>
+            <year>2012</year>
+          </date>
+          <volume>19</volume>
+          <issue></issue>
+          <fpage>205</fpage>
+          <lpage>213</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Hostache, R., Matgen, P., Wagner, W., 2012. Change detection approaches for flood extent mapping: How to select the most adequate reference image from online archives? International Journal of Applied Earth Observation and Geoinformation, 19, 205-213.</mixed-citation> -->
+      </ref>
+      <ref id="IDbf2cc2eb-7ec2-4ab3-91be-fee909c68843">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Hotelling</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Analysis of a complex of statistical variables into principal components</italic>
+          </article-title>
+          <source>
+          <italic>Journal of Educational Psychology</italic>
+          </source>
+          <date>
+            <year>1933</year>
+          </date>
+          <volume>24</volume>
+          <issue></issue>
+          <fpage>417</fpage>
+          <lpage>441</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Hotelling. H., 1933. Analysis of a complex of statistical variables into principal components. Journal of Educational Psychology, 24, 417-41 and 498-520.</mixed-citation> -->
+      </ref>
+      <ref id="IDa3416d53-91e4-4943-841e-9654abc7a851">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Instituto Municipal de Planeación (IMPLAN)</surname>
+              <given-names></given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Programa de colaboración con organismos internacionales. Acapulco, Guerrero, México. Secretaria de Planeación y Desarrollo Económico, 28 pp</italic>
+          </article-title>
+          <date>
+            <year>2015</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>Instituto Municipal de Planeaci&#243;n (IMPLAN), 2015. Programa de colaboraci&#243;n con organismos internacionales. Acapulco, Guerrero, M&#233;xico. Secretaria de Planeaci&#243;n y Desarrollo Econ&#243;mico, 28 pp.</mixed-citation> -->
+      </ref>
+      <ref id="ID1d7421eb-e9d8-4db2-93fa-abceaf3dd283">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Instituto Nacional de Estadística y Geografía (INEGI)</surname>
+              <given-names></given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Modelo Digital de Elevación de alta resolución Lidar, bloque conformado por los modelos en formato de nube de puntos con clave: E14C57A4, E14C57B3, E14C57B4, E14C57D2, E14C57E1, E14C57E2, E14C57E3, E14C57E4, E14C57F1, E14C57F3, E14C57F4, E14C67C1, E14C67C2, E14C57A3, E15A75, E15A76, E15A85, E15A86</italic>
+          </article-title>
+          <date>
+            <year>2007</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>Instituto Nacional de Estad&#237;stica y Geograf&#237;a (INEGI), 2007. Modelo Digital de Elevaci&#243;n de alta resoluci&#243;n Lidar, bloque conformado por los modelos en formato de nube de puntos con clave: E14C57A4, E14C57B3, E14C57B4, E14C57D2, E14C57E1, E14C57E2, E14C57E3, E14C57E4, E14C57F1, E14C57F3, E14C57F4, E14C67C1, E14C67C2, E14C57A3, E15A75, E15A76, E15A85, E15A86.</mixed-citation> -->
+      </ref>
+      <ref id="ID95ce3ab5-a2c0-49e1-9804-5e1515e1b434">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jin</surname>
+              <given-names>X.</given-names>
+            </name>
+            <name>
+              <surname>Paswaters</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>A fuzzy rule base system for object-based feature extraction and classification. Signal Processing, Sensor Fusion, and Target Recognition XVI (I. Kadar, editor)</italic>
+          </article-title>
+          <source>
+          <italic>Proceedings of SPIE</italic>
+          </source>
+          <date>
+            <year>2007</year>
+          </date>
+          <volume>6567</volume>
+          <issue></issue>
+          <fpage>65671H1</fpage>
+          <lpage>65671H12</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Jin, X. and S. Paswaters. (2007). A fuzzy rule base system for object-based feature extraction and classification. Signal Processing, Sensor Fusion, and Target Recognition XVI (I. Kadar, editor). Proceedings of SPIE, Vol. 6567, pp. 65671H1 &#8211; 65671H12.</mixed-citation> -->
+      </ref>
+      <ref id="ID6b3a923d-ddb0-4419-998e-083dc6fffe91">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Lira</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Tratamiento digital de imágenes multiespectrales: Universidad Nacional Autónoma de México, 632 pp</italic>
+          </article-title>
+          <date>
+            <year>2010</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>Lira, J., 2010. Tratamiento digital de im&#225;genes multiespectrales: Universidad Nacional Aut&#243;noma de M&#233;xico, 632 pp.</mixed-citation> -->
+      </ref>
+      <ref id="ID8374fd17-c090-47dc-987d-4794ea6441fb">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mason</surname>
+              <given-names>D.C.</given-names>
+            </name>
+            <name>
+              <surname>Giustarni</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>García-Pintado</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cloke</surname>
+              <given-names>H.L.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Detection of flooded urban areas in high resolution Synthetic Aperture Radar images using double scattering</italic>
+          </article-title>
+          <source>
+          <italic>International Journal of Applied Earth Observation and Geoinformation</italic>
+          </source>
+          <date>
+            <year>2014</year>
+          </date>
+          <volume>28</volume>
+          <issue></issue>
+          <fpage>150</fpage>
+          <lpage>159</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jvolgeores.2005.02.004</pub-id>
+        </element-citation>
+        <!-- <mixed-citation>Mason, D.C., Giustarni, L., Garc&#237;a-Pintado, J. y Cloke, H.L., 2014. Detection of flooded urban areas in high resolution Synthetic Aperture Radar images using double scattering. International Journal of Applied Earth Observation and Geoinformation, 28, 150-159.</mixed-citation> -->
+      </ref>
+      <ref id="IDf1d6777b-997a-44f3-885a-340f5af4d803">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mason</surname>
+              <given-names>D.C.</given-names>
+            </name>
+            <name>
+              <surname>Trigg</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Garcia-Pintado</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Cloke</surname>
+              <given-names>H.L.</given-names>
+            </name>
+            <name>
+              <surname>Neal</surname>
+              <given-names>J.C.</given-names>
+            </name>
+            <name>
+              <surname>Bates</surname>
+              <given-names>P.D.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Improving the TanDEM-X Digital Elevation Model for flood modelling using flood extents from Synthetic Aperture Radar images</italic>
+          </article-title>
+          <source>
+          <italic>Remote Sensing of Environment</italic>
+          </source>
+          <date>
+            <year>2016</year>
+          </date>
+          <volume>173</volume>
+          <issue></issue>
+          <fpage>15</fpage>
+          <lpage>28</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Mason, D.C., Trigg, M., Garcia-Pintado, J., Cloke H.L., Neal, J.C. y Bates P.D., 2016. Improving the TanDEM-X Digital Elevation Model for flood modelling using flood extents from Synthetic Aperture Radar images. Remote Sensing of Environment, 173, 15-28.</mixed-citation> -->
+      </ref>
+      <ref id="ID23bc638c-843e-434e-9937-c944e36bb2ac">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mejía-Estrada</surname>
+              <given-names>P.I.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Caracterización del evento hidrometeorológico extremo en Acapulco, Guerrero, en septiembre de 2013: México, Universidad Nacional Autónoma de México, Posgrado Ingeniería Civil-Hidráulica, tesis de maestría, 76 pp.</italic>
+          </article-title>
+          <date>
+            <year>2014</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>Mej&#237;a-Estrada, P.I., 2014. Caracterizaci&#243;n del evento hidrometeorol&#243;gico extremo en Acapulco, Guerrero, en septiembre de 2013: M&#233;xico, Universidad Nacional Aut&#243;noma de M&#233;xico, Posgrado Ingenier&#237;a Civil-Hidr&#225;ulica, tesis de maestr&#237;a, 76 pp.</mixed-citation> -->
+      </ref>
+      <ref id="IDd2000499-386c-4350-94e9-9d0189dbbd10">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nazir</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Riaz</surname>
+              <given-names>M.M.</given-names>
+            </name>
+            <name>
+              <surname>Ghafoor</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Arif</surname>
+              <given-names>F.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Brief Communication: Contrast-stretching and histogram-smoothness-based synthetic aperture radar image enhancement for flood map generation</italic>
+          </article-title>
+          <source>
+          <italic>Natural Hazards and Earth System Sciences</italic>
+          </source>
+          <date>
+            <year>2015</year>
+          </date>
+          <volume>15</volume>
+          <issue></issue>
+          <fpage>273</fpage>
+          <lpage>276</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Nazir, F., Riaz, M.M., Ghafoor, A., Arif, F., 2015. Brief Communication: Contrast-stretching and histogram-smoothness-based synthetic aperture radar image enhancement for flood map generation. Natural Hazards and Earth System Sciences, 15, 273-276.</mixed-citation> -->
+      </ref>
+      <ref id="ID2ddb75bd-a2be-4803-9ef6-8f6d28903dc0">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>O’Grady</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Leblanc</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Gillieson</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Use of ENVISAT ASAR global monitoring mode to complement optical data in the mapping of rapid broad-scale flooding in Pakistan</italic>
+          </article-title>
+          <source>
+          <italic>Hydrology and Earth System Sciences Discussions</italic>
+          </source>
+          <date>
+            <year>2011</year>
+          </date>
+          <volume>8</volume>
+          <issue></issue>
+          <fpage>5769</fpage>
+          <lpage>5809</lpage>
+        </element-citation>
+        <!-- <mixed-citation>O&#8217;Grady, D., Leblanc, M., Gillieson, D., 2011. Use of ENVISAT ASAR global monitoring mode to complement optical data in the mapping of rapid broad-scale flooding in Pakistan. Hydrology and Earth System Sciences Discussions, 8, 5769-5809.</mixed-citation> -->
+      </ref>
+      <ref id="ID304a93bb-cf48-475e-b0be-2438ca975c77">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Plank</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Jüssi</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Martinis</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Twele</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Mapping of flooded vegetation by means of polarimetric Sentinel-1 and ALOS-2/PALSAR-2 imagery</italic>
+          </article-title>
+          <source>
+          <italic>International Journal of Remote Sensing</italic>
+          </source>
+          <date>
+            <year>2017</year>
+          </date>
+          <volume>38(13)</volume>
+          <issue></issue>
+          <fpage>3831</fpage>
+          <lpage>3850</lpage>
+          <pub-id pub-id-type="doi">10.1080/01431161.2017.1306143</pub-id>
+        </element-citation>
+        <!-- <mixed-citation>Plank, S., J&#252;ssi, M., Martinis, S., Twele, A., 2017. Mapping of flooded vegetation by means of polarimetric Sentinel-1 and ALOS-2/PALSAR-2 imagery. International Journal of Remote Sensing, 38:13, 3831-3850. DOI: 10.1080/01431161.2017.1306143.</mixed-citation> -->
+      </ref>
+      <ref id="ID86beb6a5-0eb9-4702-a528-92b178a3d8fc">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pradhan</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Hagemann</surname>
+              <given-names>U.</given-names>
+            </name>
+            <name>
+              <surname>Tehrany</surname>
+              <given-names>M.S.</given-names>
+            </name>
+            <name>
+              <surname>Prechtel</surname>
+              <given-names>N.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>An easy to use ArcMap based texture analysis program for extraction of flooded areas from TerraSAR-X satellite image</italic>
+          </article-title>
+          <source>
+          <italic>Computers &amp; Geosciences</italic>
+          </source>
+          <date>
+            <year>2014</year>
+          </date>
+          <volume>63</volume>
+          <issue></issue>
+          <fpage>34</fpage>
+          <lpage>43</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Pradhan, B., Hagemann, U., Tehrany, M.S. y Prechtel, N. 2014. An easy to use ArcMap based texture analysis program for extraction of flooded areas from TerraSAR-X satellite image. Computers &amp; Geosciences, 63, 34-43.</mixed-citation> -->
+      </ref>
+      <ref id="IDf78f0ea3-4680-468b-afe8-7cd58ba972db">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pulvirenti</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Pierdicca</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Chini</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Analysis of Cosmo-SkyMed observations of the 2008 flood in Myanmar</italic>
+          </article-title>
+          <source>
+          <italic>Italian Journal of Remote Sensing</italic>
+          </source>
+          <date>
+            <year>2010</year>
+          </date>
+          <volume>42(1)</volume>
+          <issue></issue>
+          <fpage>70</fpage>
+          <lpage>79</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Pulvirenti L., Pierdicca N., Chini M., 2010. Analysis of Cosmo-SkyMed observations of the 2008 flood in Myanmar, Italian Journal of Remote Sensing, 42 (1) 79-70. </mixed-citation> -->
+      </ref>
+      <ref id="ID2fcecd0b-a40c-45d7-8692-1e9af2ff0c67">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Schumann</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Frye</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Wells</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Adler</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Brakenridge</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Bolten</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Murray</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Slayback</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Policelli</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Kirschbaum</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Wu</surname>
+              <given-names>H.</given-names>
+            </name>
+            <name>
+              <surname>Cappelaere</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Howard</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Flaming</surname>
+              <given-names>Z.</given-names>
+            </name>
+            <name>
+              <surname>Clarck</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Stough</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Chini</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Matgen</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Green</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Unlocking the full potential of Earth observation during the 2015 Texas flood disaster</italic>
+          </article-title>
+          <source>
+          <italic>Water Resources Research</italic>
+          </source>
+          <date>
+            <year>2016</year>
+          </date>
+          <volume>52</volume>
+          <issue></issue>
+          <fpage>3288</fpage>
+          <lpage>3293</lpage>
+          <pub-id pub-id-type="doi">10.1002/2015WR018428</pub-id>
+        </element-citation>
+        <!-- <mixed-citation>
+          Schumann, G., Frye, S., Wells, G., Adler, R., Brakenridge, R., Bolten, J., Murray, J., Slayback, D., Policelli, F., Kirschbaum, D., Wu, H., Cappelaere, P., Howard, T. Flaming, Z., Clarck, R., Stough, T., Chini, M., Matgen, P., Green, D., Jones, B., 2016. Unlocking the full potential of Earth observation during the 2015 Texas flood disaster. Water Resources Research, 52, 3288-3293. DOI:10.1002/2015WR018428.</mixed-citation> -->
+      </ref>
+      <ref id="IDe1229f52-18a8-4ee8-b02d-f7cc5dc90f38">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Secretar&#237;a de Desarrollo Urbano y Obras P&#250;blicas (SEDUOP)</surname>
+              <given-names></given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Análisis y causas de las inundaciones en la zona Diamante, tormenta “Manuel”, septiembre 2013. Gobierno del Estado de Guerrero, México, 38 pp.</italic>
+          </article-title>
+          <date>
+            <year>2015</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>Secretar&#237;a de Desarrollo Urbano y Obras P&#250;blicas (SEDUOP), 2015. An&#225;lisis y causas de las inundaciones en la zona Diamante, tormenta &#8220;Manuel&#8221;, septiembre 2013. Gobierno del Estado de Guerrero, M&#233;xico, 38 pp.</mixed-citation> -->
+      </ref>
+      <ref id="ID50f2197f-ae13-41d9-84bf-809cce867436">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>The United Nations Office for Disaster Risk Reduction (UNISDR)</surname>
+              <given-names></given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>The human cost of weather related disasters 1995-2015, Centre for Research on the Epidemiology of Disasters, Bruselas, Bélgica, 30 pp</italic>
+          </article-title>
+          <date>
+            <year>2015</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>The United Nations Office for Disaster Risk Reduction (UNISDR), 2015. The human cost of weather related disasters 1995-2015, Centre for Research on the Epidemiology of Disasters, Bruselas, B&#233;lgica, 30 pp. </mixed-citation> -->
+      </ref>
+      <ref id="IDbfd27295-2c3a-4b97-8a00-cd2d10e0bfca">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Voigt</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Giulio-Tonolo</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Lyons</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Kucera</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Jones</surname>
+              <given-names>B.</given-names>
+            </name>
+            <name>
+              <surname>Schneiderhan</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Platzeck</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Kaku</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Kumar</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Czaran</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Li</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Pedersen</surname>
+              <given-names>W.</given-names>
+            </name>
+            <name>
+              <surname>Kadiri</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Proy</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Macharia</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Bequignon</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Guha-Sapir</surname>
+              <given-names>D.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Global trends in satellite-based emergency mapping</italic>
+          </article-title>
+          <source>
+          <italic>Science, Washington DC, USA</italic>
+          </source>
+          <date>
+            <year>2016</year>
+          </date>
+          <volume>353 (6296),</volume>
+          <issue></issue>
+          <fpage>247</fpage>
+          <lpage>252</lpage>
+          <pub-id pub-id-type="doi">10.1126/science.aad8728</pub-id>
+        </element-citation>
+        <!-- <mixed-citation>Voigt, S., Giulio-Tonolo, F., Lyons, J., Kucera, J., Jones, B., Schneiderhan, T., Platzeck, G., Kaku, K., Kumar, M., Czaran, L., Li, S., Pedersen, W., Kadiri, G., Proy, C., Macharia, D., Bequignon, J., Guha-Sapir, D., 2016. Global trends in satellite-based emergency mapping. Science, Washington DC, USA., 15 Jul 2016, 353 (6296), pp 247-252. DOI 10.1126/science.aad8728.</mixed-citation> -->
+      </ref>
+    </ref-list>
+  </back>
+</article>
