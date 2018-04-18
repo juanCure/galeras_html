@@ -208,60 +208,66 @@
                 <p>Cada mapa fue homogenizado para que su extensi&#243;n y l&#237;mites coincidieran entre s&#237;, utilizando como marco de referencia el mapa de uso de suelo y vegetaci&#243;n de la zona costera de la CONABIO (
                     <xref rid="IDcbebaf0e-f819-445d-838a-bc6413bb21ce" ref-type="bibr" id="ID350343d6-94be-44f9-a786-fce52429157c">2016</xref>). </p>
                 <p>Las etapas para determinar cada nivel taxon&#243;mico, seg&#250;n la definici&#243;n y criterios descritos en la tabla 1, fueron las siguientes: </p>
-            </sec>
-        </sec> 
-        <sec>
-            <sec>
-                <title>
-                    <italic>Nivel Taxon&#243;mico: Clase.</italic>
-                </title>
-                <p>A partir de las curvas de nivel, se gener&#243; el modelo digital de elevaci&#243;n con el cual se determin&#243; que morfom&#233;tricamente el &#225;rea de estudio se encuentra en planicies (costeras) sub-horizontales, seg&#250;n su disecci&#243;n vertical (Dv&#8804;2.5). Posteriormente se realiz&#243; la definici&#243;n clim&#225;tica de estas planicies con la sobreposici&#243;n de tipos de clima, cuyo resultado fue de planicies en clima c&#225;lido para toda el &#225;rea. En este punto de la integraci&#243;n del tipo de clima, es necesario realizar las siguientes consideraciones seg&#250;n las premisas de Priego
+                <sec>
+                    <title>
+                        <italic>1) Nivel Taxon&#243;mico: Clase</italic>
+                    </title>
+                    <p>A partir de las curvas de nivel, se gener&#243; el modelo digital de elevaci&#243;n con el cual se determin&#243; que morfom&#233;tricamente el &#225;rea de estudio se encuentra en planicies (costeras) sub-horizontales, seg&#250;n su disecci&#243;n vertical (Dv&#8804;2.5). Posteriormente se realiz&#243; la definici&#243;n clim&#225;tica de estas planicies con la sobreposici&#243;n de tipos de clima, cuyo resultado fue de planicies en clima c&#225;lido para toda el &#225;rea. En este punto de la integraci&#243;n del tipo de clima, es necesario realizar las siguientes consideraciones seg&#250;n las premisas de Priego
                     <italic>et al</italic>. (
                     <xref rid="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4" ref-type="bibr" id="IDf3930c37-e910-4e1a-ae49-ac09e2d137d3">2010</xref>): a) Aunque el mapa de clima presenta una escala de 1:1 000 000, fue utilizado para este producto de 1:250 000, ya que es la &#250;nica fuente oficial de climas en el pa&#237;s; b) el clima posee una distribuci&#243;n continua y en la naturaleza la diferenciaci&#243;n entre tipos de clima se realiza de una forma gradual y continua. En excepciones los cambios son abruptos; c) Los tipos de clima ocupan extensas &#225;reas, lo que reduce los errores que se pueden cometer al ampliar un mapa 1:1 000 000 a escalas mayores; d) el &#225;rea de estudio comprende un solo tipo clim&#225;tico (c&#225;lido h&#250;medo), lo que facilita la determinaci&#243;n de esta clase.</p>
-                <p>
-                    <italic>2) Nivel Taxon&#243;mico: Localidad.</italic>
-                </p>
-                <p>La base de este nivel taxon&#243;mico estuvo centrada en la determinaci&#243;n de la composici&#243;n litol&#243;gica de estas planicies, a partir de la sobreposici&#243;n de los mapas geol&#243;gicos del Servicio Geol&#243;gico Mexicano (SGM) y del Instituto Nacional de Estad&#237;stica y Geograf&#237;a (INEGI). Se determinaron los tipos litol&#243;gicos consistentes con la zona y se eliminaron todos los pol&#237;gonos que no cumplieran con el &#225;rea m&#237;nima cartografiable (1 km2). </p>
-                <p>El trabajo de campo para validaci&#243;n y/o correcci&#243;n de las unidades superiores del mapa y la leyenda, as&#237; como la obtenci&#243;n de informaci&#243;n de vegetaci&#243;n y periodicidad de inundaci&#243;n, fueron &#250;tiles y muy importantes para la conformaci&#243;n de las unidades intermedias e inferiores.</p>
-                <p>
-                    <italic>3) Nivel Taxon&#243;mico: Paraje complejo.</italic>
-                </p>
-                <p>Al resultado anterior, se sobrepuso cartogr&#225;ficamente el mapa de uso de suelo y vegetaci&#243;n y posteriormente el mapa edafol&#243;gico, teniendo como resultado la integraci&#243;n de estas dos capas (vegetaci&#243;n y suelos). De esta manera se generaron las unidades intermedias de paisajes o nivel de Paraje complejo. Posteriormente, se realiz&#243; la generalizaci&#243;n conceptual y espacial del producto (aplicaci&#243;n del &#225;rea m&#237;nima cartografiable de 1 km2) y se determin&#243; el grupo de vegetaci&#243;n presente en cada unidad de paisaje.</p>
-                <p>
-                    <italic>4) Nivel Taxon&#243;mico: Paraje simple.</italic>
-                </p>
-                <p>Para este nivel, las unidades se desagregaron por tipo de vegetaci&#243;n y periodicidad de inundaci&#243;n, obtenida a partir de datos de campo, vegetaci&#243;n y mapas de inundaci&#243;n del &#225;rea de estudio. Como mencionan Priego
-                    <italic>et al</italic>. (
-                    <xref rid="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4" ref-type="bibr" id="ID8ae8fe77-836a-4d8f-9d39-655fa91e2e3b">2010</xref>), la periodicidad de inundaci&#243;n es un factor ecol&#243;gico importante de diferenciaci&#243;n. Estas unidades, seg&#250;n su periodicidad, pueden llegar a ser muy dependientes de la interacci&#243;n con los usos del territorio adyacente y el gradiente de inundaci&#243;n puede permitir el establecimiento de un continuo entre sistemas lago-humedal-tierra. Por lo anterior, se aplic&#243; la clasificaci&#243;n basada en el periodo de meses en que el suelo est&#225; saturado en agua.</p>
-                <p>Para su representaci&#243;n cartogr&#225;fica y mayor comprensi&#243;n en la lectura del mapa (L&#225;mina 1. La leyenda ampliada puede consultarse en la secci&#243;n: Material suplementario) se utiliz&#243; el nivel de
-                    <italic>localidad</italic> en la representaci&#243;n de colores y otra codificaci&#243;n para los siguientes niveles.</p>
-            </sec>
-            <sec>
-                <title>3. Conclusiones</title>
-                <p>Este estudio presenta una metodolog&#237;a para la identificaci&#243;n espacial de unidades naturales del paisaje en humedales costeros, en el que la g&#233;nesis del relieve y la periodicidad de inundaci&#243;n son criterios importantes en la diferenciaci&#243;n de unidades inferiores.</p>
-                <p>Como limitaciones de la investigaci&#243;n, se puede se&#241;alar la falta de informaci&#243;n cartogr&#225;fica precisa sobre los componentes naturales del territorio, lo cual condicion&#243; a un intenso trabajo de campo. Esta falta de informaci&#243;n precisa, parece ser una peculiaridad de los humedales costeros en gran parte del territorio nacional. </p>
-                <p>En &#225;reas tan extensas de humedales costeros, el trabajo de campo se convierte en algo fundamental para eliminar incongruencias cartogr&#225;ficas encontradas al momento de la integraci&#243;n de los diferentes atributos del territorio. Por otro lado, tambi&#233;n sirve para la verificaci&#243;n y validaci&#243;n de la hip&#243;tesis cartogr&#225;fica realizada.</p>
-                <p> En el &#225;rea de estudio se pudieron identificar tres niveles taxon&#243;micos de nivel local;
-                    <italic>i)</italic> 6 localidades;
-                    <italic>ii)</italic> 11 parajes complejos y
-                    <italic>iii)</italic> 61 parajes simples. </p>
-                <p>Las planicies fluvio-bi&#243;genas acumulativas presentan el mayor porcentaje de superficie con 48% del total del &#225;rea de estudio. Le siguen las planicies fluviales acumulativas con 25%, las planicies marino-terr&#237;genas acumulativas con 11%, las planicies marino-e&#243;licas acumulativas con 7%, las planicies fluvio-tect&#243;nicas con 5% y las planicies acumulativas con 4%. </p>
-                <p>De las dos &#225;reas naturales protegidas, la Reserva de la Bi&#243;sfera Pantanos de Centla presenta tres Localidades con fuerte predominio de la din&#225;mica fluvial. El 58% de esta reserva presenta planicies fluvio-tect&#243;nicas acumulativas, formadas por dep&#243;sitos aluviales y calizas en clima c&#225;lido h&#250;medo. Posteriormente, se encuentran las planicies fluviales acumulativas, formadas por dep&#243;sitos aluviales en clima c&#225;lido h&#250;medo con 36% y el restante 6% se compone de planicies tect&#243;nicas abrasivo-acumulativas, formadas por calizas en clima c&#225;lido h&#250;medo. </p>
-                <p>En el &#193;rea de Protecci&#243;n de Flora y Fauna Laguna de T&#233;rminos se encuentran representadas 5 localidades. Al igual que en Pantanos de Centla, las planicies fluvio-bi&#243;genas acumulativas y las planicies fluviales se encuentran ampliamente distribuidas con 61% y 11% respectivamente. Las planicies marino-e&#243;licas se encuentran en 9% del territorio.</p>
-                <p> Finalmente, el entendimiento de la composici&#243;n y estructura f&#237;sico-geogr&#225;fica del &#225;rea de Pantanos de Centla y Laguna de T&#233;rminos, as&#237; como la comprensi&#243;n de su heterogeneidad podr&#225; ayudar a realizar evaluaciones espaciales integrales. Estas evaluaciones son &#250;tiles para sentar las bases biof&#237;sicas en procesos de ordenamiento ecol&#243;gico del territorio, as&#237; como evaluaciones de diferentes tipos de servicios que estos ecosistemas nos brindan.</p>
-                <sec>
-                    <title>4. Software</title>
-                    <p>La integraci&#243;n, generalizaci&#243;n y composici&#243;n del mapa se llev&#243; a cabo usando Esri ArcGis 10.3.1. Los metadatos se pueden consultar en la secci&#243;n: Material suplementario.</p>
                 </sec>
                 <sec>
-                    <title>5. Datos</title>
-                    <p>Los datos generados en este trabajo se encuentran en formato vectorial tipo shapefile, que pueden ser utilizados a partir de un sistema de informaci&#243;n geogr&#225;fica (SIG). Los metadatos del mapa pueden ser consultados con un lector de textos. </p>
+                    <title>
+                        <italic>2) Nivel Taxon&#243;mico: Localidad</italic>
+                    </title>
+                    <p>La base de este nivel taxon&#243;mico estuvo centrada en la determinaci&#243;n de la composici&#243;n litol&#243;gica de estas planicies, a partir de la sobreposici&#243;n de los mapas geol&#243;gicos del Servicio Geol&#243;gico Mexicano (SGM) y del Instituto Nacional de Estad&#237;stica y Geograf&#237;a (INEGI). Se determinaron los tipos litol&#243;gicos consistentes con la zona y se eliminaron todos los pol&#237;gonos que no cumplieran con el &#225;rea m&#237;nima cartografiable (1 km2). </p>
+                    <p>El trabajo de campo para validaci&#243;n y/o correcci&#243;n de las unidades superiores del mapa y la leyenda, as&#237; como la obtenci&#243;n de informaci&#243;n de vegetaci&#243;n y periodicidad de inundaci&#243;n, fueron &#250;tiles y muy importantes para la conformaci&#243;n de las unidades intermedias e inferiores.</p>
+                </sec>
+                <sec>
+                    <title>
+                        <italic>3) Nivel Taxon&#243;mico: Paraje complejo</italic>
+                    </title>
+                    <p>Al resultado anterior, se sobrepuso cartogr&#225;ficamente el mapa de uso de suelo y vegetaci&#243;n y posteriormente el mapa edafol&#243;gico, teniendo como resultado la integraci&#243;n de estas dos capas (vegetaci&#243;n y suelos). De esta manera se generaron las unidades intermedias de paisajes o nivel de Paraje complejo. Posteriormente, se realiz&#243; la generalizaci&#243;n conceptual y espacial del producto (aplicaci&#243;n del &#225;rea m&#237;nima cartografiable de 1 km2) y se determin&#243; el grupo de vegetaci&#243;n presente en cada unidad de paisaje.</p>
+                </sec>
+                <sec>
+                    <title>
+                        <italic>4) Nivel Taxon&#243;mico: Paraje simple</italic>
+                    </title>
+                    <p>Para este nivel, las unidades se desagregaron por tipo de vegetaci&#243;n y periodicidad de inundaci&#243;n, obtenida a partir de datos de campo, vegetaci&#243;n y mapas de inundaci&#243;n del &#225;rea de estudio. Como mencionan Priego
+                        <italic>et al</italic>. (
+                        <xref rid="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4" ref-type="bibr" id="ID8ae8fe77-836a-4d8f-9d39-655fa91e2e3b">2010</xref>), la periodicidad de inundaci&#243;n es un factor ecol&#243;gico importante de diferenciaci&#243;n. Estas unidades, seg&#250;n su periodicidad, pueden llegar a ser muy dependientes de la interacci&#243;n con los usos del territorio adyacente y el gradiente de inundaci&#243;n puede permitir el establecimiento de un continuo entre sistemas lago-humedal-tierra. Por lo anterior, se aplic&#243; la clasificaci&#243;n basada en el periodo de meses en que el suelo est&#225; saturado en agua.</p>
+                    <p>Para su representaci&#243;n cartogr&#225;fica y mayor comprensi&#243;n en la lectura del mapa (L&#225;mina 1. La leyenda ampliada puede consultarse en la secci&#243;n: Material suplementario) se utiliz&#243; el nivel de
+                        <italic>localidad</italic> en la representaci&#243;n de colores y otra codificaci&#243;n para los siguientes niveles.</p>
                 </sec>
             </sec>
-            <sec>
-                <title>Agradecimientos </title>
-                <p>Este estudio fue financiado por la Comisi&#243;n Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), as&#237; como el posgrado de Geograf&#237;a de la Universidad Nacional Aut&#243;noma de M&#233;xico (UNAM). Queremos agradecer en particular al Dr. Jos&#233; Sarukh&#225;n por el apoyo incondicional del fortalecimiento de capacidades institucionales. Tambi&#233;n agradecemos a la sub-coordinaci&#243;n de Percepci&#243;n Remota de la CONABIO por el uso de sus instalaciones. A la Comisi&#243;n Nacional de &#193;reas Naturales Protegidas (CONANP) por el apoyo en campo y log&#237;stico brindado en la Reserva de la Bi&#243;sfera Pantanos de Centla y Reserva de Flora y Fauna Laguna de T&#233;rminos.</p>
-            </sec>
+        </sec>
+        <sec>
+            <title>3. Conclusiones</title>
+            <p>Este estudio presenta una metodolog&#237;a para la identificaci&#243;n espacial de unidades naturales del paisaje en humedales costeros, en el que la g&#233;nesis del relieve y la periodicidad de inundaci&#243;n son criterios importantes en la diferenciaci&#243;n de unidades inferiores.</p>
+            <p>Como limitaciones de la investigaci&#243;n, se puede se&#241;alar la falta de informaci&#243;n cartogr&#225;fica precisa sobre los componentes naturales del territorio, lo cual condicion&#243; a un intenso trabajo de campo. Esta falta de informaci&#243;n precisa, parece ser una peculiaridad de los humedales costeros en gran parte del territorio nacional. </p>
+            <p>En &#225;reas tan extensas de humedales costeros, el trabajo de campo se convierte en algo fundamental para eliminar incongruencias cartogr&#225;ficas encontradas al momento de la integraci&#243;n de los diferentes atributos del territorio. Por otro lado, tambi&#233;n sirve para la verificaci&#243;n y validaci&#243;n de la hip&#243;tesis cartogr&#225;fica realizada.</p>
+            <p> En el &#225;rea de estudio se pudieron identificar tres niveles taxon&#243;micos de nivel local;
+                <italic>i)</italic> 6 localidades;
+                <italic>ii)</italic> 11 parajes complejos y
+                <italic>iii)</italic> 61 parajes simples. </p>
+            <p>Las planicies fluvio-bi&#243;genas acumulativas presentan el mayor porcentaje de superficie con 48% del total del &#225;rea de estudio. Le siguen las planicies fluviales acumulativas con 25%, las planicies marino-terr&#237;genas acumulativas con 11%, las planicies marino-e&#243;licas acumulativas con 7%, las planicies fluvio-tect&#243;nicas con 5% y las planicies acumulativas con 4%. </p>
+            <p>De las dos &#225;reas naturales protegidas, la Reserva de la Bi&#243;sfera Pantanos de Centla presenta tres Localidades con fuerte predominio de la din&#225;mica fluvial. El 58% de esta reserva presenta planicies fluvio-tect&#243;nicas acumulativas, formadas por dep&#243;sitos aluviales y calizas en clima c&#225;lido h&#250;medo. Posteriormente, se encuentran las planicies fluviales acumulativas, formadas por dep&#243;sitos aluviales en clima c&#225;lido h&#250;medo con 36% y el restante 6% se compone de planicies tect&#243;nicas abrasivo-acumulativas, formadas por calizas en clima c&#225;lido h&#250;medo. </p>
+            <p>En el &#193;rea de Protecci&#243;n de Flora y Fauna Laguna de T&#233;rminos se encuentran representadas 5 localidades. Al igual que en Pantanos de Centla, las planicies fluvio-bi&#243;genas acumulativas y las planicies fluviales se encuentran ampliamente distribuidas con 61% y 11% respectivamente. Las planicies marino-e&#243;licas se encuentran en 9% del territorio.</p>
+            <p> Finalmente, el entendimiento de la composici&#243;n y estructura f&#237;sico-geogr&#225;fica del &#225;rea de Pantanos de Centla y Laguna de T&#233;rminos, as&#237; como la comprensi&#243;n de su heterogeneidad podr&#225; ayudar a realizar evaluaciones espaciales integrales. Estas evaluaciones son &#250;tiles para sentar las bases biof&#237;sicas en procesos de ordenamiento ecol&#243;gico del territorio, as&#237; como evaluaciones de diferentes tipos de servicios que estos ecosistemas nos brindan.</p>
+        </sec>
+        <sec>
+            <title>4. Software</title>
+            <p>La integraci&#243;n, generalizaci&#243;n y composici&#243;n del mapa se llev&#243; a cabo usando Esri ArcGis 10.3.1. Los metadatos se pueden consultar en la secci&#243;n: Material suplementario.</p>
+        </sec>
+        <sec>
+            <title>5. Datos</title>
+            <p>Los datos generados en este trabajo se encuentran en formato vectorial tipo shapefile, que pueden ser utilizados a partir de un sistema de informaci&#243;n geogr&#225;fica (SIG). Los metadatos del mapa pueden ser consultados con un lector de textos. </p>
+        </sec>
+        <sec>
+            <title>Agradecimientos </title>
+            <p>Este estudio fue financiado por la Comisi&#243;n Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), as&#237; como el posgrado de Geograf&#237;a de la Universidad Nacional Aut&#243;noma de M&#233;xico (UNAM). Queremos agradecer en particular al Dr. Jos&#233; Sarukh&#225;n por el apoyo incondicional del fortalecimiento de capacidades institucionales. Tambi&#233;n agradecemos a la sub-coordinaci&#243;n de Percepci&#243;n Remota de la CONABIO por el uso de sus instalaciones. A la Comisi&#243;n Nacional de &#193;reas Naturales Protegidas (CONANP) por el apoyo en campo y log&#237;stico brindado en la Reserva de la Bi&#243;sfera Pantanos de Centla y Reserva de Flora y Fauna Laguna de T&#233;rminos.</p>
+        </sec>
+        <sec>
             <sec>
                 <title/>
                 <p>L&#225;mina 1. Mapa de los paisajes f&#237;sico-geogr&#225;ficos de humedales costeros continentales en dos &#225;reas naturales protegidas del Golfo de M&#233;xico.</p>
