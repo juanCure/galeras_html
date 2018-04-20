@@ -1,0 +1,1876 @@
+<!DOCTYPE article PUBLIC "-//NLM//DTD Journal Publishing DTD v3.0 20080202//EN" "http://dtd.nlm.nih.gov/publishing/3.0/journalpublishing3.dtd">
+<article>
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>Terra Digitalis</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.1000/123456</article-id>
+      <article-categories>
+        <subj-group>
+          <subject>Research article</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>Cartografía Temática del Área de Protección de Flora y Fauna del Nevado de Toluca y Propuesta de Senderos Geoturísticos</article-title>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Jácome-Paz</surname>
+            <given-names>Mariana Patricia</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>López Valdés</surname>
+            <given-names>Néstor</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>De la Fuente Rivera</surname>
+            <given-names>Juan Ramón</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Avila Vasquez</surname>
+            <given-names>Gloria Itzel</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff3"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Guzmán-Sánchez</surname>
+            <given-names>Javier</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff4"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rios-Vázquez</surname>
+            <given-names>Ameyalli</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Espinasa-Pereña</surname>
+            <given-names>Ramón</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff5"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rangel Granados</surname>
+            <given-names>Elizabeth</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Vásquez Serrano</surname>
+            <given-names>Alberto</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff2"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Torres Orozco</surname>
+            <given-names>Rafael</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff8"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Caballero García</surname>
+            <given-names>Lizeth</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff7"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Arce Saldaña</surname>
+            <given-names>José Luis</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff8"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ville Benavides</surname>
+            <given-names>Rodrigo</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff9"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Cobos Villagrán</surname>
+            <given-names>Aurora</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Victoria Peregrino</surname>
+            <given-names>Karina</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Rivera García</surname>
+            <given-names>Gerardo Damián</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff6"/>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Caballero Miranda</surname>
+            <given-names>Margarita</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1"/>
+        </contrib>
+        <aff id="aff1">
+          <institution>Instituto de Geofísica, UNAM. Circuito de la investigación Científica s/n, Ciudad Universitaria, Delegación Coyoacán, C.P. 04510, Ciudad de México</institution>
+        </aff>
+        <aff id="aff2">
+          <institution>Posgrado en Ciencias de la Tierra, UNAM. Unidad de Posgrado, edificio D, primer piso. Cd. Universitaria, Coyoacán, Ciudad de México</institution>
+        </aff>
+        <aff id="aff3">
+          <institution>Colegio de Geografía de la Facultad de Filosofía y Letras, UNAM. Circuito Interior. Ciudad Universitaria, s/n. C.P. 04510. México</institution>
+        </aff>
+        <aff id="aff4">
+          <institution>Comisión Nacional Forestal, Gerencia Estatal Morelos. 62290, Río Tamazula 30, Vista Hermosa, Cuernavaca, Morelos</institution>
+        </aff>
+        <aff id="aff5">
+          <institution>Centro Nacional de Prevención de Desastres, CENAPRED. Av. Delfín Madrigal No. 665,  Pedregal de Santo Domingo, Delegación Coyoacán, Ciudad de México. C.P. 04360</institution>
+        </aff>
+        <aff id="aff6">
+          <institution>Escuela Nacional de Ciencias Biológicas, IPN. Prolongación de Carpio y Plan de Ayala s/n. Col. Santo Tomás CP11340. Del. Miguel Hidalgo. CDMX</institution>
+        </aff>
+        <aff id="aff7">
+          <institution>Facultad de Ciencias, UNAM. Circuito Exterior s/n, Coyoacán, Cd. Universitaria, 04510 Ciudad de México</institution>
+        </aff>
+        <aff id="aff8">
+          <institution>Instituto de Geología, UNAM. Circuito de la investigación Científica s/n, Ciudad Universitaria, Delegación Coyoacán, C.P. 04510, Ciudad de México</institution>
+        </aff>
+        <aff id="aff9">
+          <institution>Facultad de Medicina. Universidad Nacional Autónoma de México</institution>
+        </aff>
+      </contrib-group>
+      <pub-date pub-type="epub">
+        <year>2013</year>
+      </pub-date>
+      <volume>1</volume>
+      <issue>1</issue>
+      <fpage>1</fpage>
+      <lpage>2</lpage>
+      <permissions>
+        <copyright-statement>Copyright &#169; 2014, Martin Paul Eve</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
+          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        </license>
+      </permissions>
+      <self-uri>https://www.martineve.com/</self-uri>
+      <abstract>
+        <p>This is a sample abstract that forms part of the metadataSample.xml file in meTypeset.</p>
+      </abstract>
+    </article-meta>
+  </front>
+  <body>
+    <sec>
+      <title/>
+      <p>J&#225;come-Paz Mariana Patricia1*, L&#243;pez Vald&#233;s N&#233;stor2, De la Fuente Rivera Juan Ram&#243;n2, Gloria Itzel Avila Vasquez3, Guzm&#225;n-S&#225;nchez Javier4, Rios- V&#225;zquez Ameyalli6, Espinasa &#8211; Pere&#241;a Ram&#243;n5, Rangel Granados Elizabeth2, V&#225;squez Serrano Alberto2, Torres Orozco Rafael8, Caballero Garc&#237;a Lizeth7, Arce Salda&#241;a Jos&#233; Luis8, Ville Benavides Rodrigo9, Cobos Villagr&#225;n Aurora6, Victoria Peregrino Karina6, Rivera Garc&#237;a Gerardo Dami&#225;n6, Caballero Miranda Margarita1</p>
+      <p><ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:*patricia@geofisica.unam.mx" ext-link-type="uri" xlink:type="simple">*patricia@geofisica.unam.mx</ext-link>, <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="mailto:mp.jacomepaz@gmail.com" ext-link-type="uri" xlink:type="simple">mp.jacomepaz@gmail.com</ext-link></p>
+      <list list-type="order">
+        <list-item>
+          <p> Instituto de Geof&#237;sica, UNAM. Circuito de la investigaci&#243;n Cient&#237;fica s/n, Ciudad Universitaria, Delegaci&#243;n Coyoac&#225;n, C.P. 04510, Ciudad de M&#233;xico.1 Instituto de Geof&#237;sica, UNAM. Circuito de la investigaci&#243;n Cient&#237;fica s/n, Ciudad Universitaria, Delegaci&#243;n Coyoac&#225;n, C.P. 04510, Ciudad de M&#233;xico.</p>
+        </list-item>
+        <list-item>
+          <p> Posgrado en Ciencias de la Tierra, UNAM. Unidad de Posgrado, edificio D, primer piso. Cd. Universitaria, Coyoac&#225;n, Ciudad de M&#233;xico.2 Posgrado en Ciencias de la Tierra, UNAM. Unidad de Posgrado, edificio D, primer piso. Cd. Universitaria, Coyoac&#225;n, Ciudad de M&#233;xico.</p>
+        </list-item>
+        <list-item>
+          <p> Colegio de Geograf&#237;a de la Facultad de Filosof&#237;a y Letras, UNAM. Circuito Interior. Ciudad Universitaria, s/n. C.P. 04510. M&#233;xico.3 Colegio de Geograf&#237;a de la Facultad de Filosof&#237;a y Letras, UNAM. Circuito Interior. Ciudad Universitaria, s/n. C.P. 04510. M&#233;xico.</p>
+        </list-item>
+        <list-item>
+          <p> Comisi&#243;n Nacional Forestal, Gerencia Estatal Morelos. 62290, R&#237;o Tamazula 30, Vista Hermosa, Cuernavaca, Morelos.4 Comisi&#243;n Nacional Forestal, Gerencia Estatal Morelos. 62290, R&#237;o Tamazula 30, Vista Hermosa, Cuernavaca, Morelos.</p>
+        </list-item>
+        <list-item>
+          <p> Centro Nacional de Prevenci&#243;n de Desastres, CENAPRED. Av. Delf&#237;n Madrigal No. 665,  Pedregal de Santo Domingo, Delegaci&#243;n Coyoac&#225;n, Ciudad de M&#233;xico. C.P. 043605 Centro Nacional de Prevenci&#243;n de Desastres, CENAPRED. Av. Delf&#237;n Madrigal No. 665,  Pedregal de Santo Domingo, Delegaci&#243;n Coyoac&#225;n, Ciudad de M&#233;xico. C.P. 04360</p>
+        </list-item>
+        <list-item>
+          <p> Escuela Nacional de Ciencias Biol&#243;gicas, IPN. Prolongaci&#243;n de Carpio y Plan de Ayala s/n. Col. Santo Tom&#225;s CP11340. Del. Miguel Hidalgo. CDMX 7 Facultad de Ciencias, UNAM. Circuito Exterior s/n, Coyoac&#225;n, Cd. Universitaria, 04510 Ciudad de M&#233;xico.6 Escuela Nacional de Ciencias Biol&#243;gicas, IPN. Prolongaci&#243;n de Carpio y Plan de Ayala s/n. Col. Santo Tom&#225;s CP11340. Del. Miguel Hidalgo. CDMX7 Facultad de Ciencias, UNAM. Circuito Exterior s/n, Coyoac&#225;n, Cd. Universitaria, 04510 Ciudad de M&#233;xico.</p>
+        </list-item>
+      </list>
+      <p>8 Instituto de Geolog&#237;a, UNAM. Circuito de la investigaci&#243;n Cient&#237;fica s/n, Ciudad Universitaria, Delegaci&#243;n Coyoac&#225;n, C.P. 04510, Ciudad de M&#233;xico</p>
+      <p>9Facultad de Medicina. Universidad Nacional Aut&#243;noma de M&#233;xico</p>
+    </sec>
+    <sec>
+      <title>Cartograf&#237;a Tem&#225;tica del &#193;rea de Protecci&#243;n de Flora y Fauna del Nevado de Toluca y Propuesta de Senderos Geotur&#237;sticos</title>
+      <sec>
+        <title>Resumen</title>
+        <p>El Nevado de Toluca es, desde 2013, un &#193;rea Natural Protegida en la categor&#237;a de &#193;rea de Protecci&#243;n de Flora y Fauna de acuerdo con la legislaci&#243;n mexicana. El volc&#225;n cuenta con f&#225;cil acceso y con una alta afluencia de visitantes, sin embargo, no cuenta con informaci&#243;n orientativa y visible in situ, lo cual favorece el deterioro de la zona y las situaciones de riesgo por no conocer las precauciones al adentrarse a una zona de alta y media monta&#241;a. </p>
+        <p>Este proyecto presenta una estrategia de fomento a la conservaci&#243;n del entorno natural a trav&#233;s de una serie de mapas que contienen el &#225;rea crat&#233;rica del volc&#225;n y sus alrededores, donde se muestra la ubicaci&#243;n de rutas de monta&#241;a, bicicleta y senderos interpretativos, as&#237; como informaci&#243;n contextualizada sobre salud y prevenci&#243;n, adem&#225;s de su geolog&#237;a, historia eruptiva y biodiversidad de flora y fauna.</p>
+        <p>As&#237; mismo, se espera que la consulta o uso in situ por parte de los visitantes de la zona, mitigar&#225; las situaciones de riesgo y disminuir&#225; los accidentes de monta&#241;a provocados por desconocimiento. </p>
+        <p>Palabras Clave: Nevado de Toluca, riesgo, ecoturismo, cartograf&#237;a, sendero interpretativo.</p>
+      </sec>
+      <sec>
+        <title>Abstract</title>
+        <p>The Nevado de Toluca is a Natural Protected Area with the category of <italic>Area de Protecci&#243;n de Flora y Fauna, </italic>according to the Mexican legislation, since 2013. The volcano can be easily accessed and has a high influx of visitors; however it has no visible guidance material on site, which favors the deterioration of the area and increases the probability of visitors risk situations, due to lack of education about the precautions needed when entering an area of high and medium mountain.</p>
+        <p>This project presents a strategy to promote the conservation of the natural environment through a series of maps containing the crater area of the volcano and its surroundings, showing the location of mountain routes, bicycle and interpretive trails, as well as contextualized information on health and prevention, in addition to its geology, eruptive history and biodiversity of flora and fauna.</p>
+        <p>Likewise, it is expected that its consultation or its in situ use by visitors to the area, mitigate the risk situations and reduce mountain accidents caused by ignorance.</p>
+        <p>Key words: Nevado de Toluca, risk, ecotourism, cartography, interpretive path.</p>
+      </sec>
+      <sec>
+        <title>1. Introducci&#243;n</title>
+        <p>La Faja Volc&#225;nica Trans- Mexicana (FVTM) es un arco magm&#225;tico continental, resultado de la subducci&#243;n de las placas Rivera y Cocos debajo de la placa Norteamericana, constituido por m&#225;s de 8000 estructuras volc&#225;nicas y algunos cuerpos intrusivos, que se extiende por todo el centro de M&#233;xico desde las costas del Pac&#237;fico y hasta las costas del Golfo de M&#233;xico (<xref rid="ID25551911-af1e-4651-806b-d315ddba3e42" ref-type="bibr" id="ID474d7ab5-91a7-48c0-8590-d137bf63b31f">Demant, 1978</xref>; <xref rid="ID88703c5f-b52b-4483-a5c9-5f0b455794b6" ref-type="bibr" id="IDdffd7b9a-92e7-4507-8e3a-d57ea4977626">G&#243;mez-Tuena et al. 2005</xref>; <xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="ID3b690fe9-2b5c-4a44-9486-72fdd48b38d8">Ferrari et al. 2012</xref>). En la FVTM se presenta tanto vulcanismo monogen&#233;tico como poligen&#233;tico. El vulcanismo monogen&#233;tico est&#225; asociado a campos volc&#225;nicos con conos de escoria y ceniza, as&#237; como derrames de lava; mientras que el vulcanismo poligen&#233;tico est&#225; representado por estratovolcanes y estructuras cald&#233;ricas. </p>
+        <p>La FVTM ha sido subdivida tradicionalmente con base en su geolog&#237;a y tect&#243;nica en tres sectores: Occidental, Central y Oriental (<xref rid="ID25551911-af1e-4651-806b-d315ddba3e42" ref-type="bibr" id="ID84e4a2ff-13b0-4d3d-9098-6ec47e45e0e8">Demant, 1978</xref>; <xref rid="IDeb05f1be-76fe-4c1d-acef-61aa42e0a60f" ref-type="bibr" id="ID60270748-ac50-4c6c-9908-eb9452f983bd">Pasquar&#233; et al., 1988</xref>). Estudios recientes retoman la clasificaci&#243;n mencionada y la ampl&#237;an a cuatro sectores, de tal manera que se incluye al denominado Sector Extremo Oriental (<xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="IDb945f648-28cb-4e5b-877b-ab41cbd87e60">Ferrari et al., 2012</xref>). </p>
+        <p>El Sector Occidental, se encuentra caracterizado por presentar un vulcanismo bimodal, constituido por estratovolcanes y complejos de domos con una composici&#243;n dac&#237;tica-riol&#237;tica, as&#237; como centros monogen&#233;ticos principalmente de composici&#243;n bas&#225;ltica; a su vez, el Sector Central se conforma de conos monogen&#233;ticos de escoria con flujos de lava asociados, que presentan una composici&#243;n bas&#225;ltica-andes&#237;tica. A reserva de los volcanes Tanc&#237;taro y el Patamban, los estratovolcanes en este sector son inexistentes.  Seguidamente, el Sector Oriental exhibe de manera contrastante, un vulcanismo emplazado principalmente en grandes estratovolcanes, calderas y complejos de domos, con una composici&#243;n andes&#237;tica-riol&#237;tica, de tal manera que los volcanes monogen&#233;ticos de composici&#243;n bas&#225;ltica representan solo una peque&#241;a parte del volumen total. Por &#250;ltimo, el Sector extremo Oriental est&#225; conformado por magmas con firmas alcalinas principalmente, as&#237; como una marcada ausencia de estratovolcanes. Cabe destacar que estos sectores se distribuyen con direcciones preferenciales de E-O para la porci&#243;n Oriental y Central, as&#237; como, ONO-ESE para la porci&#243;n occidental (<xref rid="ID25551911-af1e-4651-806b-d315ddba3e42" ref-type="bibr" id="ID1ab111ac-ca22-4e81-9e60-b70f7f41ff27">Demant, 1978</xref>; <xref rid="IDeb05f1be-76fe-4c1d-acef-61aa42e0a60f" ref-type="bibr" id="IDa03f997c-4d10-4a1b-b426-4a214a122fe6">Pasquar&#233; et al., 1988, Carmichael, 2002</xref>; <xref rid="ID88703c5f-b52b-4483-a5c9-5f0b455794b6" ref-type="bibr" id="ID791d6b6f-e5dc-4786-bb86-45f4a2a00708">G&#243;mez-Tuena et al., 2005</xref>; <xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="ID28a37ee9-6b2f-42ee-853a-5ae94458c9fc">Ferrari et al., 2012</xref>; <xref rid="ID2db4400f-ea36-420f-8d07-7ff9fc622ab3" ref-type="bibr" id="ID4080c120-573c-49c7-b0e8-902d0550473a">Siebe et al. 2014</xref>). El volc&#225;n Nevado de Toluca o Chicnauht&#233;catl (del n&#225;huatl <italic>Nueve Colinas; </italic>Garc&#237;a-Mart&#237;nez<italic>, </italic>2000) se encuentra dentro del sector Oriental de la FVTM (<xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="ID7b8ca60b-b899-45e0-be8a-357cae294d30">Ferrrari et al. 2012</xref>), a 23 km en direcci&#243;n suroeste de la ciudad de Toluca. Es la cuarta cumbre m&#225;s alta de M&#233;xico con una altura de 4680 msnm, en el Pico del Fraile (<xref rid="ID5afb1219-f3d6-4656-88e4-2f57d1aced1b" ref-type="bibr" id="IDe8f64162-0b10-47b2-9274-bb8b433d4afb">Mac&#237;as, 2005</xref>). El volc&#225;n presenta dos lagos al interior del cr&#225;ter, nombrados de El Sol y de La Luna separados por un domo dac&#237;tico central conocido como &#8220;El Ombligo&#8221; (<xref rid="ID15300f1c-467d-458b-9883-5006291609b6" ref-type="bibr" id="IDc3a29620-fdc0-4c33-985f-57f529313e56">Armienta et al. 2000</xref>). Aunque su morfolog&#237;a es cambiante, las &#225;reas aproximadas son: 0.025 km2 para La Luna y 0.175 km2 para El Sol (<xref rid="ID3bc72c04-8cb0-49cf-a26b-86d3d6b336a7" ref-type="bibr" id="ID518eb9be-ada2-44d0-9970-3b6e521e2b5f">Caballero-Miranda, 1996</xref>). Estos lagos son ecosistemas &#250;nicos en M&#233;xico por su aislamiento geogr&#225;fico y su elevada altitud (4200 msnm).    Las condiciones geogr&#225;ficas y climatol&#243;gicas favorecen que estos lagos tengan caracter&#237;sticas f&#237;sico-qu&#237;micas poco comunes para la regi&#243;n tropical, siendo lagos de aguas fr&#237;as (9.4 &#176;C &#8211; 9.7 &#176;C), con baja precipitaci&#243;n de minerales y con valores de pH 7.2 &#61617; 0.6 para El Sol y 6.1 &#61617; 0.5 para La Luna (<xref rid="ID3bc72c04-8cb0-49cf-a26b-86d3d6b336a7" ref-type="bibr" id="IDa7a70fd1-d79e-4595-b805-27d94e2b1b8c">Caballero-Miranda, 1996</xref>; Alcocer et al., 2004, Dimas-Flores et al. 2008, Szeroczynska et al. 2015). Por su parte, se han encontrado restos de cer&#225;mica, barras de copal, p&#250;as de maguey y otros objetos depositados como ofrendas por civilizaciones prehisp&#225;nicas&#160;en el lecho de la Laguna del Sol, indicando que en su momento dichos lagos fueron un importante centro ceremonial (<xref rid="IDcf36bdd2-0916-429a-b3ff-fb43175d9413" ref-type="bibr" id="ID11101b83-5b01-415c-88df-b1ca1444129b">Quezada &#8211; Ram&#237;rez, 1972</xref>; <xref rid="ID36b9fbab-d896-4308-899d-f270da9f12af" ref-type="bibr" id="IDe4d714dc-cc6a-4327-8e91-b991c4859d0c">Garc&#237;a-Mart&#237;nez, 2000</xref>). </p>
+        <p>En cuanto al marco legal vigente, el &#225;rea que alberga al volc&#225;n Nevado de Toluca fue decretada en 1936 como Parque Nacional (PN), con cota de 3,000 msnm como l&#237;mite inferior y el objetivo fundamental de proteger la belleza esc&#233;nica y la importancia hidrol&#243;gica. En 1937 la poligonal del PN fue ampliada con el objetivo de constituir una reserva forestal nacional (<xref rid="IDead0d10d-0c9d-498f-a791-db2733aafefd" ref-type="bibr" id="ID6bdd060a-0ec4-4524-bc89-1699605f1b0c">CONANP, 2016</xref>). Sin embargo, debido a la existencia y proliferaci&#243;n de actividades productivas que afectaban parte del &#225;rea del PN y que exceden la intenci&#243;n de an&#225;lisis de este trabajo, la categor&#237;a de conservaci&#243;n se modific&#243; el 01 de octubre de 2013 para constituir un &#193;rea de Protecci&#243;n de Flora y Fauna (APFF) (<xref rid="ID07dab9a3-4fdc-4a4a-8712-d359259b16ec" ref-type="bibr" id="IDf91a0f35-3cc1-4659-a3b6-378740c46681">DOF, 2016</xref>; <xref rid="ID0f5a43fc-6ce2-4c68-992e-cd019208c302" ref-type="bibr" id="IDe299ef5c-0c30-4870-bab1-9cc6decb6b8b">SEMARNAT, 2016</xref>). Uno de los principales objetivos de dicho cambio es la conservaci&#243;n de sus condiciones biol&#243;gicas y su entorno ecosist&#233;mico a trav&#233;s de un aprovechamiento sostenible y una divisi&#243;n en pol&#237;gonos de acuerdo con:  cobertura forestal, tipos de vegetaci&#243;n, pendientes, localidades, actividades productivas, zonas arqueol&#243;gicas, entre otras. El APFF est&#225; conformada por un pol&#237;gono general, con una superficie total de 536 km2, dentro del cual se ubica una zona n&#250;cleo denominada &#8220;Cr&#225;ter&#8221;, con una superficie de 19.4 km2 y una zona de amortiguamiento con una superficie de 516.5 km2 (<xref rid="IDead0d10d-0c9d-498f-a791-db2733aafefd" ref-type="bibr" id="ID8741a2a6-72d6-467a-92ee-29085ec507a6">CONANP, 2016</xref>). </p>
+        <p>Una vez se&#241;alado lo anterior, es importante mencionar que adem&#225;s de ser parte del patrimonio natural (geol&#243;gico, biol&#243;gico y limnol&#243;gico), arqueol&#243;gico y cosmog&#243;nico de nuestro pa&#237;s, el APFF es un sistema socioambiental de f&#225;cil acceso que promueve el enriquecimiento cultural de la sociedad con base en su entorno. </p>
+        <p>En la actualidad, el perfil sociocultural de los visitantes que llegan a la zona es por dem&#225;s amplio, sin embargo, tienen como punto de convergencia, una alta expectativa sobre las posibilidades recreativas y ecotur&#237;sticas que esperan encontrar en la zona (<xref rid="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423" ref-type="bibr" id="IDe95a5870-90e7-4371-aecb-491895d2b520">Osorio et al. 2011</xref>; <xref rid="ID1bcea5d7-9ea5-436b-a434-62157b7cbd50" ref-type="bibr" id="ID69af6125-076d-4370-ae4f-2c04880ed6cd">Osorio et al. 2017</xref>), teniendo como principales prop&#243;sitos, el ascenso a las cumbres (por encima de los 4000 msnm) y la visita a los lagos que se encuentran dentro del cr&#225;ter (El Sol y La Luna). Lo anterior genera una densificaci&#243;n sobre la ruta principal de ascenso, que es un camino de terracer&#237;a que inicia en el poblado de Ra&#237;ces sobre la carretera federal No. 10 La Puerta &#8211; Sultepec, Edo de Mex. y asciende hasta el cr&#225;ter del volc&#225;n, lo cual ocasiona un deterioro de las &#225;reas por donde pasa dicho camino. Aunado a esto, de acuerdo con las encuestas realizadas y reportadas por Osorio et al. (<xref rid="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423" ref-type="bibr" id="ID8a1bc647-cb98-49dc-9135-0c1d8a72496f">2006, 2011, 2016 y 2017</xref>), las expectativas del visitante no siempre son cubiertas debido a la falta de orientaci&#243;n e informaci&#243;n <italic>in situ </italic>sobre el gran patrimonio que alberga el &#225;rea o debido a su propia imposibilidad f&#237;sica para realizar ciertas actividades por no contar con la preparaci&#243;n o equipo adecuado <italic>a priori</italic>. Adicionalmente, destacan Osorio y colaboradores (<xref rid="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423" ref-type="bibr" id="ID8a4075c1-8bda-4c9a-a305-83a1bff08e00">2011</xref>), el turismo predominante manifiesta h&#225;bitos tradicionales de consumo recreativo (caminata, ciclismo, alpinismo, campismo, cabalgata, comida campestre, fotograf&#237;a, investigaci&#243;n, otro y paseo en lancha; <xref rid="ID1bcea5d7-9ea5-436b-a434-62157b7cbd50" ref-type="bibr" id="IDd0f67bbd-79b5-451e-a8dc-5362cc25bc59">Osorio et al., 2017</xref>) sobre un paisaje natural, m&#225;s que una aut&#233;ntica conciencia y compromiso por minimizar el deterioro ambiental que dicha afluencia causa. El visitante hace prevalecer los prop&#243;sitos recreativos supeditando los conservacionistas por lo que el turismo de naturaleza puede estar muy distante de propiciar un cambio de conducta con respecto a la relaci&#243;n hombre-recursos naturales (<xref rid="IDc652bb68-6944-4d97-aa1c-7dec2cba125c" ref-type="bibr" id="ID283ae105-6b96-4939-bdb7-ba44d4e5d4fe">e.g. Valle Rodr&#237;guez, 2006</xref>; <xref rid="ID41ac318a-8efd-40cd-b333-2040eedc9975" ref-type="bibr" id="ID96524224-2c25-459c-8d29-005d0b3fabf6">Caravilla et al. 2007</xref>; <xref rid="IDe8f1c1f4-4df5-48cd-972f-70fd7e3dc9ba" ref-type="bibr" id="ID82b3dc46-2d0e-48a9-9cf2-60dc348606c0">Castro Cuellar et al. 2009</xref>; <xref rid="IDebb7fbc5-0a5d-46fd-b649-74b695a68a17" ref-type="bibr" id="ID32425daf-ec0d-4f79-97e4-2d536c904be5">Canet et al. 2017</xref>).</p>
+        <p>Es evidente que debido al f&#225;cil acceso y la falta de informaci&#243;n visible en la zona (prevenci&#243;n, salud, rutas, patrimonio), se promueve el deterioro del APFF, adem&#225;s de generarse situaciones de riesgo para los visitantes, que desconocen c&#243;mo conducirse ante eventualidades como el extremo fr&#237;o de invierno (De acuerdo con el Servicio Meteorol&#243;gico Nacional para la estaci&#243;n <italic>Nevado de Toluca</italic>, las normales climatol&#243;gicas entre 1951-2010 indican que las medias normales se encuentran en el rango de 2.3&#176;C - 4.3 &#176;C durante los meses de octubre &#8211; marzo; con un m&#237;nimo hist&#243;rico registrado en 2004  de -10&#176;C), los peque&#241;os deslizamientos de nieve, las intensas tormentas, el mal de monta&#241;a, el esfuerzo f&#237;sico que se requiere en determinados senderos, por mencionar algunas. Los principales accidentes en las monta&#241;as mexicanas son atribuibles a la subestimaci&#243;n de los riesgos y a la negligencia (<xref rid="IDc4311dcb-4073-4da2-8592-6306017a6f11" ref-type="bibr" id="ID2b891956-5bda-4396-86f7-52dab34d7f28">Neyra Ja&#250;regui, 2012</xref>). </p>
+        <p>La tesis de este trabajo es que la difusi&#243;n de la informaci&#243;n con respecto al entorno natural y la interacci&#243;n con el mismo aumenta la capacidad de decisi&#243;n y resiliencia ante dichas eventualidades. Adem&#225;s, se fomenta la conservaci&#243;n del medio ambiente debido a la sensibilizaci&#243;n y al entendimiento de los procesos del entorno por parte de la poblaci&#243;n. Sin embargo, el enfoque de este trabajo, va m&#225;s all&#225; de comunicar lo m&#237;nimo necesario para tales fines, de tal manera que, la informaci&#243;n presentada en este proyecto es amplia y diversa con un car&#225;cter transdiciplinario, en un lenguaje de f&#225;cil aprehensi&#243;n y con rigor cient&#237;fico, permitiendo generar conciencia, as&#237; como un empoderamiento de la poblaci&#243;n al ofrecer una experiencia cultural enriquecida, desde una perspectiva hist&#243;rico socioambiental basada en la importancia del patrimonio del APFF Nevado de Toluca. Es importante se&#241;alar que este enfoque antagoniza los escasos objetivos, muchas veces de alto riesgo, que los visitantes se plantean como prioritarios al llegar al &#225;rea; es decir, se puede desviar su atenci&#243;n hacia otros elementos del paisaje y motivar nuevos prop&#243;sitos, as&#237; como distintas actividades a realizar en el lugar.</p>
+      </sec>
+      <sec>
+        <title>2. Metodolog&#237;a y software</title>
+        <p>La metodolog&#237;a planteada para la realizaci&#243;n de la cartograf&#237;a tem&#225;tica tuvo como principal eje comunicar de manera sint&#233;tica y accesible los distintos aspectos que constituyen al APFF. </p>
+        <p>Previo a la creaci&#243;n de los mapas, el grupo de colaboradores de este proyecto llev&#243; a cabo una labor de recopilaci&#243;n y an&#225;lisis de la informaci&#243;n existente sobre los diversos contenidos. Los datos geol&#243;gicos fueron generados y georreferenciados por Torres-Orozco et al. (<xref rid="IDbde6b553-f004-446d-9f83-2a4a9e741fa0" ref-type="bibr" id="IDb7e0727c-2610-45cd-9148-ebbb46c8df85">2017</xref>) con datos vectoriales INEGI (<xref rid="ID6eccbd3b-4ec9-4cd2-b00f-71ef0c78a451" ref-type="bibr" id="ID4762d89a-d66f-461e-9f09-4048ded6aeac">2010</xref>) y cartas topogr&#225;ff1:5cala&#65021;&#65021;enciados por Torres-Orozco et al. (<xref rid="IDbde6b553-f004-446d-9f83-2a4a9e741fa0" ref-type="bibr" id="ID4d81f901-c011-4b51-acd3-1d503837f3af">2017</xref>). Datos vectoriales generados por INEGI (<xref rid="ID6eccbd3b-4ec9-4cd2-b00f-71ef0c78a451" ref-type="bibr" id="ID6065f318-7e08-4aa5-8938-65821174882b">2010</xref>) Cartas topogricas escala: 1:50,000.</p>
+        <p>Posteriormente, la informaci&#243;n de los mapas se conjunt&#243;, proces&#243; y dise&#241;&#243; a trav&#233;s de la suite del software ArgGis Desktop de la empresa ESRI, en su producto ArcMap versi&#243;n 10&#174;. </p>
+        <p>Las doce rutas de monta&#241;a que se presentan en la cartograf&#237;a llevan por t&#237;tulos: Ruta Circunvalaci&#243;n Completa, Ruta Humboldt, Ruta Humboldt &#8211; Heilprin<xref ref-type="fn" rid="bibd2e284"/>, Ruta Laguna de La Luna, Ruta Laguna de El Sol, Ruta Pico del &#193;guila (Segundo pico m&#225;s alto), Ruta Pico del Fraile (cima), Ruta Circunvalaci&#243;n Humboldt-Laguna de La Luna, Ruta Parque de los Venados - Cara sur, Ruta Parque de los Venados - Pico del &#225;guila, Ruta Sendero Interpretativo, Rutas Bicicleta (A) y Rutas Bicicleta (B). Las cuales pueden ser visualizadas de manera interactiva en la plataforma en l&#237;nea de la revista. Los ejes tem&#225;ticos de la informaci&#243;n vertida en la cartograf&#237;a resultante se describen a continuaci&#243;n.</p>
+        <p>2.1 Salud y prevenci&#243;n. </p>
+        <p>El Nevado de Toluca es considerado, desde el punto de vista m&#233;dico y la clasificaci&#243;n de Mieske et al. (<xref rid="ID6eccbd3b-4ec9-4cd2-b00f-71ef0c78a451" ref-type="bibr" id="IDd7d911ce-c629-4d4e-beea-b0aedd2a07e0">2010</xref>) y Coach et al. (<xref rid="ID68089d84-5216-4d0a-badd-d8126c71f418" ref-type="bibr" id="ID58f1b03d-a58b-471a-a307-89d3c32fbaf4">2016</xref>), como: <italic>Alta</italic> monta&#241;a cuyos rangos van de 2500 a 3500 msnm y <italic>Muy Alta</italic> con rangos de 3500 a 5500 msnm, debido a que presenta alturas en la cual es posible desarrollar s&#237;ntomas de mala salud por la falta de ox&#237;geno.</p>
+        <p>A esta altura existe una disminuci&#243;n de la presi&#243;n del aire y por lo tanto del ox&#237;geno que llega a los pulmones; el cuerpo sufre cambios adaptativos importantes como incremento de la velocidad del pulso, de las respiraciones, y de la presi&#243;n arterial, as&#237; como cambios de la conducta. Cuando estos cambios son muy intensos y no se pueden regular, es decir, no existe una aclimataci&#243;n del cuerpo, las personas pueden presentar mal de monta&#241;a agudo (dolor de cabeza, n&#225;usea, v&#243;mito, fatiga, debilidad, mareo y/o trastornos del sue&#241;o) y sus complicaciones: el edema pulmonar y el edema cerebral de altura (<xref rid="TO_LINK" ref-type="bibr" id="ID50bdfcc5-fbc0-49ef-ac00-698bb7c20ed4">Ville-Benavides, 2017</xref>; <xref rid="IDd9a9673d-67f1-4c72-b973-1f40e039a643" ref-type="bibr" id="ID1008d66e-26ee-4a4d-aa5c-5452985419f5">B&#228;rtsh et al. 2013</xref>). </p>
+        <p>En un estudio reciente, Ville &#8211; Benavides (<xref rid="IDbde6b553-f004-446d-9f83-2a4a9e741fa0" ref-type="bibr" id="ID4ddabad2-b250-4350-84bb-0bb8d016732c">2017</xref>) reporta que al analizar a 90 visitantes del Nevado de Toluca, 27.6% present&#243; mal de monta&#241;a agudo, por lo que es un riesgo de salud latente en el &#225;rea.  Las mejores maniobras para prevenir el mal de monta&#241;a agudo incluyen una tasa de ascenso lenta que permita la aclimataci&#243;n del individuo, de no m&#225;s de 300 m al d&#237;a; descender pronto, mantener una hidrataci&#243;n adecuada, mantenerse abrigado y evitar el sobreesfuerzo en la altitud, as&#237; como consultar a un m&#233;dico con experiencia en medicina de altura. Una vez realizado el diagn&#243;stico se debe considerar descender o descansar a la misma altitud y se debe evitar ascender mientras haya s&#237;ntomas activos. En casos leves se recomienda la ingesta de l&#237;quidos, abrigarse, descansar durante un d&#237;a y administrar medicamentos para el control de los s&#237;ntomas, tales como anti inflamatorios no esteroideos o antiem&#233;ticos.  Si los s&#237;ntomas son persistentes o aumentan en su intensidad se debe descender entre 500 y 1000 m, descansar y consultar con un m&#233;dico o param&#233;dico con experiencia en enfermedades de altura (Ville &#8211; Benavides, <xref rid="IDbde6b553-f004-446d-9f83-2a4a9e741fa0" ref-type="bibr" id="ID057ef146-b99f-4a06-b37b-a58ee80f8ca4">2017</xref>; <xref rid="IDb867c8b3-19ca-4227-a882-c5442463a1dd" ref-type="bibr" id="IDca3d4b80-ce3d-49fa-8c55-22cfe98ca39d">Luks et al. 2014</xref>). </p>
+        <p> En el trabajo cartogr&#225;fico presentado se dan recomendaciones generales en cada sendero de monta&#241;a con el fin de orientar al posible visitante sobre los requerimientos m&#237;nimos dentro del APFF. </p>
+        <p>2.2 Monta&#241;ismo (senderos o rutas principales y sus caracter&#237;sticas). </p>
+        <p>Para poder expresar en los mapas la parte fundamental de orientaci&#243;n y gu&#237;as de senderos, se trabaj&#243; con expertos monta&#241;istas y ciclistas, tanto independientes como miembros del Club de Exploraciones de M&#233;xico A.C.  CEMAC -  Toluca. Se realiz&#243; una clasificaci&#243;n y una serie de recomendaciones para cada sendero de monta&#241;a. </p>
+        <p>Existen varias clasificaciones o escalas de dificultad de rutas de monta&#241;a reconocidas internacionalmente: la clasificaci&#243;n de la Uni&#243;n Internacional de Asociaciones de Alpinismo (UIAA) , que cuenta con 7 grados de dificultad y est&#225; representada por n&#250;meros romanos a partir del I (m&#225;s f&#225;cil), hasta el VII (extraordinariamente dif&#237;cil); la de Estados Unidos con grados de dificultad ascendente entre 5.2 y 5.9; la francesa que va de 1 a 6 en grado de dificultad ascendente, entre otras. En la UIAA, las rutas del Nevado de Toluca caer&#237;an en I, II y, alguna excepci&#243;n, en III (f&#225;cil, poco dif&#237;cil y algo dif&#237;cil). Neyra &#8211; J&#225;uregui (<xref rid="IDc4311dcb-4073-4da2-8592-6306017a6f11" ref-type="bibr" id="ID965a5deb-589b-41d1-92f3-f360a038e463">2012</xref>) propuso una clasificaci&#243;n para las monta&#241;as mexicanas de acuerdo con su altura, en donde las rutas del Nevado caen en la clasificaci&#243;n de Alta Monta&#241;a Baja (4000 msnm &#8211; 5000 msnm) Intermedia y F&#225;cil (AMBI &#8211; AMBF); que corresponden a rutas de menos de 10 km, poca inclinaci&#243;n y aptas para novatos con experiencia en media monta&#241;a. Sin embargo, debido a la gran afluencia de visitantes sin experiencia en alta y media monta&#241;a, con bajo o nulo conocimiento sobre t&#233;cnica y prevenci&#243;n en monta&#241;a, la clasificaci&#243;n presentada en este trabajo, desarrollada exclusivamente para el Nevado de Toluca, incluye los grados f&#225;cil, algo dif&#237;cil, dif&#237;cil y muy dif&#237;cil y se adapt&#243; de acuerdo con: accesibilidad, longitud, tipo de terreno, altura y tiempo estimado de recorrido. Aunado a esto, en el Nevado de Toluca es frecuente la ocurrencia de nieve, por lo que es importante destacar que una ruta sencilla bajo condiciones adversas de clima puede aumentar su grado de dificultad o volverse impracticable (<xref rid="IDc4311dcb-4073-4da2-8592-6306017a6f11" ref-type="bibr" id="ID6f06e1ad-e4fa-46fb-9b95-61308b682eb3">Neyra J&#225;uregui, 2012</xref>). Algunas de las recomendaciones b&#225;sicas al visitar una zona con senderos de monta&#241;a son contar con: mochila mediana de tirantes y ajuste en la cadera, recipiente de al menos 1 litro de agua y adecuada hidrataci&#243;n,  ropa caliente o de abrigo, chaqueta de fibra polar, pantalones de nylon o fibra sint&#233;tica, rompe vientos, impermeable, gorra, guantes de fibras transpirables, lentes oscuros con protecci&#243;n ultravioleta (UV), bloqueador solar mayor a 30 o 50 FPS, evitar mojarse, botas de media ca&#241;a, navaja, entre otras (<xref rid="TO_LINK" ref-type="bibr" id="ID1866d258-017a-414b-83e9-07aff6a4ee94">Grieve et al. 2013, Neyra &#8211; J&#225;uregui, 2012</xref>). Seg&#250;n Neyra- J&#225;uregui (<xref rid="IDc4311dcb-4073-4da2-8592-6306017a6f11" ref-type="bibr" id="IDe6b81ad9-a724-44ce-b3d5-3292e4406a5a">2012</xref>), el equipo para alta monta&#241;a bajo condiciones de nieve debe ser: crampones, piolet para traves&#237;a de glaciar con correa de seguro, botas pl&#225;sticas o de piel t&#233;cnicas para nieve o glaciar y casco. </p>
+        <p>Aunado al nivel de dificultad y la traza de cada ruta, en la cartograf&#237;a tem&#225;tica de la zona se muestran puntos de referencia populares, as&#237; como nombres cl&#225;sicos de las rutas y de los picos principales (<xref rid="IDd80cf196-a41d-4b3a-a057-166866340e08" ref-type="bibr" id="ID9895a731-4274-4ed6-8518-c4a93c51eddc">Careaga Pardave, 1988</xref>; <xref rid="IDc4311dcb-4073-4da2-8592-6306017a6f11" ref-type="bibr" id="ID1ff4d4e3-604f-4a3a-b653-cda4de0c6f7e">Neyra J&#225;uregui, 2012</xref>).</p>
+        <p>2.3 Vulcanismo. </p>
+        <p>El Nevado de Toluca es un estratovolc&#225;n que presenta diversos productos asociados a eventos eruptivos que corresponden a distintas din&#225;micas de emplazamiento, tales como los derrames formados a trav&#233;s de tranquilas emisiones de lava, as&#237; como los flujos de bloques y cenizas, resultado de la formaci&#243;n y destrucci&#243;n de domos, adem&#225;s de los dep&#243;sitos de ca&#237;da, consecuencia de los grandes eventos explosivos que lograron depositar cenizas a una distancia mayor a 90 km con respecto al cr&#225;ter (<xref rid="IDd41add1c-d2b2-4a60-9589-2c70d7abfc67" ref-type="bibr" id="ID8adf17db-0bc6-46f7-ae0c-3a8af6336c60">Bloomfield et al., 1977</xref>; <xref rid="IDf24c80cb-97e0-4337-857c-ab32ef846c67" ref-type="bibr" id="IDd3dd136d-7595-472d-968c-1f30d6690833">Garc&#237;a-Palomo et al., 2002</xref>; <xref rid="IDfcbaa1e9-dd5d-41cc-b7da-96d25bea536f" ref-type="bibr" id="IDb022bbcd-9dad-4933-a983-3ec0b466deba">Arce et al., 2003</xref>). Los productos m&#225;s antiguos del volc&#225;n tienen una edad de 1.5 Millones de a&#241;os (Ma) antes del presente (A.P.), y los m&#225;s j&#243;venes presentan una edad de 3,300 a&#241;os A.P. (<xref rid="ID59ecf32d-8280-4d3f-ace4-4e29579c31ab" ref-type="bibr" id="ID9f067bd4-6470-48aa-b0f2-ea3fa7a766c1">Cantagrel et al., 1981</xref>; <xref rid="ID1c2a64b8-cfba-49b2-b782-d720beb52a3b" ref-type="bibr" id="ID78ddefc1-7781-4b1e-a2d7-2351d96dd380">Mac&#237;as et al., 1997</xref>; <xref rid="IDbde6b553-f004-446d-9f83-2a4a9e741fa0" ref-type="bibr" id="ID7c9a279a-b7c8-4e7e-aef0-77a50354e2f0">Torres-Orozco et al., 2017</xref>). Los dep&#243;sitos se han clasificado tradicionalmente en dos unidades principales: Nevado Viejo y Nevado Reciente (<xref rid="ID59ecf32d-8280-4d3f-ace4-4e29579c31ab" ref-type="bibr" id="IDce858a70-b998-45f6-97fc-59da489f0c29">Cantagrel et al., 1981</xref>; <xref rid="IDbde6b553-f004-446d-9f83-2a4a9e741fa0" ref-type="bibr" id="IDa41813da-bd82-4a17-97f4-a1d33a84cec3">Torres-Orozco et al., 2017</xref>).  </p>
+        <p>2.3.1 Nevado Viejo</p>
+        <p>Esta unidad se ubica temporalmente entre 1.5 y 0.13 Ma A.P. (Pleistoceno-Holoceno) y se encuentra constituida por derrames de composici&#243;n andes&#237;tica-dac&#237;tica (57-65% en peso de SiO2), los cuales conforman la estructura principal del edificio, intercalados con productos asociados a episodios explosivos (~0.9-0.8 Ma A.P.), sin embargo, la actividad efusiva es la que predomina (<xref rid="ID59ecf32d-8280-4d3f-ace4-4e29579c31ab" ref-type="bibr" id="ID11ce6671-c9a0-4812-b4be-2c29ba929c3c">Cantagrel et al., 1981</xref>; <xref rid="IDf24c80cb-97e0-4337-857c-ab32ef846c67" ref-type="bibr" id="IDbfe06825-178c-408d-9970-d0c0bcb45554">Garc&#237;a-Palomo et al., 2002</xref>; <xref rid="IDbde6b553-f004-446d-9f83-2a4a9e741fa0" ref-type="bibr" id="ID8372b7be-829c-4a76-817c-dba6de941d32">Torres-Orozco et al., 2017</xref>). Las lavas presentan plagioclasas, clinopiroxenos, ortopiroxenos y hornblendas, embebidos en matriz v&#237;trea con microfenocristales de plagioclasa. Es com&#250;n encontrar e identificar fragmentos de estas rocas como accesorios en los dep&#243;sitos volcanocl&#225;sticos y pirocl&#225;sticos m&#225;s j&#243;venes, ya que presentan color de alteraci&#243;n rosado-rojizo (<xref rid="IDf24c80cb-97e0-4337-857c-ab32ef846c67" ref-type="bibr" id="ID85c445c4-ef3d-4a20-b26f-a8d167306a83">Garc&#237;a-Palomo et al., 2002</xref>). A su vez, debido a la alteraci&#243;n y erosi&#243;n del volc&#225;n, se encuentran dep&#243;sitos de avalancha, asociados al colapso de flancos (2 colapsos parciales), dep&#243;sitos de lahar y dep&#243;sitos fluviales (flujos de lodo), los cuales fueron emplazados principalmente en el sector sur, alcanzando distancias de m&#225;s de 50 km, rellenando con detritos las depresiones existentes (<xref rid="ID59ecf32d-8280-4d3f-ace4-4e29579c31ab" ref-type="bibr" id="ID498bdfdf-5535-4001-9249-06f2a7009f1f">Cantagrel et al., 1981</xref>; <xref rid="ID1c2a64b8-cfba-49b2-b782-d720beb52a3b" ref-type="bibr" id="ID3d84730d-07f0-482e-bd07-33e611443c6a">Mac&#237;as et al., 1997</xref>; <xref rid="ID151cd8df-4d74-49ec-8497-c5856839dabd" ref-type="bibr" id="ID8a8c0a0e-a535-4ab4-8f74-9b06851f75fa">Capra y Mac&#237;as, 2000</xref>; <xref rid="IDf24c80cb-97e0-4337-857c-ab32ef846c67" ref-type="bibr" id="IDe990e942-4df9-4214-8669-7c0f79047ade">Garc&#237;a-Palomo, 2002</xref>; <xref rid="ID590bde28-c6ae-4670-bf70-b61295802e60" ref-type="bibr" id="ID6473176d-d159-47bd-b72a-d335d12e86ef">Capra et al., 2002</xref>); es necesario mencionar que diversos autores reportan un cese en la actividad volc&#225;nica para el intervalo de 1.2-0.1 Ma A.P., sin embargo, estudios recientes demuestran que ha existido una actividad continua, contraponi&#233;ndose a la idea anterior (<xref rid="IDbde6b553-f004-446d-9f83-2a4a9e741fa0" ref-type="bibr" id="IDaacfb83c-a040-4a63-9669-d21950beade3">Torres-Orozco et al., 20017</xref>).</p>
+        <p>2.3.2 Nevado Reciente</p>
+        <p>La unidad moderna del volc&#225;n comienza su emplazamiento hace 0.05 Ma y contin&#250;a hasta nuestros d&#237;as, debido a que la &#250;ltima erupci&#243;n registrada presenta una edad de 3,300 a&#241;os A.P. (<xref rid="ID1c2a64b8-cfba-49b2-b782-d720beb52a3b" ref-type="bibr" id="IDbc6b3ce9-ae45-4790-8128-399d9f25bdca">Mac&#237;as et al., 1997</xref>). Los productos son composicionalmente dac&#237;ticos (63-67% en peso de SiO2) y est&#225;n asociados a una actividad bimodal, con predominancia de la actividad explosiva, con un estilo eruptivo pliniano, de tal manera que la unidad est&#225; constituida por el emplazamiento de domos y lavas, as&#237; como una compleja secuencia de dep&#243;sitos como son los pirocl&#225;sticos de ca&#237;da, corrientes pirocl&#225;sticas de densidad, avalanchas de escombros, flujos de bloques y cenizas, adem&#225;s de los dep&#243;sitos fluviales, flujos de detritos y los propios de la actividad glaciar, estos &#250;ltimos visibles en los flancos del cr&#225;ter (<xref rid="IDdc68e6b5-4740-4b30-9fa9-b33e1b67e232" ref-type="bibr" id="ID9135fed1-3c81-4e18-a7d8-7fa7e18d3118">Bloomfield and Valastro, 1974, 1977</xref>; <xref rid="IDccf3e9aa-404c-42ea-b4ad-13c5d45346c7" ref-type="bibr" id="IDd7d2886d-2b27-4778-8b74-3dd588d5c76b">Bloomfield, 1975</xref>; <xref rid="ID59ecf32d-8280-4d3f-ace4-4e29579c31ab" ref-type="bibr" id="IDb664efc0-969e-4ac8-b888-38aefe969941">Cantagrel et al., 1981</xref>; <xref rid="ID1c2a64b8-cfba-49b2-b782-d720beb52a3b" ref-type="bibr" id="ID311355c7-4321-4bf7-bf4e-9f2e90560f04">Mac&#237;as et al., 1997</xref>; <xref rid="ID151cd8df-4d74-49ec-8497-c5856839dabd" ref-type="bibr" id="ID73ffc543-aac4-418a-aa65-9b79f8c32f48">Capra and Mac&#237;as, 2000</xref>; <xref rid="ID590bde28-c6ae-4670-bf70-b61295802e60" ref-type="bibr" id="ID9f608ffa-4869-418c-8430-f1ad493f7983">Capra et al., 2002</xref>). Las lavas presentan un ensamble mineral&#243;gico de plagioclasa, ortopiroxeno, hornblenda y biotita.</p>
+        <p>Durante la formaci&#243;n del Nevado reciente existen al menos 5 episodios de destrucci&#243;n de grandes domos fechadas en 37,000; 32,000; 28,000; 26,000; y 13,000 a&#241;os A.P. (<xref rid="IDd41add1c-d2b2-4a60-9589-2c70d7abfc67" ref-type="bibr" id="ID10aa7c13-9f01-4e0b-8de9-4dd6fd6a2012">Bloomfield et al., 1977</xref>; <xref rid="ID1c2a64b8-cfba-49b2-b782-d720beb52a3b" ref-type="bibr" id="IDacc984cb-d639-4977-a14b-a9b137ac34c7">Mac&#237;as et al., 1997</xref>; <xref rid="IDf24c80cb-97e0-4337-857c-ab32ef846c67" ref-type="bibr" id="IDc0d634ed-218e-4369-b420-9442a8a70bb1">Garc&#237;a-Palomo et al., 2002</xref>; <xref rid="IDfcbaa1e9-dd5d-41cc-b7da-96d25bea536f" ref-type="bibr" id="ID2a470ab9-20a8-4e7f-a6a6-4fd6cdb25b54">Arce et al., 2003</xref>; <xref rid="ID5afb1219-f3d6-4656-88e4-2f57d1aced1b" ref-type="bibr" id="ID2661b82d-64b0-4b8a-a812-065be256c75c">Arce et al., 2005</xref>; <xref rid="IDc1f97ead-d73e-4729-b814-b42999a47b76" ref-type="bibr" id="ID6a6f5ee0-4362-4bc7-82d0-58ac1df2f7c5">Capra et al., 2006</xref>), as&#237; como 5 erupciones plinianas con edades de 42,000; 36,000; 21,700 (P&#243;mez Toluca Inferior, PTI); 12,100 (P&#243;mez Toluca Intermedia, PTIn) y 10,500 (P&#243;mez Toluca Superior, PTS) a&#241;os A.P. (<xref rid="IDdc68e6b5-4740-4b30-9fa9-b33e1b67e232" ref-type="bibr" id="ID8e5bc16c-e374-42e9-be16-5da80adda9d7">Bloomfield y Valastro, 1974, 1977</xref>; <xref rid="ID59ecf32d-8280-4d3f-ace4-4e29579c31ab" ref-type="bibr" id="IDce59b8c1-5d15-4cf3-aec3-6ef6394eb552">Cantagrel et al., 1981</xref>; <xref rid="ID9ecb0365-bdd3-4fa9-b93f-5cf03e24824f" ref-type="bibr" id="ID0ee53b4d-a588-4dad-a8a1-65f50b71f6b8">Heine, 1988</xref>; <xref rid="ID1c2a64b8-cfba-49b2-b782-d720beb52a3b" ref-type="bibr" id="ID44d6aa00-33f6-4da9-925d-d74833c66be5">Mac&#237;as et al., 1997</xref>; <xref rid="ID26c423f9-9b4d-4d8a-8ee0-969620b1768b" ref-type="bibr" id="IDbb1a7940-bd29-4ae3-a9b5-6fb1fe0ad237">Newton and Metcalfe, 1999</xref>; <xref rid="ID16dcd9c2-29bf-4001-94b7-dbc57098a5cf" ref-type="bibr" id="IDc9f1a2c6-0276-41f1-bb31-2fd55ebdb655">Caballero et al., 2001</xref>; <xref rid="IDf24c80cb-97e0-4337-857c-ab32ef846c67" ref-type="bibr" id="ID79eb002b-7856-4a07-9510-736bb4fb8698">Garc&#237;a-Palomo et al., 2002</xref>). Es necesario mencionar que el &#250;ltimo evento relacionado a la actividad efusiva, corresponde al emplazamiento del domo &#8220;El Ombligo&#8221;, hace 9,100 a&#241;os A.P. (<xref rid="IDfcbaa1e9-dd5d-41cc-b7da-96d25bea536f" ref-type="bibr" id="ID45196754-ad7a-43cf-ac2a-35ff93f9e8bb">Arce et al., 2003</xref>), mientras que para la actividad explosiva se tiene un dep&#243;sito de corriente pirocl&#225;stica de densidad con una edad de 3,300 a&#241;os A.P. (<xref rid="ID1c2a64b8-cfba-49b2-b782-d720beb52a3b" ref-type="bibr" id="IDe8f5895e-6aaf-44a3-b570-3bb4e58cb1ca">Macias et al., 1997</xref>). De igual manera, se tiene registro de al menos un evento de colapso de la estructura volc&#225;nica, para el cual se reporta una edad de 28,000 a&#241;os A.P. (<xref rid="IDaf145f80-4b86-4a56-a0ab-cada86919e29" ref-type="bibr" id="IDb3759564-e858-46f2-899e-545b9058913d">Caballero, 2007</xref>).</p>
+        <p>Existen otros dep&#243;sitos que completan la secuencia del Nevado Reciente y son producto de las glaciaciones. Diversos estudios de las monta&#241;as de M&#233;xico han demostrado la existencia de varias fases de glaciaci&#243;n en los &#250;ltimos 200,000 a&#241;os (<xref rid="ID9ba5a421-1688-4da1-898f-1dd0644680b6" ref-type="bibr" id="ID69bdabfd-a246-4434-82c8-b4ec124061d0">V&#225;zquez Selem y Heine, 2004</xref>; <xref rid="ID8059e80c-b92d-453c-8213-4e0be9b58e46" ref-type="bibr" id="IDdc5d2405-5bd4-434f-9d4c-1ff24dbf4222">White et al., 1990</xref>), sin embargo, para el caso del Nevado de Toluca, la intensa actividad volc&#225;nica del Cuaternario ha borrado la mayor parte de las evidencias de glaciaci&#243;n, aunque al menos para los &#250;ltimos 20,000 a&#241;os, a&#250;n se conservan (<xref rid="ID9ecb0365-bdd3-4fa9-b93f-5cf03e24824f" ref-type="bibr" id="ID58c708cf-63e8-48b6-aaac-36f661454fa1">Heine, 1988</xref>). La morfolog&#237;a del Nevado de Toluca presenta evidencia de avance glaciar que fue identificada y clasificada por V&#225;zquez-Selem y Heine (<xref rid="ID9ba5a421-1688-4da1-898f-1dd0644680b6" ref-type="bibr" id="ID537999ce-a606-48ea-a75f-69ed385ac0e6">2011</xref>): 32,000 a&#241;os A.P. (MI); 21,700&#8211;17,000 a&#241;os A.P. (MII 1); 17,000&#8211;11,600 a&#241;os A.P. (MII 2); 11,600 a&#241;os A.P. (late Younger Dryer), 8,000&#8211;7,000 a&#241;os A.P. (MIV) y la peque&#241;a edad de hielo (MV; Siglo XIV-XIX).</p>
+        <p>2.4 Biodiversidad.</p>
+        <p>Gracias a su ubicaci&#243;n en una zona de transici&#243;n entre las regiones biogeogr&#225;ficas ne&#225;rtica y neotropical, este volc&#225;n protege una mezcla diversa de especies (<xref rid="ID6b25e71b-c548-4ef4-bdc4-b7cbd1075beb" ref-type="bibr" id="IDb32f9088-3f87-4672-abdb-3f1e64da7212">Morrone, 2005</xref>). El Nevado de Toluca alberga 1058 especies: 831 especies constituyen la flora y 227 la fauna, 61 de las cuales se encuentran catalogadas en riesgo (<xref rid="ID091b2f6a-15f8-4740-8cf5-d2fc5f754866" ref-type="bibr" id="ID6512d219-d726-44b6-94d9-ee0bd2602ac4">NOM-059-SEMARNAT-2010</xref>; <xref rid="ID0f5a43fc-6ce2-4c68-992e-cd019208c302" ref-type="bibr" id="ID1b957444-40cb-46a3-ac44-d1122be5aebb">SEMARNAT, 2016</xref>).</p>
+        <p>Se resalta la existencia de especies de distribuci&#243;n restringida y end&#233;micas de las altas monta&#241;as del centro del pa&#237;s: <italic>Draba nivicola</italic>,<italic> Festuca l&#237;vida </italic>y<italic> Trisetum spicatum </italic>(conocido como zacate) y especies en alguna categor&#237;a de riesgo como el enebro azul (<italic>Juniperus sabinoides mont&#237;cola</italic>), la mariposa monarca (<italic>Danaus plexippus</italic>), tlaconete de Robert (<italic>Pseudoeurycea robertsi</italic>), rana de &#225;rbol plegada o surcada (<italic>Hyla plicata</italic>), rana de Moctezuma (<italic>Lithobates montezumae</italic>) y v&#237;bora de cascabel (<italic>Crotalus transversus</italic>) (<xref rid="ID07dab9a3-4fdc-4a4a-8712-d359259b16ec" ref-type="bibr" id="IDa0e8aee7-8d93-4e3d-9a39-d4efa841078d">DOF, 2016</xref>; <xref rid="ID0f5a43fc-6ce2-4c68-992e-cd019208c302" ref-type="bibr" id="ID098e600c-c5e6-4119-8eb1-5e7890756620">SEMARNAT, 2016</xref>). </p>
+        <p>Adem&#225;s, durante el recorrido de los diversos senderos de monta&#241;a, se pueden encontrar cuatro tipos principales de vegetaci&#243;n: bosque de oyamel (<italic>Abies religiosa</italic>), bosque de ocote (<italic>Pinus montezumae</italic>), bosque de pino de las alturas (<italic>Pinus hartwegii</italic>) y en las partes m&#225;s altas, pastizal alpino (<xref rid="IDd642bbcd-f5f8-4710-9308-79bbc6750bdd" ref-type="bibr" id="ID1a63f0e7-7502-4a7d-a86b-21d6b62678a7">D&#237;az-Rold&#225;n, 2013</xref>). Sus bosques son sumamente importantes porque funcionan como zonas de recarga de mantos acu&#237;feros. Gracias a ellos, el agua se infiltra y llega al subsuelo, para despu&#233;s ser aprovechada por la poblaci&#243;n de Toluca y la Ciudad de M&#233;xico (<xref rid="ID0f5a43fc-6ce2-4c68-992e-cd019208c302" ref-type="bibr" id="IDf7562a66-4d79-49ec-a389-e8f69211d6d4">SEMARNAT, 2016</xref>). En cada mapa se mencionan algunos elementos de flora y fauna que el visitante observar&#225; en esa ruta, con el fin de enriquecer su experiencia y realzar la gran biodiversidad presente en la zona.</p>
+      </sec>
+      <sec>
+        <title>3. Conclusiones </title>
+        <p>La cartograf&#237;a tem&#225;tica del APFF presentada en este trabajo es un trabajo transdisciplinario de alto impacto cient&#237;fico y cultural, con un objetivo claramente social y ambiental con car&#225;cter sustentable.</p>
+        <p>El material realizado es una importante herramienta visual que puede ser utilizada para realizar consultas acad&#233;micas, as&#237; como material did&#225;ctico para la divulgaci&#243;n y el fomento a la conservaci&#243;n de los recursos naturales de la APFF. </p>
+        <p>Adicionalmente, se espera que el uso de este material <italic>in situ</italic>, as&#237; como a trav&#233;s de diversos canales de comunicaci&#243;n, convencionales y no convencionales, motive la b&#250;squeda de una experiencia conservacionista por parte de los visitantes del &#193;rea Natural Protegida.</p>
+        <p>Es importante resaltar, que el &#225;rea es objeto de un programa de gesti&#243;n y conservaci&#243;n ambiental a trav&#233;s del Plan de Manejo del APFF Nevado de Toluca; sin embargo, &#233;ste no contiene un seguimiento de an&#225;lisis y mitigaci&#243;n de impacto ambiental debido espec&#237;ficamente a la alta afluencia. Adem&#225;s, el an&#225;lisis del impacto del AFPP no considera la gesti&#243;n del riesgo como una medida de mitigaci&#243;n de impacto ambiental.</p>
+        <p>No existe en el &#225;rea una gesti&#243;n integral del riesgo que minimice el estado de vulnerabilidad de los visitantes; bajo tal premisa, se sugiere como una importante y primera estrategia de mitigaci&#243;n del riesgo, la implementaci&#243;n &#8220;in situ&#8221; de la difusi&#243;n de informaci&#243;n y del sendero interpretativo a trav&#233;s de paneles divulgativos con informaci&#243;n transdisciplinaria. El objetivo de esta acci&#243;n ser&#237;a empoderar directamente al visitante para una mejor toma de decisiones. </p>
+      </sec>
+      <sec>
+        <title>Dise&#241;o de los mapas </title>
+        <p>Los mapas est&#225;n realizados con una simbolog&#237;a b&#225;sica, lenguaje de divulgaci&#243;n y enfocados a p&#250;blico en general como una herramienta de consulta previa o <italic>in situ</italic> para la poblaci&#243;n flotante que visita al &#193;rea de Protecci&#243;n de Flora y Fauna Nevado de Toluca, dado ello, se muestran lugares y nombres populares de referencias y pocos elementos especializados.</p>
+      </sec>
+      <sec>
+        <title>Agradecimientos</title>
+        <p>A los revisores Dra. Lucia Capra Pedol, Dr. Carles Canet, y al editor Dr. Luca Ferrari y todo el equipo editorial de Terra Digitalis.  A las facilidades otorgadas por la Lic. Sof&#237;a Manzur y su equipo de CEPANAF, al Biol. Luis Miguel Mandujano y su equipo de CONANP. A los colegas Maribel Osorio, Denisse Morales Perea, Juan Carlos Gavilanes, Marie N&#246;elle Guilbaud, Salvador Acosta, Fernando Alberto L&#243;pez Ortiz, Mauricio Alejandro Amaya y H&#233;ctor Mart&#237;nez Campos. A los ciclistas y monta&#241;istas Miguel Venegas Orihuela, Iv&#225;n Garc&#237;a Orozco, Jes&#250;s Roberto Aguilar Ordo&#241;ez, Jos&#233; Silva Sandoval de CEMAC- Toluca y a Daniel Carrillo Cort&#233;s. </p>
+      </sec>
+    </sec>
+  </body>
+  <back>
+    <fn-group>
+      <fn id="bibd2e284">
+        <p> Tambi&#233;n conocido como Heilprim y usado indistintamente. Dicho nombre deriva de Angelo Heilprim quien fue presidente de la Sociedad Geogr&#225;fica de Filadelfia.</p>
+      </fn>
+    </fn-group>
+    <ref-list>
+      <ref id="IDf6bbb011-ff74-4636-a50c-55d02abd4e42">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Aguirre-Acosta</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Ulloa</surname>
+              <given-names>E.M.</given-names>
+            </name>
+            <name>
+              <surname>Aguilar</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Cifuentes</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Valenzuela</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Biodiversidad de hongos en M&#233;xico</italic></article-title>
+          <source>Revista Mexicana de Biodiversidad</source>
+          <date>
+            <year>2014</year>
+          </date>
+          <volume>85</volume>
+          <issue></issue>
+          <fpage>76</fpage>
+          <lpage>81</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Aguirre-Acosta, E., M. Ulloa., S. Aguilar., J. Cifuentes y R. Valenzuela. 2014. Biodiversidad de hongos en M&#233;xico. Revista Mexicana de Biodiversidad. 85: 76-81.</mixed-citation> -->
+      </ref>
+      <ref id="IDfcbaa1e9-dd5d-41cc-b7da-96d25bea536f">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arce</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Macías</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Vazquez</surname>
+              <given-names>S.L.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>The 10.5 ka Plinian eruption of Nevado de Toluca, Mexico: stratigraphy and hazard implications</italic></article-title>
+          <source>Geol. Soc. Am. Bull</source>
+          <date>
+            <year>2003</year>
+          </date>
+          <volume>115(2)</volume>
+          <issue></issue>
+          <fpage>230</fpage>
+          <lpage>248</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Arce, J.L., Mac&#237;as, J.L., Vazquez, S.L., 2003. The 10.5 ka Plinian eruption of Nevado de Toluca, Mexico: stratigraphy and hazard implications. Geol. Soc. Am. Bull. 115 (2), 230e248.</mixed-citation> -->
+      </ref>
+      <ref id="ID5306858e-6024-441b-85cf-4f15d5e36937">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Arce</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Cervantes</surname>
+              <given-names>K.E.</given-names>
+            </name>
+            <name>
+              <surname>Macías</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Mora</surname>
+              <given-names>J.C.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>The 12.1 ka middle Toluca pumice: a dacitic Plinian-subplian eruption of Nevado de Toluca in Central México</italic></article-title>
+          <source>Journal of Volcanology and Geothermal Research</source>
+          <date>
+            <year>2005b</year>
+          </date>
+          <volume>147</volume>
+          <issue></issue>
+          <fpage>125</fpage>
+          <lpage>143</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Arce, J.L., Cervantes, K.E., Mac&#237;as, J.L., Mora, J.C., 2005b, The 12.1 ka middle Toluca pumice: a dacitic Plinian-subplian eruption of Nevado de Toluca in Central M&#233;xico: Journal of Volcanology and Geothermal Research, 147, 125-143.</mixed-citation> -->
+      </ref>
+      <ref id="ID15300f1c-467d-458b-9883-5006291609b6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Armienta</surname>
+              <given-names>MA</given-names>
+            </name>
+            <name>
+              <surname>De la Cruz-Reyna</surname>
+              <given-names>S</given-names>
+            </name>
+            <name>
+              <surname>Macias</surname>
+              <given-names>JL</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Chemical characteristics of the crater lakes of Popocatetetl, El Chichon, and Nevado de Toluca volcanoes</italic></article-title>
+          <source>Mexico Journal of Volcanology and Geothermal Research</source>
+          <date>
+            <year>2000</year>
+          </date>
+          <volume>97</volume>
+          <issue>None</issue>
+          <fpage>105</fpage>
+          <lpage>125</lpage>
+          <pub-id pub-id-type="doi">10.1016/S0377-0273(99)00157-2</pub-id>
+        </element-citation>
+      </ref>
+      <!--Armienta MA, De la Cruz-Reyna S, Macias JL (2000) Chemical characteristics of the crater lakes of Popocatetetl, El Chichon, and Nevado de Toluca volcanoes, Mexico Journal of Volcanology and Geothermal Research 97:105-125 doi:Doi 10.1016/S0377-0273(99)00157-2.-->
+      <ref>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Alcocer</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Oseguera</surname>
+              <given-names>L.A.</given-names>
+            </name>
+            <name>
+              <surname>Escobar</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Peralta</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Lugo</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Phytoplankton biomass and water chemistry in two high mountains, tropical lakes in central Mexico</italic></article-title>
+          <source>Arctic, Antarctic and Alpine Research </source>
+          <date>
+            <year>2004</year>
+          </date>
+          <volume>36</volume>
+          <issue></issue>
+          <fpage>342</fpage>
+          <lpage>346</lpage>
+        </element-citation>
+        <!-- <mixed-citation>ADDIN EN.REFLISTAlcocer J, Oseguera LA, Escobar E, Peralta L, Lugo A (2004) Phytoplankton biomass and water chemistry in two high mountains, tropical lakes in central Mexico. Arctic, Antarctic and Alpine Research 36:342-346</mixed-citation> -->
+      </ref>
+      <ref id="IDd9a9673d-67f1-4c72-b973-1f40e039a643">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>B&#228;rtsch</surname>
+              <given-names>Peter</given-names>
+            </name>
+            <name>
+              <surname>Swenson</surname>
+              <given-names>Erik R.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Acute High-Altitude Illnesses</italic></article-title>
+          <source>N Engl J Med</source>
+          <date>
+            <year>2013</year>
+          </date>
+          <volume>368</volume>
+          <issue>None</issue>
+          <fpage>2294</fpage>
+          <lpage>302</lpage>
+        </element-citation>
+      </ref>
+      <!--B&#228;rtsch, Peter ., Erik R. Swenson. Acute High-Altitude Illnesses. N Engl J Med 2013; 368:2294-302-->
+      <ref id="IDdc68e6b5-4740-4b30-9fa9-b33e1b67e232">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bloomfield</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Valastro</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Late Pleistocene eruptive history of Nevado de Toluca, central Mexico</italic></article-title>
+          <source>Geological Society of America Bulletin</source>
+          <date>
+            <year>1974</year>
+          </date>
+          <volume>85</volume>
+          <issue>None</issue>
+          <fpage>901</fpage>
+          <lpage>906</lpage>
+        </element-citation>
+      </ref>
+      <!--Bloomfield, K., and Valastro, S., 1974, Late Pleistocene eruptive history of Nevado de Toluca, central Mexico: Geological Society of America Bulletin, v. 85, p. 901&#8211;906.-->
+      <ref id="IDccf3e9aa-404c-42ea-b4ad-13c5d45346c7">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bloomfield</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>A Late Quaternary monogenetic volcano field in central Mexico</italic></article-title>
+          <source>Geologische Rundschau</source>
+          <date>
+            <year>1975</year>
+          </date>
+          <volume>64</volume>
+          <issue>None</issue>
+          <fpage>476</fpage>
+          <lpage>497</lpage>
+        </element-citation>
+      </ref>
+      <!--Bloomfield, K., 1975, A Late Quaternary monogenetic volcano field in central Mexico: Geologische Rundschau, v. 64, p. 476&#8211;497.-->
+      <ref id="IDcb739450-31e4-4831-818e-deff93c44df3">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bloomfield</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Valastro</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Late Quaternary tephrochronology of Nevado de Toluca, central M&#233;xico</italic></article-title>
+          <source>Institute of Geological Sciences, Overseas Geology and Mineral Resources</source>
+          <date>
+            <year>1977</year>
+          </date>
+          <volume>46</volume>
+          <issue>None</issue>
+          <fpage>1</fpage>
+          <lpage>15</lpage>
+        </element-citation>
+      </ref>
+      <!--Bloomfield, K., and Valastro, S., 1977, Late Quaternary tephrochronology of Nevado de Toluca, central M&#233;xico: Institute of Geological Sciences, Overseas Geology and Mineral Resources, v. 46, p. 1&#8211;15.-->
+      <ref id="IDd41add1c-d2b2-4a60-9589-2c70d7abfc67">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Bloomfield</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Sánchez-Rubio</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Wilson</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Plinian eruptions of Nevado de Toluca Volcano</italic></article-title>
+          <source>Geologische Rundschau</source>
+          <date>
+            <year>1977</year>
+          </date>
+          <volume>66</volume>
+          <issue></issue>
+          <fpage>120</fpage>
+          <lpage>146</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Bloomfield, K., S&#225;nchez-Rubio, G., and Wilson, L., 1977, Plinian eruptions of Nevado de Toluca Volcano: Geologische Rundschau, v. 66, p. 120&#8211;146.</mixed-citation> -->
+      </ref>
+      <ref id="ID16dcd9c2-29bf-4001-94b7-dbc57098a5cf">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caballero</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Mac&#237;as</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Urrutia-Fucugauchi</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Lozano-Garc&#237;a</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Casta&#241;eda</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Volcanic stratigraphy and palaeolimnology of the Upper Lerma Basin during the Late Pleistocene and Holocene</italic></article-title>
+          <source>Sedimentology special volume, Lacustrine Volcaniclastic-Sedimentation</source>
+          <date>
+            <year>2001</year>
+          </date>
+          <volume>30</volume>
+          <issue>None</issue>
+          <fpage>57</fpage>
+          <lpage>71</lpage>
+        </element-citation>
+      </ref>
+      <!--Caballero, M., Mac&#237;as, J.L., Urrutia-Fucugauchi, J., Lozano-Garc&#237;a, S., and Casta&#241;eda, R., 2001, Volcanic stratigraphy and palaeolimnology of the Upper Lerma Basin during the Late Pleistocene and Holocene: Sedimentology special volume, Lacustrine Volcaniclastic-Sedimentation, v. 30,p. 57&#8211;71.-->
+      <ref id="IDaf145f80-4b86-4a56-a0ab-cada86919e29">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caballero</surname>
+              <given-names>L</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>An&#225;lisis textural del dep&#243;sito de avalancha de escombros &#171;El zagu&#225;n&#187;, volc&#225;n Nevado de Toluca: din&#225;mica de transporte y mecanismos de emplazamiento, tesis de maestr&#237;a</italic></article-title>
+          <date>
+            <year>2007</year>
+          </date>
+          <publisher-loc>M&#233;xico, D. F</publisher-loc>
+          <publisher-name>UNAM</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Caballero, L. 2007 An&#225;lisis textural del dep&#243;sito de avalancha de escombros &#171;El zagu&#225;n&#187;, volc&#225;n Nevado de Toluca: din&#225;mica de transporte y mecanismos de emplazamiento, tesis de maestr&#237;a, UNAM, M&#233;xico, D. F.-->
+      <ref id="ID3bc72c04-8cb0-49cf-a26b-86d3d6b336a7">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Caballero</surname>
+              <given-names>ME</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>The diatom flora of two acid lakes in central Mexico</italic></article-title>
+          <source>Diatom Res</source>
+          <date>
+            <year>1996</year>
+          </date>
+          <volume>11</volume>
+          <issue>None</issue>
+          <fpage>227</fpage>
+          <lpage>240</lpage>
+        </element-citation>
+      </ref>
+      <!--Caballero ME, 1996, The diatom flora of two acid lakes in central Mexico Diatom Res 11:227-240-->
+      <ref id="ID59ecf32d-8280-4d3f-ace4-4e29579c31ab">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cantagrel</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Robin</surname>
+              <given-names>C.E.</given-names>
+            </name>
+            <name>
+              <surname>Vincent</surname>
+              <given-names>P.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>The main stages of the evolution of an andesitic composite volcano: The nevado de toluca (Mexico)</italic></article-title>
+          <source>Bull. Volcanol</source>
+          <date>
+            <year>1981</year>
+          </date>
+          <volume>44</volume>
+          <issue></issue>
+          <fpage>177</fpage>
+          <lpage>186</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Cantagrel, J.M., Robin, C.E., Vincent, P., 1981. The main stages of the evolution of an andesitic composite volcano: The nevado de toluca (Mexico). Bull. Volcanol. 44, 177e186.</mixed-citation> -->
+      </ref>
+      <ref id="ID151cd8df-4d74-49ec-8497-c5856839dabd">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capra</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Macías</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Pleistocene cohesive debris flows at Nevado de Toluca Volcano, central Mexico</italic></article-title>
+          <source>Journal of Volcanology and Geothermal Research</source>
+          <date>
+            <year>2000</year>
+          </date>
+          <volume>102</volume>
+          <issue></issue>
+          <fpage>149</fpage>
+          <lpage>168</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Capra, L., and Mac&#237;as, J.L., 2000, Pleistocene cohesive debris flows at Nevado de Toluca Volcano, central Mexico: Journal of Volcanology and Geothermal Research, v. 102, p. 149&#8211;168.</mixed-citation> -->
+      </ref>
+      <ref id="ID590bde28-c6ae-4670-bf70-b61295802e60">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capra</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Macías</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>The cohesive Naranjo debris-flow deposit (10 km3): A dam breakout flow derived from the Pleistocene debrisavalanche deposit of Nevado de Colima Volcano (México)</italic></article-title>
+          <source>Journal of Volcanology and Geothermal Research</source>
+          <date>
+            <year>2002</year>
+          </date>
+          <volume>117</volume>
+          <issue></issue>
+          <fpage>213</fpage>
+          <lpage>235</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Capra, L., Mac&#237;as, J.L., 2002, The cohesive Naranjo debris-flow deposit (10 km3): A dam breakout flow derived from the Pleistocene debrisavalanche deposit of Nevado de Colima Volcano (M&#233;xico): Journal of Volcanology and Geothermal Research, 117, 213-235.</mixed-citation> -->
+      </ref>
+      <ref id="IDc1f97ead-d73e-4729-b814-b42999a47b76">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Capra</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Carreras</surname>
+              <given-names>L.M.</given-names>
+            </name>
+            <name>
+              <surname>Arce</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Mac&#237;as</surname>
+              <given-names>J.L.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>The Lower Toluca Pumice: a ca. 21,700 yr B.P. Plinian eruption of Nevado de Toluca volcano, Mexico</italic></article-title>
+          <source>Special Paper Geol. Soc. Am</source>
+          <date>
+            <year>2006</year>
+          </date>
+          <volume>402</volume>
+          <issue>None</issue>
+          <fpage>155</fpage>
+          <lpage>173</lpage>
+        </element-citation>
+      </ref>
+      <!--Capra, L., Carreras, L.M., Arce, J.L., Mac&#237;as, J.L., 2006. The Lower Toluca Pumice: a ca. 21,700 yr B.P. Plinian eruption of Nevado de Toluca volcano, Mexico. Special Paper Geol. Soc. Am. 402, 155e173.-->
+      <ref id="IDd80cf196-a41d-4b3a-a057-166866340e08">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Careaga Pardave</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Xinantecatl o Nevado de Toluca. Nevado de Colima. Volc&#225;n de Fuego de Colima. Rutas de las Monta&#241;as de M&#233;xico. 1975</italic></article-title>
+          <date>
+            <year>1988</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--Careaga Pardave A., 1988, Xinantecatl o Nevado de Toluca. Nevado de Colima. Volc&#225;n de Fuego de Colima. Rutas de las Monta&#241;as de M&#233;xico. 1975. -->
+      <ref id="ID41ac318a-8efd-40cd-b333-2040eedc9975">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carcavilla</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>López-Martínez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Durán</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Patrimonio geológico y geodiversidad: investigación, conservación, gestión y relación con los espacios naturales protegidos. No 7 en Serie de Cuadernos del Museo Geominero. Instituto Geológico y Minero de España, Madrid, 360 pp.</italic></article-title>
+          <date>
+            <year>2007</year>
+          </date>
+        </element-citation>
+        <!-- <mixed-citation>Carcavilla, L., L&#243;pez-Mart&#237;nez J., Dur&#225;n, J.J. 2007. Patrimonio geol&#243;gico y geodiversidad: investigaci&#243;n, conservaci&#243;n, gesti&#243;n y relaci&#243;n con los espacios naturales protegidos. No 7 en Serie de Cuadernos del Museo Geominero. Instituto Geol&#243;gico y Minero de Espa&#241;a, Madrid, 360 pp.</mixed-citation> -->
+      </ref>
+      <ref id="IDebb7fbc5-0a5d-46fd-b649-74b695a68a17">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carles</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Mora-Chaparro</surname>
+              <given-names>J.M.</given-names>
+            </name>
+            <name>
+              <surname>Iglesias</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Cruz-Pérez</surname>
+              <given-names>M.A.</given-names>
+            </name>
+            <name>
+              <surname>Salgado-Martínez</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Zamudio-Ángeles</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Fitz-Díaz</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Martínez-Serrano</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Gil-Ríos</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Poch</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Cartografía geológica para la gestión del geopatrimonio y la planeación de rutas geoturísticas: Aplicación en el Geoparque Mundial de la UNESCO Comarca Minera, Hidalgo</italic>
+          </article-title>
+          <source>
+          <italic>Terra Digitalis</italic>
+          </source>
+          <date>
+            <year>2017</year>
+          </date>
+          <volume>1(2)</volume>
+          <issue></issue>
+          <fpage>1</fpage>
+          <lpage>7</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Carles C., Mora-Chaparro J.M., Iglesias A., Cruz-P&#233;rez M.A., Salgado-Mart&#237;nez E., Zamudio-&#193;ngeles D., Fitz-D&#237;az E., Mart&#237;nez-Serrano G., Gil-R&#237;os A., Poch J. 2017. Cartograf&#237;a geol&#243;gica para la gesti&#243;n del geopatrimonio y la planeaci&#243;n de rutas geotur&#237;sticas: Aplicaci&#243;n en el Geoparque Mundial de la UNESCO Comarca Minera, Hidalgo. Terra Digitalis. Vol 1. 2, 1-7.</mixed-citation> -->
+      </ref>
+      <ref>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Carmichael</surname>
+              <given-names>I.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>The andesite aqueduct: perspectives on the evolution of intermediate magmatism in west-central (105&#176;-99&#176;W) Mexico</italic></article-title>
+          <source>Contributions to Mineralogy and Petrology</source>
+          <date>
+            <year>2002</year>
+          </date>
+          <volume>143</volume>
+          <issue>None</issue>
+          <fpage>641</fpage>
+          <lpage>663</lpage>
+        </element-citation>
+      </ref>
+      <!--Carmichael, I., 2002, The andesite aqueduct: perspectives on the evolution of intermediate magmatism in west-central (105&#176;-99&#176;W) Mexico: Contributions to Mineralogy and Petrology, 143, 641-663.-->
+      <ref id="IDe8f1c1f4-4df5-48cd-972f-70fd7e3dc9ba">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Castro Cuellar</surname>
+              <given-names>Adriana</given-names>
+            </name>
+            <name>
+              <surname>Cruz Burguete</surname>
+              <given-names>Jorge Luis</given-names>
+            </name>
+            <name>
+              <surname>Ruiz-Montoya</surname>
+              <given-names>Lorena</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Educar con &#233;tica y valores ambientales para conservar la naturaleza</italic></article-title>
+          <source>Convergencia. Revista de Ciencias sociales</source>
+          <date>
+            <year>2009</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--Castro Cuellar Adriana, Cruz Burguete Jorge Luis y Ruiz-Montoya Lorena. 2009.Educar con &#233;tica y valores ambientales para conservar la naturaleza. Convergencia. Revista de Ciencias sociales. Num 50. UAEM. -->
+      <ref id="ID68089d84-5216-4d0a-badd-d8126c71f418">
+        <element-citation publication-type="bookchapter">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Coach</surname>
+              <given-names>R. C.</given-names>
+            </name>
+            <name>
+              <surname>Lauley</surname>
+              <given-names>J.S.</given-names>
+            </name>
+            <name>
+              <surname>Hackett</surname>
+              <given-names>P.H.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>High Altitude Physiology</italic></article-title>
+          <source>Auerbach&#8217;s Wilderness Medicine</source>
+          <date>
+            <year>2016</year>
+          </date>
+          <publisher-loc>None</publisher-loc>
+          <publisher-name>None</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Coach. R. C., Lauley J.S., Hackett P.H. (2016). High Altitude Physiology en Paul S. Auerbach, Tracy A. Cushing, N. Stuart Harris (7a). Auerbach&#8217;s Wilderness Medicine, Estados Unidos, Elsevier.-->
+      <ref id="IDead0d10d-0c9d-498f-a791-db2733aafefd">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>CONANP</surname>
+              <given-names/>
+            </name>
+          </person-group>
+          <article-title><italic>Plan de Manejo. apff nevado de toluca, para consulta p&#250;blica en cumplimiento a lo previsto por los art&#237;culos 65 de la ley general del equilibrio ecol&#243;gico y la protecci&#243;n al ambiente y 73 de su reglamento en materia de &#225;reas naturales protegidas</italic></article-title>
+          <date>
+            <year>2016</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--CONANP, 2016. Plan de Manejo. apff nevado de toluca, para consulta p&#250;blica en cumplimiento a lo previsto por los art&#237;culos 65 de la ley general del equilibrio ecol&#243;gico y la protecci&#243;n al ambiente y 73 de su reglamento en materia de &#225;reas naturales protegidas. (http://www.conanp.gob.mx/que_hacemos/pdf/programas_manejo/RESUMEN_NEVADO_TOLUCA.pdf
+            )-->
+      <ref id="ID25551911-af1e-4651-806b-d315ddba3e42">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Demant</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Caracter&#237;sticas del Eje Neovolc&#225;nico Transmexicano y sus problemas de   interpretaci&#243;n</italic></article-title>
+          <source>Revista Instituto de Geolog&#237;a</source>
+          <date>
+            <year>1978</year>
+          </date>
+          <volume>2</volume>
+          <issue>None</issue>
+          <fpage>172</fpage>
+          <lpage>187</lpage>
+        </element-citation>
+      </ref>
+      <!--Demant, A., 1978, Caracter&#237;sticas del Eje Neovolc&#225;nico Transmexicano y sus problemas de interpretaci&#243;n: Revista Instituto de Geolog&#237;a, Universidad Nacional Aut&#243;noma de M&#233;xico, M&#233;xico, v. 2, p. 172&#8211;187-->
+      <ref id="IDd642bbcd-f5f8-4710-9308-79bbc6750bdd">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Díaz-Roldán</surname>
+              <given-names>A.V.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Diagnosis de la vegetación y Flora del Parque Nacional Nevado de Toluca (Estado de México, México) y propuesta para su gestoría. Tesis profesional, Facultad de Estudios Superiores Iztacala. Universidad Nacional Autónoma de México, Los Reyes, Iztacala. 71 pp</italic></article-title>
+          <date>
+            <year>2013</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>D&#237;az &#8211; Rold&#225;n, A.V. 2013, Diagnosis de la vegetaci&#243;n y Flora del Parque Nacional Nevado de Toluca (Estado de M&#233;xico, M&#233;xico) y propuesta para su gestor&#237;a. Tesis profesional, Facultad de Estudios Superiores Iztacala. Universidad Nacional Aut&#243;noma de M&#233;xico, Los Reyes, Iztacala. 71 pp.</mixed-citation> -->
+      </ref>
+      <ref>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Dimas Flores</surname>
+              <given-names>N.</given-names>
+            </name>
+            <name>
+              <surname>Alcocer</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Ciros P&#233;rez</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>The structure of the zooplancton assemblages from two neighboring troical high mountain lakes</italic></article-title>
+          <source>Journal of Freshwater Ecology</source>
+          <date>
+            <year>2007</year>
+          </date>
+          <volume>23</volume>
+          <issue>None</issue>
+          <fpage>21</fpage>
+          <lpage>31</lpage>
+        </element-citation>
+      </ref>
+      <!--Dimas Flores N, Alcocer J, Ciros P&#233;rez J (2007) The structure of the zooplancton assemblages from two neighboring troical high mountain lakes. Journal of Freshwater Ecology 23:21-31-->
+      <ref id="ID091b2f6a-15f8-4740-8cf5-d2fc5f754866">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DOF</surname>
+              <given-names/>
+            </name>
+          </person-group>
+          <article-title><italic>NORMA Oficial Mexicana NOM-059-SEMARNAT-2010, Protección ambiental-Especies nativas de México de flora y fauna silvestres-Categorías de riesgo y especificaciones para su inclusión, exclusión o cambio-Lista de especies en riesgo.</italic></article-title>
+          <date>
+            <year>2010</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--DOF 30/12/2010 NORMA Oficial Mexicana NOM-059-SEMARNAT-2010, Protecci&#243;n ambiental-Especies nativas de M&#233;xico de flora y fauna silvestres-Categor&#237;as de riesgo y especificaciones para su inclusi&#243;n, exclusi&#243;n o cambio-Lista de especies en riesgo.-->
+      <ref id="ID07dab9a3-4fdc-4a4a-8712-d359259b16ec">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>DOF</surname>
+              <given-names></given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>DECRETO que reforma, deroga y adiciona diversas disposiciones del diverso publicado el 25 de enero de 1936, por el que se declaró Parque Nacional la montaña denominada "Nevado de Toluca" que fue modificado por el diverso publicado el 19 de febrero de 1937. Plan de Manejo del APFF</italic>
+          </article-title>
+          <date>
+            <year>2013</year>
+          </date>
+        </element-citation>
+        <!-- <mixed-citation>DOF 01/10/2013 DECRETO que reforma, deroga y adiciona diversas disposiciones del diverso publicado el 25 de enero de 1936, por el que se declar&#243; Parque Nacional la monta&#241;a denominada "Nevado de Toluca" que fue modificado por el diverso publicado el 19 de febrero de 1937. Plan de Manejo del APFF.</mixed-citation> -->
+      </ref>
+      <ref id="ID638c03dc-337d-4ac0-884e-85bf6fc07f33">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferrari</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Orozco-Esquivel</surname>
+              <given-names>M.T.</given-names>
+            </name>
+            <name>
+              <surname>Manea</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Manea</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>The dynamic history of the Trans-Mexican Volcanic Belt and the Mexico subduction zone</italic>
+          </article-title>
+          <source>
+          <italic>Tectonophysics, Invited review paper</italic>
+          </source>
+          <date>
+            <year>2012</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tecto.2011.09.018</pub-id>
+        </element-citation>
+        <!-- <mixed-citation>Ferrari, L., Orozco-Esquivel, M.T., Manea, V., Manea, M., 2012. The dynamic history of the Trans-Mexican Volcanic Belt and the Mexico subduction zone. Tectonophysics, Invited review paper, doi:10.1016/j.tecto.2011.09.018.</mixed-citation> -->
+      </ref>
+      <ref id="IDb0848122-689f-41c1-926f-3ae6ceb799cf">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>García-Palomo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Macías</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Garduño</surname>
+              <given-names>V.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Miocene to recent structural evolution of the Nevado de Toluca volcano region, Central Mexico</italic>
+          </article-title>
+          <source>
+          <italic>Tectonophysics</italic>
+          </source>
+          <date>
+            <year>2000</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage>281</fpage>
+          <lpage>302</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Garc&#237;a-Palomo, A., Mac&#237;as, J., Gardu~no, V., 2000. Miocene to recent structural evolution of the Nevado de Toluca volcano region, Central Mexico. Tectonophysics 318, 281e302.</mixed-citation> -->
+      </ref>
+      <ref id="IDf24c80cb-97e0-4337-857c-ab32ef846c67">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>García-Palomo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Macías</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Arce</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Capra</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Garduño</surname>
+              <given-names>V.H.</given-names>
+            </name>
+            <name>
+              <surname>Espíndola</surname>
+              <given-names>J.M.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Geology of Nevado de Toluca volcano and surrounding areas, central Mexico</italic>
+          </article-title>
+          <source>
+          <italic>Geol. Soc. Am. Map Ser</italic>
+          </source>
+          <date>
+            <year>2002</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage>1</fpage>
+          <lpage>48</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Garc&#237;a-Palomo, A., Macias, J.L., Arce, J.L., Capra, L., Gardu~no, V.H., Esp&#237;ndola, J.M., 2002. Geology of Nevado de Toluca volcano and surrounding areas, central Mexico. Geol. Soc. Am. Map Ser. 1E48.</mixed-citation> -->
+      </ref>
+      <ref id="ID36b9fbab-d896-4308-899d-f270da9f12af">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>García-Martínez</surname>
+              <given-names>B.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Los nombres del Nevado de Toluca</italic>
+          </article-title>
+          <source>
+          <italic>Arqueología Mexicana</italic>
+          </source>
+          <date>
+            <year>2000</year>
+          </date>
+          <volume>8(43)</volume>
+          <issue></issue>
+          <fpage>24</fpage>
+          <lpage>26</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Garc&#237;a-Mart&#237;nez, B., 2000, Los nombres del Nevado de Toluca: Arqueolog&#237;a Mexicana, 8(43), 24-26.</mixed-citation> -->
+      </ref>
+      <ref id="ID88703c5f-b52b-4483-a5c9-5f0b455794b6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gómez-Tuena</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Orozco-Esquivel</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Ferrari</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Igneous petrogenesis of the Trans-Mexican Volcanic Belt. In: Alaniz-Álvarez, S.A.</italic>
+          </article-title>
+          <date>
+            <year>2007b</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>G&#243;mez-Tuena, A., Orozco-Esquivel, T., Ferrari, L., 2007b. Igneous petrogenesis of the Trans-Mexican Volcanic Belt. In: Alaniz-&#193;lvarez, S.A.</mixed-citation> -->
+      </ref>
+      <ref id="ID454915fe-bc03-40a9-9dbe-bc41cc159882">
+        <element-citation publication-type="bookchapter">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guzm&#225;n</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>An&#225;lisis cualitativo y cuantitativo de la diversidad de los hongos en M&#233;xico (Ensayo sobre el inventario f&#250;ngico del pa&#237;s)</italic></article-title>
+          <source>La diversidad biol&#243;gica de Iberoam&#233;rica II</source>
+          <date>
+            <year>1998</year>
+          </date>
+          <publisher-loc>Xalapa</publisher-loc>
+          <publisher-name>Acta Zool&#243;gica Mexicana, nueva serie vol. Especial, CYTED e Instituto de Ecolog&#237;a</publisher-name>
+          <fpage>111</fpage>
+          <lpage>175</lpage>
+        </element-citation>
+      </ref>
+      <!--Guzm&#225;n, G. 1998. An&#225;lisis cualitativo y cuantitativo de la diversidad de los hongos en M&#233;xico (Ensayo sobre el inventario f&#250;ngico del pa&#237;s). In: La diversidad biol&#243;gica de Iberoam&#233;rica II, G. Halffter (ed.). Acta Zool&#243;gica Mexicana, nueva serie vol. Especial, CYTED e Instituto de Ecolog&#237;a, Xalapa. p.p. 111-175-->
+      <ref id="ID9ecb0365-bdd3-4fa9-b93f-5cf03e24824f">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Heine</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Late Quaternary glacial chronology of the Mexican volcanoes</italic></article-title>
+          <source>Die Geowissenschaften</source>
+          <date>
+            <year>1988</year>
+          </date>
+          <volume>6</volume>
+          <issue>None</issue>
+          <fpage>197</fpage>
+          <lpage>205</lpage>
+        </element-citation>
+      </ref>
+      <!--Heine, K., 1988, Late Quaternary glacial chronology of the Mexican volcanoes: Die Geowissenschaften, 6, 197-205.-->
+      <ref id="ID1c2a64b8-cfba-49b2-b782-d720beb52a3b">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Macías</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>García-Palomo</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Arce</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Siebe</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Espindola</surname>
+              <given-names>J. M.</given-names>
+            </name>
+            <name>
+              <surname>Komorowski</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Scott</surname>
+              <given-names>K. M.</given-names>
+            </name>
+            <name>
+              <surname>Kowallis</surname>
+              <given-names>B. J.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Late Pleistocene–Holocene Cataclysmic Eruptions at Nevado de Toluca and Jocotitlán Volcanoes, Central Mexico, Proterozoic to Recent Stratigraphy, Tectonics, and Volcanology, Utah, Nevada, Southern Idaho and Central Mexico</italic>
+          </article-title>
+          <source>
+          <italic>BYU Geology Studies</italic>
+          </source>
+          <date>
+            <year>1997</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage>493</fpage>
+          <lpage>528</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Mac&#237;as, J. L., Garc&#237;a-Palomo, A., Arce, J. L., Siebe, C.,&#160;Espindola, J. M., Komorowski, J. C., Scott, K. M., Kowallis, B. J., 1997,&#160;Late Pleistocene&#8211;Holocene Cataclysmic Eruptions at Nevado de Toluca and Jocotitl&#225;n Volcanoes, Central Mexico, Proterozoic to Recent Stratigraphy, Tectonics, and Volcanology, Utah, Nevada, Southern Idaho and Central Mexico, BYU Geology Studies p. 493-528.</mixed-citation> -->
+      </ref>
+      <ref id="ID5afb1219-f3d6-4656-88e4-2f57d1aced1b">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Macías</surname>
+              <given-names>J. L.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Geología e historia eruptiva de algunos de los grandes volcanes activos de México</italic>
+          </article-title>
+          <source>
+          <italic>Volumen conmemorativo del Centenario. Temas selectos de la geología mexicana.  Boletín de la Sociedad Geológica Mexicana</italic>
+          </source>
+          <date>
+            <year>1997</year>
+          </date>
+          <volume>Tomo LVII(3)</volume>
+          <issue></issue>
+          <fpage>379</fpage>
+          <lpage>424</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Mac&#237;as J.L. 2005. Geolog&#237;a e historia eruptiva de algunos de los grandes volcanes activos de M&#233;xico.Volumen conmemorativo del Centenario. Temas selectos de la geolog&#237;a mexicana. Bolet&#237;n de la Sociedad Geol&#243;gica Mexicana. Tomo LVII, Num. 3 379-424.</mixed-citation> -->
+      </ref>
+      <ref id="ID6eccbd3b-4ec9-4cd2-b00f-71ef0c78a451">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Mieske</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Flaherty</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>O&#8217;Brien</surname>
+              <given-names>T.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Journeys to High Altitude:Risks and Recommendations for Travelers with Preexisting Medical conditions</italic></article-title>
+          <source>Journal of Travel Medicine</source>
+          <date>
+            <year>2010</year>
+          </date>
+          <volume>17</volume>
+          <issue>1</issue>
+          <fpage>48</fpage>
+          <lpage>62</lpage>
+        </element-citation>
+      </ref>
+      <!--Mieske K., Flaherty G., O&#8217;Brien T., (2010). Journeys to High Altitude:Risks and Recommendations for Travelers with Preexisting Medical conditions. Journal of Travel Medicine. 17 (1) 48 &#8211; 62-->
+      <ref id="ID6b25e71b-c548-4ef4-bdc4-b7cbd1075beb">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Morrone</surname>
+              <given-names>J.J.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Hacia una síntesis biogeográfica de México</italic>
+          </article-title>
+          <source>
+          <italic>Revista Mexicana de Biodiversidad</italic>
+          </source>
+          <date>
+            <year>2005</year>
+          </date>
+          <volume>76(2)</volume>
+          <issue></issue>
+          <fpage>207</fpage>
+          <lpage>252</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Morrone, J.J. 2005. Hacia una s&#237;ntesis biogeogr&#225;fica de M&#233;xico. Revista Mexicana de Biodiversidad 76 (2): 207-252.</mixed-citation> -->
+      </ref>
+      <ref id="ID26c423f9-9b4d-4d8a-8ee0-969620b1768b">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Newton</surname>
+              <given-names>J.A.</given-names>
+            </name>
+            <name>
+              <surname>Metcalfe</surname>
+              <given-names>S.E.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Tephrochronololgy of the Toluca Basin, central M&#233;xico</italic></article-title>
+          <source>Quaternary Science Reviews</source>
+          <date>
+            <year>1999</year>
+          </date>
+          <volume>18</volume>
+          <issue>None</issue>
+          <fpage>1039</fpage>
+          <lpage>1059</lpage>
+        </element-citation>
+      </ref>
+      <!--Newton, J.A., Metcalfe, S.E., 1999, Tephrochronololgy of the Toluca Basin, central M&#233;xico: Quaternary Science Reviews, 18, 1039-1059.-->
+      <ref id="IDc4311dcb-4073-4da2-8592-6306017a6f11">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Neyra Ja&#250;regui</surname>
+              <given-names>J. A.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Gu&#237;a de las altas monta&#241;as de M&#233;xico y una de Guatemala. Comisi&#243;n Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), M&#233;xico</italic></article-title>
+          <date>
+            <year>2012</year>
+          </date>
+          <publisher-loc>Conabio</publisher-loc>
+          <publisher-name>México</publisher-name>
+        </element-citation>
+      </ref>
+      <!--Neyra Ja&#250;regui J. A. 2012, Gu&#237;a de las altas monta&#241;as de M&#233;xico y una de Guatemala. Comisi&#243;n Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), M&#233;xico. -->
+      <ref>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Nieto-Samaniego</surname>
+              <given-names>Á.F.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Geology of México: celebrating the Centenary of the Geological Society of México</italic>
+          </article-title>
+          <source>
+          <italic>Geological Society of America Special Paper</italic>
+          </source>
+          <date>
+            <year></year>
+          </date>
+          <volume>422</volume>
+          <issue></issue>
+          <fpage>1</fpage>
+          <lpage>53</lpage>
+          <pub-id pub-id-type="doi">10.1130/ 2007.2422(05)</pub-id>
+        </element-citation>
+        <!-- <mixed-citation>Nieto-Samaniego, &#193;.F. (Eds.), Geology of M&#233;xico: celebrating the Centenary of the Geological Society of M&#233;xico: Geological Society of America Special Paper, 422, pp. 1&#8211;53. doi:10.1130/ 2007.2422(05).</mixed-citation> -->
+      </ref>
+      <ref id="IDb867c8b3-19ca-4227-a882-c5442463a1dd">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>J. Johnson</surname>
+              <given-names>Nicholas</given-names>
+            </name>
+            <name>
+              <surname>M. Luks</surname>
+              <given-names>Andrew</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>High-Altitude Medicine</italic></article-title>
+          <source>Med Clin N Am 100</source>
+          <date>
+            <year>2016</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--Nicholas J. Johnson, Andrew M. Luks, High-Altitude Medicine, Med Clin N Am 100 (2016) 357&#8211;369.-->
+      <ref id="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Osorio Garc&#237;a</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Franco Maass</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Ram&#237;rez de la O</surname>
+              <given-names>I. L.</given-names>
+            </name>
+            <name>
+              <surname>Nava Bernal</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Espinosa de los Monteros</surname>
+              <given-names>G. N.</given-names>
+            </name>
+            <name>
+              <surname>Regil H&#233;ctor</surname>
+              <given-names>H.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>El visitante del Parque Nacional Nevado de Toluca, M&#233;xico. An&#225;lisis del comportamiento en un &#225;rea natural protegida</italic></article-title>
+          <source>Investigaciones geogr&#225;ficas</source>
+          <date>
+            <year>2011</year>
+          </date>
+          <fpage>56</fpage>
+          <lpage>70</lpage>
+        </element-citation>
+      </ref>
+      <!--Osorio Garc&#237;a M., Franco Mass S., Ram&#237;rez de la O I. L., Nava Bernal G., Espinosa de los Monteros G. N., Regil H&#233;ctor H., 2011, El visitante del Parque Nacional Nevado de Toluca, M&#233;xico. An&#225;lisis del comportamiento en un &#225;rea natural protegida. Investigaciones Geogr&#225;ficas, Bolet&#237;n del Instituto de Geograf&#237;a, UNAM. Num 76, 56- 70.-->
+      <ref id="ID1bcea5d7-9ea5-436b-a434-62157b7cbd50">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Osorio Garc&#237;a</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Monge Amores</surname>
+              <given-names>L. E.</given-names>
+            </name>
+            <name>
+              <surname>Serrano Barqu&#237;n</surname>
+              <given-names>R.  C.</given-names>
+            </name>
+            <name>
+              <surname>Cort&#233;s Soto</surname>
+              <given-names>I. Y.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Perfil del visitante de naturaleza en Latinoam&#233;rica: pr&#225;cticas, motivaciones e imaginarios. Estudio comparativo entre M&#233;xico y Ecuador.</italic></article-title>
+          <source>PASOS. Revista de Turismo y Patrimonio Cultural</source>
+          <date>
+            <year>2017</year>
+          </date>
+          <volume>15</volume>
+          <issue>3</issue>
+          <fpage>713</fpage>
+          <lpage>729</lpage>
+        </element-citation>
+      </ref>
+      <!--Osorio Garc&#237;a M., Monge Amores L. E., Serrano Barqu&#237;n R. C., Cort&#233;s Soto I. Y. 2017, Perfil del visitante de naturaleza en Latinoam&#233;rica pr&#225;cticas, motivaciones e imaginarios. Estudio comparativo entre M&#233;xico y Ecuador. PASOS. Revista de Turismo y Patrimonio Cultural. Vol 15(3), 713 &#8211; 229.-->
+      <ref id="IDeb05f1be-76fe-4c1d-acef-61aa42e0a60f">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Pasquar&#232;</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Vezzoli</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Zanchi</surname>
+              <given-names>A.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Morphological and structural model of Mexican Volcanic Belt</italic></article-title>
+          <source>Geof&#237;sica Internacional</source>
+          <date>
+            <year>1987</year>
+          </date>
+          <volume>26</volume>
+          <issue>None</issue>
+        </element-citation>
+      </ref>
+      <!--Pasquar&#232;, G., Vezzoli, L., and Zanchi, A., 1987, Morphological and structural model of Mexican Volcanic Belt: Geof&#237;sica Internacional, v. 26, p. 159&#8211;176.-->
+      <ref id="IDcf36bdd2-0916-429a-b3ff-fb43175d9413">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Quezada-Ramírez</surname>
+              <given-names>M.N.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Los Matlatzincas: época prehispánica y época colonial hasta 1650</italic>
+          </article-title>
+          <source>
+          <italic>México, Instituto Nacional de Antropología e Historia</italic>
+          </source>
+          <date>
+            <year>1972</year>
+          </date>
+          <volume>22</volume>
+          <issue></issue>
+          <fpage>142</fpage>
+          <lpage>142</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Quezada-Ram&#237;rez, M.N., 1972, Los Matlatzincas: &#233;poca prehisp&#225;nica y &#233;poca colonial hasta 1650: M&#233;xico, Instituto Nacional de Antropolog&#237;a e Historia, 22, 142 p.</mixed-citation> -->
+      </ref>
+      <ref id="ID35a24472-d741-4bda-9f68-9b39500da6ed">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raymundo</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Contreras</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Bautista-Hern&#225;ndez</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>D&#237;az-Moreno</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Valenzuela</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Hongos tremeloides del bosque Las Bayas, municipio de Pueblo Nuevo, Durango, M&#233;xico</italic></article-title>
+          <source>Polibot&#225;nica</source>
+          <date>
+            <year>2012</year>
+          </date>
+          <fpage>85</fpage>
+          <lpage>103</lpage>
+        </element-citation>
+      </ref>
+      <!--Raymundo, T., M. Contreras., S. Bautista-Hern&#225;ndez., R. D&#237;az-Moreno y R. Valenzuela. 2012. Hongos Tremeloides del Bosque Las Bayas, Municipio de Pueblo Nuevo, Durango, M&#233;xico.-->
+      <ref id="IDd011f84d-37ac-47b7-bec9-b0f91b4f1038">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Raymundo</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Valenzuela</surname>
+              <given-names>R.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Los polipor&#225;ceos de M&#233;xico VI. Los hongos poliporoides del Estado de Oaxaca</italic></article-title>
+          <source>Polibot&#225;nica</source>
+          <date>
+            <year>2003</year>
+          </date>
+          <fpage>79</fpage>
+          <lpage>112</lpage>
+        </element-citation>
+      </ref>
+      <!--Raymundo, T. y R. Valenzuela. 2003. Los Polipor&#225;ceos de M&#233;xico VI. Los hongos poliporoides del estado de Oaxaca. Polibot&#225;nica 16: 79-112.-->
+      <ref id="IDae89433a-b93c-4d11-b2be-5a54590ec6e2">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rzedowski</surname>
+              <given-names>G. C.</given-names>
+            </name>
+            <name>
+              <surname>Rzedowski</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Flora fanerog&#225;mica del Valle de M&#233;xico. INECOL-CONABIO. P&#225;tzcuaro, Michoac&#225;n. 1406 pp en Ficha de identificaci&#243;n. Parque Nacional Izta-Popo, Zoquiapan. CONANP. recuperado 20 marzo 2018</italic></article-title>
+          <date>
+            <year>2005</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--Rzedowski, G. C. de, J. Rzedowski y colaboradores. 2005. Flora faneroga&#769;mica del Valle de Me&#769;xico. INECOL-CONABIO. Pa&#769;tzcuaro, Michoaca&#769;n. 1406 pp en Ficha de identificaci&#243;n. Parque Nacional Izta-Popo, Zoquiapan. CONANP. recuperado 20 marzo 2018 de http://iztapopo.conanp.gob.mx/documentos/fichas_de_especies/Eryngium_proteaeflorum.pdf
+         -->
+      <ref id="ID2db4400f-ea36-420f-8d07-7ff9fc622ab3">
+        <element-citation publication-type="book">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Siebe</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Guilbaud</surname>
+              <given-names>M. N.</given-names>
+            </name>
+            <name>
+              <surname>Salinas</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Kshirsagar</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Chevrel</surname>
+              <given-names>O.M.</given-names>
+            </name>
+            <name>
+              <surname>De la Fuente</surname>
+              <given-names>J. R.</given-names>
+            </name>
+            <name>
+              <surname>Hern&#225;ndez</surname>
+              <given-names>J. A.</given-names>
+            </name>
+            <name>
+              <surname>God&#237;nez</surname>
+              <given-names>L.</given-names>
+            </name>
+          </person-group>
+          <article-title>Monogenetic vulcanism ff the Michoacan . Guanajuato Volcanic Field: Maar craters of the Zacapu basins and domes, shields, and escorian cones of Tarascan highlands (Paracho &#8211; Par&#237;cutin region). Pree-meeting field trip (November 13 - 17) Prior to the 5 International Maar Conference (5 IMC &#8211; IAVCEI), Quer&#233;taro, M&#233;xico. Noviembre</article-title>
+          <date>
+            <year>2014</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--Siebe C., Guilbaud M. N., Salinas S., Kshirsagar, P., Chevrel O.M., De la Fuente J. R. R., Hern&#225;ndez J. A., God&#237;nez L. 2014. Monogenetic vulcanism ff the Michoacan . Guanajuato Volcanic Field: Maar craters of the Zacapu basins and domes, shields, and escorian cones of Tarascan highlands (Paracho &#8211; Par&#237;cutin region). Pree-meeting field trip (November 13 - 17) Prior to the 5 International Maar Conference (5 IMC &#8211; IAVCEI), Quer&#233;taro, M&#233;xico. Noviembre. -->
+      <ref id="ID0f5a43fc-6ce2-4c68-992e-cd019208c302">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>SEMARNAT</surname>
+              <given-names/>
+            </name>
+          </person-group>
+          <article-title><italic>Programa de Manejo &#193;rea de Protecci&#243;n de Flora y Fauna Nevado de Toluca. Comisi&#243;n Nacional de &#193;reas Naturales Protegidas. M&#233;xico</italic></article-title>
+          <date>
+            <year>2016</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--SEMARNAT, 2016. Programa de Manejo &#193;rea de Protecci&#243;n de Flora y Fauna Nevado de Toluca. Comisi&#243;n Nacional de &#193;reas Naturales Protegidas. M&#233;xico. 317pp.-->
+      <ref>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Servicio Meteorol&#243;gico Nacional</surname>
+              <given-names>SMN</given-names>
+            </name>
+          </person-group>
+          <article-title><italic>Tabla de normales climat&#243;logicas.  1951-2010</italic></article-title>
+          <source>None</source>
+          <date>
+            <year>2016</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--Servicio Meteorol&#243;gico Nacional. SMN. Tabla de normales climat&#243;logicas.  1951-2010. Consultado en  http://smn.cna.gob.mx/es/informacion-climatologica-ver-estado?estado=mex
+         -->
+      <ref>
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Szeroczynska</surname>
+              <given-names>K.</given-names>
+            </name>
+            <name>
+              <surname>Zawisza</surname>
+              <given-names>E.</given-names>
+            </name>
+            <name>
+              <surname>Wojewodka</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Initial time of two high altitude crater lakes (Nevado de Toluca, central Mexico) recorded in subfossil cladocera</italic>
+          </article-title>
+          <source>
+          <italic>Studia Quaternaria</italic>
+          </source>
+          <date>
+            <year>2015</year>
+          </date>
+          <volume>32(2)</volume>
+          <issue></issue>
+          <fpage>109</fpage>
+          <lpage>116</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Szeroczynska K., Zawisza E., Wojewodka M. 2015. Initial time of two high altitude crater lakes (Nevado de Toluca, central Mexico) recorded in subfossil cladocera. Studia Quaternaria. 32. No. 2 109 - 116</mixed-citation> -->
+      </ref>
+      <ref id="IDbde6b553-f004-446d-9f83-2a4a9e741fa0">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Torres-Orozco</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Arce</surname>
+              <given-names>J.L.</given-names>
+            </name>
+            <name>
+              <surname>Layer</surname>
+              <given-names>P.W.</given-names>
+            </name>
+            <name>
+              <surname>Benowitz</surname>
+              <given-names>J.A.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>The quaternary history of effusive volcanismo f the Nevado de Toluca área, central Mexico</italic>
+          </article-title>
+          <source>
+          <italic>Journal of South American Earth Sciences</italic>
+          </source>
+          <date>
+            <year>2017</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage>12</fpage>
+          <lpage>39</lpage>
+        </element-citation>
+        <!-- <mixed-citation>Torres-Orozco R., Arce J.L., Layer P.W., Benowitz J.A. 2017, The quaternary history of effusive volcanismo f the Nevado de Toluca &#225;rea, central Mexico. Journal of South American Earth Sciences 79 , 12-39.</mixed-citation> -->
+      </ref>
+      <ref id="IDc652bb68-6944-4d97-aa1c-7dec2cba125c">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Valle Rodríguez</surname>
+              <given-names>Santiago</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Las Áreas Naturales Protegidas en México. Un ejemplo de propuesta de gestión de un área protegida y plan de manejo en “La Sierra” de Monte Escobedo (Zacatecas, México). Tesis Doctoral. Universitat Autónoma de Barcelona</italic>
+          </article-title>
+          <date>
+            <year>2006</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+        <!-- <mixed-citation>Valle Rodr&#237;guez Santiago. 2006. Las &#193;reas Naturales Protegidas en M&#233;xico. Un ejemplo de propuesta de gesti&#243;n de un &#225;rea protegida y plan de manejo en &#8220;La Sierra&#8221; de Monte Escobedo (Zacatecas, M&#233;xico). Tesis Doctoral. Universitat Aut&#243;noma de Barcelona. </mixed-citation> -->
+      </ref>
+      <ref id="ID9ba5a421-1688-4da1-898f-1dd0644680b6">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Vázquez-Selem</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Heine</surname>
+              <given-names>K.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Late quaternary glaciation in Mexico. In: Ehlers, J., Gibbard, P.L., Hughes, P.D. (Eds.), Quaternary Glaciations — Extent and Chronology</italic>
+          </article-title>
+          <source>Elsevier B.V</source>
+          <date>
+            <year>2011</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage>849</fpage>
+          <lpage>861</lpage>
+        </element-citation>
+        <!-- <mixed-citation>V&#225;zquez-Selem, L., Heine, K., 2011. Late quaternary glaciation in Mexico. In: Ehlers, J., Gibbard, P.L., Hughes, P.D. (Eds.), Quaternary Glaciations &#8212; Extent and Chronology. Elsevier B.V, pp. 849&#8211;861.</mixed-citation> -->
+      </ref>
+      <ref id="ID8059e80c-b92d-453c-8213-4e0be9b58e46">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>White</surname>
+              <given-names>S.E.</given-names>
+            </name>
+            <name>
+              <surname>Reyes-Cortes</surname>
+              <given-names>M.</given-names>
+            </name>
+            <name>
+              <surname>Ortega Ram&#237;rez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Valastro</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>El Ajusco: Geomorfología volcánica y acontecimientos glaciales durante el Pleistoceno superior y comparación con las series glaciales mexicanas y las de las Montañas Rocallosas. Colección Científica, Serie Arqueología, INAH, México, D.F., 77 pp.</article-title>
+          <date>
+            <year>1990</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!--White, S.E., Reyes-Cortes, M., Ortega Ram&#237;rez, J. & Valastro, S. (1990). El Ajusco: Geomorfolog&#237;a volc&#225;nica y acontecimientos glaciales durante el Pleistoceno superior y comparaci&#243;n con las series glaciales mexicanas y las de las Monta&#241;as Rocallosas. Colecci&#243;n Cient&#237;fica, Serie Arqueolog&#237;a, INAH, M&#233;xico, D.F., 77 pp.-->
+    </ref-list>
+  </back>
+</article>
