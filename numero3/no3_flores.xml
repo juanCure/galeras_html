@@ -294,11 +294,12 @@
           <issue></issue>
           <fpage>89</fpage>
           <lpage>100</lpage>
+          <pub-id pub-id-type="doi">10.2166/nh.2008.041</pub-id>
         </element-citation>
         <!-- <mixed-citation>Bartsch, A., Pathe, K., Scipal, K., Wagner W., 2008. Detection of permanent open water surfaces in central Siberia with ENVISAT ASAR wide swath data with special emphasis on the estimation of methane fluxes from tundra wetlands. Hydrology Research, 39 (2), 89-100. </mixed-citation> -->
       </ref>
       <ref id="ID41bcabed-6a33-4144-9278-ed013faf8d10">
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Centro Nacional Prevención de Desastres (CENAPRED)</surname>
@@ -306,15 +307,13 @@
             </name>
           </person-group>
           <article-title>
-            <italic>Inundaciones, Serie Fascículos, Secretaría de Gobernación, México, 56 pp</italic>
+            <italic>Inundaciones</italic>
           </article-title>
           <date>
-            <year>2004</year>
+            <year>56 pp, 2004</year>
           </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-loc>México</publisher-loc>
+          <publisher-name>Serie Fascículos, Secretaría de Gobernación</publisher-name>
         </element-citation>
         <!-- <mixed-citation>Centro Nacional Prevenci&#243;n de Desastres (CENAPRED), 2004. Inundaciones, Serie Fasc&#237;culos, Secretar&#237;a de Gobernaci&#243;n, M&#233;xico, 56 pp..</mixed-citation> -->
       </ref>
@@ -351,7 +350,7 @@
         </element-citation>
       </ref>
       <ref id="ID46f3e1c9-3da2-429f-8b9e-c950e4435fdb">
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Comisión Nacional del Agua (CONAGUA)</surname>
@@ -359,15 +358,13 @@
             </name>
           </person-group>
           <article-title>
-            <italic>Datos de precipitación, gasto hidráulico y áreas afectadas en el municipio de Acapulco, Gro., Secretaria de Medio Ambiente y Recursos Naturales, México, 10 pp</italic>
+            <italic>Datos de precipitación, gasto hidráulico y áreas afectadas en el municipio de Acapulco, Gro.</italic>
           </article-title>
           <date>
-            <year>2013</year>
+            <year>10 pp., 2013</year>
           </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-loc>México</publisher-loc>
+          <publisher-name>Secretaria de Medio Ambiente y Recursos Naturales</publisher-name>
         </element-citation>
         <!-- <mixed-citation>Comisi&#243;n Nacional del Agua (CONAGUA), 2013. Datos de precipitaci&#243;n, gasto hidr&#225;ulico y &#225;reas afectadas en el municipio de Acapulco, Gro., Secretaria de Medio Ambiente y Recursos Naturales, M&#233;xico, 10 pp.</mixed-citation> -->
       </ref>
@@ -380,10 +377,11 @@
             </name>
           </person-group>
           <article-title>
-            <italic>Radar Interferometry: Data Interpretation and Error Analysis. Springer Science &amp; Business Media, 298 pp</italic>
+            <italic>Radar Interferometry: Data Interpretation and Error Analysis</italic>
           </article-title>
+          <source>Springer Science &amp; Business Media</source>
           <date>
-            <year>2001</year>
+            <year>298 pp, 2001</year>
           </date>
           <volume></volume>
           <issue></issue>
@@ -421,6 +419,7 @@
           <issue></issue>
           <fpage>205</fpage>
           <lpage>213</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jag.2012.05.003</pub-id>
         </element-citation>
         <!-- <mixed-citation>Hostache, R., Matgen, P., Wagner, W., 2012. Change detection approaches for flood extent mapping: How to select the most adequate reference image from online archives? International Journal of Applied Earth Observation and Geoinformation, 19, 205-213.</mixed-citation> -->
       </ref>
