@@ -173,7 +173,7 @@
             </sec>
             <sec>
                 <title>2.2 Mapeo de paisajes</title>
-                <p>La delimitaci&#243;n y mapeo de las unidades tipol&#243;gicas de paisaje se basaron en la definici&#243;n de una estructura jer&#225;rquica con cuatro niveles taxon&#243;micos (Tabla 1), fundamentada en los postulados de la Geograf&#237;a F&#237;sica Compleja, referidos por Mateo (
+                <p>La delimitaci&#243;n y mapeo de las unidades tipol&#243;gicas de paisaje se basaron en la definici&#243;n de una estructura jer&#225;rquica con cuatro niveles taxon&#243;micos (<xref ref-type="table" rid="tbl1">Tabla 1</xref>), fundamentada en los postulados de la Geograf&#237;a F&#237;sica Compleja, referidos por Mateo (
                     <xref rid="IDb7d803a6-0e74-4d48-b2c5-c485c3338b9b" ref-type="bibr" id="ID21a918d9-ce0f-4ed0-a32e-84cd2f12c742">2002</xref>), adaptados y usados ampliamente en el contexto geogr&#225;fico mexicano (Priego
                     <italic>et al., </italic>2010; Flores, 2014; Morales
                     <italic>et al.</italic>, 2017). </p>
@@ -277,6 +277,43 @@
                     </caption>
                 </graphic>
             </fig>
+            <table-wrap specific-use="rules" position="float" orientation="portrait" id="tbl1">
+                <label>Tabla 1 / Table 1</label>
+                <caption>
+                    <p><bold>Tabla 1:</bold> Definici&#243;n y criterios de las unidades taxon&#243;micas.</p>
+                    <p><bold>Table 1:</bold> Taxonomic units definition and criteria.</p>
+                </caption>
+                <table frame="box" rules="all" border="1">
+                    <thead>
+                        <tr>
+                            <th rowspan="2" colspan="1">
+                                <bold>Nivel taxonómico</bold>
+                            </th>
+                            <th rowspan="2" colspan="1">
+                                <bold>Índices diagnóstico</bold>
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td rowspan="1" colspan="1">Clase</td>
+                            <td rowspan="1" colspan="1">Conjunto de morfo-estructuras con tipo específico de relieve en una misma condición climática.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Localidad</td>
+                            <td rowspan="1" colspan="1">Comunidad territorial de igual tipo morfogenético de relieve. Presenta similar homogeneidad litológica o tipo de depósitos.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Paraje Complejo</td>
+                            <td rowspan="1" colspan="1">Asociaciones del mismo conjunto morfológico de mesoformas del relieve. Predominio de iguales agrupamientos de suelos y similar conjunto de formaciones vegetales y tipos de suelo.</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="1" colspan="1">Paraje Simple</td>
+                            <td rowspan="1" colspan="1">Misma periodicidad de inundación con mismo tipo de comunidades vegetales y similares grupos y subgrupos de suelo.</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </table-wrap>
         </sec>
     </body>
     <back>
@@ -316,7 +353,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="IDd804309c-1d20-4e88-bb53-b386fb1e710e">
                 <element-citation publication-type="journal">
                     <person-group person-group-type="author">
@@ -347,7 +383,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="IDbcbb665e-ed54-48fa-836e-da4945e1e0ff">
                 <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
                     <person-group person-group-type="author">
@@ -370,7 +405,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="ID6b3ad8f7-91b4-43bf-b867-73cbee089bcc">
                 <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
                     <person-group person-group-type="author">
@@ -393,7 +427,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="IDcbebaf0e-f819-445d-838a-bc6413bb21ce">
                 <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
                     <person-group person-group-type="author">
@@ -416,7 +449,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="ID2e593b55-706f-414d-b1a7-3ea1aa9606d2">
                 <element-citation publication-type="journal">
                     <person-group person-group-type="author">
@@ -443,7 +475,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="ID350a98c1-bb35-42aa-8628-38e37a70e29f">
                 <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
                     <person-group person-group-type="author">
@@ -466,7 +497,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="IDb53b42b4-4901-4f8f-aef0-ba3f878092c9">
                 <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
                     <person-group person-group-type="author">
@@ -489,7 +519,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="IDb53b42b4-4901-4f8f-aef0-ba3f878092c9">
                 <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
                     <person-group person-group-type="author">
@@ -512,7 +541,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="ID862187e3-aced-4155-98a9-e6ac021b2599">
                 <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
                     <person-group person-group-type="author">
@@ -535,7 +563,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="IDf3952cad-8d7e-4ccd-ba3c-39d17c1decf4">
                 <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
                     <person-group person-group-type="author">
@@ -558,7 +585,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="ID8fba965e-ef16-4058-b18b-490653aafd6b">
                 <element-citation publication-type="journal">
                     <person-group person-group-type="author">
@@ -581,7 +607,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="IDb7d803a6-0e74-4d48-b2c5-c485c3338b9b">
                 <element-citation publication-type="journal">
                     <person-group person-group-type="author">
@@ -604,7 +629,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="ID745116e6-5efe-464e-bb95-c7a4c5f8e720">
                 <element-citation publication-type="journal">
                     <person-group person-group-type="author">
@@ -627,7 +651,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="IDbb61f536-f4dd-4a8a-97bb-f3a621aa849c">
                 <element-citation publication-type="journal">
                     <person-group person-group-type="author">
@@ -650,7 +673,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-
             <ref id="ID97c8d21c-e8ee-47e6-87a6-5665467e642f">
                 <element-citation publication-type="journal">
                     <person-group person-group-type="author">
@@ -690,16 +712,140 @@
                     <lpage>52</lpage>
                 </element-citation>
             </ref>
-
-            <ref id="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4">Priego-Santander, A.G., Bocco, G., Mendoza, M., Garrido, A., 2010, Propuesta para la Generaci&#243;n Semiautomatizada de Unidades de Paisaje. Fundamentos y M&#233;todos: Serie Planificaci&#243;n Territorial, Semarnat-INE-CIGA, 104 pp. </ref>
-
-            <ref id="ID76f79b4f-0fe3-4891-b844-65817db0645a">Servicio Geol&#243;gico Mexicano (SGM), 2004, Carta Geol&#243;gica &#8211; Minera Frontera E15-5, Tabasco, Campeche., Esc. 1:250,000: Serie I. Pachuca, Hidalgo, M&#233;xico.</ref>
-
-            <ref id="IDcfc92445-a14d-4eaf-a387-e460dc4234a7">Servicio Geol&#243;gico Mexicano (SGM), 2005, Carta Geol&#243;gica &#8211; Minera Ciudad del Carmen E15-6, Campeche E15-3, Villahermosa E15-8, Esc. 1:250,000. Serie I, Pachuca, Hidalgo, M&#233;xico.</ref>
-
-            <ref>Termorshuizen, J.,Opdam, P., 2009, Landscape services as a bridge between landscape ecology and sustainable development: Landscape Ecology, 24:1037-1052, doi:10.1007/s10980-008-9314-8.</ref>
-
-            <ref id="ID18404501-b584-44d9-ba4e-45df0882667b">Ya&#241;ez-Correa, A., 1971, Procesos costeros y sedimentos recientes de la plataforma continental al sur de la Bah&#237;a de Campeche: Bolet&#237;n de la Sociedad Geol&#243;gica Mexicana, 32(2), 75-115.Tabla 1. Definici&#243;n y criterios de las unidades taxon&#243;micas.Table 1. Taxonomic units definition and criteria</ref>
+            <ref id="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Priego-Santander</surname>
+                            <given-names>A.G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bocco</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mendoza</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Garrido</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>
+                        <italic>
+                            Propuesta para la Generaci&#243;n Semiautomatizada de Unidades de Paisaje. Fundamentos y M&#233;todos: Serie Planificaci&#243;n Territorial, Semarnat-INE-CIGA, 104 pp.
+                        </italic>
+                    </article-title>
+                    <date>
+                        <year>2010</year>
+                    </date>
+                    <volume></volume>
+                    <issue></issue>
+                    <fpage></fpage>
+                    <lpage></lpage>
+                </element-citation>
+            </ref>
+            <ref id="ID76f79b4f-0fe3-4891-b844-65817db0645a">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Servicio Geol&#243;gico Mexicano (SGM)</surname>
+                            <given-names>A.G.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>
+                        <italic>
+                            Carta Geol&#243;gica &#8211; Minera Frontera E15-5, Tabasco, Campeche., Esc. 1:250,000: Serie I. Pachuca, Hidalgo, M&#233;xico.
+                        </italic>
+                    </article-title>
+                    <date>
+                        <year>2004</year>
+                    </date>
+                    <volume></volume>
+                    <issue></issue>
+                    <fpage></fpage>
+                    <lpage></lpage>
+                </element-citation>
+            </ref>
+            <ref id="IDcfc92445-a14d-4eaf-a387-e460dc4234a7">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Servicio Geol&#243;gico Mexicano (SGM)</surname>
+                            <given-names>A.G.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>
+                        <italic>
+                            Carta Geol&#243;gica &#8211; Minera Ciudad del Carmen E15-6, Campeche E15-3, Villahermosa E15-8, Esc. 1:250,000. Serie I, Pachuca, Hidalgo, M&#233;xico.
+                        </italic>
+                    </article-title>
+                    <date>
+                        <year>2005</year>
+                    </date>
+                    <volume></volume>
+                    <issue></issue>
+                    <fpage></fpage>
+                    <lpage></lpage>
+                </element-citation>
+            </ref>
+            <ref id="ref01">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Termorshuizen</surname>
+                            <given-names>J.</given-names>
+                        </name>
+                        <name>
+                            <surname>Opdam</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>
+                        <italic>
+                            Landscape services as a bridge between landscape ecology and sustainable development
+                        </italic>
+                    </article-title>
+                    <source>Landscape Ecology</source>
+                    <date>
+                        <year>2009</year>
+                    </date>
+                    <volume>24</volume>
+                    <issue></issue>
+                    <fpage>1037</fpage>
+                    <lpage>1052</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s10980-008-9314-8</pub-id>
+                </element-citation>
+            </ref>
+            <ref id="ID18404501-b584-44d9-ba4e-45df0882667b">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Ya&#241;ez-Correa</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                        <name>
+                            <surname>Opdam</surname>
+                            <given-names>P.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>
+                        <italic>
+                            Procesos costeros y sedimentos recientes de la plataforma continental al sur de la Bah&#237;a de Campeche
+                        </italic>
+                    </article-title>
+                    <source>Bolet&#237;n de la Sociedad Geol&#243;gica Mexicana</source>
+                    <date>
+                        <year>1971</year>
+                    </date>
+                    <volume>32</volume>
+                    <issue>2</issue>
+                    <fpage>75</fpage>
+                    <lpage>115</lpage>
+                    <pub-id pub-id-type="doi">10.1007/s10980-008-9314-8</pub-id>
+                </element-citation>
+            </ref>
         </ref-list>
     </back>
 </article>
