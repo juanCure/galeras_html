@@ -93,7 +93,7 @@
             </history>
             <!-- Poner estos datos correctamente -->
             <permissions>
-                <copyright-statement>&#169; 2017, Thomas Ihl1, Francisco Bautista, &amp; Manuel E. Mendoza. Published by Terra Digitalis.</copyright-statement>
+                <copyright-statement>&#169; 2018, Carlos Troche, Angel Guadalupe Priego-Santander, Manuel Bollo Manent &amp; Rainer Ressl. Published by Terra Digitalis.</copyright-statement>
                 <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                     <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by-nc-sa/4.0/), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
                 </license>
@@ -140,8 +140,7 @@
                 <p>El &#225;rea de estudio se encuentra entre 17.96&#186; y 19.33&#186; de latitud norte y 92.80&#186; y 90.72&#186; de longitud oeste. Comprende la parte continental terrestre de la RBPC, APFFLT y el sitio prioritario PY75-CONABIO (
                     <xref rid="ID6b3ad8f7-91b4-43bf-b867-73cbee089bcc" ref-type="bibr" id="ID4a99bbcb-7601-4649-8c02-1b82822ffa0b">CONABIO, 2009</xref>;
                     <xref rid="IDbcbb665e-ed54-48fa-836e-da4945e1e0ff" ref-type="bibr" id="ID48efd623-51d3-4a50-8eb1-ab644a0bba75">CONANP, 2016</xref>). La parte marina y cuerpos de agua, no fueron clasificados tipol&#243;gicamente debido a que el mapa de paisajes f&#237;sico-geogr&#225;ficos fue elaborado para la evaluaci&#243;n de almacenes fijos de carbono de diferentes tipos de humedales en estos ecosistemas costeros. En total el &#225;rea cartografiada y clasificada tipol&#243;gicamente abarca una superficie de 9,050.6 km<sup>2</sup>, situados entre los estados de Tabasco y Campeche, M&#233;xico. </p>
-                <p>El clima costero de esta regi&#243;n es de tipo c&#225;lido sub-h&#250;medo con lluvias en verano (
-                    <xref rid="ID2e593b55-706f-414d-b1a7-3ea1aa9606d2" ref-type="bibr" id="ID550398ae-8695-48a3-8738-593642cf07ff">Garc&#237;a-CONABIO, 1998</xref>). La precipitaci&#243;n media anual va de 1,686 mm a 2,399 mm, la temperatura media anual oscila entre 21.7 y 24.7 &#186;C. Estos humedales costeros se caracterizan por presentar mayoritariamente planicies y suelos de drenaje deficiente tipo Gleysol, Fluvisol y Solonchak. En la cobertura vegetal encontramos comunidades de hidr&#243;fitas (
+                <p>El clima costero de esta regi&#243;n es de tipo c&#225;lido sub-h&#250;medo con lluvias en verano (<xref rid="ID2e593b55-706f-414d-b1a7-3ea1aa9606d2" ref-type="bibr" id="ID550398ae-8695-48a3-8738-593642cf07ff">Garc&#237;a-CONABIO, 1998</xref>). La precipitaci&#243;n media anual va de 1,686 mm a 2,399 mm, la temperatura media anual oscila entre 21.7 y 24.7 &#186;C. Estos humedales costeros se caracterizan por presentar mayoritariamente planicies y suelos de drenaje deficiente tipo Gleysol, Fluvisol y Solonchak. En la cobertura vegetal encontramos comunidades de hidr&#243;fitas (
                     <italic>Typha dominguensis</italic>,
                     <italic>Cladium jamaicense</italic>,
                     <italic>Cyperus sp.</italic>,
@@ -164,7 +163,7 @@
             </sec>
             <sec>
                 <title>2.2 Mapeo de paisajes</title>
-                <p>La delimitaci&#243;n y mapeo de las unidades tipol&#243;gicas de paisaje se basaron en la definici&#243;n de una estructura jer&#225;rquica con cuatro niveles taxon&#243;micos (<xref ref-type="table" rid="tbl1">Tabla 1</xref>), fundamentada en los postulados de la Geograf&#237;a F&#237;sica Compleja, referidos por <xref rid="IDb7d803a6-0e74-4d48-b2c5-c485c3338b9b" ref-type="bibr" id="ID21a918d9-ce0f-4ed0-a32e-84cd2f12c742">Mateo (2002)</xref>, adaptados y usados ampliamente en el contexto geogr&#225;fico mexicano (<xref ref-type="bibr" id="id06" rid="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4">Priego<italic> et al.</italic>, 2010</xref>;<xref ref-type="bibr" id="id07" rid="ref02"> Flores, 2014</xref>;<xref ref-type="bibr" id="id08" rid="ref03"> Morales<italic> et al.</italic>, 2017). </xref></p>
+                <p>La delimitaci&#243;n y mapeo de las unidades tipol&#243;gicas de paisaje se basaron en la definici&#243;n de una estructura jer&#225;rquica con cuatro niveles taxon&#243;micos (<xref ref-type="table" rid="tbl1">Tabla 1</xref>), fundamentada en los postulados de la Geograf&#237;a F&#237;sica Compleja, referidos por <xref rid="IDb7d803a6-0e74-4d48-b2c5-c485c3338b9b" ref-type="bibr" id="ID21a918d9-ce0f-4ed0-a32e-84cd2f12c742">Mateo (2002)</xref>, adaptados y usados ampliamente en el contexto geogr&#225;fico mexicano (<xref ref-type="bibr" id="id06" rid="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4">Priego<italic> et al.</italic>, 2010</xref>;<xref ref-type="bibr" id="id07" rid="ref02"> Flores, 2014</xref>;<xref ref-type="bibr" id="id08" rid="ref03"> Morales<italic> et al.</italic>, 2017)</xref>. </p>
                 <p>La elaboraci&#243;n del mapa de los paisajes f&#237;sico-geogr&#225;ficos del &#225;rea de estudio a escala 1: 250 000, sigui&#243; la propuesta de generaci&#243;n de unidades de paisajes, de manera semi-automatizada de <xref rid="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4" ref-type="bibr" id="IDd88d26c2-a1a6-4ae4-972b-86b8c3c6d47d">Priego<italic> et al.</italic> (2010)</xref>, con algunas modificaciones de acuerdo a las caracter&#237;sticas del &#225;rea de estudio. Los insumos cartogr&#225;ficos utilizados para realizaci&#243;n del mapa de paisajes fueron los siguientes:</p>
                 <list id="first_list" list-type="alpha-lower">
                     <list-item>
@@ -178,7 +177,7 @@
                     <list-item>
                         <p> Mapas geol&#243;gicos digitales de Campeche y Tabasco a escala 1:250 000 (
                         <xref rid="ID350a98c1-bb35-42aa-8628-38e37a70e29f" ref-type="bibr" id="ID1c4a857b-e6ae-4959-a876-fff60b4a716c">INEGI, 1981</xref>;
-                        <xref rid="ID76f79b4f-0fe3-4891-b844-65817db0645a" ref-type="bibr" id="ID80a2d9ec-ceab-4d9b-b416-b3e48b534ec9">SGM, 2004, 2005</xref>;
+                        <xref rid="ID76f79b4f-0fe3-4891-b844-65817db0645a" ref-type="bibr" id="ID80a2d9ec-ceab-4d9b-b416-b3e48b534ec9">SGM, 2004</xref>;
                         <xref rid="IDcfc92445-a14d-4eaf-a387-e460dc4234a7" ref-type="bibr" id="id09">2005</xref>)</p>
                     </list-item>
                     <list-item>
@@ -278,15 +277,15 @@
                     <tbody>
                         <tr>
                             <td align="center">Clase</td>
-                            <td rowspan="1" colspan="1">Conjunto de morfo-estructuras con tipo específico de relieve en una misma condición climática.</td>
+                            <td align="center">Conjunto de morfo-estructuras con tipo específico de relieve en una misma condición climática.</td>
                         </tr>
                         <tr>
                             <td align="center">Localidad</td>
-                            <td rowspan="1" colspan="1">Comunidad territorial de igual tipo morfogenético de relieve. Presenta similar homogeneidad litológica o tipo de depósitos.</td>
+                            <td align="center">Comunidad territorial de igual tipo morfogenético de relieve. Presenta similar homogeneidad litológica o tipo de depósitos.</td>
                         </tr>
                         <tr>
                             <td align="center">Paraje Complejo</td>
-                            <td rowspan="1" colspan="1">Asociaciones del mismo conjunto morfológico de mesoformas del relieve. Predominio de iguales agrupamientos de suelos y similar conjunto de formaciones vegetales y tipos de suelo.</td>
+                            <td align="center">Asociaciones del mismo conjunto morfológico de mesoformas del relieve. Predominio de iguales agrupamientos de suelos y similar conjunto de formaciones vegetales y tipos de suelo.</td>
                         </tr>
                         <tr>
                             <td align="center">Paraje Simple</td>
