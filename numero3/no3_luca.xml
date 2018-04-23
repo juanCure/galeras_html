@@ -16,7 +16,7 @@
         </subj-group>
       </article-categories>
       <title-group>
-        <article-title>Digital Geologic Cartography and Geochronologic Database of the Trans-Mexican Volcanic Belt and Adjoining Areas</article-title>
+        <article-title>Digital Geologic Cartography and Geochronologic Database of the Trans-Mexican Volcanic Belt and Adjoining Areas / Cartografía Geológica Digital y Base de Datos Geocronológica del Cinturón Volcánico Transmexicano y Áreas Contiguas</article-title>
       </title-group>
       <contrib-group>
         <contrib contrib-type="author">
@@ -55,7 +55,7 @@
           <xref ref-type="aff" rid="aff2" />
         </contrib>
         <aff id="aff1">
-          <institution>Centro de Geociencias UNAM, Campus Juriquilla, Qro.</institution>
+          <institution>Centro de Geociencias, Universidad Nacional Autónoma de México, Campus UNAM Juriquilla, Queretaro, 76230, Mexico</institution>
         </aff>
         <aff id="aff2">
           <institution>Instituto de Geología, Universidad Nacional Autónoma de México, Ciudad Universitaria, México City, 04510, Mexico</institution>
@@ -69,9 +69,9 @@
       <fpage>1</fpage>
       <lpage>2</lpage>
       <permissions>
-        <copyright-statement>Copyright &#169; 2018, Luca Ferrari, Teresa Orozco Esquivel, Mario Navarro, Penélope López-Quiroz &amp; Laura Luna</copyright-statement>
-        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="http://creativecommons.org/licenses/by/2.0/">
-          <license-p>This is an open-access article distributed under the terms of the Creative Commons Attribution License, which permits unrestricted use, distribution, and reproduction in any medium, provided the original work is properly cited. The citation of this article must include: the name(s) of the authors, the name of the journal, the full URL of the article (in a hyperlinked format if distributed online) and the DOI number of the article.</license-p>
+        <copyright-statement>&#169; 2018, Luca Ferrari, Teresa Orozco Esquivel, Mario Navarro, Penélope López-Quiroz &amp; Laura Luna</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
         </license>
       </permissions>
       <self-uri>https://www.martineve.com/</self-uri>
@@ -80,13 +80,13 @@
           <title>Abstract</title>
           <p>We present the first interactive digital geologic map of the Trans-Mexican Volcanic Belt (TMVB). The area covered by the cartography span 10° of Longitude (106°- 96° W) and 2°45’ of Latitude (19°-21°45’ N). The geology has been compiled in ArcGIS through an interpretation of all the information available in the literature and integrated with our own geologic mapping. Published maps were digitized from printed copies; when possible, the location of features with clear morphological expression was corrected using digital elevation models within the GIS. The map includes 36 geologic units, faults, volcanic vents, and calderas. The informal geologic units used in the compilation are chronostratigraphic and lithologic and were designed to emphasize the main volcanic episodes that make up this volcanic province. The age assignment for each unit has been cross-checked with a geochronologic database that includes 2009 ages, which can be displayed on the map with access to their attributes. Lithology of each polygon has been also checked against a large geochemical database compiled from the literature.</p>
           <p>
-            <bold>Key words</bold>: Central Mexico, Trans-Mexican Volcanic Belt, digital geologic map</p>
+            <bold>Key words:</bold> Central Mexico; Trans-Mexican Volcanic Belt; Digital geologic map</p>
         </sec>
         <sec>
           <title>Resumen</title>
           <p>En este trabajo se presenta el primer mapa geológico digital interactivo de la Faja Volcánica Transmexicana (FVTM). El área cubierta por la cartografía geológica abarca 10° de longitud (106°- 96° W) y 2°45' de latitud (19°-21°45' N). La geología ha sido compilada en ArcGIS a través de una interpretación de toda la información disponible en la literatura e integrada con nuestra propia cartografía geológica. Los mapas publicados fueron digitalizados a partir de copias impresas; cuando fue posible se corrigió la ubicación de los rasgos con una clara expresión morfológica utilizando modelos de elevación digital en el SIG. El mapa incluye 36 unidades geológicas, fallas, chimeneas volcánicas y calderas. Las unidades geológicas informales utilizadas son cronoestratigráficas y litológicas y están diseñadas para destacar los principales episodios volcánicos que conforman el cinturón volcánico. La asignación de la edad para cada unidad ha sido cotejada con una base de datos geocronológicos que incluye 2009 edades. La clasificación litológica de cada polígono ha sido comparada por consistencia con una base de datos geoquímicos recopilados de la literatura.</p>
           <p>
-            <bold>Palabras clave:</bold>: México central, Faja Volcánica Trans-Mexicana, mapa geológico digital</p>
+            <bold>Palabras clave:</bold> México central; Faja Volcánica Trans-Mexicana; Mapa geológico digital</p>
         </sec>
       </abstract>
     </article-meta>
@@ -95,123 +95,123 @@
   <body>
     <sec>
       <title>
-        <bold>Introduction</bold>
+        <bold>1. Introduction</bold>
       </title>
-      <p>The Trans-Mexican Volcanic Belt (TMVB) is the largest Neogene volcanic arc in North America with an area of 160,000 km2 and a length of almost 1000 km between Latitude 18&#176;30&#8242; and 21&#176;30&#8242; N in central Mexico. The irregular plateau formed by this geologic province hosts an important part of the population and industrial and agricultural activity of Mexico. Furthermore, its formation in the past 20 m.y. had a significant impact on climate and the evolution of biodiversity (
+      <p>The Trans-Mexican Volcanic Belt (TMVB) is the largest Neogene volcanic arc in North America with an area of 160,000 km<sup>2</sup> and a length of almost 1000 km between Latitude 18&#176;30&#8242; and 21&#176;30&#8242; N in central Mexico. The irregular plateau formed by this geologic province hosts an important part of the population and industrial and agricultural activity of Mexico. Furthermore, its formation in the past 20 m.y. had a significant impact on climate and the evolution of biodiversity (
         <xref rid="ID9588b131-46a8-4bc4-bb4e-7275cf231ce2" ref-type="bibr" id="ID4443d3cf-b12d-4799-a33c-18a5c019eaf2">e.g., Mastretta-Yanez et al., 2015</xref>). The TMVB displays several peculiarities when compared with most volcanic arcs, such as the arc-transversal orientation of the main stratovolcanoes, the large compositional variation of its products, the young age of the two plates subducting in front of the arc, and the absence of seismicity associated with them beneath the arc (
         <xref rid="IDe7f4f011-4a11-47ef-b80f-6b5274a3867f" ref-type="bibr" id="IDb46078df-de0d-4664-9b09-4f43817d6218">Ferrari et al., 2012</xref>). Because of these peculiarities, over the past 40 years the TMVB has been the focus of hundreds of studies. Geologic maps have been published for the major active stratovolcanoes and some volcanic fields or for some discrete regions (
-        <xref rid="TO_LINK" ref-type="bibr" id="IDf420740b-08b5-433e-818c-14d7ce64fc6d">Gastil et al., 1979</xref>;
+        <!-- <xref rid="TO_LINK" ref-type="bibr" id="IDf420740b-08b5-433e-818c-14d7ce64fc6d">Gastil et al., 1979</xref> -->Gastil et al., 1979;
         <xref rid="IDe13fca21-de43-45bc-b836-fccde93c51d7" ref-type="bibr" id="ID5fe980f5-aaa0-4ee4-80cc-72fa82a51630">Demant, 1981</xref>;
         <xref rid="IDb07bdd20-6500-4e7e-9ca4-821ad2e7f914" ref-type="bibr" id="ID24aca420-b5d6-4d50-a01e-9ede15f9c4b3">Pasquar&#233; et al., 1991</xref>;
         <xref rid="ID2f591615-e091-4861-bf4c-efabb927ccad" ref-type="bibr" id="ID62d332d2-489a-44e3-b14f-31860e92c5e3">Mooser et al., 1996</xref>;
         <xref rid="ID95bf5c7f-d09d-4e9b-8eec-c220b6947cb9" ref-type="bibr" id="IDbd06c4be-8b9b-406e-bc86-c6ab6faaa6a9">Carrasco et al., 1997</xref>;
         <xref rid="IDb2b12d00-c24e-4d4b-87b1-c100baa4e05b" ref-type="bibr" id="ID0ffbff1c-a4cb-46a4-b0b9-b595147e4ae9">Ferrari et al., 2000</xref>,<xref rid="ID1e07d5c7-ec6d-4459-9be7-0ec8f128276d" ref-type="bibr" id=""> 2005</xref>;
         <xref rid="IDbbc108d1-1d61-49c2-b43b-fe6fa69be177" ref-type="bibr" id="ID452c50a1-b010-4eb1-923b-2289109e84c0">Garc&#237;a-Palomo et al., 2002a</xref>,<xref rid="ID5fa67d91-15e8-4fb5-8cb3-b30c44531c5c" ref-type="bibr" id="">2002b</xref>;
-        <xref rid="TO_LINK" ref-type="bibr" id="ID2d4f4bc8-2e0a-42c0-8960-2fb0ea7a9771">Cort&#233;s et al., 2010</xref>;
+        <!-- <xref rid="TO_LINK" ref-type="bibr" id="ID2d4f4bc8-2e0a-42c0-8960-2fb0ea7a9771">Cort&#233;s et al., 2010</xref> -->Cort&#233;s et al., 2010;
         <xref rid="IDb135ba16-6a56-42a9-b688-c8c5ce221548" ref-type="bibr" id="ID0f5e48a4-5f0d-4368-a5aa-1ab637268d46">G&#243;mez-Tuena et al., 2007</xref>;
-        <xref rid="TO_LINK" ref-type="bibr" id="IDf07b9bcd-e0ec-40bd-872a-98335e5cf420">Rodr&#237;guez-Elizarrar&#225;s, 2005</xref>;
+        <!-- <xref rid="TO_LINK" ref-type="bibr" id="IDf07b9bcd-e0ec-40bd-872a-98335e5cf420">Rodr&#237;guez-Elizarrar&#225;s, 2005</xref> -->Rodr&#237;guez-Elizarrar&#225;s, 2005;
         <xref rid="IDf5ce0d67-2598-45aa-a587-7fd251e764ec" ref-type="bibr" id="ID1029f85b-8d36-455a-ae82-d1b167dd16ec">Mac&#237;as, 2007</xref>;
         <xref rid="ID5f01686d-c886-4c62-abc2-c7539dc46c24" ref-type="bibr" id="ID02dc5665-49fe-40bf-9e82-af86dbe0c8a5">Guilbauld et al., 2012</xref>;
-        <xref rid="ID8280d01c-0568-4693-b73f-bc37f77540ca" ref-type="bibr" id="ID4d37f564-2c68-46c1-879c-e7bc1491e871">G&#243;mez-Vasconcelos et al., 2015</xref>). However, a geologic map spanning the whole province was needed to disentangle the evolution of this volcanic province and better constrain its genesis. Here we present the first digital geologic map of the TMVB and adjoining areas of its heterogeneous basement. The area covered by the map is comprised between Longitude 106&#176; and 96&#176;W and Latitude 19&#176;and 21&#176;45&#8217;N. An earlier version of the map was published in static format (PDF figure in conventional papers) in G&#243;mez-Tuena et al. (
-        <xref rid="IDb135ba16-6a56-42a9-b688-c8c5ce221548" ref-type="bibr" id="IDe73840a8-23c8-4271-9547-86949060d50b">2007</xref>) and in Ferrari et al. (
-        <xref rid="IDe7f4f011-4a11-47ef-b80f-6b5274a3867f" ref-type="bibr" id="ID8012e2ba-f6cc-45ea-acd6-40d0cbdb1a7b">2012</xref>), to which the reader is referred for a comprehensive review of the geophysics of the Mexico subduction system and the geologic and petrologic evolution of the TMVB. </p>
+        <xref rid="ID8280d01c-0568-4693-b73f-bc37f77540ca" ref-type="bibr" id="ID4d37f564-2c68-46c1-879c-e7bc1491e871">G&#243;mez-Vasconcelos et al., 2015</xref>). However, a geologic map spanning the whole province was needed to disentangle the evolution of this volcanic province and better constrain its genesis. Here we present the first digital geologic map of the TMVB and adjoining areas of its heterogeneous basement. The area covered by the map is comprised between Longitude 106&#176; and 96&#176;W and Latitude 19&#176;and 21&#176;45&#8217;N. An earlier version of the map was published in static format (PDF figure in conventional papers) in <xref rid="IDb135ba16-6a56-42a9-b688-c8c5ce221548" ref-type="bibr" id="IDe73840a8-23c8-4271-9547-86949060d50b">G&#243;mez-Tuena et al. (
+        2007)</xref> and in <xref rid="IDe7f4f011-4a11-47ef-b80f-6b5274a3867f" ref-type="bibr" id="ID8012e2ba-f6cc-45ea-acd6-40d0cbdb1a7b">Ferrari et al. (
+        2012)</xref>, to which the reader is referred for a comprehensive review of the geophysics of the Mexico subduction system and the geologic and petrologic evolution of the TMVB. </p>
     </sec>
     <sec>
       <title>
-        <bold>Methods</bold>
+        <bold>2. Methods</bold>
       </title>
-      <p>The geology presented in the map has been compiled over the past 18 years by the authors with the collaboration of several graduate and undergraduate students (see the Acknowledgements section for a complete list). The first step in the process was to define a general stratigraphy at the provincial level. We defined 36 informal geologic units, 25 of which belong to the TMVB proper, whereas the rest are part of the Sierra Madre Occidental and older basement terranes. The definition of this regional stratigraphy was based on chronostratigraphic and lithologic criteria and was supported by an extensive database that was first presented in Ferrari et al. (
-        <xref rid="IDb64e4bbe-1906-436a-9885-5795430d6863" ref-type="bibr" id="IDaa03c4a2-aabb-4806-befa-b9173a14339e">1999</xref>) and updated continuously since then by the second author. In this work, we include 2009 isotopic ages covering the area of the map, which were compiled from the literature and publicly available thesis. This information can be consulted in the interactive version of the map. Lithology of each polygon has been also checked against a large geochemical database compiled from the literature and partly published in Gomez-Tuena et al. (
-        <xref rid="IDb135ba16-6a56-42a9-b688-c8c5ce221548" ref-type="bibr" id="ID2862cbcf-4ef5-475c-ba2a-6049e92d7867">2007</xref>). Subsequently, existing regional geologic maps and our unpublished cartography has been reinterpreted according to the regional stratigraphy established in the previous stage. In most cases this implied grouping two or more original units into a single unit characterized by similar lithology and age range. We also compiled faults, volcanic vents, and calderas. The regional geologic maps used in the compilation were generally at 1:50,000 to 1:100,000 scale. Once georeferenced, the maps were digitized with different versions of ESRI GIS software (initially ArcView and later ArcInfo). During the digitization, the lithological classification and age assignment for each unit was cross-checked for consistency with geochronologic and geochemical databases. Digitization of paper copies and the intrinsic limitations of pre-GPS era geologic mapping introduced some spatial error, particularly in the case of features like volcanic vents and fault scarps. The location of these features has been therefore refined in the GIS using a digital elevation model as a guide. The map was eventually imported into ArcGIS to correct minor errors and for final rendering.</p>
+      <p>The geology presented in the map has been compiled over the past 18 years by the authors with the collaboration of several graduate and undergraduate students (see the Acknowledgements section for a complete list). The first step in the process was to define a general stratigraphy at the provincial level. We defined 36 informal geologic units, 25 of which belong to the TMVB proper, whereas the rest are part of the Sierra Madre Occidental and older basement terranes. The definition of this regional stratigraphy was based on chronostratigraphic and lithologic criteria and was supported by an extensive database that was first presented in <xref rid="IDb64e4bbe-1906-436a-9885-5795430d6863" ref-type="bibr" id="IDaa03c4a2-aabb-4806-befa-b9173a14339e">Ferrari et al. (
+        1999)</xref> and updated continuously since then by the second author. In this work, we include 2009 isotopic ages covering the area of the map, which were compiled from the literature and publicly available thesis. This information can be consulted in the interactive version of the map. Lithology of each polygon has been also checked against a large geochemical database compiled from the literature and partly published in <xref rid="IDb135ba16-6a56-42a9-b688-c8c5ce221548" ref-type="bibr" id="ID2862cbcf-4ef5-475c-ba2a-6049e92d7867">Gomez-Tuena et al. (
+        2007)</xref>. Subsequently, existing regional geologic maps and our unpublished cartography has been reinterpreted according to the regional stratigraphy established in the previous stage. In most cases this implied grouping two or more original units into a single unit characterized by similar lithology and age range. We also compiled faults, volcanic vents, and calderas. The regional geologic maps used in the compilation were generally at 1:50,000 to 1:100,000 scale. Once georeferenced, the maps were digitized with different versions of ESRI GIS software (initially ArcView and later ArcInfo). During the digitization, the lithological classification and age assignment for each unit was cross-checked for consistency with geochronologic and geochemical databases. Digitization of paper copies and the intrinsic limitations of pre-GPS era geologic mapping introduced some spatial error, particularly in the case of features like volcanic vents and fault scarps. The location of these features has been therefore refined in the GIS using a digital elevation model as a guide. The map was eventually imported into ArcGIS to correct minor errors and for final rendering.</p>
       <p>The main sources of the initial cartographic information were as follows (<xref rid="fig1" ref-type="fig">Fig. 1</xref>):</p>
       <list list-type="simple">
         <list-item>
-          <p>Western TMVB: Ferrari et al. (
-            <xref rid="IDb2b12d00-c24e-4d4b-87b1-c100baa4e05b" ref-type="bibr" id="IDb71ef372-0bf0-4716-9782-06c5d2c36447">2000</xref>), original 1:250,000 and 1:50,000 scale sheets provided by the authors.</p>
+          <p>Western TMVB: <xref rid="IDb2b12d00-c24e-4d4b-87b1-c100baa4e05b" ref-type="bibr" id="IDb71ef372-0bf0-4716-9782-06c5d2c36447">Ferrari et al. (
+            2000)</xref>, original 1:250,000 and 1:50,000 scale sheets provided by the authors.</p>
         </list-item>
         <list-item>
-          <p>San Pedro-Ceboruco area, Nay.: Ferrari et al. (
-            <xref rid="IDddcd7498-15c0-4dda-bc00-0a4f5e989abb" ref-type="bibr" id="ID9dc13602-4c1e-4398-bbbc-077e8ba4f8c8">2003</xref>), original 1:50,000 scale sheets provided by the authors.</p>
+          <p>San Pedro-Ceboruco area, Nay.: <xref rid="IDddcd7498-15c0-4dda-bc00-0a4f5e989abb" ref-type="bibr" id="ID9dc13602-4c1e-4398-bbbc-077e8ba4f8c8">Ferrari et al. (
+            2003)</xref>, original 1:50,000 scale sheets provided by the authors.</p>
         </list-item>
         <list-item>
-          <p>Colima volcanic complex: Cort&#233;s et al. (
-            <xref rid="TO_LINK" ref-type="bibr" id="ID1cbb62d8-1a72-4411-903b-4fea59d60167">2010</xref>), published map at 1:50,000 scale. </p>
+          <p>Colima volcanic complex: <!-- <xref rid="TO_LINK" ref-type="bibr" id="ID1cbb62d8-1a72-4411-903b-4fea59d60167">Cort&#233;s et al. (
+            2010)</xref> -->Cort&#233;s et al. (
+            2010), published map at 1:50,000 scale. </p>
         </list-item>
         <list-item>
-          <p>Jilotl&#225;n region. Jal.: Colima 1:250,000 scale map of Servicio Geol&#243;gico M&#233;xicano by Rosas Elguera et al. (
-            <xref rid="" ref-type="bibr" id="IDe909c039-91c7-48d6-bdd9-3e079277c985">1999</xref>). </p>
+          <p>Jilotl&#225;n region. Jal.: Colima 1:250,000 scale map of Servicio Geol&#243;gico M&#233;xicano by <xref rid="ref1" ref-type="bibr" id="IDe909c039-91c7-48d6-bdd9-3e079277c985">Rosas Elguera et al. (
+            1999)</xref>. </p>
         </list-item>
         <list-item>
-          <p>Central TMVB: Pasquar&#233; et al. (
-            <xref rid="IDb07bdd20-6500-4e7e-9ca4-821ad2e7f914" ref-type="bibr" id="IDb537e2f6-2c12-4d9a-8f50-67d1f295232b">1991</xref>), original 1:100,000 and 1:50,000 scale sheets provided by the authors. </p>
+          <p>Central TMVB: <xref rid="IDb07bdd20-6500-4e7e-9ca4-821ad2e7f914" ref-type="bibr" id="IDb537e2f6-2c12-4d9a-8f50-67d1f295232b">Pasquar&#233; et al. (
+            1991)</xref>, original 1:100,000 and 1:50,000 scale sheets provided by the authors. </p>
         </list-item>
         <list-item>
-          <p>Sierra de Guanajuato and Quer&#233;taro area: Alaniz et al. (
-            <xref rid="ID821bde40-86be-4e91-a025-bb1be5e54bb1" ref-type="bibr" id="ID19daa696-f0d0-4e7e-a932-568fb720ad59">2001</xref>), original shapefiles provided by the authors.</p>
+          <p>Sierra de Guanajuato and Quer&#233;taro area: <xref rid="ID821bde40-86be-4e91-a025-bb1be5e54bb1" ref-type="bibr" id="ID19daa696-f0d0-4e7e-a932-568fb720ad59">Alaniz et al. (
+            2001)</xref>, original shapefiles provided by the authors.</p>
         </list-item>
         <list-item>
-          <p>Eastern TMVB: Mooser et al. (
-            <xref rid="ID2f591615-e091-4861-bf4c-efabb927ccad" ref-type="bibr" id="IDc6d81fb0-38a3-446e-bd38-960e211ec418">1996</xref>), published sheets at 1:100,000 scale.</p>
+          <p>Eastern TMVB: <xref rid="ID2f591615-e091-4861-bf4c-efabb927ccad" ref-type="bibr" id="IDc6d81fb0-38a3-446e-bd38-960e211ec418">Mooser et al. (
+            1996)</xref>, published sheets at 1:100,000 scale.</p>
         </list-item>
         <list-item>
-          <p>Nevado de Toluca area: Garc&#237;a-Palomo et al. (
-            <xref rid="IDbbc108d1-1d61-49c2-b43b-fe6fa69be177" ref-type="bibr" id="ID3ddddaa8-06d7-4731-875b-191255477946">2002</xref>), published map at 1:100,000 scale.</p>
+          <p>Nevado de Toluca area: <xref rid="IDbbc108d1-1d61-49c2-b43b-fe6fa69be177" ref-type="bibr" id="ID3ddddaa8-06d7-4731-875b-191255477946">Garc&#237;a-Palomo et al. (
+            2002a)</xref>, published map at 1:100,000 scale.</p>
         </list-item>
         <list-item>
-          <p>Valle de Bravo and Zit&#225;cuaro areas: geologic maps in Blatter et al. (
-            <xref rid="ID1cfeed38-f74a-4759-a7bb-362a656601b7" ref-type="bibr" id="ID01d5b53d-4056-4426-a546-5f070e992447">2001</xref>).</p>
+          <p>Valle de Bravo and Zit&#225;cuaro areas: geologic maps in <xref rid="ID1cfeed38-f74a-4759-a7bb-362a656601b7" ref-type="bibr" id="ID01d5b53d-4056-4426-a546-5f070e992447">Blatter et al. (
+            2001)</xref>.</p>
         </list-item>
         <list-item>
-          <p>Apan area, Hidalgo: geologic map in Garc&#237;a-Palomo et al. (
-            <xref rid="ID5fa67d91-15e8-4fb5-8cb3-b30c44531c5c" ref-type="bibr" id="ID63254115-fb0a-48dd-a34d-816f186619c7">2002b</xref>).</p>
+          <p>Apan area, Hidalgo: geologic map in <xref rid="ID5fa67d91-15e8-4fb5-8cb3-b30c44531c5c" ref-type="bibr" id="ID63254115-fb0a-48dd-a34d-816f186619c7">Garc&#237;a-Palomo et al. (
+            2002b)</xref>.</p>
         </list-item>
         <list-item>
-          <p>Zimap&#225;n area, Hidalgo: Carrillo-Mart&#237;nez (
-            <xref rid="ID28deb728-1348-4835-af64-6f84bcd415d6" ref-type="bibr" id="IDf5ba68fc-f890-4621-bdd9-01cdbd091244">2000</xref>), published map at 1:100,000 scale.</p>
+          <p>Zimap&#225;n area, Hidalgo: <xref rid="ID28deb728-1348-4835-af64-6f84bcd415d6" ref-type="bibr" id="IDf5ba68fc-f890-4621-bdd9-01cdbd091244">Carrillo-Mart&#237;nez (
+            2000)</xref>, published map at 1:100,000 scale.</p>
         </list-item>
         <list-item>
-          <p>Cerro Grande and surroundings, Puebla: Carrasco-N&#250;&#241;ez et al. (
-            <xref rid="ID95bf5c7f-d09d-4e9b-8eec-c220b6947cb9" ref-type="bibr" id="IDb986e536-d980-407f-ad4e-60044ee715f2">1997</xref>), published map at 1:100,000 scale.</p>
+          <p>Cerro Grande and surroundings, Puebla: <xref rid="ID95bf5c7f-d09d-4e9b-8eec-c220b6947cb9" ref-type="bibr" id="IDb986e536-d980-407f-ad4e-60044ee715f2">Carrasco-N&#250;&#241;ez et al. (
+            1997)</xref>, published map at 1:100,000 scale.</p>
         </list-item>
         <list-item>
-          <p>Easternmost TMVB: Ferrari et al. (
-            <xref rid="ID1e07d5c7-ec6d-4459-9be7-0ec8f128276d" ref-type="bibr" id="ID032bfd07-51bd-4c61-a8b0-241dcb8dd2bc">2005</xref>), original 1:50,000 scale sheets provided by the authors.</p>
+          <p>Easternmost TMVB: <xref rid="ID1e07d5c7-ec6d-4459-9be7-0ec8f128276d" ref-type="bibr" id="ID032bfd07-51bd-4c61-a8b0-241dcb8dd2bc">Ferrari et al. (
+            2005)</xref>, original 1:50,000 scale sheets provided by the authors.</p>
         </list-item>
       </list>
       <p>In some cases, information of the original maps was updated according to field data and unpublished mapping by Ferrari and Orozco, which also served as a base for areas not covered by the above maps.</p>
     </sec>
     <sec>
       <title>
-        <bold>Map units</bold>
+        <bold>3. Map units</bold>
       </title>
-      <p>All geologic units used in the map are informal and were established with the aim of correlating volcanic episodes throughout the TMVB. They can be divided in to two broad groups: a) rocks that precede the onset of the TMVB, and 2) rocks belonging to the TMVB volcanic activity and associated continental sedimentary basins. The TMVB group can be further subdivided according to the four volcanic episodes described in Ferrari et al. (
-        <xref rid="IDe7f4f011-4a11-47ef-b80f-6b5274a3867f" ref-type="bibr" id="IDa2efdeca-cb6b-43f3-ba9e-e59fe00abc5d">2012</xref>). Rocks pre-dating the TMVB belong to the Sierra Madre Occidental, the Laramide arc, the Sierra Madre Oriental and the Guerrero terrane. Table 1 summarizes each map unit under this scheme.</p>
+      <p>All geologic units used in the map are informal and were established with the aim of correlating volcanic episodes throughout the TMVB. They can be divided in to two broad groups: a) rocks that precede the onset of the TMVB, and 2) rocks belonging to the TMVB volcanic activity and associated continental sedimentary basins. The TMVB group can be further subdivided according to the four volcanic episodes described in <xref rid="IDe7f4f011-4a11-47ef-b80f-6b5274a3867f" ref-type="bibr" id="IDa2efdeca-cb6b-43f3-ba9e-e59fe00abc5d">Ferrari et al. (2012)</xref>. Rocks pre-dating the TMVB belong to the Sierra Madre Occidental, the Laramide arc, the Sierra Madre Oriental and the Guerrero terrane. <xref ref-type="table" rid="tbl1">Table 1</xref> summarizes each map unit under this scheme.</p>
 
       <fig id="fig1" position="float" orientation="portrait">
         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.88/images_articles/numero3/Ferrari/Fig_1_TD_TMVB.jpg" position="float" orientation="portrait" xlink:type="simple">
-          <label>Figura 1 / Figure 1</label>
+          <label>Figure 1 / Figura 1</label>
           <caption>
-            <p><bold>Figura 1.</bold></p>
-            <p><bold>Figure 1.</bold></p>
+            <p><bold>Figure 1.</bold> Main sources of the initial cartographic information</p>
+            <p><bold>Figura 1.</bold> Fuentes principales de la cartografía inicial</p>
           </caption>
         </graphic>
       </fig>
 
       <fig id="fig2" position="float" orientation="portrait">
         <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.14.88/images_articles/numero3/Ferrari/mapa_tmvb_03042018.jpg" position="float" orientation="portrait" xlink:type="simple">
-          <label>Lámina 1 / Plate 1</label>
+          <label>Plate 1 / Lámina 1</label>
           <caption>
-            <p><bold>Lámina 1:</bold></p>
-            <p><bold>Plate 1:</bold></p>
+            <p><bold>Plate 1:</bold> Geologic map of the Trans-Mexican Volcanic Belt</p>
+            <p><bold>Lámina 1:</bold> Mapa geológico de la Faja Volcánica TransMexicana</p>
           </caption>
         </graphic>
       </fig>
 
-      <table-wrap specific-use="rules" position="float" orientation="portrait">
+      <table-wrap specific-use="rules" position="float" orientation="portrait" id="tbl1">
         <label>Table 1 / Tabla 1</label>
         <caption>
-          <p><bold>Table 1:</bold> Description of map units.</p>
-          <p><bold>Tabla 1:</bold> descripción de unidades de mapa.</p>
+          <p><bold>Table 1:</bold> Description of map units</p>
+          <p><bold>Tabla 1:</bold> Descripción de unidades de mapa</p>
         </caption>
         <table frame="box" rules="all" border="1" cellpadding="5">
           <thead>
@@ -555,6 +555,7 @@
           <issue></issue>
           <fpage>1324</fpage>
           <lpage>1342</lpage>
+          <pub-id pub-id-type="doi">10.1130/0016-7606(2001)113&lt;1324:NVATFO&gt;2.0.CO;2</pub-id>
         </element-citation>
       </ref>
       <ref id="ID95bf5c7f-d09d-4e9b-8eec-c220b6947cb9">
@@ -574,10 +575,11 @@
             </name>
           </person-group>
           <article-title>
-            <italic>Geologic map of Cerro Grande volcano and surrounding area, Central Mexico: Geological Society of America, Maps and Charts Series, MCH 089, 1 map, 26 pp. text</italic>
+            <italic>Geologic map of Cerro Grande volcano and surrounding area, Central Mexico</italic>
           </article-title>
+          <source>Geological Society of America, Maps and Charts Series, MCH 089, 1 map</source>
           <date>
-            <year>1997</year>
+            <year>26 pp., 1997</year>
           </date>
         </element-citation>
       </ref>
@@ -590,10 +592,10 @@
             </name>
           </person-group>
           <article-title>
-            <italic>Geología de la Hoja 14Q-e(7) Zimapán, Estados de Hidalgo y Querétaro: Carta geológica de México, serie 1:100000, map explanations, 33 pp</italic>
+            <italic>Geología de la Hoja 14Q-e(7) Zimapán, Estados de Hidalgo y Querétaro: Carta geológica de México, serie 1:100000, map explanations</italic>
           </article-title>
           <date>
-            <year>2000</year>
+            <year>33 pp., 2000</year>
           </date>
           <publisher-name>Universidad Nacional Autónoma de México, Instituto de Geología</publisher-name>
           <publisher-loc>México, D.F.</publisher-loc>
@@ -628,10 +630,11 @@
             </name>
           </person-group>
           <article-title>
-            <italic>Geología del complejo volcánico de Colima, UNAM, Instituto de Geología, Cartas Geológicas y Mineras 10, escala 1:100,000, mapa con texto explicativo de 37 p.</italic>
+            <italic>Geología del complejo volcánico de Colima. Cartas Geológicas y Mineras 10, escala 1:100,000, mapa con texto explicativo</italic>
           </article-title>
+          <source>UNAM, Instituto de Geología</source>
           <date>
-            <year>2005</year>
+            <year>37 p., 2005</year>
           </date>
           <volume></volume>
           <issue></issue>
@@ -648,11 +651,13 @@
             </name>
           </person-group>
           <article-title>
-            <italic>L'axe neovolcanique transmexicain: etude volcanique et petrographique, signification geodynamique: Marseille, France, Université de Droit, d'Economie et de Sciences d'Aix-Marseille (Doctoral dissertation, 259 pp)</italic>
+            <italic>L'axe neovolcanique transmexicain: etude volcanique et petrographique, signification geodynamique</italic>
           </article-title>
           <date>
-            <year>1981</year>
+            <year>259 pp., 1981</year>
           </date>
+          <publisher-loc>Marseille, France</publisher-loc>
+          <publisher-name>Université de Droit, d'Economie et de Sciences d'Aix-Marseille (Doctoral dissertation)</publisher-name>
         </element-citation>
       </ref>
       <ref id="IDb64e4bbe-1906-436a-9885-5795430d6863">
@@ -688,6 +693,43 @@
           <issue></issue>
           <fpage>303</fpage>
           <lpage>306</lpage>
+          <pub-id pub-id-type="doi">10.1130/0091-7613(1999)027&lt;0303:STPOCA&gt;2.3.CO;2</pub-id>
+        </element-citation>
+      </ref>
+      <ref id="IDe7f4f011-4a11-47ef-b80f-6b5274a3867f">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Ferrari</surname>
+              <given-names>L.</given-names>
+            </name>
+            <name>
+              <surname>Orozco-Esquivel</surname>
+              <given-names>T.</given-names>
+            </name>
+            <name>
+              <surname>Manea</surname>
+              <given-names>V.</given-names>
+            </name>
+            <name>
+              <surname>Manea</surname>
+              <given-names>M.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>The dynamic history of the Trans-Mexican Volcanic Belt and the Mexico subduction zone</italic>
+          </article-title>
+          <source>
+          <italic>Tectonophysics</italic>
+          </source>
+          <date>
+            <year>2012</year>
+          </date>
+          <volume>522</volume>
+          <issue></issue>
+          <fpage>122</fpage>
+          <lpage>149</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.tecto.2011.09.018</pub-id>
         </element-citation>
       </ref>
       <ref id="IDb2b12d00-c24e-4d4b-87b1-c100baa4e05b">
@@ -824,41 +866,6 @@
           <pub-id pub-id-type="doi">10.1016/j.jvolgeores.2005.02.004</pub-id>
         </element-citation>
       </ref>
-      <ref id="IDe7f4f011-4a11-47ef-b80f-6b5274a3867f">
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Ferrari</surname>
-              <given-names>L.</given-names>
-            </name>
-            <name>
-              <surname>Orozco-Esquivel</surname>
-              <given-names>T.</given-names>
-            </name>
-            <name>
-              <surname>Manea</surname>
-              <given-names>V.</given-names>
-            </name>
-            <name>
-              <surname>Manea</surname>
-              <given-names>M.</given-names>
-            </name>
-          </person-group>
-          <article-title>
-            <italic>The dynamic history of the Trans-Mexican Volcanic Belt and the Mexico subduction zone</italic>
-          </article-title>
-          <source>
-          <italic>Tectonophysics</italic>
-          </source>
-          <date>
-            <year>2012</year>
-          </date>
-          <volume>522</volume>
-          <issue></issue>
-          <fpage>122</fpage>
-          <lpage>149</lpage>
-        </element-citation>
-      </ref>
       <ref id="IDbbc108d1-1d61-49c2-b43b-fe6fa69be177">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -888,10 +895,11 @@
             </name>
           </person-group>
           <article-title>
-            <italic>Geology of the Nevado de Toluca volcano and surrounding areas, Central Mexico: Geological Society of America, Maps and Charts Series, MCH080, 1 map, 26 pp. text</italic>
+            <italic>Geology of the Nevado de Toluca volcano and surrounding areas, Central Mexico</italic>
           </article-title>
+          <source>Geological Society of America, Maps and Charts Series, MCH080, 1 map</source>
           <date>
-            <year>2002a</year>
+            <year>26 pp., 2002a</year>
           </date>
           <volume></volume>
           <issue></issue>
@@ -936,6 +944,42 @@
           <issue></issue>
           <fpage>133</fpage>
           <lpage>150</lpage>
+        </element-citation>
+      </ref>
+      <ref id="ID5f01686d-c886-4c62-abc2-c7539dc46c24">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Guilbaud</surname>
+              <given-names>M.N.</given-names>
+            </name>
+            <name>
+              <surname>Siebe</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Layer</surname>
+              <given-names>P.</given-names>
+            </name>
+            <name>
+              <surname>Salinas</surname>
+              <given-names>S.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Reconstruction of the volcanic history of the Tacámbaro-Puruarán area (Michoacán, México) reveals high frequency of Holocene monogenetic eruptions</italic>
+          </article-title>
+          <source>
+          <italic>Bulletin of Volcanology</italic>
+          </source>
+          <date>
+            <year>2012</year>
+          </date>
+          <volume>74(5)</volume>
+          <issue></issue>
+          <fpage>1187</fpage>
+          <lpage>1211</lpage>
+          <pub-id pub-id-type="doi">10.1007/s00445-012-0594-0</pub-id>
         </element-citation>
       </ref>
       <ref id="IDb135ba16-6a56-42a9-b688-c8c5ce221548">
@@ -1007,41 +1051,7 @@
           <issue></issue>
           <fpage>128</fpage>
           <lpage>147</lpage>
-        </element-citation>
-      </ref>
-      <ref id="ID5f01686d-c886-4c62-abc2-c7539dc46c24">
-        <element-citation publication-type="journal">
-          <person-group person-group-type="author">
-            <name>
-              <surname>Guilbaud</surname>
-              <given-names>M.N.</given-names>
-            </name>
-            <name>
-              <surname>Siebe</surname>
-              <given-names>C.</given-names>
-            </name>
-            <name>
-              <surname>Layer</surname>
-              <given-names>P.</given-names>
-            </name>
-            <name>
-              <surname>Salinas</surname>
-              <given-names>S.</given-names>
-            </name>
-          </person-group>
-          <article-title>
-            <italic>Reconstruction of the volcanic history of the Tacámbaro-Puruarán area (Michoacán, México) reveals high frequency of Holocene monogenetic eruptions</italic>
-          </article-title>
-          <source>
-          <italic>Bulletin of Volcanology</italic>
-          </source>
-          <date>
-            <year>2012</year>
-          </date>
-          <volume>74(5)</volume>
-          <issue></issue>
-          <fpage>1187</fpage>
-          <lpage>1211</lpage>
+          <pub-id pub-id-type="doi">10.1016/j.jvolgeores.2015.05.005</pub-id>
         </element-citation>
       </ref>
       <ref id="IDf5ce0d67-2598-45aa-a587-7fd251e764ec">
@@ -1065,6 +1075,7 @@
           <issue></issue>
           <fpage>183</fpage>
           <lpage>232</lpage>
+          <pub-id pub-id-type="doi">10.1130/2007.2422(06)</pub-id>
         </element-citation>
       </ref>
       <ref id="ID9588b131-46a8-4bc4-bb4e-7275cf231ce2">
@@ -1104,10 +1115,11 @@
           <issue></issue>
           <fpage>1586</fpage>
           <lpage>1600</lpage>
+          <pub-id pub-id-type="doi">10.1111/jbi.12546</pub-id>
         </element-citation>
       </ref>
       <ref id="ID2f591615-e091-4861-bf4c-efabb927ccad">
-        <element-citation publication-type="journal">
+        <element-citation publication-type="book">
           <person-group person-group-type="author">
             <name>
               <surname>Mooser</surname>
@@ -1123,15 +1135,13 @@
             </name>
           </person-group>
           <article-title>
-            <italic>Nuevo mapa geológico de las cuencas de México, Toluca y Puebla: estratigrafía, tectónica regional y aspectos geotérmicos: Mexico, D.F., Comisión Federal de Electricidad, 27 pages, 36 leaves of plates</italic>
+            <italic>Nuevo mapa geológico de las cuencas de México, Toluca y Puebla: estratigrafía, tectónica regional y aspectos geotérmicos</italic>
           </article-title>
           <date>
-            <year>1996</year>
+            <year>27 pages, 36 leaves of plates, 1996</year>
           </date>
-          <volume></volume>
-          <issue></issue>
-          <fpage></fpage>
-          <lpage></lpage>
+          <publisher-loc>Mexico, D.F.</publisher-loc>
+          <publisher-name>Comisión Federal de Electricidad</publisher-name>
         </element-citation>
       </ref>
       <ref id="IDb07bdd20-6500-4e7e-9ca4-821ad2e7f914">
@@ -1159,10 +1169,52 @@
             </name>
           </person-group>
           <article-title>
-            <italic>Geology of the central sector of the Mexican Volcanic Belt, States of Guanajuato and Michoacan: Geological Society of America, Maps and Charts Series, MCH072, scale 1:300 000, 1 sheet, 22 pp. text</italic>
+            <italic>Geology of the central sector of the Mexican Volcanic Belt, States of Guanajuato and Michoacan</italic>
           </article-title>
+          <source>Geological Society of America, Maps and Charts Series, MCH072, scale 1:300 000, 1 sheet, 22 pp.</source>
           <date>
             <year>1991</year>
+          </date>
+          <volume></volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+      </ref>
+      <ref id="ref1">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rosas Elguera</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Barrera Hernández</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Valladolid Cacho</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Pérez Rodriguez</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Sanchez González</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Maldonado Sanchez</surname>
+              <given-names>G.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Carta Geológica-Minera Guadalajara E13-12, escala 1:250,000</italic>
+          </article-title>
+          <source>Consejo de Recursos Minerales</source>
+          <date>
+            <year>2000</year>
           </date>
           <volume></volume>
           <issue></issue>
