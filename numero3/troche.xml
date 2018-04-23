@@ -300,7 +300,7 @@
         <fn-group/>
         <ref-list>
             <ref id="ID78b27a13-0f80-47b6-8e44-1df07c7a7355">
-                <element-citation publication-type="journal">
+                <element-citation publication-type="book">
                     <person-group person-group-type="author">
                         <name>
                             <surname>Bocco</surname>
@@ -321,16 +321,14 @@
                     </person-group>
                     <article-title>
                         <italic>
-                            La cartograf&#237;a de los sistemas naturales como base geogr&#225;fica para la planeaci&#243;n territorial: Una revisi&#243;n bibliogr&#225;fica, Secretar&#237;a de Medio Ambiente y Recursos Naturales, Instituto Nacional de Ecolog&#237;a, Universidad Nacional Aut&#243;noma de M&#233;xico, Centro de Investigaciones en Geograf&#237;a Ambiental. M&#233;xico. 72 pp.
+                            La cartograf&#237;a de los sistemas naturales como base geogr&#225;fica para la planeaci&#243;n territorial: Una revisi&#243;n bibliogr&#225;fica.
                         </italic>
                     </article-title>
                     <date>
-                        <year>2010</year>
+                        <year>72 pp., 2010</year>
                     </date>
-                    <volume></volume>
-                    <issue></issue>
-                    <fpage></fpage>
-                    <lpage></lpage>
+                    <publisher-loc>México</publisher-loc>
+                    <publisher-name>Secretar&#237;a de Medio Ambiente y Recursos Naturales, Instituto Nacional de Ecolog&#237;a, Universidad Nacional Aut&#243;noma de M&#233;xico, Centro de Investigaciones en Geograf&#237;a Ambiental.</publisher-name>
                 </element-citation>
             </ref>
             <ref id="IDd804309c-1d20-4e88-bb53-b386fb1e710e">
@@ -653,6 +651,40 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
+            <ref id="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Priego-Santander</surname>
+                            <given-names>A.G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bocco</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Mendoza</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Garrido</surname>
+                            <given-names>A.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>
+                        <italic>
+                            Propuesta para la Generaci&#243;n Semiautomatizada de Unidades de Paisaje. Fundamentos y M&#233;todos: Serie Planificaci&#243;n Territorial, Semarnat-INE-CIGA, 104 pp.
+                        </italic>
+                    </article-title>
+                    <date>
+                        <year>2010</year>
+                    </date>
+                    <volume></volume>
+                    <issue></issue>
+                    <fpage></fpage>
+                    <lpage></lpage>
+                </element-citation>
+            </ref>
             <ref id="ID97c8d21c-e8ee-47e6-87a6-5665467e642f">
                 <element-citation publication-type="journal">
                     <person-group person-group-type="author">
@@ -690,40 +722,6 @@
                     <issue></issue>
                     <fpage>31</fpage>
                     <lpage>52</lpage>
-                </element-citation>
-            </ref>
-            <ref id="ID2751c87b-ac9a-4eae-94d3-dc260baa9cf4">
-                <element-citation publication-type="journal">
-                    <person-group person-group-type="author">
-                        <name>
-                            <surname>Priego-Santander</surname>
-                            <given-names>A.G.</given-names>
-                        </name>
-                        <name>
-                            <surname>Bocco</surname>
-                            <given-names>G.</given-names>
-                        </name>
-                        <name>
-                            <surname>Mendoza</surname>
-                            <given-names>M.</given-names>
-                        </name>
-                        <name>
-                            <surname>Garrido</surname>
-                            <given-names>A.</given-names>
-                        </name>
-                    </person-group>
-                    <article-title>
-                        <italic>
-                            Propuesta para la Generaci&#243;n Semiautomatizada de Unidades de Paisaje. Fundamentos y M&#233;todos: Serie Planificaci&#243;n Territorial, Semarnat-INE-CIGA, 104 pp.
-                        </italic>
-                    </article-title>
-                    <date>
-                        <year>2010</year>
-                    </date>
-                    <volume></volume>
-                    <issue></issue>
-                    <fpage></fpage>
-                    <lpage></lpage>
                 </element-citation>
             </ref>
             <ref id="ID76f79b4f-0fe3-4891-b844-65817db0645a">
@@ -819,7 +817,7 @@
                     <date>
                         <year>1971</year>
                     </date>
-                    <volume>32</volume>
+                    <volume>32(2)</volume> <!-- el dos es el issue -->
                     <issue>2</issue>
                     <fpage>75</fpage>
                     <lpage>115</lpage>
