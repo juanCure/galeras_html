@@ -213,6 +213,19 @@
         </table>
       </table-wrap>
     </sec>
+    <sec sec-type="supplementary-material">
+      <title>Visualizador</title>
+      <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero3/flores/mapa_estatico/"
+        mimetype="application/html">
+      <object-id pub-id-type="doi"></object-id>
+        <label>Mapa Estático</label>
+        <caption>
+          <title>Mapa estático de Áreas inundadas en Acapulco de Juaréz, Gro.</title>
+        </caption>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero3/flores/mapa_estatico/"/>
+      </supplementary-material>
+    </sec>
   </body>
   <back>
     <ref-list>
