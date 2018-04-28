@@ -494,6 +494,19 @@
       </title>
       <p>The TMVB GIS has been elaborated by Luca Ferrari and Teresa Orozco-Esquivel with the collaboration of T. Norato-Cortez, N. Gonz&#225;lez-Cervantes, M. Hern&#225;ndez-Ram&#237;rez, A. Rossotti, V.M. Reyes-Orozco, M.G. Garc&#237;a-Sierra, A. Silva Fragoso and V. Mart&#237;nez Res&#233;ndiz as part of undergraduate and graduate thesis or social service. J. Rosas Elguera and G. Carrasco N&#250;&#241;ez provided geologic information for the western and eastern TMVB, respectively, in an early stage of the project. Laura Luna-Gonz&#225;lez elaborated the first version of the map in ArcInfo and Mario Navarro and Pen&#233;lope L&#243;pez-Quiroz took care of the update and the adaptation in ArcGIS. Reviews by Carlos Gonz&#225;lez Le&#243;n and Jos&#233; Rosas Elguera improved the clarity of the map and the text. Javier Osorno provided a crucial support along all the editorial process. </p>
     </sec>
+    <sec sec-type="supplementary-material">
+      <title>Visualizador</title>
+      <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero3/ferrari/mapa_estatico/"
+        mimetype="application/html">
+      <object-id pub-id-type="doi"></object-id>
+        <label>Mapa Estático</label>
+        <caption>
+          <title>Mapa estático de Luca Ferrari</title>
+        </caption>
+      <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero3/ferrari/mapa_estatico/"/>
+      </supplementary-material>
+    </sec>
   </body>
   <back>
     <fn-group/>
