@@ -68,12 +68,26 @@
         </corresp>
       </author-notes>
       <pub-date pub-type="epub">
-        <year>2013</year>
+        <day>30</day>
+        <month>04</month>
+        <year>2018</year>
       </pub-date>
-      <volume>1</volume>
+      <volume>2</volume>
       <issue>1</issue>
       <fpage>1</fpage>
       <lpage>5</lpage>
+      <history>
+        <date date-type="received">
+          <day>01</day>
+          <month>11</month>
+          <year>2017</year>
+        </date>
+        <date date-type="accepted">
+          <day>20</day>
+          <month>12</month>
+          <year>2017</year>
+        </date>
+      </history>
       <permissions>
         <copyright-statement>&#169; 2018, Luca Ferrari &amp; Teresa Orozco Esquivel &amp; Mario Navarro &amp;  Penélope López-Quiroz &amp; Laura Luna. Published by Terra Digitalis.</copyright-statement>
         <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
