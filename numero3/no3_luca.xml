@@ -25,6 +25,7 @@
             <given-names>Luca </given-names>
           </name>
           <xref ref-type="aff" rid="aff1" />
+          <xref ref-type="corresp" rid="cor1">*</xref>
         </contrib>
         <contrib contrib-type="author">
           <name>
@@ -61,15 +62,20 @@
           <institution>Instituto de Geología, Universidad Nacional Autónoma de México, Ciudad Universitaria, México City, 04510, Mexico</institution>
         </aff>
       </contrib-group>
+      <author-notes>
+        <corresp id="cor1">
+          <email>luca@unam.mx</email>
+        </corresp>
+      </author-notes>
       <pub-date pub-type="epub">
         <year>2013</year>
       </pub-date>
       <volume>1</volume>
       <issue>1</issue>
       <fpage>1</fpage>
-      <lpage>2</lpage>
+      <lpage>5</lpage>
       <permissions>
-        <copyright-statement>&#169; 2018, Luca Ferrari, Teresa Orozco Esquivel, Mario Navarro, Penélope López-Quiroz &amp; Laura Luna</copyright-statement>
+        <copyright-statement>&#169; 2018, Luca Ferrari &amp; Teresa Orozco Esquivel &amp; Mario Navarro &amp;  Penélope López-Quiroz &amp; Laura Luna. Published by Terra Digitalis.</copyright-statement>
         <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
           <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
         </license>
@@ -100,16 +106,16 @@
       <p>The Trans-Mexican Volcanic Belt (TMVB) is the largest Neogene volcanic arc in North America with an area of 160,000 km<sup>2</sup> and a length of almost 1000 km between Latitude 18&#176;30&#8242; and 21&#176;30&#8242; N in central Mexico. The irregular plateau formed by this geologic province hosts an important part of the population and industrial and agricultural activity of Mexico. Furthermore, its formation in the past 20 m.y. had a significant impact on climate and the evolution of biodiversity (
         <xref rid="ID9588b131-46a8-4bc4-bb4e-7275cf231ce2" ref-type="bibr" id="ID4443d3cf-b12d-4799-a33c-18a5c019eaf2">e.g., Mastretta-Yanez et al., 2015</xref>). The TMVB displays several peculiarities when compared with most volcanic arcs, such as the arc-transversal orientation of the main stratovolcanoes, the large compositional variation of its products, the young age of the two plates subducting in front of the arc, and the absence of seismicity associated with them beneath the arc (
         <xref rid="IDe7f4f011-4a11-47ef-b80f-6b5274a3867f" ref-type="bibr" id="IDb46078df-de0d-4664-9b09-4f43817d6218">Ferrari et al., 2012</xref>). Because of these peculiarities, over the past 40 years the TMVB has been the focus of hundreds of studies. Geologic maps have been published for the major active stratovolcanoes and some volcanic fields or for some discrete regions (
-        <!-- <xref rid="TO_LINK" ref-type="bibr" id="IDf420740b-08b5-433e-818c-14d7ce64fc6d">Gastil et al., 1979</xref> -->Gastil et al., 1979;
+        <xref rid="ref2" ref-type="bibr" id="IDf420740b-08b5-433e-818c-14d7ce64fc6d">Gastil et al., 1979</xref>;
         <xref rid="IDe13fca21-de43-45bc-b836-fccde93c51d7" ref-type="bibr" id="ID5fe980f5-aaa0-4ee4-80cc-72fa82a51630">Demant, 1981</xref>;
         <xref rid="IDb07bdd20-6500-4e7e-9ca4-821ad2e7f914" ref-type="bibr" id="ID24aca420-b5d6-4d50-a01e-9ede15f9c4b3">Pasquar&#233; et al., 1991</xref>;
         <xref rid="ID2f591615-e091-4861-bf4c-efabb927ccad" ref-type="bibr" id="ID62d332d2-489a-44e3-b14f-31860e92c5e3">Mooser et al., 1996</xref>;
         <xref rid="ID95bf5c7f-d09d-4e9b-8eec-c220b6947cb9" ref-type="bibr" id="IDbd06c4be-8b9b-406e-bc86-c6ab6faaa6a9">Carrasco et al., 1997</xref>;
         <xref rid="IDb2b12d00-c24e-4d4b-87b1-c100baa4e05b" ref-type="bibr" id="ID0ffbff1c-a4cb-46a4-b0b9-b595147e4ae9">Ferrari et al., 2000</xref>,<xref rid="ID1e07d5c7-ec6d-4459-9be7-0ec8f128276d" ref-type="bibr" id=""> 2005</xref>;
         <xref rid="IDbbc108d1-1d61-49c2-b43b-fe6fa69be177" ref-type="bibr" id="ID452c50a1-b010-4eb1-923b-2289109e84c0">Garc&#237;a-Palomo et al., 2002a</xref>,<xref rid="ID5fa67d91-15e8-4fb5-8cb3-b30c44531c5c" ref-type="bibr" id="">2002b</xref>;
-        <!-- <xref rid="TO_LINK" ref-type="bibr" id="ID2d4f4bc8-2e0a-42c0-8960-2fb0ea7a9771">Cort&#233;s et al., 2010</xref> -->Cort&#233;s et al., 2010;
+        <xref rid="ref3" ref-type="bibr" id="ID2d4f4bc8-2e0a-42c0-8960-2fb0ea7a9771">Cort&#233;s et al., 2010</xref>;
         <xref rid="IDb135ba16-6a56-42a9-b688-c8c5ce221548" ref-type="bibr" id="ID0f5e48a4-5f0d-4368-a5aa-1ab637268d46">G&#243;mez-Tuena et al., 2007</xref>;
-        <!-- <xref rid="TO_LINK" ref-type="bibr" id="IDf07b9bcd-e0ec-40bd-872a-98335e5cf420">Rodr&#237;guez-Elizarrar&#225;s, 2005</xref> -->Rodr&#237;guez-Elizarrar&#225;s, 2005;
+        <xref rid="ref4" ref-type="bibr" id="IDf07b9bcd-e0ec-40bd-872a-98335e5cf420">Rodr&#237;guez-Elizarrar&#225;s, 2005</xref>;
         <xref rid="IDf5ce0d67-2598-45aa-a587-7fd251e764ec" ref-type="bibr" id="ID1029f85b-8d36-455a-ae82-d1b167dd16ec">Mac&#237;as, 2007</xref>;
         <xref rid="ID5f01686d-c886-4c62-abc2-c7539dc46c24" ref-type="bibr" id="ID02dc5665-49fe-40bf-9e82-af86dbe0c8a5">Guilbauld et al., 2012</xref>;
         <xref rid="ID8280d01c-0568-4693-b73f-bc37f77540ca" ref-type="bibr" id="ID4d37f564-2c68-46c1-879c-e7bc1491e871">G&#243;mez-Vasconcelos et al., 2015</xref>). However, a geologic map spanning the whole province was needed to disentangle the evolution of this volcanic province and better constrain its genesis. Here we present the first digital geologic map of the TMVB and adjoining areas of its heterogeneous basement. The area covered by the map is comprised between Longitude 106&#176; and 96&#176;W and Latitude 19&#176;and 21&#176;45&#8217;N. An earlier version of the map was published in static format (PDF figure in conventional papers) in <xref rid="IDb135ba16-6a56-42a9-b688-c8c5ce221548" ref-type="bibr" id="IDe73840a8-23c8-4271-9547-86949060d50b">G&#243;mez-Tuena et al. (
@@ -134,9 +140,8 @@
             2003)</xref>, original 1:50,000 scale sheets provided by the authors.</p>
         </list-item>
         <list-item>
-          <p>Colima volcanic complex: <!-- <xref rid="TO_LINK" ref-type="bibr" id="ID1cbb62d8-1a72-4411-903b-4fea59d60167">Cort&#233;s et al. (
-            2010)</xref> -->Cort&#233;s et al. (
-            2010), published map at 1:50,000 scale. </p>
+          <p>Colima volcanic complex: <xref rid="ref3" ref-type="bibr" id="ID1cbb62d8-1a72-4411-903b-4fea59d60167">Cort&#233;s et al. (
+            2010)</xref>, published map at 1:50,000 scale. </p>
         </list-item>
         <list-item>
           <p>Jilotl&#225;n region. Jal.: Colima 1:250,000 scale map of Servicio Geol&#243;gico M&#233;xicano by <xref rid="ref1" ref-type="bibr" id="IDe909c039-91c7-48d6-bdd9-3e079277c985">Rosas Elguera et al. (
@@ -605,7 +610,7 @@
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
             <name>
-              <surname>Cortes</surname>
+              <surname>Cortés</surname>
               <given-names>A.</given-names>
             </name>
             <name>
@@ -642,6 +647,52 @@
           <lpage></lpage>
         </element-citation>
       </ref>
+      <ref id="ref3">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Cortés</surname>
+              <given-names>A.</given-names>
+            </name>
+            <name>
+              <surname>Garduno-Monroy</surname>
+              <given-names>V. H.</given-names>
+            </name>
+            <name>
+              <surname>Macías</surname>
+              <given-names>J. L.</given-names>
+            </name>
+            <name>
+              <surname>Navarro-Ochoa</surname>
+              <given-names>C.</given-names>
+            </name>
+            <name>
+              <surname>Komorowski</surname>
+              <given-names>J. C.</given-names>
+            </name>
+            <name>
+              <surname>Saucedo</surname>
+              <given-names>R.</given-names>
+            </name>
+            <name>
+              <surname>Gavilanes</surname>
+              <given-names>J.C.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Geologic mapping of the Colima volcanic complex (Mexico) and implications for hazard assessment</italic>
+          </article-title>
+          <source>Geol Soc Am Spec Pap</source>
+          <date>
+            <year>2010</year>
+          </date>
+          <volume>464</volume>
+          <issue></issue>
+          <fpage>249</fpage>
+          <lpage>264</lpage>
+        </element-citation>
+      </ref>
+      <!-- Cortés, A., Garduño, V. H., Macías, J. L., Navarro-Ochoa, C., Komorowski, J. C., Saucedo, R., & Gavilanes, J. C. (2010). Geologic mapping of the Colima volcanic complex (Mexico) and implications for hazard assessment. Geol Soc Am Spec Pap, 464, 249-264. -->
       <ref id="IDe13fca21-de43-45bc-b836-fccde93c51d7">
         <element-citation publication-type="book">
           <person-group person-group-type="author">
@@ -946,6 +997,38 @@
           <lpage>150</lpage>
         </element-citation>
       </ref>
+      <ref id="ref2">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Gastil</surname>
+              <given-names>G.</given-names>
+            </name>
+            <name>
+              <surname>Krummenacher</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Minch</surname>
+              <given-names>J.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>The record of Cenozoic volcanism around the Gulf of California</italic>
+          </article-title>
+          <source>
+          <italic>Geological Society of America Bulletin</italic>
+          </source>
+          <date>
+            <year>1979</year>
+          </date>
+          <volume>90(9)</volume>
+          <issue></issue>
+          <fpage>839</fpage>
+          <lpage>857</lpage>
+        </element-citation>
+      </ref>
+      <!-- Gastil, G., Krummenacher, D., & Minch, J. (1979). The record of Cenozoic volcanism around the Gulf of California. Geological Society of America Bulletin, 90(9), 839-857. -->
       <ref id="ID5f01686d-c886-4c62-abc2-c7539dc46c24">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
@@ -1181,6 +1264,28 @@
           <lpage></lpage>
         </element-citation>
       </ref>
+      <ref id="ref4">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Rodríguez-Elizarrarás</surname>
+              <given-names>S. R.</given-names>
+            </name>
+          </person-group>
+          <article-title>
+            <italic>Geology of Las Cumbres Volcanic Complex, Puebla and Veracruz states, Mexico</italic>
+          </article-title>
+          <source>Revista Mexicana de Ciencias Geológicas</source>
+          <date>
+            <year>2005</year>
+          </date>
+          <volume>22(2)</volume>
+          <issue></issue>
+          <fpage></fpage>
+          <lpage></lpage>
+        </element-citation>
+      </ref>
+      <!-- Rodríguez-Elizarrarás, S. R. (2005). Geology of Las Cumbres Volcanic Complex, Puebla and Veracruz states, Mexico. Revista Mexicana de Ciencias Geológicas, 22(2). -->
       <ref id="ref1">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
