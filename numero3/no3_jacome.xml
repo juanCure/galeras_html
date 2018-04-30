@@ -24,7 +24,7 @@
             <surname>Jácome-Paz</surname>
             <given-names>Mariana Patricia</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="aff" rid="affa"/>
           <xref ref-type="corresp" rid="cor1">*</xref>
         </contrib>
         <contrib contrib-type="author">
@@ -32,148 +32,148 @@
             <surname>López Valdés</surname>
             <given-names>Néstor</given-names>
           </name>
-          <xref ref-type="aff" rid="aff2"/>
+          <xref ref-type="aff" rid="affb"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>De la Fuente Rivera</surname>
             <given-names>Juan Ramón</given-names>
           </name>
-          <xref ref-type="aff" rid="aff2"/>
+          <xref ref-type="aff" rid="affb"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Avila Vasquez</surname>
             <given-names>Gloria Itzel</given-names>
           </name>
-          <xref ref-type="aff" rid="aff3"/>
+          <xref ref-type="aff" rid="affc"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Guzmán-Sánchez</surname>
             <given-names>Javier</given-names>
           </name>
-          <xref ref-type="aff" rid="aff4"/>
+          <xref ref-type="aff" rid="affd"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Rios-Vázquez</surname>
             <given-names>Ameyalli</given-names>
           </name>
-          <xref ref-type="aff" rid="aff6"/>
+          <xref ref-type="aff" rid="afff"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Espinasa-Pereña</surname>
             <given-names>Ramón</given-names>
           </name>
-          <xref ref-type="aff" rid="aff5"/>
+          <xref ref-type="aff" rid="affe"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Rangel Granados</surname>
             <given-names>Elizabeth</given-names>
           </name>
-          <xref ref-type="aff" rid="aff2"/>
+          <xref ref-type="aff" rid="affb"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Vásquez Serrano</surname>
             <given-names>Alberto</given-names>
           </name>
-          <xref ref-type="aff" rid="aff2"/>
+          <xref ref-type="aff" rid="affb"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Torres-Orozco</surname>
             <given-names>Rafael</given-names>
           </name>
-          <xref ref-type="aff" rid="aff8"/>
+          <xref ref-type="aff" rid="affh"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Caballero García</surname>
             <given-names>Lizeth</given-names>
           </name>
-          <xref ref-type="aff" rid="aff7"/>
+          <xref ref-type="aff" rid="affg"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Arce Saldaña</surname>
             <given-names>José Luis</given-names>
           </name>
-          <xref ref-type="aff" rid="aff8"/>
+          <xref ref-type="aff" rid="affh"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Ville-Benavides</surname>
             <given-names>Rodrigo</given-names>
           </name>
-          <xref ref-type="aff" rid="aff9"/>
+          <xref ref-type="aff" rid="affi"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Cobos Villagrán</surname>
             <given-names>Aurora</given-names>
           </name>
-          <xref ref-type="aff" rid="aff6"/>
+          <xref ref-type="aff" rid="afff"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Victoria Peregrino</surname>
             <given-names>Karina</given-names>
           </name>
-          <xref ref-type="aff" rid="aff6"/>
+          <xref ref-type="aff" rid="afff"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Rivera García</surname>
             <given-names>Gerardo Damián</given-names>
           </name>
-          <xref ref-type="aff" rid="aff6"/>
+          <xref ref-type="aff" rid="afff"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Caballero Miranda</surname>
             <given-names>Margarita</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="aff" rid="affa"/>
         </contrib>
         <contrib contrib-type="author">
           <name>
             <surname>Osorno-Covarrubias</surname>
             <given-names>Francisco Javier</given-names>
           </name>
-          <xref ref-type="aff" rid="aff1"/>
+          <xref ref-type="aff" rid="affj"/>
         </contrib>
-        <aff id="aff1">
+        <aff id="affa">
           <institution>Instituto de Geofísica, UNAM. Circuito de la investigación Científica s/n, Ciudad Universitaria, Delegación Coyoacán, C.P. 04510, Ciudad de México</institution>
         </aff>
-        <aff id="aff2">
+        <aff id="affb">
           <institution>Posgrado en Ciencias de la Tierra, UNAM. Unidad de Posgrado, edificio D, primer piso. Cd. Universitaria, Coyoacán, Ciudad de México</institution>
         </aff>
-        <aff id="aff3">
+        <aff id="affc">
           <institution>Colegio de Geografía de la Facultad de Filosofía y Letras, UNAM. Circuito Interior. Ciudad Universitaria, s/n. C.P. 04510. México</institution>
         </aff>
-        <aff id="aff4">
+        <aff id="affd">
           <institution>Comisión Nacional Forestal, Gerencia Estatal Morelos. 62290, Río Tamazula 30, Vista Hermosa, Cuernavaca, Morelos</institution>
         </aff>
-        <aff id="aff5">
+        <aff id="affe">
           <institution>Centro Nacional de Prevención de Desastres, CENAPRED. Av. Delfín Madrigal No. 665,  Pedregal de Santo Domingo, Delegación Coyoacán, Ciudad de México. C.P. 04360</institution>
         </aff>
-        <aff id="aff6">
+        <aff id="afff">
           <institution>Escuela Nacional de Ciencias Biológicas, IPN. Prolongación de Carpio y Plan de Ayala s/n. Col. Santo Tomás CP11340. Del. Miguel Hidalgo. CDMX</institution>
         </aff>
-        <aff id="aff7">
+        <aff id="affg">
           <institution>Facultad de Ciencias, UNAM. Circuito Exterior s/n, Coyoacán, Cd. Universitaria, 04510 Ciudad de México</institution>
         </aff>
-        <aff id="aff8">
+        <aff id="affh">
           <institution>Instituto de Geología, UNAM. Circuito de la investigación Científica s/n, Ciudad Universitaria, Delegación Coyoacán, C.P. 04510, Ciudad de México</institution>
         </aff>
-        <aff id="aff9">
+        <aff id="affi">
           <institution>Facultad de Medicina, Circuito Interior, Ciudad Universitaria, Av. Universidad 3000, C.P. 04510</institution>
         </aff>
-        <aff id="aff10">
+        <aff id="affj">
           <institution>Instituto de Geografía, UNAM. Circuito de la investigación Científica s/n, Ciudad Universitaria, Delegación Coyoacán, C.P. 04510, Ciudad de México</institution>
         </aff>
       </contrib-group>
@@ -221,7 +221,7 @@
       <sec>
         <title>Abstract</title>
         <p>The Nevado de Toluca is a Natural Protected Area with the category of <italic>Area de Protecci&#243;n de Flora y Fauna, </italic>according to the Mexican legislation, since 2013. The volcano can be easily accessed and has a high influx of visitors; however it has no visible guidance material on site, which favors the deterioration of the area and increases the probability of visitors risk situations, due to lack of education about the precautions needed when entering an area of high and medium mountain.</p>
-        <p>This project presents a strategy to promote the conservation of the natural environment through a series of maps containing the crater area of the volcano and its surroundings, showing the location of mountain routes, bicycle and interpretive trails, as well as contextualized information on health and prevention, in addition to its geology, eruptive history and biodiversity of flora and fauna.</p>
+        <p>This project presents a strategy to promote the conservation of the natural environment through a series of maps containing the crater area of the volcano and its surroundings, showing the location of mountain routes, bicycle and interpretive trails, as well as contextualized information on health and prevention, in addition to its geology, eruptive history and biodiversity.</p>
         <p>Likewise, it is expected that its consultation or its in situ use by visitors to the area, mitigate the risk situations and reduce mountain accidents caused by ignorance.</p>
         <p><italic><bold>Keywords</bold></italic>: Nevado de Toluca; Risk; Ecotourism; Cartography; Interpretive path.</p>
       </sec>
@@ -233,11 +233,11 @@
       <title>1. Introducci&#243;n</title>
       <p>La Faja Volc&#225;nica Trans- Mexicana (FVTM) es un arco magm&#225;tico continental, resultado de la subducci&#243;n de las placas Rivera y Cocos debajo de la placa Norteamericana, constituido por m&#225;s de 8000 estructuras volc&#225;nicas y algunos cuerpos intrusivos, que se extiende por todo el centro de M&#233;xico desde las costas del Pac&#237;fico y hasta las costas del Golfo de M&#233;xico (<xref rid="ID25551911-af1e-4651-806b-d315ddba3e42" ref-type="bibr" id="ID474d7ab5-91a7-48c0-8590-d137bf63b31f">Demant, 1978</xref>; <xref rid="ID88703c5f-b52b-4483-a5c9-5f0b455794b6" ref-type="bibr" id="IDdffd7b9a-92e7-4507-8e3a-d57ea4977626">G&#243;mez-Tuena et al. 2007</xref>; <xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="ID3b690fe9-2b5c-4a44-9486-72fdd48b38d8">Ferrari et al. 2012</xref>). En la FVTM se presenta tanto vulcanismo monogen&#233;tico como poligen&#233;tico. El vulcanismo monogen&#233;tico est&#225; asociado a campos volc&#225;nicos con conos de escoria y ceniza, as&#237; como derrames de lava; mientras que el vulcanismo poligen&#233;tico est&#225; representado por estratovolcanes y estructuras cald&#233;ricas. </p>
       <p>La FVTM ha sido subdivida tradicionalmente con base en su geolog&#237;a y tect&#243;nica en tres sectores: Occidental, Central y Oriental (<xref rid="ID25551911-af1e-4651-806b-d315ddba3e42" ref-type="bibr" id="ID84e4a2ff-13b0-4d3d-9098-6ec47e45e0e8">Demant, 1978</xref>; <xref rid="IDeb05f1be-76fe-4c1d-acef-61aa42e0a60f" ref-type="bibr" id="ID60270748-ac50-4c6c-9908-eb9452f983bd">Pasquar&#233; et al., 1987</xref>). Estudios recientes retoman la clasificaci&#243;n mencionada y la ampl&#237;an a cuatro sectores, de tal manera que se incluye al denominado Sector Extremo Oriental (<xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="IDb945f648-28cb-4e5b-877b-ab41cbd87e60">Ferrari et al., 2012</xref>). </p>
-      <p>El Sector Occidental, se encuentra caracterizado por presentar un vulcanismo bimodal, constituido por estratovolcanes y complejos de domos con una composici&#243;n dac&#237;tica-riol&#237;tica, as&#237; como centros monogen&#233;ticos principalmente de composici&#243;n bas&#225;ltica; a su vez, el Sector Central se conforma de conos monogen&#233;ticos de escoria con flujos de lava asociados, que presentan una composici&#243;n bas&#225;ltica-andes&#237;tica. A reserva de los volcanes Tanc&#237;taro y el Patamban, los estratovolcanes en este sector son inexistentes.  Seguidamente, el Sector Oriental exhibe de manera contrastante, un vulcanismo emplazado principalmente en grandes estratovolcanes, calderas y complejos de domos, con una composici&#243;n andes&#237;tica-riol&#237;tica, de tal manera que los volcanes monogen&#233;ticos de composici&#243;n bas&#225;ltica representan solo una peque&#241;a parte del volumen total. Por &#250;ltimo, el Sector extremo Oriental est&#225; conformado por magmas con firmas alcalinas principalmente, as&#237; como una marcada ausencia de estratovolcanes. Cabe destacar que estos sectores se distribuyen con direcciones preferenciales de E-O para la porci&#243;n Oriental y Central, as&#237; como, ONO-ESE para la porci&#243;n occidental (<xref rid="ID25551911-af1e-4651-806b-d315ddba3e42" ref-type="bibr" id="ID1ab111ac-ca22-4e81-9e60-b70f7f41ff27">Demant, 1978</xref>; <xref rid="IDeb05f1be-76fe-4c1d-acef-61aa42e0a60f" ref-type="bibr" id="IDa03f997c-4d10-4a1b-b426-4a214a122fe6">Pasquar&#233; et al., 1987</xref>, <xref rid="ref3" ref-type="bibr">Carmichael, 2002;</xref> <xref rid="ID88703c5f-b52b-4483-a5c9-5f0b455794b6" ref-type="bibr" id="ID791d6b6f-e5dc-4786-bb86-45f4a2a00708">G&#243;mez-Tuena et al., 2007</xref>; <xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="ID28a37ee9-6b2f-42ee-853a-5ae94458c9fc">Ferrari et al., 2012</xref>; <xref rid="ID2db4400f-ea36-420f-8d07-7ff9fc622ab3" ref-type="bibr" id="ID4080c120-573c-49c7-b0e8-902d0550473a">Siebe et al. 2014</xref>). El volc&#225;n Nevado de Toluca o Chicnauht&#233;catl (del n&#225;huatl <italic>Nueve Colinas; </italic><xref rid="ID36b9fbab-d896-4308-899d-f270da9f12af" ref-type="bibr">Garc&#237;a-Mart&#237;nez<italic>, </italic>2000</xref>) se encuentra dentro del sector Oriental de la FVTM (<xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="ID7b8ca60b-b899-45e0-be8a-357cae294d30">Ferrrari et al. 2012</xref>), a 23 km en direcci&#243;n suroeste de la ciudad de Toluca. Es la cuarta cumbre m&#225;s alta de M&#233;xico con una altura de 4680 msnm, en el Pico del Fraile (<xref rid="ID5afb1219-f3d6-4656-88e4-2f57d1aced1b" ref-type="bibr" id="IDe8f64162-0b10-47b2-9274-bb8b433d4afb">Mac&#237;as, 2005</xref>). El volc&#225;n presenta dos lagos al interior del cr&#225;ter, nombrados de El Sol y de La Luna separados por un domo dac&#237;tico central conocido como &#8220;El Ombligo&#8221; (<xref rid="ID15300f1c-467d-458b-9883-5006291609b6" ref-type="bibr" id="IDc3a29620-fdc0-4c33-985f-57f529313e56">Armienta et al. 2000</xref>). Aunque su morfolog&#237;a es cambiante, las &#225;reas aproximadas son: 0.025 km<sup>2</sup> para La Luna y 0.175 km<sup>2</sup> para El Sol (<xref rid="ID3bc72c04-8cb0-49cf-a26b-86d3d6b336a7" ref-type="bibr" id="ID518eb9be-ada2-44d0-9970-3b6e521e2b5f">Caballero-Miranda, 1996</xref>). Estos lagos son ecosistemas &#250;nicos en M&#233;xico por su aislamiento geogr&#225;fico y su elevada altitud (4200 msnm).    Las condiciones geogr&#225;ficas y climatol&#243;gicas favorecen que estos lagos tengan caracter&#237;sticas f&#237;sico-qu&#237;micas poco comunes para la regi&#243;n tropical, siendo lagos de aguas fr&#237;as (9.4 &#176;C &#8211; 9.7 &#176;C), con baja precipitaci&#243;n de minerales y con valores de pH 7.2 &#177; 0.6 para El Sol y 6.1 &#177; 0.5 para La Luna (<xref rid="ID3bc72c04-8cb0-49cf-a26b-86d3d6b336a7" ref-type="bibr" id="IDa7a70fd1-d79e-4595-b805-27d94e2b1b8c">Caballero-Miranda, 1996</xref>; <xref rid="ref1" ref-type="bibr">Alcocer et al., 2004</xref>, <xref rid="ref4" ref-type="bibr">Dimas-Flores et al. 2008</xref>, <xref rid="ref5" ref-type="bibr">Szeroczynska et al. 2015</xref>). Por su parte, se han encontrado restos de cer&#225;mica, barras de copal, p&#250;as de maguey y otros objetos depositados como ofrendas por comunidades prehisp&#225;nicas&#160;en el lecho de la Laguna del Sol, indicando que en su momento dichos lagos fueron un importante centro ceremonial (<xref rid="IDcf36bdd2-0916-429a-b3ff-fb43175d9413" ref-type="bibr" id="ID11101b83-5b01-415c-88df-b1ca1444129b">Quezada&#8211;Ram&#237;rez, 1972</xref>; <xref rid="ID36b9fbab-d896-4308-899d-f270da9f12af" ref-type="bibr" id="IDe4d714dc-cc6a-4327-8e91-b991c4859d0c">Garc&#237;a-Mart&#237;nez, 2000</xref>). </p>
+      <p>El Sector Occidental, se encuentra caracterizado por presentar un vulcanismo bimodal, constituido por estratovolcanes y complejos de domos con una composici&#243;n dac&#237;tica-riol&#237;tica, as&#237; como centros monogen&#233;ticos principalmente de composici&#243;n bas&#225;ltica; a su vez, el Sector Central se conforma de conos monogen&#233;ticos de escoria con flujos de lava asociados, que presentan una composici&#243;n bas&#225;ltica-andes&#237;tica. A reserva de los volcanes Tanc&#237;taro y el Patamban, los estratovolcanes en este sector son inexistentes.  Seguidamente, el Sector Oriental exhibe de manera contrastante, un vulcanismo emplazado principalmente en grandes estratovolcanes, calderas y complejos de domos, con una composici&#243;n andes&#237;tica-riol&#237;tica, de tal manera que los volcanes monogen&#233;ticos de composici&#243;n bas&#225;ltica representan solo una peque&#241;a parte del volumen total. Por &#250;ltimo, el Sector extremo Oriental est&#225; conformado por magmas con firmas alcalinas principalmente, as&#237; como una marcada ausencia de estratovolcanes. Cabe destacar que estos sectores se distribuyen con direcciones preferenciales de E-O para la porci&#243;n Oriental y Central, as&#237; como, ONO-ESE para la porci&#243;n occidental (<xref rid="ID25551911-af1e-4651-806b-d315ddba3e42" ref-type="bibr" id="ID1ab111ac-ca22-4e81-9e60-b70f7f41ff27">Demant, 1978</xref>; <xref rid="IDeb05f1be-76fe-4c1d-acef-61aa42e0a60f" ref-type="bibr" id="IDa03f997c-4d10-4a1b-b426-4a214a122fe6">Pasquar&#233; et al., 1987</xref>, <xref rid="ref3" ref-type="bibr">Carmichael, 2002;</xref> <xref rid="ID88703c5f-b52b-4483-a5c9-5f0b455794b6" ref-type="bibr" id="ID791d6b6f-e5dc-4786-bb86-45f4a2a00708">G&#243;mez-Tuena et al., 2007</xref>; <xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="ID28a37ee9-6b2f-42ee-853a-5ae94458c9fc">Ferrari et al., 2012</xref>; <xref rid="ID2db4400f-ea36-420f-8d07-7ff9fc622ab3" ref-type="bibr" id="ID4080c120-573c-49c7-b0e8-902d0550473a">Siebe et al. 2014</xref>). El volc&#225;n Nevado de Toluca o Chicnauht&#233;catl (del n&#225;huatl <italic>Nueve Colinas; </italic><xref rid="ID36b9fbab-d896-4308-899d-f270da9f12af" ref-type="bibr">Garc&#237;a-Mart&#237;nez<italic>, </italic>2000</xref>) se encuentra dentro del sector Oriental de la FVTM (<xref rid="ID638c03dc-337d-4ac0-884e-85bf6fc07f33" ref-type="bibr" id="ID7b8ca60b-b899-45e0-be8a-357cae294d30">Ferrari et al. 2012</xref>), a 23 km en direcci&#243;n suroeste de la ciudad de Toluca. Es la cuarta cumbre m&#225;s alta de M&#233;xico con una altura de 4680 msnm, en el Pico del Fraile (<xref rid="ID5afb1219-f3d6-4656-88e4-2f57d1aced1b" ref-type="bibr" id="IDe8f64162-0b10-47b2-9274-bb8b433d4afb">Mac&#237;as, 2005</xref>). El volc&#225;n presenta dos lagos al interior del cr&#225;ter, nombrados de El Sol y de La Luna separados por un domo dac&#237;tico central conocido como &#8220;El Ombligo&#8221; (<xref rid="ID15300f1c-467d-458b-9883-5006291609b6" ref-type="bibr" id="IDc3a29620-fdc0-4c33-985f-57f529313e56">Armienta et al. 2000</xref>). Aunque su morfolog&#237;a es cambiante, las &#225;reas aproximadas son: 0.025 km<sup>2</sup> para La Luna y 0.175 km<sup>2</sup> para El Sol (<xref rid="ID3bc72c04-8cb0-49cf-a26b-86d3d6b336a7" ref-type="bibr" id="ID518eb9be-ada2-44d0-9970-3b6e521e2b5f">Caballero-Miranda, 1996</xref>). Estos lagos son ecosistemas &#250;nicos en M&#233;xico por su aislamiento geogr&#225;fico y su elevada altitud (4200 msnm).    Las condiciones geogr&#225;ficas y climatol&#243;gicas favorecen que estos lagos tengan caracter&#237;sticas f&#237;sico-qu&#237;micas poco comunes para la regi&#243;n tropical, siendo lagos de aguas fr&#237;as (9.4 &#176;C &#8211; 9.7 &#176;C), con baja precipitaci&#243;n de minerales y con valores de pH 7.2 &#177; 0.6 para El Sol y 6.1 &#177; 0.5 para La Luna (<xref rid="ID3bc72c04-8cb0-49cf-a26b-86d3d6b336a7" ref-type="bibr" id="IDa7a70fd1-d79e-4595-b805-27d94e2b1b8c">Caballero-Miranda, 1996</xref>; <xref rid="ref1" ref-type="bibr">Alcocer et al., 2004</xref>, <xref rid="ref4" ref-type="bibr">Dimas-Flores et al. 2008</xref>, <xref rid="ref5" ref-type="bibr">Szeroczynska et al. 2015</xref>). Por su parte, se han encontrado restos de cer&#225;mica, barras de copal, p&#250;as de maguey y otros objetos depositados como ofrendas por comunidades prehisp&#225;nicas&#160;en el lecho de la Laguna del Sol, indicando que en su momento dichos lagos fueron un importante centro ceremonial (<xref rid="IDcf36bdd2-0916-429a-b3ff-fb43175d9413" ref-type="bibr" id="ID11101b83-5b01-415c-88df-b1ca1444129b">Quezada&#8211;Ram&#237;rez, 1972</xref>; <xref rid="ID36b9fbab-d896-4308-899d-f270da9f12af" ref-type="bibr" id="IDe4d714dc-cc6a-4327-8e91-b991c4859d0c">Garc&#237;a-Mart&#237;nez, 2000</xref>). </p>
       <p>En cuanto al marco legal vigente, el &#225;rea que alberga al volc&#225;n Nevado de Toluca fue decretada en 1936 como Parque Nacional (PN), con cota de 3,000 msnm como l&#237;mite inferior y el objetivo fundamental de proteger la belleza esc&#233;nica y la importancia hidrol&#243;gica. En 1937 la poligonal del PN fue ampliada con el objetivo de constituir una reserva forestal nacional (<xref rid="IDead0d10d-0c9d-498f-a791-db2733aafefd" ref-type="bibr" id="ID6bdd060a-0ec4-4524-bc89-1699605f1b0c">CONANP, 2016</xref>). Sin embargo, debido a la existencia y proliferaci&#243;n de actividades productivas que afectaban parte del &#225;rea del PN y que exceden la intenci&#243;n de an&#225;lisis de este trabajo, la categor&#237;a de conservaci&#243;n se modific&#243; el 1&#176; de Octubre de 2013 para constituir un &#193;rea de Protecci&#243;n de Flora y Fauna (APFF) (<xref rid="ID07dab9a3-4fdc-4a4a-8712-d359259b16ec" ref-type="bibr" id="IDf91a0f35-3cc1-4659-a3b6-378740c46681">DOF, 2013</xref>; <xref rid="ID0f5a43fc-6ce2-4c68-992e-cd019208c302" ref-type="bibr" id="IDe299ef5c-0c30-4870-bab1-9cc6decb6b8b">SEMARNAT, 2016</xref>). Uno de los principales objetivos de dicho cambio es la conservaci&#243;n de sus condiciones biol&#243;gicas y su entorno ecosist&#233;mico a trav&#233;s de un aprovechamiento sostenible y una divisi&#243;n en pol&#237;gonos de acuerdo con:  cobertura forestal, tipos de vegetaci&#243;n, pendientes, localidades, actividades productivas, zonas arqueol&#243;gicas, entre otras. El APFF est&#225; conformada por un pol&#237;gono general, con una superficie total de 536 km<sup>2</sup>, dentro del cual se ubica una zona n&#250;cleo denominada &#8220;Cr&#225;ter&#8221;, con una superficie de 19.4 km<sup>2</sup> y una zona de amortiguamiento con una superficie de 516.5 km<sup>2</sup> (<xref rid="IDead0d10d-0c9d-498f-a791-db2733aafefd" ref-type="bibr" id="ID8741a2a6-72d6-467a-92ee-29085ec507a6">CONANP, 2016</xref>). </p>
       <p>Una vez se&#241;alado lo anterior, es importante mencionar que adem&#225;s de ser parte del patrimonio natural (geol&#243;gico, biol&#243;gico y limnol&#243;gico), arqueol&#243;gico y cosmog&#243;nico de nuestro pa&#237;s, el APFF es un sistema socioambiental de f&#225;cil acceso que promueve el enriquecimiento cultural de la sociedad con base en su entorno. </p>
-      <p>En la actualidad, el perfil sociocultural de los visitantes que llegan a la zona es por dem&#225;s amplio, sin embargo, tienen como punto de convergencia, una alta expectativa sobre las posibilidades recreativas y ecotur&#237;sticas que esperan encontrar en la zona (<xref rid="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423" ref-type="bibr" id="IDe95a5870-90e7-4371-aecb-491895d2b520">Osorio et al. 2011</xref>; <xref rid="ID1bcea5d7-9ea5-436b-a434-62157b7cbd50" ref-type="bibr" id="ID69af6125-076d-4370-ae4f-2c04880ed6cd">Osorio et al. 2017</xref>), teniendo como principales prop&#243;sitos, el ascenso a las cumbres (por encima de los 4000 msnm) y la visita a los lagos que se encuentran dentro del cr&#225;ter (El Sol y La Luna). Lo anterior genera una densificaci&#243;n sobre la ruta principal de ascenso, que es un camino de terracer&#237;a que inicia en el poblado de Ra&#237;ces sobre la carretera federal No. 10 La Puerta &#8211; Sultepec, Edo. De Mex. y asciende hasta el cr&#225;ter del volc&#225;n, lo cual ocasiona un deterioro de las &#225;reas por donde pasa dicho camino. Aunado a esto, de acuerdo con las encuestas realizadas y reportadas por Osorio et al. (<xref rid="ref7" ref-type="bibr">2006</xref>,<xref rid="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423" ref-type="bibr">2011</xref>, <xref rid="ref6" ref-type="bibr">2016</xref> y <xref rid="ID1bcea5d7-9ea5-436b-a434-62157b7cbd50" ref-type="bibr">2017</xref>), las expectativas del visitante no siempre son cubiertas debido a la falta de orientaci&#243;n e informaci&#243;n <italic>in situ </italic>sobre el gran patrimonio que alberga el &#225;rea o debido a su propia imposibilidad f&#237;sica para realizar ciertas actividades por no contar con la preparaci&#243;n o equipo adecuado <italic>a priori</italic>. Adicionalmente, destacan <xref rid="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423" ref-type="bibr" id="ID8a4075c1-8bda-4c9a-a305-83a1bff08e00">Osorio y colaboradores (2011)</xref>, el turismo predominante manifiesta h&#225;bitos tradicionales de consumo recreativo (caminata, ciclismo, alpinismo, campismo, cabalgata, comida campestre, fotograf&#237;a, investigaci&#243;n, otro y paseo en lancha; <xref rid="ID1bcea5d7-9ea5-436b-a434-62157b7cbd50" ref-type="bibr" id="IDd0f67bbd-79b5-451e-a8dc-5362cc25bc59">Osorio et al., 2017</xref>) sobre un paisaje natural, m&#225;s que una aut&#233;ntica conciencia y compromiso por minimizar el deterioro ambiental que dicha afluencia causa. El visitante hace prevalecer los prop&#243;sitos recreativos supeditando los conservacionistas por lo que el turismo de naturaleza puede estar muy distante de propiciar un cambio de conducta con respecto a la relaci&#243;n hombre-recursos naturales (<xref rid="IDc652bb68-6944-4d97-aa1c-7dec2cba125c" ref-type="bibr" id="ID283ae105-6b96-4939-bdb7-ba44d4e5d4fe">e.g. Valle Rodr&#237;guez, 2006</xref>; <xref rid="ID41ac318a-8efd-40cd-b333-2040eedc9975" ref-type="bibr" id="ID96524224-2c25-459c-8d29-005d0b3fabf6">Caravilla et al. 2007</xref>; <xref rid="IDe8f1c1f4-4df5-48cd-972f-70fd7e3dc9ba" ref-type="bibr" id="ID82b3dc46-2d0e-48a9-9cf2-60dc348606c0">Castro Cuellar et al. 2009</xref>; <xref rid="IDebb7fbc5-0a5d-46fd-b649-74b695a68a17" ref-type="bibr" id="ID32425daf-ec0d-4f79-97e4-2d536c904be5">Canet et al. 2017</xref>).</p>
-      <p>Es evidente que debido al f&#225;cil acceso y la falta de informaci&#243;n visible en la zona (prevenci&#243;n, salud, rutas, patrimonio), se promueve el deterioro del APFF, adem&#225;s de generarse situaciones de riesgo para los visitantes, que desconocen c&#243;mo conducirse ante eventualidades como el extremo fr&#237;o de invierno. De acuerdo con el Servicio Meteorol&#243;gico Nacional (2010) para la estaci&#243;n <italic>Nevado de Toluca</italic>, las normales climatol&#243;gicas entre 1951-2010 indican que las medias normales se encuentran en el rango de 2.3&#176;C - 4.3 &#176;C durante los meses de Octubre &#8211; Marzo; con un m&#237;nimo hist&#243;rico registrado en 2004  de -10&#176;C, los peque&#241;os deslizamientos de nieve, las intensas tormentas, el mal de monta&#241;a, el esfuerzo f&#237;sico que se requiere en determinados senderos, solo por mencionar algunas. Los principales accidentes en las monta&#241;as mexicanas son atribuibles a la subestimaci&#243;n de los riesgos y a la negligencia (<xref rid="IDc4311dcb-4073-4da2-8592-6306017a6f11" ref-type="bibr" id="ID2b891956-5bda-4396-86f7-52dab34d7f28">Neyra-Ja&#250;regui, 2012</xref>). </p>
+      <p>En la actualidad, el perfil sociocultural de los visitantes que llegan a la zona es por dem&#225;s amplio, sin embargo, tienen como punto de convergencia, una alta expectativa sobre las posibilidades recreativas y ecotur&#237;sticas que esperan encontrar en la zona (<xref rid="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423" ref-type="bibr" id="IDe95a5870-90e7-4371-aecb-491895d2b520">Osorio et al. 2011</xref>; <xref rid="ID1bcea5d7-9ea5-436b-a434-62157b7cbd50" ref-type="bibr" id="ID69af6125-076d-4370-ae4f-2c04880ed6cd">Osorio et al. 2017</xref>), teniendo como principales prop&#243;sitos, el ascenso a las cumbres (por encima de los 4000 msnm) y la visita a los lagos que se encuentran dentro del cr&#225;ter (El Sol y La Luna). Lo anterior genera una densificaci&#243;n sobre la ruta principal de ascenso, que es un camino de terracer&#237;a que inicia en el poblado de Ra&#237;ces sobre la carretera federal No. 10 La Puerta &#8211; Sultepec, Edo. De Mex. y asciende hasta el cr&#225;ter del volc&#225;n, lo cual ocasiona un deterioro de las &#225;reas por donde pasa dicho camino. Aunado a esto, de acuerdo con las encuestas realizadas y reportadas por <xref rid="ref7" ref-type="bibr">Osorio et al. (2006</xref>,<xref rid="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423" ref-type="bibr">2011</xref>, <xref rid="ref6" ref-type="bibr">2016</xref> y <xref rid="ID1bcea5d7-9ea5-436b-a434-62157b7cbd50" ref-type="bibr">2017</xref>), las expectativas del visitante no siempre son cubiertas debido a la falta de orientaci&#243;n e informaci&#243;n <italic>in situ </italic>sobre el gran patrimonio que alberga el &#225;rea o debido a su propia imposibilidad f&#237;sica para realizar ciertas actividades por no contar con la preparaci&#243;n o equipo adecuado <italic>a priori</italic>. Adicionalmente, destacan <xref rid="IDaf87179c-bc20-40f5-8ac9-8cb6d074a423" ref-type="bibr" id="ID8a4075c1-8bda-4c9a-a305-83a1bff08e00">Osorio y colaboradores (2011)</xref>, el turismo predominante manifiesta h&#225;bitos tradicionales de consumo recreativo (caminata, ciclismo, alpinismo, campismo, cabalgata, comida campestre, fotograf&#237;a, investigaci&#243;n, otro y paseo en lancha; <xref rid="ID1bcea5d7-9ea5-436b-a434-62157b7cbd50" ref-type="bibr" id="IDd0f67bbd-79b5-451e-a8dc-5362cc25bc59">Osorio et al., 2017</xref>) sobre un paisaje natural, m&#225;s que una aut&#233;ntica conciencia y compromiso por minimizar el deterioro ambiental que dicha afluencia causa. El visitante hace prevalecer los prop&#243;sitos recreativos supeditando los conservacionistas por lo que el turismo de naturaleza puede estar muy distante de propiciar un cambio de conducta con respecto a la relaci&#243;n hombre-recursos naturales (<xref rid="IDc652bb68-6944-4d97-aa1c-7dec2cba125c" ref-type="bibr" id="ID283ae105-6b96-4939-bdb7-ba44d4e5d4fe">e.g. Valle Rodr&#237;guez, 2006</xref>; <xref rid="ID41ac318a-8efd-40cd-b333-2040eedc9975" ref-type="bibr" id="ID96524224-2c25-459c-8d29-005d0b3fabf6">Caravilla et al. 2007</xref>; <xref rid="IDe8f1c1f4-4df5-48cd-972f-70fd7e3dc9ba" ref-type="bibr" id="ID82b3dc46-2d0e-48a9-9cf2-60dc348606c0">Castro Cuellar et al. 2009</xref>; <xref rid="IDebb7fbc5-0a5d-46fd-b649-74b695a68a17" ref-type="bibr" id="ID32425daf-ec0d-4f79-97e4-2d536c904be5">Canet et al. 2017</xref>).</p>
+      <p>Es evidente que debido al f&#225;cil acceso y la falta de informaci&#243;n visible en la zona (prevenci&#243;n, salud, rutas, patrimonio), se promueve el deterioro del APFF, adem&#225;s de generarse situaciones de riesgo para los visitantes, que desconocen c&#243;mo conducirse ante eventualidades como el extremo fr&#237;o de invierno, (de acuerdo con el Servicio Meteorol&#243;gico Nacional (2010) para la estaci&#243;n <italic>Nevado de Toluca</italic>, las normales climatol&#243;gicas entre 1951-2010 indican que las medias normales se encuentran en el rango de 2.3&#176;C - 4.3 &#176;C durante los meses de Octubre &#8211; Marzo; con un m&#237;nimo hist&#243;rico registrado en 2004  de -10&#176;C), los peque&#241;os deslizamientos de nieve, las intensas tormentas, el mal de monta&#241;a, el esfuerzo f&#237;sico que se requiere en determinados senderos, solo por mencionar algunas. Los principales accidentes en las monta&#241;as mexicanas son atribuibles a la subestimaci&#243;n de los riesgos y a la negligencia (<xref rid="IDc4311dcb-4073-4da2-8592-6306017a6f11" ref-type="bibr" id="ID2b891956-5bda-4396-86f7-52dab34d7f28">Neyra-Ja&#250;regui, 2012</xref>). </p>
       <p>La tesis de este trabajo es que la difusi&#243;n de la informaci&#243;n con respecto al entorno natural y la interacci&#243;n con el mismo aumenta la capacidad de decisi&#243;n y resiliencia ante dichas eventualidades. Adem&#225;s, se fomenta la conservaci&#243;n del medio ambiente debido a la sensibilizaci&#243;n y al entendimiento de los procesos del entorno por parte de la poblaci&#243;n. Sin embargo, el enfoque de este trabajo, va m&#225;s all&#225; de comunicar lo m&#237;nimo necesario para tales fines, de tal manera que, la informaci&#243;n presentada en este proyecto es amplia y diversa con un car&#225;cter transdiciplinario, en un lenguaje de f&#225;cil aprehensi&#243;n y con rigor cient&#237;fico, permitiendo generar conciencia, as&#237; como un empoderamiento de la poblaci&#243;n al ofrecer una experiencia cultural enriquecida, desde una perspectiva hist&#243;rico socioambiental basada en la importancia del patrimonio del APFF Nevado de Toluca. Es importante se&#241;alar que este enfoque antagoniza los escasos objetivos, muchas veces de alto riesgo, que los visitantes se plantean como prioritarios al llegar al &#225;rea; es decir, se puede desviar su atenci&#243;n hacia otros elementos del paisaje y motivar nuevos prop&#243;sitos, as&#237; como distintas actividades a realizar en el lugar.</p>
     </sec>
     <sec>
@@ -250,7 +250,7 @@
         <title>2.1 Salud y prevenci&#243;n</title>
         <p>El Nevado de Toluca es considerado, desde el punto de vista m&#233;dico y la clasificaci&#243;n de <xref rid="ID6eccbd3b-4ec9-4cd2-b00f-71ef0c78a451" ref-type="bibr" id="IDd7d911ce-c629-4d4e-beea-b0aedd2a07e0">Mieske y colaboradores (2010)</xref> y <xref rid="ID68089d84-5216-4d0a-badd-d8126c71f418" ref-type="bibr" id="ID58f1b03d-a58b-471a-a307-89d3c32fbaf4">Roach y colaboradores (2016)</xref>, como: <italic>Alta</italic> monta&#241;a cuyos rangos van de 2500 a 3500 msnm y <italic>Muy Alta</italic> con rangos de 3500 a 5500 msnm, debido a que presenta alturas en la cual es posible desarrollar s&#237;ntomas de mala salud por la falta de ox&#237;geno.</p>
         <p>A esta altura existe una disminuci&#243;n de la presi&#243;n del aire y por lo tanto del ox&#237;geno que llega a los pulmones; el cuerpo sufre cambios adaptativos importantes como incremento de la velocidad del pulso, de las respiraciones, y de la presi&#243;n arterial, as&#237; como cambios de la conducta. Cuando estos cambios son muy intensos y no se pueden regular, es decir, no existe una aclimataci&#243;n del cuerpo, las personas pueden presentar mal de monta&#241;a agudo (dolor de cabeza, n&#225;usea, v&#243;mito, fatiga, debilidad, mareo y/o trastornos del sue&#241;o) y sus complicaciones: el edema pulmonar y el edema cerebral de altura (<xref rid="ref10" ref-type="bibr" id="ID50bdfcc5-fbc0-49ef-ac00-698bb7c20ed4">Ville-Benavides, 2017</xref>; <xref rid="IDd9a9673d-67f1-4c72-b973-1f40e039a643" ref-type="bibr" id="ID1008d66e-26ee-4a4d-aa5c-5452985419f5">B&#228;rtsh et al. 2013</xref>). </p>
-        <p>En un estudio reciente, <xref rid="ref10" ref-type="bibr" id="ID4ddabad2-b250-4350-84bb-0bb8d016732c">Ville&#8211;Benavides (2017)</xref> reporta que al analizar a 90 visitantes del Nevado de Toluca, 27.6% present&#243; mal de monta&#241;a agudo, por lo que es un riesgo de salud latente en el &#225;rea.  Las mejores maniobras para prevenir el mal de monta&#241;a agudo incluyen una tasa de ascenso lenta que permita la aclimataci&#243;n del individuo, de no m&#225;s de 300 m al d&#237;a; descender pronto, mantener una hidrataci&#243;n adecuada, mantenerse abrigado y evitar el sobreesfuerzo en la altitud, as&#237; como consultar a un m&#233;dico con experiencia en medicina de altura. Una vez realizado el diagn&#243;stico se debe considerar descender o descansar a la misma altitud y se debe evitar ascender mientras haya s&#237;ntomas activos. En casos leves se recomienda la ingesta de l&#237;quidos, abrigarse, descansar durante un d&#237;a y administrar medicamentos para el control de los s&#237;ntomas, tales como anti inflamatorios no esteroideos o antiem&#233;ticos.  Si los s&#237;ntomas son persistentes o aumentan en su intensidad se debe descender entre 500 y 1000 m, descansar y consultar con un m&#233;dico o param&#233;dico con experiencia en enfermedades de altura <xref rid="ref10" ref-type="bibr" id="ID057ef146-b99f-4a06-b37b-a58ee80f8ca4">(Ville&#8211;Benavides, 2017</xref>; <xref rid="IDb867c8b3-19ca-4227-a882-c5442463a1dd" ref-type="bibr" id="IDca3d4b80-ce3d-49fa-8c55-22cfe98ca39d">Luks et al. 2014</xref>). </p>
+        <p>En un estudio reciente, <xref rid="ref10" ref-type="bibr" id="ID4ddabad2-b250-4350-84bb-0bb8d016732c">Ville&#8211;Benavides (2017)</xref> reporta que al analizar a 90 visitantes del Nevado de Toluca, 27.6% present&#243; mal de monta&#241;a agudo, por lo que es un riesgo de salud latente en el &#225;rea.  Las mejores maniobras para prevenir el mal de monta&#241;a agudo incluyen una tasa de ascenso lenta que permita la aclimataci&#243;n del individuo, de no m&#225;s de 300 m al d&#237;a; descender pronto, mantener una hidrataci&#243;n adecuada, mantenerse abrigado y evitar el sobreesfuerzo en la altitud, as&#237; como consultar a un m&#233;dico con experiencia en medicina de altura. Una vez realizado el diagn&#243;stico se debe considerar descender o descansar a la misma altitud y se debe evitar ascender mientras haya s&#237;ntomas activos. En casos leves se recomienda la ingesta de l&#237;quidos, abrigarse, descansar durante un d&#237;a y administrar medicamentos para el control de los s&#237;ntomas, tales como anti inflamatorios no esteroideos o antiem&#233;ticos.  Si los s&#237;ntomas son persistentes o aumentan en su intensidad se debe descender entre 500 y 1000 m, descansar y consultar con un m&#233;dico o param&#233;dico con experiencia en enfermedades de altura <xref rid="ref10" ref-type="bibr" id="ID057ef146-b99f-4a06-b37b-a58ee80f8ca4">(Ville&#8211;Benavides, 2017</xref>; <xref rid="IDb867c8b3-19ca-4227-a882-c5442463a1dd" ref-type="bibr" id="IDca3d4b80-ce3d-49fa-8c55-22cfe98ca39d">Johnson and Luks, 2016</xref>). </p>
         <p> En el trabajo cartogr&#225;fico presentado se dan recomendaciones generales en cada sendero de monta&#241;a con el fin de orientar al posible visitante sobre los requerimientos m&#237;nimos dentro del APFF. </p>
       </sec>
       <sec>
@@ -290,7 +290,7 @@
     </sec>
     <sec>
       <title>Agradecimientos</title>
-      <p>A los revisores Dra. Lucia Capra Pedol, Dr. Carles Canet, y al editor Dr. Luca Ferrari, Dra. Penélope López Quiroz y todo el equipo editorial de Terra Digitalis.  A las facilidades otorgadas por la Lic. Sof&#237;a Manzur y su equipo de CEPANAF, al Biol. Luis Miguel Mandujano y su equipo de CONANP. A los colegas Maribel Osorio, Denisse Morales Perea, Juan Carlos Gavilanes, Marie N&#246;elle Guilbaud, Salvador Acosta, Fernando Alberto L&#243;pez Ortiz, Mauricio Alejandro Amaya y H&#233;ctor Mart&#237;nez Campos. A los ciclistas y monta&#241;istas Miguel Venegas Orihuela, Iv&#225;n Garc&#237;a Orozco, Jes&#250;s Roberto Aguilar Ordo&#241;ez, Jos&#233; Silva Sandoval de CEMAC- Toluca y a Daniel Carrillo Cort&#233;s. A X por facilitarnos el video del vuelo con dron</p>
+      <p>A los revisores Dra. Lucia Capra Pedol, Dr. Carles Canet, y al editor Dr. Luca Ferrari, Dra. Penélope López Quiroz y todo el equipo editorial de Terra Digitalis.  A las facilidades otorgadas por la Lic. Sof&#237;a Manzur y su equipo de CEPANAF, al Biol. Luis Miguel Mandujano y su equipo de CONANP. A los colegas Maribel Osorio, Denisse Morales Perea, Juan Carlos Gavilanes, Marie N&#246;elle Guilbaud, Salvador Acosta, Fernando Alberto L&#243;pez Ortiz, Mauricio Alejandro Amaya y H&#233;ctor Mart&#237;nez Campos. A los ciclistas y monta&#241;istas Miguel Venegas Orihuela, Iv&#225;n Garc&#237;a Orozco, Jes&#250;s Roberto Aguilar Ordo&#241;ez, Jos&#233; Silva Sandoval de CEMAC- Toluca y a Daniel Carrillo Cort&#233;s. Al autor del video de dron <xref rid="ref11" ref-type="bibr">(Jelly Beans Studio, (2017))</xref>.</p>
     </sec>
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
@@ -959,7 +959,7 @@
           <article-title><italic>The structure of the zooplancton assemblages from two neighboring troical high mountain lakes</italic></article-title>
           <source>Journal of Freshwater Ecology</source>
           <date>
-            <year>2007</year>
+            <year>2008</year>
           </date>
           <volume>23</volume>
           <issue>None</issue>
@@ -1252,6 +1252,21 @@
         </element-citation>
       </ref>
       <!-- Instituto Nacional de Estadística y Geografía (INEGI), 2015.  Conjunto de datos vectoriales de la carta Topográfica Volcán Nevado de Toluca,  a escala 1:50 000, serie III, (en línea), INEGI,  Toluca, México, información cartográfica y base de datos, http://www.beta.inegi.org.mx/app/biblioteca/ficha.html?upc=702825202620, acceso libre, consulta: 1 de agosto de 2016. -->
+      <ref id="ref11">
+        <element-citation publication-type="journal">
+          <person-group person-group-type="author">
+            <name>
+              <surname>Jelly Beans Studio</surname>
+              <given-names></given-names>
+            </name>
+          </person-group>
+          <article-title><italic>El Nevado de Toluca 4K. Publicado el 14 de marzo del 2017 bajo licencia Youtube standar, Consultado el 15 de abril del 2018, Video original:  <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://www.youtube.com/watch?v=jzMAkLJTPA4&amp;t=44s" ext-link-type="uri" xlink:type="simple">https://www.youtube.com/watch?v=jzMAkLJTPA4&amp;t=44s</ext-link></italic></article-title>
+          <date>
+            <year>2017</year>
+          </date>
+        </element-citation>
+      </ref>
+      <!-- Jelly Beans Studio, 2017. El Nevado de Toluca 4K. Publicado el 14 de marzo del 2017 bajo licencia Youtube standar, Consultado el 15 de abril del 2018, Video original: https://www.youtube.com/watch?v=jzMAkLJTPA4&t=44s. -->
       <ref id="IDb867c8b3-19ca-4227-a882-c5442463a1dd">
         <element-citation publication-type="journal">
           <person-group person-group-type="author">
