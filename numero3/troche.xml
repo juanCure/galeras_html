@@ -20,7 +20,7 @@
                 </subj-group>
             </article-categories>
             <title-group>
-                <article-title>Paisajes Físico-Geográficos de humedales costeros continentales en dos áreas naturales protegidas del Golfo de  México. / Physical-geographic landscapes of two protected natural areas of coastal wetlands of the Gulf of Mexico.</article-title>
+                <article-title>Paisajes físico-geográficos de humedales costeros continentales en dos áreas naturales protegidas del Golfo de  México. / Physical-geographic landscapes of two protected natural areas of coastal wetlands of the Gulf of Mexico.</article-title>
             </title-group>
             <contrib-group>
                 <contrib contrib-type="author">
@@ -107,12 +107,12 @@
                         <italic>Parajes complejos </italic>y
                         <italic>Parajes simples</italic>. En el territorio existe un predominio de los geocomplejos de planicies fluvio-bi&#243;genas. Los resultados son importantes para estudios de ordenamiento territorial y evaluaciones de servicios ecosist&#233;micos.</p>
                     <p>
-                        <bold>Palabras clave: </bold> Paisaje, ecosistemas costeros, humedales, Pantanos de Centla, Laguna de T&#233;rminos, M&#233;xico</p>
+                        <bold>Palabras clave: </bold> Paisaje; Ecosistemas costeros; Humedales; Pantanos de Centla; Laguna de T&#233;rminos; M&#233;xico</p>
                 </sec>
                 <sec>
                     <title>Abstract</title>
-                    <p>Due to their natural productivity, the coastal wetlands of &#8220;Pantanos de Centla&#8221; and &#8220;Laguna de T&#233;rminos&#8221;, in the Gulf of Mexico, form part of the ecological complex of the most important coastal plain of Mesoamerica. The objective of this work is to classify and map, at 1: 250 000 scale, the natural landscapes of these wetlands applying analysis of the natural components of the territory. The approach is based on an approximation of the complex physical geography that allows a typological arrangement and hierarchical classification of the territory. The resulting map presents the spatial distribution of the physical-geographic landscapes of the terrestrial parts of the &#8220;Pantanos de Centla Biosphere Reserve&#8221;, the &#8220;Laguna de T&#233;rminos Flora and Fauna Protection Area&#8221; and the priority site of the National Commission for the Knowledge and Use of Biodiversity (CONABIO) &#8220;Sabancuy-Chen Kan&#8221;. The lack of precise cartography of the natural components of the territory conditioned an extensive field work. In the area, geo-complexes were defined at the level of landscape, land area and sub-land area. As a result, we found, that in the territory there is a predominance of the geo-complexes of fluvio-biogenic plains. The results are important for land use studies and ecosystem service assessments.</p>
-                    <p><bold>Keywords: </bold> landscape, coastal ecosystems, wetlands, Pantanos de Centla, Laguna de T&#233;rminos, Mexico</p>
+                    <p>Due to their natural productivity, the coastal wetlands of &#8220;Pantanos de Centla&#8221; and &#8220;Laguna de T&#233;rminos&#8221;, in the Gulf of Mexico, form part of the ecological complex of the most important coastal plain of Mesoamerica. The objective of this work is to classify and map, at 1: 250 000 scale, the natural landscapes of these wetlands applying analysis of the natural components of the territory. The approach is based on an approximation of the complex physical geography that allows a typological arrangement and hierarchical classification of the territory. The resulting map presents the spatial distribution of the physical-geographic landscapes of the terrestrial parts of the &#8220;Pantanos de Centla Biosphere Reserve&#8221;, &#8220;Laguna de T&#233;rminos Flora and Fauna Protection Area&#8221; and the priority site of the National Commission for the Knowledge and Use of Biodiversity (CONABIO) &#8220;Sabancuy-Chen Kan&#8221;. The lack of precise cartography of the natural components of the territory conditioned an extensive field work. In the area, geo-complexes were defined at the level of landscape, land area and sub-land area. As a result, we found, that in the territory there is a predominance of the geo-complexes of fluvio-biogenic plains. The results are important for land use studies and ecosystem service assessments.</p>
+                    <p><bold>Keywords: </bold> Landscape; Coastal ecosystems; Wetlands; Pantanos de Centla; Laguna de T&#233;rminos; Mexico</p>
                 </sec>
             </abstract>
         </article-meta>
@@ -496,28 +496,6 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
-            <ref id="IDb53b42b4-4901-4f8f-aef0-ba3f878092c9">
-                <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
-                    <person-group person-group-type="author">
-                        <name>
-                            <surname>Instituto Nacional de Estad&#237;stica, Geograf&#237;a e Informaci&#243;n (INEGI)</surname>
-                            <given-names></given-names>
-                        </name>
-                    </person-group>
-                    <article-title>
-                        <italic>
-                            Conjunto de Datos Vectorial Edafol&#243;gico, cartas E1503, E1505, E1506, E1508 a Escala 1:250000, Serie II, Aguascalientes, M&#233;xico, (en l&#237;nea), <ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://www.inegi.org.mx/geo/contenidos/recnat/edafologia/Default.aspx" ext-link-type="uri" xlink:type="simple">http://www.inegi.org.mx/geo/contenidos/recnat/edafologia/Default.aspx</ext-link>, consulta: 14 de julio, 2016.
-                        </italic>
-                    </article-title>
-                    <date>
-                        <year>2013</year>
-                    </date>
-                    <volume></volume>
-                    <issue></issue>
-                    <fpage></fpage>
-                    <lpage></lpage>
-                </element-citation>
-            </ref>
             <ref id="ID862187e3-aced-4155-98a9-e6ac021b2599">
                 <element-citation publication-type="journal" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://coloradogeologicalsurvey.org/geologic-mapping">
                     <person-group person-group-type="author">
@@ -716,6 +694,70 @@
                     <lpage></lpage>
                 </element-citation>
             </ref>
+            <ref id="ref05">
+                <element-citation publication-type="book">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Priego-Santander</surname>
+                            <given-names>A.G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bocco-Verdinelli</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>
+                        <italic>
+                            Paisajes Naturales. En Moncada-Moya, O. y López-López, A. (Coordinadores): Geografía de México. Una reflexión espacial contemporánea
+                        </italic>
+                    </article-title>
+                    <date>
+                      <year>375 p., 2016</year>
+                    </date>
+                    <publisher-loc>México</publisher-loc>
+                    <publisher-name>Tomo I. Universidad Nacional Autónoma de México</publisher-name>
+                </element-citation>
+                </element-citation>
+            </ref>
+            <ref id="ref04">
+                <element-citation publication-type="journal">
+                    <person-group person-group-type="author">
+                        <name>
+                            <surname>Priego-Santander</surname>
+                            <given-names>A.G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Campos</surname>
+                            <given-names>M.</given-names>
+                        </name>
+                        <name>
+                            <surname>Bocco</surname>
+                            <given-names>G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Ramirez-Sanchez</surname>
+                            <given-names>L.G.</given-names>
+                        </name>
+                        <name>
+                            <surname>Geissert-Kientz</surname>
+                            <given-names>D.</given-names>
+                        </name>
+                    </person-group>
+                    <article-title>
+                        <italic>
+                            Relationship between landscape heterogeneity and plant species richness in the Mexican pacific cost
+                        </italic>
+                    </article-title>
+                    <source>Applied Geography</source>
+                    <date>
+                        <year>2013</year>
+                    </date>
+                    <volume>40</volume>
+                    <issue></issue>
+                    <fpage>171</fpage>
+                    <lpage>178</lpage>
+                </element-citation>
+            </ref>
             <ref id="ID97c8d21c-e8ee-47e6-87a6-5665467e642f">
                 <element-citation publication-type="journal">
                     <person-group person-group-type="author">
@@ -753,70 +795,6 @@
                     <issue></issue>
                     <fpage>31</fpage>
                     <lpage>52</lpage>
-                </element-citation>
-            </ref>
-            <ref id="ref04">
-                <element-citation publication-type="journal">
-                    <person-group person-group-type="author">
-                        <name>
-                            <surname>Priego-Santander</surname>
-                            <given-names>A.G.</given-names>
-                        </name>
-                        <name>
-                            <surname>Campos</surname>
-                            <given-names>M.</given-names>
-                        </name>
-                        <name>
-                            <surname>Bocco</surname>
-                            <given-names>G.</given-names>
-                        </name>
-                        <name>
-                            <surname>Ramirez-Sanchez</surname>
-                            <given-names>L.G.</given-names>
-                        </name>
-                        <name>
-                            <surname>Geissert-Kientz</surname>
-                            <given-names>D.</given-names>
-                        </name>
-                    </person-group>
-                    <article-title>
-                        <italic>
-                            Relationship between landscape heterogeneit and plant species richness in the Mexican Pacific ...
-                        </italic>
-                    </article-title>
-                    <date>
-                        <year>2013</year>
-                    </date>
-                    <volume></volume>
-                    <issue></issue>
-                    <fpage></fpage>
-                    <lpage></lpage>
-                </element-citation>
-            </ref>
-            <ref id="ref05">
-                <element-citation publication-type="journal">
-                    <person-group person-group-type="author">
-                        <name>
-                            <surname>Priego-Santander</surname>
-                            <given-names>A.G.</given-names>
-                        </name>
-                        <name>
-                            <surname>Bocco-Verdinelli</surname>
-                            <given-names>G.</given-names>
-                        </name>
-                    </person-group>
-                    <article-title>
-                        <italic>
-                            Una reflexión espacial contemporanea ...
-                        </italic>
-                    </article-title>
-                    <date>
-                        <year>2016</year>
-                    </date>
-                    <volume></volume>
-                    <issue></issue>
-                    <fpage></fpage>
-                    <lpage></lpage>
                 </element-citation>
             </ref>
             <ref id="ID76f79b4f-0fe3-4891-b844-65817db0645a">
