@@ -246,7 +246,7 @@
             <title>Agradecimientos </title>
             <p>Este estudio fue financiado por la Comisi&#243;n Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), as&#237; como el posgrado de Geograf&#237;a de la Universidad Nacional Aut&#243;noma de M&#233;xico (UNAM). Queremos agradecer en particular al Dr. Jos&#233; Sarukh&#225;n por el apoyo incondicional del fortalecimiento de capacidades institucionales. Tambi&#233;n agradecemos a la sub-coordinaci&#243;n de Percepci&#243;n Remota de la CONABIO por el uso de sus instalaciones. A la Comisi&#243;n Nacional de &#193;reas Naturales Protegidas (CONANP) por el apoyo en campo y log&#237;stico brindado en la Reserva de la Bi&#243;sfera Pantanos de Centla y Reserva de Flora y Fauna Laguna de T&#233;rminos.</p>
             <fig id="fig1" position="float" orientation="portrait">
-                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://132.248.26.130/TROCHE_mapa_estatico_lamina1.jpg" position="float" orientation="portrait" xlink:type="simple">
+                <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero3/troche/troche_big.jpg" position="float" orientation="portrait" xlink:type="simple">
                     <label>Lámina 1 / Plate 1</label>
                     <caption>
                         <p>
@@ -716,7 +716,6 @@
                     </date>
                     <publisher-loc>México</publisher-loc>
                     <publisher-name>Tomo I. Universidad Nacional Autónoma de México</publisher-name>
-                </element-citation>
                 </element-citation>
             </ref>
             <ref id="ref04">
