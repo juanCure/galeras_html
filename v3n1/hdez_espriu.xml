@@ -1,0 +1,1276 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.1"
+         article-type="research-article"
+         xml:lang="en"
+         specific-use="sps-1.8">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+         <journal-title-group>
+            <journal-title>Terra Digitalis</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">TD</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2594-0694</issn>
+         <publisher>
+            <publisher-name>Terra Digitalis</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-id pub-id-type="other">00001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Articles</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Water use spatio-temporal mapping linked to hydraulic fracturing across the Eagle Ford Play, Texas (USA) / Mapa de la variación espacio-temporal del uso del agua asociado al fracturamiento hidráulico en el Play Eagle Ford (EUA)</article-title>
+            <trans-title-group xml:lang="es">
+               <trans-title>Mapa de la variación espacio-temporal del uso del agua asociado al fracturamiento hidráulico en el Play Eagle Ford (EUA)</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Hernández-Espriú</surname>
+                  <given-names>Antonio</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+               <xref ref-type="corresp" rid="c1">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Arciniega-Esparza</surname>
+                  <given-names>Saúl</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Macías-Medrano</surname>
+                  <given-names>Sergio</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Hydrogeology Group, Faculty of Engineering, Universidad Nacional Autónoma de México, Mexico City, 04510, Mexico.</institution>
+            <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+            <institution content-type="orgdiv2">Hydrogeology Group</institution>
+            <institution content-type="orgdiv1">Faculty of Engineering</institution>
+            <institution content-type="orgname">Universidad Nacional Autónoma de México</institution>
+            <addr-line>
+               <city>Mexico City</city>
+               <postal-code>04510</postal-code>
+            </addr-line>
+            <!-- <country country="MX">Mexico</country> -->
+         </aff>
+         <aff id="aff2">
+            <label>2</label>
+            <institution content-type="original">Institute of Engineering, Universidad Nacional Autónoma de México, Mexico City, 04510, Mexico.</institution>
+            <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+            <institution content-type="orgdiv1">Institute of Engineering</institution>
+            <institution content-type="orgname">Universidad Nacional Autónoma de México</institution>
+            <addr-line>
+               <city>Mexico City</city>
+               <postal-code>04510</postal-code>
+            </addr-line>
+            <!-- <country country="MX">Mexico</country> -->
+         </aff>
+         <aff id="aff3">
+            <label>3</label>
+            <institution content-type="original">Programa de Maestría y Doctorado en Ingeniería, Universidad Nacional Autónoma de México, Mexico City, 04510, Mexico.</institution>
+            <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+            <institution content-type="orgdiv1">Programa de Maestría y Doctorado en Ingeniería</institution>
+            <institution content-type="orgname">Universidad Nacional Autónoma de México</institution>
+            <addr-line>
+               <city>Mexico City</city>
+               <postal-code>04510</postal-code>
+            </addr-line>
+            <!-- <country country="MX">Mexico</country> -->
+         </aff>
+         <author-notes>
+            <corresp id="c1">Corresponding author: Tel.: +52(55)56223297, ext. 6, E-mails: <email>ahespriu@unam.mx</email>; ahespriu@gmail.com. División de Ingeniería en Ciencias de la Tierra, Facultad de Ingeniería, UNAM, Campus C.U, Ciudad de México</corresp>
+         </author-notes>
+         <pub-date pub-type="epub">
+            <day>30</day>
+            <month>04</month>
+            <!-- <season>Jan-Apr</season> -->
+            <year>2019</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue>1</issue>
+         <fpage>00</fpage>
+         <history>
+            <date date-type="received">
+               <day>12</day>
+               <month>12</month>
+               <year>2018</year>
+            </date>
+            <date date-type="accepted">
+               <day>21</day>
+               <month>03</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>&#169; 2019, Antonio Hernández-Espriú, Saúl Arciniega-Esparza &amp; Sergio Macías-Medrano. Published by Terra Digitalis.
+            </copyright-statement>
+            <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+               <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <sec>
+               <title>ABSTRACT</title>
+               <bold> </bold>
+               <p>Massive development of unconventional resources using hydraulic fracturing (HF) procedures, has been carried out since the last three decades, with focus on Texas, USA, including the Eagle Ford (EF) play. International concerns have been raised regarding water and environmental impacts closely related to shale production. The aim of this paper is to map spatio-temporal trends of HF development (water use and well density) examining the entire production period in the EF. We used FracFocus as the main source of HF information, from 2009 to 2017. Our database managed in Python, SAGA GIS and QGIS, comprised 15,013 oil and gas well records. Statistical results show that median HF water use has been progressively increasing over time, from ~18,000 m<sup>3</sup>/well (2010) to ~38,000 m<sup>3</sup>/well (2017). Mapping results illustrate that both well density and HF water use peaked in 2014, whereas the area required for HF encompassed ~16,800 km<sup>2</sup> or ~70% of the play surface area. We summarize our results in a public domain interactive GIS-based digital map.</p>
+               <p><italic>Keywords: </italic> Shale gas; play; water-energy; hydraulic fracturing; Eagle Ford; GIS</p>
+            </sec>
+            <sec>
+               <title>RESUMEN</title>
+               <bold> </bold>
+               <p>El desarrollo masivo de recursos no convencionales de gas y aceite usando fracturamiento hidráulico (FH) se ha llevado a cabo desde hace tres décadas, con especial atención en Texas, EUA, incluida la Formación Eagle Ford (EF). Por lo anterior, se han generado alarmas internacionales debido a los grandes volúmenes de agua e impactos ambientales relacionados con la extracción de gas y aceite en lutitas. El objetivo de este artículo es cartografiar la tendencia espacio-temporal de los consumos de agua y la densidad de pozos asociada al FH considerando todo el período de producción de la EF. Usamos FracFocus como la principal fuente de información de 2009-2017. La base de datos manipulada en Python, SAGA GIS y QGIS constó de 15,013 registros de pozos de gas y aceite. Los resultados estadísticos muestran que la mediana de los consumos para FH se ha incrementado progresivamente con respecto al tiempo, de ~18,000 m<sup>3</sup>/pozo (2010) a ~38,000 m<sup>3</sup>/pozo (2017). Los resultados de la cartografía ilustran que el pico de la densidad de pozos y consumos de agua ocurrió en el 2014, mientras que el desarrollo espacial del FH cubrió ~16,800 km<sup>2</sup> o ~70% del área superficial del play. Los resultados se presentan en un mapa interactivo disponible al público en formato SIG.</p>
+               <p><italic>Palabras clave: </italic> Gas en lutitas; agua-energía; fracturamiento hidráulico; Eagle Ford; GIS</p>
+            </sec>
+         </abstract>
+         <trans-abstract xml:lang="es">
+            <title>RESUMEN</title>
+            <bold> </bold>
+            <p>El desarrollo masivo de recursos no convencionales de gas y aceite usando fracturamiento hidráulico (FH) se ha llevado a cabo desde hace tres décadas, con especial atención en Texas, EUA, incluida la Formación Eagle Ford (EF). Por lo anterior, se han generado alarmas internacionales debido a los grandes volúmenes de agua e impactos ambientales relacionados con la extracción de gas y aceite en lutitas. El objetivo de este artículo es cartografiar la tendencia espacio-temporal de los consumos de agua y la densidad de pozos asociada al FH considerando todo el período de producción de la EF. Usamos FracFocus como la principal fuente de información de 2009-2017. La base de datos manipulada en Python, SAGA GIS y QGIS constó de 15,013 registros de pozos de gas y aceite. Los resultados estadísticos muestran que la mediana de los consumos para FH se ha incrementado progresivamente con respecto al tiempo, de ~18,000 m<sup>3</sup>/pozo (2010) a ~38,000 m<sup>3</sup>/pozo (2017). Los resultados de la cartografía ilustran que el pico de la densidad de pozos y consumos de agua ocurrió en el 2014, mientras que el desarrollo espacial del FH cubrió ~16,800 km<sup>2</sup> o ~70% del área superficial del play. Los resultados se presentan en un mapa interactivo disponible al público en formato SIG.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>Shale gas</kwd>
+            <kwd>play</kwd>
+            <kwd>water-energy</kwd>
+            <kwd>hydraulic fracturing</kwd>
+            <kwd>Eagle Ford</kwd>
+            <kwd>GIS</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>Gas en lutitas</kwd>
+            <kwd>agua-energía</kwd>
+            <kwd>fracturamiento hidráulico</kwd>
+            <kwd>Eagle Ford</kwd>
+            <kwd>GIS</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="3"/>
+            <table-count count="0"/>
+            <equation-count count="0"/>
+            <ref-count count="27"/>
+            <page-count count="1"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>1. Introduction</title>
+         <bold> </bold>
+         <p>Hydraulic fracturing (HF), also known as hydrofracturing or fracking, has become the standard procedure to develop hydrocarbon unconventional resources stored in clayey-based low permeability reservoirs (<xref ref-type="bibr" rid="B15">Ikonnikova et al., 2016</xref>). Hydraulic-related operations have allowed profitable extraction of gas and liquid oil from shale and tight formations that four decades ago was nearly impossible to achieve. Novel advances in horizontal drilling and HF stages have transformed the oil industry leading to a new energy era: the <italic>shale revolution </italic>(<xref ref-type="bibr" rid="B14">Hughes, 2013</xref>)<italic>. </italic>
+         </p>
+         <p>HF involves the injection of a pressurized fluid composed by large volumes of water (~90%), sand and man-made chemical additives. Thus, international concerns have been raised regarding water and environmental impacts closely related to shale production, including surface and groundwater withdrawals, aquifer pollution, baseflow decrease, air quality degradation, induced seismicity during produced water disposal, landscape fragmentation, changes in land use, threats to biota or human health risks, among others (<xref ref-type="bibr" rid="B1">Arciniega-Esparza et al., 2017</xref>; <xref ref-type="bibr" rid="B2">Barcelo and Bennett, 2016</xref>; <xref ref-type="bibr" rid="B3">Brittingham et al., 2014</xref>; <xref ref-type="bibr" rid="B5">Clancy et al., 2018</xref>; <xref ref-type="bibr" rid="B10">Entrekin et al., 2018</xref>; <xref ref-type="bibr" rid="B17">Kim and Lu, 2018</xref>; <xref ref-type="bibr" rid="B18">Kondash et al., 2017</xref>; <xref ref-type="bibr" rid="B20">Lee et al., 2016</xref>; <xref ref-type="bibr" rid="B22">Nicot et al., 2014</xref>; <xref ref-type="bibr" rid="B24">Rutqvist et al., 2013</xref>; <xref ref-type="bibr" rid="B26">Slonecker et al., 2012</xref>; <xref ref-type="bibr" rid="B27">Wolaver et al., 2018</xref>).</p>
+         <p>Large-scale expansion of shale gas/oil in Texas has been carried out since ~1990 with the development of the Barnett play (central Texas), the main producer worldwide in the 2000s, accounting for ~66% of shale gas production in the US from 2007-2009 (<xref ref-type="bibr" rid="B21">Nicot and Scanlon, 2012</xref>). In Texas alone, 40,521 unconventional wells were drilled from 2008-2014 across the major plays (Barnett, Eagle Ford, Haynesville and the Permian Basin), which totaled ~457 million m<sup>3</sup> (Mm<sup>3</sup>) of water (<xref ref-type="bibr" rid="B4">Chen and Carter, 2016</xref>) to satisfy HF procedures, i.e., HF water use.</p>
+         <p>The Eagle Ford play (~24,000 km<sup>2</sup>) in central-south Texas, which correlates with Cretaceous formations in northeast Mexico within the Sabinas and Burgos basins, is a young play. Production began in 2009 and currently totaled ~15,000 unconventional wells producing over 1 million barrels/day (<xref ref-type="bibr" rid="B8">EIA, 2017</xref>). From 2009-2013, net water use accounted for 150 Mm<sup>3</sup> to satisfy 8,301 frac wells; mostly horizontals (<xref ref-type="bibr" rid="B25">Scanlon et al., 2014</xref>). During 2009 to mid-2011, median HF water use was 16,100 m<sup>3</sup>/well (<xref ref-type="bibr" rid="B21">Nicot and Scanlon, 2012</xref>) whereas in 2016, this value increased by a two-fold; that is ~33,000 m<sup>3</sup>/well (<xref ref-type="bibr" rid="B16">Ikonnikova et al., 2017</xref>). See <xref ref-type="bibr" rid="B12">Hammes et al. (2016)</xref> for a comprehensive description of the geological and petrophysical details of the Eagle Ford play.</p>
+         <p>Recent research has revealed the key role of water management in the shale production chain, comprising horizontal drilling, hydrofracturing, flowback/recycling, produced water disposal and surface/groundwater monitoring. Overall, published literature discussing water footprint associated with the Eagle Ford play development (e.g. <xref ref-type="bibr" rid="B13">Hernández-Espriú, et al. 2019</xref>; <xref ref-type="bibr" rid="B11">Gallegos et al., 2015</xref>), reflect short periods of time (i.e., 2-5 years) and thus, spatio-temporal trends of HF water use considering longer periods is comparative scarce (<xref ref-type="bibr" rid="B19">Kondash et al., 2018</xref>).</p>
+         <p>The aim of this paper is to map spatio-temporal trends of water use associated with the Eagle Ford Shale play development in Texas, examining the entire production period, from 2009 to 2017. In addition, we aimed at estimating representative water use values vs time, to inform further HF water use research in Mexico and other early-stage plays, worldwide, with similar conditions. </p>
+      </sec>
+      <sec sec-type="methods">
+         <title>2. Methods</title>
+         <bold> </bold>
+         <p>FracFocus Chemical Disclosure Registry Version 3.0 (<ext-link ext-link-type="uri" xlink:href="https://fracfocus.org/">https://fracfocus.org/</ext-link>) was used as the main source of information to depict spatio-temporal trends of HF water demand in the Eagle Ford play, evaluated from 01 January 2009 to 31 December 2017.</p>
+         <p>FracFocus is a freely database managed by the Groundwater Protection Council and the Interstate Oil and Gas Commission, which provides oil and gas information from the US and some parts of Canada, including fracturing start and end date, state, county, API number (API = American Petroleum Institute), operator name, well name, well latitude and longitude (NAD83 datum), true vertical depth, HF fluid composition expressed as Chemical Abstract Service (CAS) numbers, and the total base water volume. The latter was directly used as HF water consumption or water use to satisfy shale production per well. </p>
+         <p>A dataset comprising 15,013 wells were explored in Microsoft Excel to detect inconsistences (i.e., missing values, inaccurate units, etc). The modified dataset was then exported and managed using advanced mathematical tools such as Python (Python Core Team, 2015) by means of Pandas 0.20.3 (Mckinney and Team, 2015) and Seaborn 0.8.0 libraries (Waskom, 2017).</p>
+         <p>Spatio-temporal and statistical mapping analysis included: (1) well density (i.e., number of wells per surface area) and (2) HF water use evaluation. A 5x5 km<sup>2</sup> vector layer grid was defined covering the whole play extent, by using SAGA GIS (<xref ref-type="bibr" rid="B7">Conrad et al. 2015</xref>) and QGIS (<xref ref-type="bibr" rid="B23">QGIS Development Team, 2018</xref>) spatial tools. The grid size was established in order to improve the visual representation since spatial results in a 1x1 km<sup>2</sup> grid were unreadable. Unconventional well counting per year (2009-2017) was carried out by means of the Module count points in polygons, in which FraFocus wells represent the HF wells and the square grid, previously created, embodies the polygon. Finally, well density (number of wells/km<sup>2</sup>) was computed by dividing the number of wells/cell by the cell’s total area (25 km<sup>2</sup>).</p>
+         <p>Furthermore, we estimated total water use per year (2009-2017), considering the sum of all wells/cell and the mean HF water use/well. No distinction was made between vertical and horizontal (e.g. laterals) wells, as this information is lacking in FracFocus. The final geographical information system and presentation mapping was developed in QGIS. <xref ref-type="fig" rid="f2">Plates 1</xref> and <xref ref-type="fig" rid="f3">2</xref> show the main mapping outcomes of this assessment.</p>
+      </sec>
+      <sec sec-type="results">
+         <title>3. Results</title>
+         <bold> </bold>
+         <sec>
+            <title>3.1 Statistical results</title>
+            <bold> </bold>
+            <p>HF water use per well considering the production period from 2009-2017 is shown in <xref ref-type="fig" rid="f1">Fig. 1</xref>.  As noted, water consumption/well has been progressively increasing over time, as pointed out by previous studies (<xref ref-type="bibr" rid="B16">Ikonnikova et al., 2017</xref>). The year 2009 was negligible for practical purposes, while total annual HF water use peaked to ~100 Mm<sup>3</sup> in 2014 and since then declined (<xref ref-type="fig" rid="f1">Figure 1</xref>), related to oil price decrease in 2015-2016 (<xref ref-type="bibr" rid="B9">EIA, 2019</xref>).</p>
+
+            <!-- <fig id="f3">
+               <label>Figure 3 / Figura 3</label>
+               <caption>
+                  <p><italic><bold>Figure 3. </bold>Main morpho-tectonic features of the pacific oceanic floor (modified after <xref ref-type="bibr" rid="B33">INEGI, 2001</xref> and <xref ref-type="bibr" rid="B51">Padilla, 2013</xref>). The distribution of physiographic provinces of México and volcanic features &lt; 3 My are also shown. 1. Baja California Peninsula; 2. Sonora Plains; 3. Sierra Madre Occidental; 4. Basin and range province; 5. Sierra Madre Oriental; 6. North America Plains; 7. Pacific Coastal Plains; 8. Gulf of Mexico coastal plains-north ; 9. Mesa Central Province; 10. Mexican Volcanic Belt; 11. Yucatán Peninsula; 12. Sierra Madre del Sur; 13. Gulf of Mexico coastal plains-south; 14. Sierra de Chiapas - Guatemala; 15. Central America Volcanic Belt. Volcanism with age &lt; 3My after: https://volcano.si.edu/, intraplate volcanism <xref ref-type="bibr" rid="B2">Aranda-Gómez et al., 2005</xref>; <xref ref-type="bibr" rid="B26">Ferrari et al., 2005</xref>, <xref ref-type="bibr" rid="B27">2007</xref>; <xref ref-type="bibr" rid="B76">Vidal-Solano et al., 2005</xref>.</italic></p>
+                  <p><italic><bold>Figura 3. </bold> Rasgos morfotectónicos del piso oceánico del Pacífico. Distribución de las provincias fisiográficas en México y centros volcánicos de &lt; 3 Ma. 1.Península de Baja California; 2. Planicie de Sonora; 3. Sierra Madre Occidental; 4. Provincia de cuencas y sierras; 5. Sierra Madre Oriental; 6. Planicie de Norte América; 7. Planicie de la Costa del Pacífico; 8. Planicie al norte del Golfo de Mexico ; 9. Provincia de la Mesa Central ; 10. Cinturón Volcánico Mexicano; 11.Península de Yucatán; 12. Sierra Madre del Sur; 13. Planicie al sur del Golfo de Mexico; 14. Sierra de Chiapas – Guatemala; 15. Cinturón Volcánico de Centro América.</italic></p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero4/prol_ledesma/a1-1-38003.jpg"/>
+            </fig> -->
+            <p>
+               <fig id="f1">
+                  <label>Figure 1 / Figura 1</label>
+                  <caption>
+                     <p><italic><bold>Figure 1. </bold></italic> Boxplots showing temporal trends of hydraulic fracturing water use per well (10<sup>3</sup> m<sup>3</sup>) and cumulative annual HF water use (blue line) over time (2009-2017). Diamonds refer to outlines.</p>
+                     <p><italic><bold>Figura 1. </bold></italic>Boxplots mostrando las tendencias temporales del uso de agua para fracturamiento hidráulico por pozo (10<sup>3</sup> m<sup>3</sup>) y acumulado anual (línea azul) para el periodo analizado (2009-2017). Los valores atípicos se representan como diamantes.</p>
+                  </caption>
+                  <graphic xlink:href="a1-1-7001.png"/>
+               </fig>
+            </p>
+            <p>In 2010 FracFocus registered only 5 frac wells using a mean HF water demand of ~18,000 m<sup>3</sup>/well. In contrast, four years later, drilling increased spectacularly to ~4,300 wells in 2014 demanding a mean volume of ~23,600 m<sup>3</sup>/well, equaled to an accumulated volume of ~100 Mm<sup>3</sup>, play-wide, for that particular year.</p>
+            <p>Since 2014, HF water volume decreased in 2015 and 2016 to ~70 and 46 Mm<sup>3</sup>, respectively, and increased again to 70 Mm<sup>3</sup> in 2017 (<xref ref-type="fig" rid="f1">Figure 1</xref>). However, mean HF water use per well has been gradually growing to ~28,500, 31,800 and 40,800 m<sup>3</sup>/well for 2015, 2016 and 2017, respectively. Over the eight-year production period, HF water use ranged between 14,656-32,257 m<sup>3</sup>/well (25<sup>th</sup> - 75<sup>th</sup> percentiles), whereas in the most recent year (2017), HF water use fluctuated by 26,675-52,349 m<sup>3</sup>/well (25<sup>th</sup> - 75<sup>th</sup> percentiles). </p>
+            <p>Overall, total water use associated with the Eagle Ford play development, totaled 392.73 Mm<sup>3</sup>. That is, for instance, the total groundwater abstracted in the state of Morelos during 2015 to satisfy a dominant percentage of irrigation, industry and domestic supply (<xref ref-type="bibr" rid="B6">CONAGUA, 2016</xref>). <xref ref-type="table" rid="t1">Table 1</xref> summarize these outcomes. </p>
+         </sec>
+         <sec>
+            <title>3.2 Map synopsis</title>
+            <bold> </bold>
+            <p>Spatio-temporal mapping for the period 2009-2017 of unconventional well density in the Eagle Ford play, expressed as the number of unconventional wells per surface area (wells/km<sup>2</sup>), is shown in <xref ref-type="fig" rid="f2">Plate 1</xref>. Moreover, water use spatio-temporal mapping to satisfy HF production is displayed in <xref ref-type="fig" rid="f3">Plate 2</xref>. Wells density and HF water use were classified into a five class maps, using a percentile-based rule to appreciate the statistical variation of the most critical development year (2014). The classes in both maps follow the same color classification to compare differences among both maps in terms of wells density and water use.</p>
+            <p>
+               <fig id="f2">
+                  <label>Plate 1 / Lámina 1</label>
+                  <caption>
+                     <p><italic><bold>Plate1. </bold></italic> Well density spatio-temporal mapping linked to hydraulic fracturing across the Eagle Ford play (Texas) from 2009-2017.</p>
+                     <p><italic><bold>Lámina 1. </bold></italic> Mapa de la densidad espacio-temporal de pozos asociados al fracturamiento hidráulico en el play Eagle Ford (Texas) para el periodo 2009-2017.</p>
+                  </caption>
+                  <graphic xlink:href="a1-1-7002.png"/>
+               </fig>
+            </p>
+            <p>
+               <xref ref-type="fig" rid="f2">Plate 1</xref> shown that well density peaked in 2014 with a mean value of ~0.26 wells/ km<sup>2</sup>, which represented a ~70% of the total play surface area partially covered by unconventional wells in that year. In 2017, well density decreased to ~0.21 wells/ km<sup>2 </sup>covering only ~33% of the play area. Over the whole production period, well density accounted for ~0.16 well/ km<sup>2</sup>. </p>
+            <p>On the other hand, in concordance with the well density map (<xref ref-type="fig" rid="f2">Plate 1</xref>), HF water use also peaked in 2014 with a median value of ~22,500 m<sup>3</sup>/well (<xref ref-type="fig" rid="f3">Plate 2</xref>). Unconventional wells that were fractured in 2014 using 30,000-40,000 m<sup>3</sup> of water, covered ~9,100 km<sup>2 </sup>of the play (38%), followed by wells using less than 15,000 m<sup>3</sup> (3,400 km<sup>2</sup> or 14% of the play), or wells consuming 40,000-50,000 m<sup>3</sup> (3,350 km<sup>2</sup>; 14%). Finally, fracturing wells with the largest water use (&gt; 50,000 m<sup>3</sup>) were distributed along 900 km<sup>2</sup>, which is only ~3% of the play area. These figures suggest that HF development encompassed ~16,800 km<sup>2</sup> or ~70% of the Eagle Ford play for 2014. In 2017, HF extension decreased by more than half, to about ~8,000 km<sup>2</sup>, or ~33% of the play surface area.</p>
+            <p>
+               <fig id="f3">
+                  <label>Plate 2 / Lámina 2</label>
+                  <caption>
+                     <p><italic><bold>Plate 2. </bold></italic> Water use spatio-temporal mapping linked to hydraulic fracturing across the Eagle Ford play (Texas) from 2009-2017.</p>
+                     <p><italic><bold>Lámina 2. </bold></italic> Mapa espacio-temporal del uso de agua asociado al fracturamiento hidráulico en el play Eagle Ford (Texas) para el periodo 2009-2017.</p>
+                  </caption>
+                  <graphic xlink:href="a1-1-7003.png"/>
+               </fig>
+
+               <table-wrap id="t1">
+                  <label>Table 1 / Tabla 1</label>
+                  <caption>
+                     <p><bold>Table 1: </bold> Hydraulic fracturing water use in the Eagle Ford play over the production period 2009-2017.</p>
+                     <p><bold>Tabla 1: </bold> Uso de agua para fracturamiento hidráulico en el play Eagle Ford para el periodo de producción 2009-2017.</p>
+                  </caption>
+                  <table>
+                     <thead>
+                        <tr>
+                           <th align="center" colspan="10" rowspan="1">Hydraulic fracturing water use per well (m<sup>3</sup>)</th>
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td>Year</td>
+                           <td>Number of wells</td>
+                           <td>Min</td>
+                           <td>Mean</td>
+                           <td>25<sup>th</sup> percentile</td>
+                           <td>Median</td>
+                           <td>75<sup>th</sup> percentile</td>
+                           <td>Max</td>
+                           <td>SD</td>
+                           <td>Accumulated volume (Mm<sup>3</sup>)</td>
+                        </tr>
+                        <tr>
+                           <td>2009-2010</td>
+                           <td>5</td>
+                           <td>15728.86</td>
+                           <td>18215.48</td>
+                           <td>17001.18</td>
+                           <td>18739.00</td>
+                           <td>19227.46</td>
+                           <td>20380.90</td>
+                           <td>1846.96</td>
+                           <td>0.091</td>
+                        </tr>
+                        <tr>
+                           <td>2011</td>
+                           <td>69</td>
+                           <td>60.57</td>
+                           <td>13746.21</td>
+                           <td>11236.42</td>
+                           <td>13902.57</td>
+                           <td>16699.17</td>
+                           <td>29944.35</td>
+                           <td>5235.95</td>
+                           <td>0.948</td>
+                        </tr>
+                        <tr>
+                           <td>2012</td>
+                           <td>794</td>
+                           <td>0.00</td>
+                           <td>15333.00</td>
+                           <td>10044.86</td>
+                           <td>13817.30</td>
+                           <td>20826.27</td>
+                           <td>54482.85</td>
+                           <td>9485.64</td>
+                           <td>12.174</td>
+                        </tr>
+                        <tr>
+                           <td>2013</td>
+                           <td>4117</td>
+                           <td>0.00</td>
+                           <td>17113.88</td>
+                           <td>11237.78</td>
+                           <td>15789.34</td>
+                           <td>23749.79</td>
+                           <td>91457.56</td>
+                           <td>10145.07</td>
+                           <td>70.561</td>
+                        </tr>
+                        <tr>
+                           <td>2014</td>
+                           <td>4311</td>
+                           <td>0.00</td>
+                           <td>23651.17</td>
+                           <td>15725.12</td>
+                           <td>22251.37</td>
+                           <td>30243.90</td>
+                           <td>74852.30</td>
+                           <td>11296.65</td>
+                           <td>102.305</td>
+                        </tr>
+                        <tr>
+                           <td>2015</td>
+                           <td>2548</td>
+                           <td>0.00</td>
+                           <td>28537.74</td>
+                           <td>18536.54</td>
+                           <td>26346.45</td>
+                           <td>36582.28</td>
+                           <td>98365.12</td>
+                           <td>14458.97</td>
+                           <td>72.821</td>
+                        </tr>
+                        <tr>
+                           <td>2016</td>
+                           <td>1449</td>
+                           <td>0.00</td>
+                           <td>31818.18</td>
+                           <td>21198.33</td>
+                           <td>28918.44</td>
+                           <td>41606.44</td>
+                           <td>98754.91</td>
+                           <td>15193.03</td>
+                           <td>46.105</td>
+                        </tr>
+                        <tr>
+                           <td>2017</td>
+                           <td>1720</td>
+                           <td>31.80</td>
+                           <td>40864.20</td>
+                           <td>26675.27</td>
+                           <td>38236.13</td>
+                           <td>52349.42</td>
+                           <td>99042.58</td>
+                           <td>19579.29</td>
+                           <td>72.930</td>
+                        </tr>
+                        <tr>
+                           <td>2009-2017</td>
+                           <td>15013</td>
+                           <td>0.00</td>
+                           <td>24960.84</td>
+                           <td>14656.93</td>
+                           <td>22639.00</td>
+                           <td>32257.87</td>
+                           <td>99042.58</td>
+                           <td>15163.49</td>
+                           <td>392.73</td>
+                        </tr>
+                     </tbody>
+                  </table>
+               </table-wrap>
+            </p>
+         </sec>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>4. Conclusions</title>
+         <bold> </bold>
+         <p>We present a GIS-based, interactive map showing spatio-temporal trends of water use and well development linked to hydraulic fracturing in the Eagle Ford play (Texas, USA). Here, we show spatio-temporal results at annual scale for the production period from 2009 to 2017. For this, we used freely available data and open-source tools for managing, assessing and linking spatial information. </p>
+         <p>From the statistical analysis we concluded that median HF water use has been progressively increasing over time, from ~18,000 m<sup>3</sup>/well (2010) to ~38,000 m<sup>3</sup>/well (2017). On the other hand, spatio-temporal analysis showed that both well density (wells/km<sup>2</sup>) and HF water use peaked in 2014, whereas HF development encompassed ~16,800 km<sup>2</sup>, equivalent to ~70% of the surface area, play-wide.</p>
+      </sec>
+      <sec>
+         <title>5. Map design</title>
+         <bold> </bold>
+         <p>The map was configured in NAD83 projection (North American Datum 1983), using vector files developed by our research team, derived from FracFocus information. We used Python and SAGA GIS for managing and assessing spatial information, and QGIS for displaying the final GIS interactive map, with the following features:</p>
+         <p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>Scale 1:3,000,000</p>
+               </list-item>
+               <list-item>
+                  <p>Total area of 260,333 km<sup>2</sup>
+                  </p>
+               </list-item>
+               <list-item>
+                  <p>Graticule spacing: 1° 0’ 0”</p>
+               </list-item>
+            </list>
+         </p>
+      </sec>
+      <sec>
+         <title>Acknowledgements</title>
+         <p>The first author acknowledges financial support provided by the COMEXUS Fulbright García Robles Fellowship, the UNAM-DGAPA PASPA and the Matías-Romero (SRE-UT LLILAS) Research Visiting Programs that supported this research. Also, to Scott Tinker, Bridget Scanlon, Michael H. Young, Brad Wolaver, JP Nicot and Robert Reedy of the Bureau of Economic Geology (The University of Texas at Austin) for the hospitality during the sabbatical leave of A. Hernández-Espriú. The authors are grateful for the constructive comments of Daniel Itzamna Avila Ortega and one anonymous reviewer that greatly improved the scientific quality of the manuscript. This is the 12<sup>th</sup> contribution from the Hydrogeology Group (Earth Sciences Division), Faculty of Engineering, UNAM, Mexico.</p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>REFERENCES</title>
+         <ref id="B1">
+            <mixed-citation>Arciniega-Esparza, S., Breña-Naranjo, J. A., Hernández-Espriú, A., Pedrozo-Acuña, A., Scanlon, B. R., Nicot, J. P., Young, M. H., Wolaver, B. D., Alcocer-Yamanaka, V. H., 2017. Baseflow recession analysis in a large shale play: Climate variability and anthropogenic alterations mask effects of hydraulic fracturing. Journal of Hydrology 553, 160-171, doi:10.1016/j.jhydrol.2017.07.059.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Arciniega-Esparza</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Breña-Naranjo</surname>
+                     <given-names>J. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández-Espriú</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Pedrozo-Acuña</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Scanlon</surname>
+                     <given-names>B. R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Nicot</surname>
+                     <given-names>J. P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Young</surname>
+                     <given-names>M. H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wolaver</surname>
+                     <given-names>B. D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Alcocer-Yamanaka</surname>
+                     <given-names>V. H.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Baseflow recession analysis in a large shale play: Climate variability and anthropogenic alterations mask effects of hydraulic fracturing</article-title>
+               <source>Journal of Hydrology</source>
+               <volume>553</volume>
+               <fpage>160</fpage>
+               <lpage>171</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jhydrol.2017.07.059</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>Barcelo, D., Bennett, J. P., 2016. Human health and environmental risks of unconventional shale gas hydrofracking. Science of The Total Environment 544, 1139-1140, doi:10.1016/j.scitotenv.2015.12.045.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Barcelo</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bennett</surname>
+                     <given-names>J. P.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Human health and environmental risks of unconventional shale gas hydrofracking</article-title>
+               <source>Science of The Total Environment</source>
+               <volume>544</volume>
+               <fpage>1139</fpage>
+               <lpage>1140</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.scitotenv.2015.12.045</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>Brittingham, M. C., Maloney, K. O., Farag, A. M., Harper, D. D., Bowen, Z. H., 2014. Ecological Risks of Shale Oil and Gas Development to Wildlife, Aquatic Resources and their Habitats. Environmental Science &amp; Technology 48 (19), 11034-11047, doi:10.1021/es5020482.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Brittingham</surname>
+                     <given-names>M. C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Maloney</surname>
+                     <given-names>K. O.</given-names>
+                  </name>
+                  <name>
+                     <surname>Farag</surname>
+                     <given-names>A. M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Harper</surname>
+                     <given-names>D. D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bowen</surname>
+                     <given-names>Z. H.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Ecological Risks of Shale Oil and Gas Development to Wildlife, Aquatic Resources and their Habitats</article-title>
+               <source>Environmental Science &amp; Technology</source>
+               <volume>48</volume>
+               <issue>19</issue>
+               <fpage>11034</fpage>
+               <lpage>11047</lpage>
+               <pub-id pub-id-type="doi">10.1021/es5020482</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>Chen, H., Carter, K. E., 2016. Water usage for natural gas production through hydraulic fracturing in the United States from 2008 to 2014. Journal of Environmental Management 170, 152-159, doi:10.1016/j.jenvman.2016.01.023.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chen</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Carter</surname>
+                     <given-names>K. E.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Water usage for natural gas production through hydraulic fracturing in the United States from 2008 to 2014</article-title>
+               <source>Journal of Environmental Management</source>
+               <volume>170</volume>
+               <fpage>152</fpage>
+               <lpage>159</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jenvman.2016.01.023</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>Clancy, S. A., Worrall, F., Davies, R. J., Gluyas, J. G., 2018. An assessment of the footprint and carrying capacity of oil and gas well sites: The implications for limiting hydrocarbon reserves. Science of The Total Environment 618, 586-594, doi:10.1016/j.scitotenv.2017.02.160.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Clancy</surname>
+                     <given-names>S. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Worrall</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Davies</surname>
+                     <given-names>R. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gluyas</surname>
+                     <given-names>J. G.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>An assessment of the footprint and carrying capacity of oil and gas well sites: The implications for limiting hydrocarbon reserves</article-title>
+               <source>Science of The Total Environment</source>
+               <volume>618</volume>
+               <fpage>586</fpage>
+               <lpage>594</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.scitotenv.2017.02.160</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>CONAGUA, 2016. Estadísticas del Agua en México, Edición 2016 [www document]. <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="http://sina.conagua.gob.mx/publicaciones/EAM_2016.pdf">http://sina.conagua.gob.mx/publicaciones/EAM_2016.pdf</ext-link>
+               </comment> (accessed 4.7.19).</mixed-citation>
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>CONAGUA</collab>
+               </person-group>
+               <year>2016</year>
+               <!-- <source>
+                  <ext-link ext-link-type="uri" xlink:href="http://sina.conagua.gob.mx/publicaciones/EAM_2016.pdf">Estadísticas del Agua en México, Edición 2016</ext-link>
+               </source> -->
+               <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="http://sina.conagua.gob.mx/publicaciones/EAM_2016.pdf">Estadísticas del Agua en México, Edición 2016</ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-00-00">4.7.19</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>Conrad, O., Bechtel, B., Bock, M., Dietrich, H., Fischer, E., Gerlitz, L., Wehberg, J., Wichmann, V., Böhner, J., 2015. System for Automated Geoscientific Analyses (SAGA) v. 2.1.4. Geoscientific Model Development 8 (7), 1991-2007, doi: 10.5194/gmd-8-1991-2015.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Conrad</surname>
+                     <given-names>O.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bechtel</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bock</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Dietrich</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fischer</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gerlitz</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wehberg</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wichmann</surname>
+                     <given-names>V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Böhner</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>System for Automated Geoscientific Analyses (SAGA) v. 2.1.4</article-title>
+               <source>Geoscientific Model Development</source>
+               <volume>8</volume>
+               <issue>7</issue>
+               <fpage>1991</fpage>
+               <lpage>2007</lpage>
+               <pub-id pub-id-type="doi">10.5194/gmd-8-1991-2015</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>EIA, 2017. Annual Energy Outlook 2017 with projections to 2050 [www document]. <comment> 
+                  <ext-link ext-link-type="uri" xlink:href="https://www.eia.gov/outlooks/archive/aeo17/">https://www.eia.gov/outlooks/archive/aeo17/</ext-link>
+               </comment> (accessed 4.7.19).</mixed-citation>
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>EIA</collab>
+               </person-group>
+               <year>2017</year>
+               <!-- <source>
+                  <ext-link ext-link-type="uri" xlink:href="https://www.eia.gov/outlooks/archive/aeo17/">Annual Energy Outlook 2017 with projections to 2050</ext-link>
+               </source> -->
+               <comment> 
+                  <ext-link ext-link-type="uri" xlink:href="https://www.eia.gov/outlooks/archive/aeo17/">Annual Energy Outlook 2017 with projections to 2050</ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-00-00">4.7.19</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>EIA, 2019. Short-Term Energy Outlook [www document].   <comment>   
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://www.eia.gov/outlooks/steo/report/prices.php">https://www.eia.gov/outlooks/steo/report/prices.php</ext-link>
+               </comment> (accessed 2.13.19).</mixed-citation>
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>EIA</collab>
+               </person-group>
+               <year>2019</year>
+               <!-- <source>
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://www.eia.gov/outlooks/steo/report/prices.php">Short-Term Energy Outlook</ext-link>
+               </source> -->
+               <comment>   
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://www.eia.gov/outlooks/steo/report/prices.php">Short-Term Energy Outlook</ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-00-00">2.13.19</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>Entrekin, S., Trainor, A., Saiers, J., Patterson, L., Maloney, K., Fargione, J., Kiesecker, J., Baruch-Mordo, S., Konschnik, K., Wiseman, H., Nicot, J.-P., Ryan, J. N., 2018. Water Stress from High-Volume Hydraulic Fracturing Potentially Threatens Aquatic Biodiversity and Ecosystem Services in Arkansas, United States. Environmental Science &amp; Technology 52 (4), 2349-2358, doi:10.1021/acs.est.7b03304.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Entrekin</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Trainor</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Saiers</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Patterson</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Maloney</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fargione</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kiesecker</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Baruch-Mordo</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Konschnik</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wiseman</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Nicot</surname>
+                     <given-names>J.-P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ryan</surname>
+                     <given-names>J. N.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Water Stress from High-Volume Hydraulic Fracturing Potentially Threatens Aquatic Biodiversity and Ecosystem Services in Arkansas, United States</article-title>
+               <source>Environmental Science &amp; Technology</source>
+               <volume>52</volume>
+               <issue>4</issue>
+               <fpage>2349</fpage>
+               <lpage>2358</lpage>
+               <pub-id pub-id-type="doi">10.1021/acs.est.7b03304</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>Gallegos, T. J., Varela, B. A., Haines, S. S., Engle, M. A., 2015. Hydraulic fracturing water use variability in the United States and potential environmental implications. Water Resources Research 51 (7), 5839-5845, doi:10.1002/2015WR017278.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gallegos</surname>
+                     <given-names>T. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Varela</surname>
+                     <given-names>B. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Haines</surname>
+                     <given-names>S. S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Engle</surname>
+                     <given-names>M. A.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Hydraulic fracturing water use variability in the United States and potential environmental implications</article-title>
+               <source>Water Resources Research</source>
+               <volume>51</volume>
+               <issue>7</issue>
+               <fpage>5839</fpage>
+               <lpage>5845</lpage>
+               <pub-id pub-id-type="doi">10.1002/2015WR017278</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>Hammes, U., Eastwood, R., McDaid, G., Vankov, E., Gherabati, S. A., Smye, K., Shultz, J., Potter, E., Ikonnikova, S., Tinker, S., 2016. Regional assessment of the Eagle Ford Group of South Texas, USA: Insights from lithology, pore volume, water saturation, organic richness, and productivity correlations. Interpretation 4 (1), SC125-SC150, https://doi.org/10.1190/INT-2015-0099.1.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hammes</surname>
+                     <given-names>U.</given-names>
+                  </name>
+                  <name>
+                     <surname>Eastwood</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>McDaid</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vankov</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gherabati</surname>
+                     <given-names>S. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Smye</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name>
+                     <surname>Shultz</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Potter</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ikonnikova</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tinker</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Regional assessment of the Eagle Ford Group of South Texas, USA: Insights from lithology, pore volume, water saturation, organic richness, and productivity correlations</article-title>
+               <source>Interpretation</source>
+               <volume>4</volume>
+               <issue>1</issue>
+               <pub-id pub-id-type="doi">10.1190/INT-2015-0099.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>Hernández-Espriú, A., Wolaver, B., Arciniega-Esparza, S., Scanlon, B. R., Young, M. H., Nicot, J.-P., Macías-Medrano, S., Breña-Naranjo, J. A., 2019. A screening approach to improve water management practices in undeveloped shale plays, with application to the transboundary Eagle Ford Formation in northeast Mexico. Journal of Environmental Management 236, 146-162, https://doi.org/10.1016/j.jenvman.2018.11.123.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hernández-Espriú</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wolaver</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Arciniega-Esparza</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Scanlon</surname>
+                     <given-names>B. R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Young</surname>
+                     <given-names>M. H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Nicot</surname>
+                     <given-names>J.-P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Macías-Medrano</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Breña-Naranjo</surname>
+                     <given-names>J. A.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>A screening approach to improve water management practices in undeveloped shale plays, with application to the transboundary Eagle Ford Formation in northeast Mexico</article-title>
+               <source>Journal of Environmental Management</source>
+               <volume>236</volume>
+               <fpage>146</fpage>
+               <lpage>162</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jenvman.2018.11.123</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>Hughes, J. D., 2013. A reality check on the shale revolution. Nature 494, 307-308, doi:10.1038/494307a.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hughes</surname>
+                     <given-names>J. D.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>A reality check on the shale revolution</article-title>
+               <source>Nature</source>
+               <volume>494</volume>
+               <fpage>307</fpage>
+               <lpage>308</lpage>
+               <pub-id pub-id-type="doi">10.1038/494307a</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>Ikonnikova, S., Vankov, E., Gülen, G., Browning, J., 2016. Understanding Shale Resource Production: What are the Key Variables ? Society of Petroleum Engineers, doi:10.2118/179984-MS.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ikonnikova</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vankov</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gülen</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Browning</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Understanding Shale Resource Production: What are the Key Variables ?</article-title>
+               <source>Society of Petroleum Engineers</source>
+               <pub-id pub-id-type="doi">10.2118/179984-MS</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>Ikonnikova, S. A., Male, F., Scanlon, B. R., Reedy, R. C., McDaid, G., 2017. Projecting the Water Footprint Associated with Shale Resource Production: Eagle Ford Shale Case Study. Environmental Science &amp; Technology 51 (24), 14453-14461, doi:10.1021/acs.est.7b03150.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ikonnikova</surname>
+                     <given-names>S. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Male</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Scanlon</surname>
+                     <given-names>B. R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Reedy</surname>
+                     <given-names>R. C.</given-names>
+                  </name>
+                  <name>
+                     <surname>McDaid</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Projecting the Water Footprint Associated with Shale Resource Production: Eagle Ford Shale Case Study</article-title>
+               <source>Environmental Science &amp; Technology</source>
+               <volume>51</volume>
+               <issue>24</issue>
+               <fpage>14453</fpage>
+               <lpage>14461</lpage>
+               <pub-id pub-id-type="doi">10.1021/acs.est.7b03150</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>Kim, J.-W., Lu, Z., 2018. Association between localized geohazards in West Texas and human activities, recognized by Sentinel-1a/B satellite radar imagery. Scientific Reports 8 (1), 4727, doi:10.1038/s41598-018-23143-6.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kim</surname>
+                     <given-names>J.-W.</given-names>
+                  </name>
+                  <name>
+                     <surname>Lu</surname>
+                     <given-names>Z.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Association between localized geohazards in West Texas and human activities, recognized by Sentinel-1a/B satellite radar imagery</article-title>
+               <source>Scientific Reports</source>
+               <volume>8(1), 4727</volume>
+               <issue>1</issue>
+               <!-- <fpage>4727</fpage>
+               <lpage>4727</lpage> -->
+               <pub-id pub-id-type="doi">10.1038/s41598-018-23143-6</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>Kondash, A. J., Albright, E., Vengosh, A., 2017. Quantity of flowback and produced waters from unconventional oil and gas exploration. Science of The Total Environment 574, 314-321, doi:10.1016/j.scitotenv.2016.09.069.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kondash</surname>
+                     <given-names>A. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Albright</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vengosh</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Quantity of flowback and produced waters from unconventional oil and gas exploration</article-title>
+               <source>Science of The Total Environment</source>
+               <volume>574</volume>
+               <fpage>314</fpage>
+               <lpage>321</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.scitotenv.2016.09.069</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>Kondash, A. J., Lauer, N. E., Vengosh, A., 2018. The intensification of the water footprint of hydraulic fracturing. Science Advances 4 (8), doi:10.1126/sciadv.aar5982.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kondash</surname>
+                     <given-names>A. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Lauer</surname>
+                     <given-names>N. E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vengosh</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>The intensification of the water footprint of hydraulic fracturing</article-title>
+               <source>Science Advances</source>
+               <volume>4</volume>
+               <issue>8</issue>
+               <pub-id pub-id-type="doi">10.1126/sciadv.aar5982</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>Lee, J.-Y., Weingarten, M., Ge, S., 2016. Induced seismicity: the potential hazard from shale gas development and CO2 geologic storage. Geosciences Journal 20 (1), 137-148, doi:10.1007/s12303-015-0030-5.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Lee</surname>
+                     <given-names>J.-Y.</given-names>
+                  </name>
+                  <name>
+                     <surname>Weingarten</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ge</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Induced seismicity: the potential hazard from shale gas development and CO2 geologic storage</article-title>
+               <source>Geosciences Journal</source>
+               <volume>20</volume>
+               <issue>1</issue>
+               <fpage>137</fpage>
+               <lpage>148</lpage>
+               <pub-id pub-id-type="doi">10.1007/s12303-015-0030-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>Nicot, J.-P., Scanlon, B. R., 2012. Water Use for Shale-Gas Production in Texas, U.S. Environmental Science &amp; Technology 46 (6), 3580-3586, doi:10.1021/es204602t.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nicot</surname>
+                     <given-names>J.-P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Scanlon</surname>
+                     <given-names>B. R.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Water Use for Shale-Gas Production in Texas, U.S</article-title>
+               <source>Environmental Science &amp; Technology</source>
+               <volume>46</volume>
+               <issue>6</issue>
+               <fpage>3580</fpage>
+               <lpage>3586</lpage>
+               <pub-id pub-id-type="doi">10.1021/es204602t</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>Nicot, J.-P., Scanlon, B. R., Reedy, R. C., Costley, R. A., 2014. Sourceand Fate of Hydraulic Fracturing Water in the Barnett Shale: A Historical Perspective. Environmental Science &amp; Technology 48 (4), 2464-2471, doi:10.1021/es404050r.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Nicot</surname>
+                     <given-names>J.-P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Scanlon</surname>
+                     <given-names>B. R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Reedy</surname>
+                     <given-names>R. C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Costley</surname>
+                     <given-names>R. A.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Sourceand Fate of Hydraulic Fracturing Water in the Barnett Shale: A Historical Perspective</article-title>
+               <source>Environmental Science &amp; Technology</source>
+               <volume>48</volume>
+               <issue>4</issue>
+               <fpage>2464</fpage>
+               <lpage>2471</lpage>
+               <pub-id pub-id-type="doi">10.1021/es404050r</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>QGIS Development Team, 2018. QGIS User Guide: Release 2.18 </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>QGIS Development Team</collab>
+               </person-group>
+               <year>2018</year>
+               <source>QGIS User Guide: Release 2.18</source>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>Rutqvist, J., Rinaldi, A. P., Cappa, F., Moridis, G. J., 2013. Modeling of fault reactivation and induced seismicity during hydraulic fracturing of shale-gas reservoirs. Journal of Petroleum Science and Engineering 107, 31-44, doi:10.1016/j.petrol.2013.04.023.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rutqvist</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rinaldi</surname>
+                     <given-names>A. P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Cappa</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Moridis</surname>
+                     <given-names>G. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Modeling of fault reactivation and induced seismicity during hydraulic fracturing of shale-gas reservoirs</article-title>
+               <source>Journal of Petroleum Science and Engineering</source>
+               <volume>107</volume>
+               <fpage>31</fpage>
+               <lpage>44</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.petrol.2013.04.023</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B25">
+            <mixed-citation>Scanlon, B. R., Reedy, R. C., Nicot, J. P., 2014. Will water scarcity in semiarid regions limit hydraulic fracturing of shale plays? Environmental Research Letters 9 (12), 124011, doi:10.1088/1748-9326/9/12/124011.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Scanlon</surname>
+                     <given-names>B. R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Reedy</surname>
+                     <given-names>R. C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Nicot</surname>
+                     <given-names>J. P.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Will water scarcity in semiarid regions limit hydraulic fracturing of shale plays?</article-title>
+               <source>Environmental Research Letters</source>
+               <volume>9(12), 124011</volume>
+               <issue>12</issue>
+               <!-- <fpage>124011</fpage>
+               <lpage>124011</lpage> -->
+               <pub-id pub-id-type="doi">10.1088/1748-9326/9/12/124011</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B26">
+            <mixed-citation>Slonecker, E., Milheim, L., Roig-Silva, C., Malizia, A., Marr, D., Fisher, G., 2012. Landscape consequences of natural gas extraction in Bradford and Washington Counties, Pennsylvania, 2004-2010. USGS Numbered Series 2012-1154, U.S. Geological Survey, Reston, VA, doi:10.3133/ofr20121154.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Slonecker</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Milheim</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Roig-Silva</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Malizia</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Marr</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fisher</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Landscape consequences of natural gas extraction in Bradford and Washington Counties, Pennsylvania, 2004-2010</article-title>
+               <source>USGS Numbered Series 2012-1154, U.S. Geological Survey, Reston, VA</source>
+               <pub-id pub-id-type="doi">10.3133/ofr20121154</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B27">
+            <mixed-citation>Wolaver, B. D., Pierre, J. P., Labay, B. J., LaDuc, T. J., Duran, C. M., Ryberg, W. A., Hibbitts, T. J., 2018. An approach for evaluating changes in land-use from energy sprawl and other anthropogenic activities with implications for biotic resource management. Environmental Earth Sciences 77 (5), 171, doi:10.1007/s12665-018-7323-8.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Wolaver</surname>
+                     <given-names>B. D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Pierre</surname>
+                     <given-names>J. P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Labay</surname>
+                     <given-names>B. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>LaDuc</surname>
+                     <given-names>T. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Duran</surname>
+                     <given-names>C. M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ryberg</surname>
+                     <given-names>W. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hibbitts</surname>
+                     <given-names>T. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>An approach for evaluating changes in land-use from energy sprawl and other anthropogenic activities with implications for biotic resource management</article-title>
+               <source>Environmental Earth Sciences</source>
+               <volume>77(5), 171</volume>
+               <issue>5</issue>
+               <!-- <fpage>171</fpage>
+               <lpage>171</lpage> -->
+               <pub-id pub-id-type="doi">10.1007/s12665-018-7323-8</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
