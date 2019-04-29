@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.1"
+         article-type="research-article"
+         xml:lang="es"
+         specific-use="sps-1.8">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+         <journal-title-group>
+            <journal-title>Terra Digitalis</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">TD</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2594-0694</issn>
+         <publisher>
+            <publisher-name>Terra Digitalis</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Articles</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Visualizador dinámico de modelos climáticos numéricos en México, basado en estructuras de datos NetCDF✩</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Dynamic visualization of numerical climate models in Mexico based on the NetCDF data format</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Couturier</surname>
+                  <given-names>Stéphane</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+               <xref ref-type="corresp" rid="c1">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Osorno-Covarrubias</surname>
+                  <given-names>Javier</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Martínez Zazueta</surname>
+                  <given-names>Iván</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Magaña Rueda</surname>
+                  <given-names>Victor</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Vázquez Cruz</surname>
+                  <given-names>Gustavo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+            <aff id="aff1">
+                <label>1</label>
+                <institution content-type="original">Laboratorio de Análisis Geoespacial (LAGE), Instituto de Geografía, Circuito Exterior s/n, Cd. Universitaria, Universidad Nacional Autónoma de México, 04510, Ciudad de México, México.</institution>
+                <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+                <institution content-type="orgdiv2">Laboratorio de Análisis Geoespacial (LAGE)</institution>
+                <institution content-type="orgdiv1">Instituto de Geografía</institution>
+                <institution content-type="orgname">Universidad Nacional Autónoma de México</institution>
+                <addr-line>
+                <city>Mexico City</city>
+                <postal-code>04510</postal-code>
+                </addr-line>
+                <country country="MX">Mexico</country>
+            </aff>
+         </contrib-group>
+         <author-notes>
+            <corresp id="c1"E-mail address: <email>andres@igg.unam.mx</email></corresp>
+         </author-notes>
+         <pub-date pub-type="epub">
+            <day>30</day>
+            <month>04</month>
+            <year>2019</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue>1</issue>
+         <fpage>00</fpage>
+         <history>
+            <date date-type="received">
+               <day>25</day>
+               <month>01</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>22</day>
+               <month>04</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>&#169; 2019, S. Couturier, J. Osorno-Covarrubias, I. Martinez-Zazueta, V. Magaña-Rueda, G. Vazquez-Cruz. Published by Terra Digitalis.
+            </copyright-statement>
+            <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+               <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <sec>
+               <title>Resumen</title>
+               <p>
+                Para enfrentar el cambio y variabilidad climáticas, las instituciones públicas necesitan el manejo de información científica sustentada en una gran cantidad de observaciones confiables, y a la vez una estrategia de comunicación para permitir la utilización de la información por sectores claves de la sociedad. Presentamos la visualización cartográfica dinámica de imágenes diarias de variables climáticas básicas (precipitación, temperatura mínima, temperatura máxima) adaptadas de los modelos numéricos “Atmosphere Ocean General Circulation Models” (AOGCM). La estructura NetCDF (“cubo de datos”) permitió una alta escalabilidad en cuanto a la conformación de series temporales, su visualización y su descarga. Esta plataforma fue aceptada por el INEGI para estar incorporada en el Mapa Digital de México.
+               </p>
+               <p><italic>Palabras clave</italic>: Modelos climáticos, Cambio climático, Geovisualización, NetCDF, Big Data.</p>
+            </sec>
+            <sec>
+               <title>Abstract</title>
+               <p>
+                In the context of climate variability and change, public institutions need the management of scientific information supported by a large amount of reliable observations, and at the same time a communication strategy which allows the use of this information by key social sectors. We present the dynamic cartographic visualization of daily basic climatic variables (precipitation, minimum temperature, maximum temperature), adapted from the Atmosphere Ocean General Circulation Models (AOGCM).  The underlying data structure is based on the NetCDF format (“data cubes”) which allows a high scalability for the construction of timeseries, visualization and download. This platform was accepted by INEGI to be incorporated into the Mexican Digital Map.
+               </p>
+               <p><italic>Keywords</italic>: Climate models, climate change, Geovisualization, NetCDF, Big Data.</p>
+            </sec>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>
+                In the context of climate variability and change, public institutions need the management of scientific information supported by a large amount of reliable observations, and at the same time a communication strategy which allows the use of this information by key social sectors. We present the dynamic cartographic visualization of daily basic climatic variables (precipitation, minimum temperature, maximum temperature), adapted from the Atmosphere Ocean General Circulation Models (AOGCM).  The underlying data structure is based on the NetCDF format (“data cubes”) which allows a high scalability for the construction of timeseries, visualization and download. This platform was accepted by INEGI to be incorporated into the Mexican Digital Map.
+            </p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave</title>
+            <kwd>Modelos climáticos</kwd>
+            <kwd>Cambio climático</kwd>
+            <kwd>Geovisualización</kwd>
+            <kwd>NetCDF</kwd>
+            <kwd>Big Data</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords</title>
+            <kwd>Climate models</kwd>
+            <kwd>Climate change</kwd>
+            <kwd>Geovisualization</kwd>
+            <kwd>NetCDF</kwd>
+            <kwd>Big Data</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="0"/>
+            <table-count count="0"/>
+            <equation-count count="0"/>
+            <ref-count count="18"/>
+            <page-count count="1"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>1. Introducción</title>
+         <p>
+            La variabilidad y cambio climáticos impactan múltiples aspectos de la estrategia de sobrevivencia de las sociedades humanas. La seguridad alimentaria, la salud pública, la mitigación de desastres, potencialmente afectadas por el cambio climático, aparecen como tareas prioritarias en la agenda nacional de muchos países periféricos como México (<xref ref-type="bibr" rid="B6">Delgado et al., 2006</xref>). En particular, hay evidencia sólida que aumentó la ocurrencia de eventos hidrometeorológicos extremos que causan sequías o inundaciones (<xref ref-type="bibr" rid="B14">ONU, 2009</xref>). En consecuencia, un reto creciente de las instituciones públicas es poner información confiable sobre riesgos asociados a disposición de sectores claves de la sociedad (<xref ref-type="bibr" rid="B10">Landa et al., 2009</xref>). En este sentido se han desarrollado geoportales con una visualización cartográfica de variables ambientales, demográficas, socioeconómicas, en las últimas dos décadas (<xref ref-type="bibr" rid="B9">INEGI, 2019b</xref>; <xref ref-type="bibr" rid="B2">CONABIO, 2019</xref>; <xref ref-type="bibr" rid="B3">CONAGUA, 2019</xref>; <xref ref-type="bibr" rid="B7">INECC, 2015</xref>).
+         </p>
+         <p>
+            Sin embargo, a través de sus convocatorias de fondos sectoriales (ej. <xref ref-type="bibr" rid="B8">INEGI, 2019a</xref>), las mismas instituciones reconocen la limitación de la tecnología de visualización empleada, así como de la adecuación de los datos científicos visualizados. En particular, la generación de información climática a nivel nacional tiende a carecer de criterios de calidad desde el punto de vista de procesos. A menudo se recurre a simples esquemas de interpolación que no toman la coherencia entre variables o se sustentan en criterios de relaciones del clima con la altura para obtener alta resolución espacial, aunque no temporal (<xref ref-type="bibr" rid="B12">Magaña et al., 2012</xref>). En los principales centros de pronósticos a nivel internacional, la base para realizar análisis que lleven mediciones puntuales a campos en mallas que nos proporcionan las imágenes de satélite, se sustentan en modelos dinámicos o en esquemas numéricos que toman en cuenta principios variacionales de reducción de error.
+         </p>
+         <p>
+            Un objetivo de nuestra investigación es contribuir en políticas públicas orientadas en enfrentar el cambio ambiental global con bases científicas sólidas (<xref ref-type="bibr" rid="B15">Osorno Covarrubias et al., 2015</xref>). Considerando lo anterior, presentamos el desarrollo de un visualizador cartográfico dinámico a nivel nacional, de imágenes climáticas diarias derivadas de modelos numéricos. Específicamente, en esta propuesta, proponemos recurrir a uno de los modelos numéricos más simples, pero de los más eficaces: el método de correcciones sucesivas, útil en reducción del error del campo preliminar en comparación con observaciones in situ. Adicionalmente, proponemos la geovisualización de secuencias temporales para interpretación en línea o para su descarga. El producto está destinado al análisis de tendencias climáticas de 30 años atrás a la fecha, que son útiles para la construcción de modelos agroclimáticos prospectivos (por ej. <xref ref-type="bibr" rid="B12">Magaña et al., 2012</xref>) en territorios específicos del país.
+         </p>
+      </sec>
+      <sec sec-type="methods">
+         <title>2. Metodología:</title>
+            <sec>
+                <title><italic>2.1 Construcción de los modelos climáticos</italic></title>
+                <p>
+                    La generación del modelo climático consistió en un primer tiempo en reunir la información diaria de la red de estaciones meteorológicas en una base de datos a nivel nacional (1979 a la fecha). En un segundo tiempo, con base en lo anterior, se realizó una asimilación a mayor resolución espacial del modelo numérico climático de estándar internacional Atmosphere Ocean General Circulation Models (AOGCMs). Para este objetivo, las variables de precipitación, temperatura máxima y temperatura mínima fueron corregidas de errores sistemáticos vía el método de correcciones sucesivas de tipo Cressman (<xref ref-type="bibr" rid="B5">Cressman, 1959</xref>) y un ajuste de valores por altura aplicando un gradiente adiabático seco.
+                </p>
+            </sec>
+            <sec>
+                <title><italic>2.2 Diseño de las estructuras de datos</italic></title>
+                <p>
+                    En México existen iniciativas de visualización en línea de variables climáticas. El UNIATMOS (<xref ref-type="bibr" rid="B1">CCA UNAM, 2019</xref>) es un Atlas Climático Digital de México, se centra en el acopio y sistematización de una gama amplia de variables e índices climáticos, y su modo de visualización es esencialmente estático. Para nuestros objetivos de difundir modelos prospectivos dinámicos de clima, optamos por desarrollar una solución apropiada para visualizar secuencias espaciotemporales de imágenes. Nuestro desarrollo se basó en estructuras de datos bajo el estándar abierto NetCDF (“cubos de datos”), que permitió manejar de forma compacta series espaciotemporales extensas como las producidas por modelos dinámicos de simulación espacialmente explícitos.
+                </p>
+            </sec>
+            <sec>
+                <title><italic>2.3 Construcción del visualizador</italic></title>
+                <p>
+                    Para la visualización interactiva de las variables de las simulaciones climáticas, se desarrolló una aplicación a la medida: El desarrollo se centra en la implementación de un widget que permite recorrer la simulación paso a paso o en forma automática. La información reside en estructuras de datos NetCDF en un servidor de mapas GeoServer, que expone cada uno de los “frames” de la simulación a través de un servicio WMS. El usuario controla la visualización a través de un widget escrito en el lenguaje PhP y que presenta imágenes en un mapa basado en OpenLayers de acuerdo con la interacción con el usuario. Nuestro esquema de visualización es cercano al del visualizador de la NOAA GlobalData (<xref ref-type="bibr" rid="B13">NOAA, 2019</xref>). La plataforma del Sistema Regional de Visualización y Monitoreo de Mesoamérica (<xref ref-type="bibr" rid="B16">SERVIR, 2019</xref>) también ofrece una visualización dinámica de variables climáticas, sin embargo, su visualizador está basado en la licencia propietaria Google Earth API y en el formato kml. Esta solución tecnológica es muy atractiva en cuanto a visualización, pero es deficiente en cuanto a manejo de metadatos, un aspecto sensible para información científica. El diseño de nuestro visualizador consistió en una ventana en donde se despliega el mapa interactivo del territorio mexicano y dos paneles colapsables superpuestos. En el panel del lado derecho se eligen capas de fondo. En el panel del lado izquierdo se elige la variable climática, lo que activa el widget para la animación de series temporales de la variable. También se ofrece ahí la descarga del producto y del metadato.
+                </p>
+            </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>3. Resultados</title>
+         <p>
+            Se presenta un visualizador interactivo de secuencias espaciotemporales de modelos climáticos de las variables diarias Temperatura Máxima, Temperatura Mínima y Precipitación a nivel nacional. Las variables están desplegadas en formato Raster a una resolución espacial de 10km y están disponibles de 1979 a 2011. Se está trabajando la actualización de los modelos hasta 2018. La arquitectura del sistema y el visualizador que se presenta en este artículo, son parte de la infraestructura de datos espaciales y plataforma en línea “VISTA-C” (Sitio http://vista-c.igg.unam.mx : consultar <xref ref-type="bibr" rid="B11">López Vega et al., 2015</xref>; <xref ref-type="bibr" rid="B4">Couturier et al., 2017</xref>) desarrollada para el INEGI. Estos avances ofrecen una herramienta de software libre para las instituciones públicas y los sectores productivos en agricultura y pesquería, y de protección civil. Se trata de una visualización sin precedente en el país porque permite la representación dinámica de modelos climáticos numéricos basados en variables rasterizadas. 
+         </p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>4. Conclusiones</title>
+         <p>
+            El mapa interactivo de modelos climáticos numéricos de México que presentamos (incorporado en el sitio web vista-c.igg.unam.mx FALTA AQUÍ INSERTAR EL URL DE LA VERSIÓN EXTRAÍDA POR IVÁN!!!) tiene características atractivas para la comunicación de información científica a sectores claves de la sociedad. En primer lugar, los modelos de las variables climáticas cuentan con control estadístico de verificación, garantizando cierto grado de confiabilidad en la correspondencia entre los valores mapeados y los valores in situ. En segundo lugar, el widget de animación desarrollado, basado en Openlayers, que consume datos de GeoServer habilitó una visualización original y amigable. Cabe señalar que, si bien la visualización dinámica de series temporales de las imágenes Raster, es suficientemente ágil, puede mejorarse sustancialmente utilizando un esquema de cacheo apropiado (basado en el componente GeoWebCache de GeoServer). Esta mejora está en vías de implementación. En tercer lugar, el formato NetCDF probó ser muy apropiado para manejar en forma compacta, los “cubos” con series de tiempo muy extensas, con potencial amplio para escalar el volumen de datos. Por otro lado, la interfaz desarrollada permite al usuario la descarga, amigable y libre, de los datos y metadatos en forma directa y sencilla. Aprovechando el formato compacto NetCDF, se está trabajando en la posibilidad de descargar secuencias temporales de imágenes con un formato de animación video, con mayor potencial de usabilidad para usuarios no especializados.
+         </p>
+         <p>
+            El manejo de los metadatos resultó ser ágil porque muy compacto (un solo metadato para cada estructura de datos NetCDF). Nuestra implementación de metadatos es limitada dado que aún no integra una herramienta CS-W para su manejo, como se hace en la plataforma UNIATMOS y otras plataformas similares. Esta deficiencia se subsanará agregando el plugin CS-W a GeoServer.
+         </p>
+         <p>
+            Los resultados de la investigación apuntalan la pertinencia de las estructuras de datos NetCDF para los modelos climáticos numéricos existentes y el desarrollo de nuevos modelos. Nuestro esquema mostró ser muy adecuado para el acopio de datos y la modelación climática que potencialmente genera volúmenes inmensos de datos, y se perfila como un elemento robusto en una estrategia de comunicación de acervos Big Data en los dominios del Big Raster Data y Big Earth Data. Se prevén como extensión a la plataforma el despliegue de información derivada de un procesamiento espacial o temporal básico de las variables climáticas, extensión que potenciaría la usabilidad de la información. Por ejemplo, promedios mensuales, anuales, o tendencias plurianuales de las variables en un determinado mes, o en cierto espacio geográfico. 
+         </p>
+         <p>
+            El uso de esta estructura de datos se ha extendido a la plataforma de visualización de imágenes GOES-16 del laboratorio LANOT (<xref ref-type="bibr" rid="B17">LANOT, 2019</xref>). Adicionalmente, nuestro visualizador ha sido aceptado por el Instituto Nacional de Estadística y Geografía (INEGI) para estar incorporado en el Mapa Digital de México. Otra perspectiva es la de poner a disposición de un público internacional el contenido de los modelos, aprovechando la inserción en la red Global Earth Observation System of Systems (GEOSS) nuestra antena Geonetcast actualmente en operación. 
+         </p>
+      </sec>
+      <sec>
+         <title>5. software</title>
+         <p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>Sistema Operativo: Linux (distribución Ubuntu)</p>
+               </list-item>
+               <list-item>
+                  <p>Bases de datos: PostgreSQL con la extensión PostGIS</p>
+               </list-item>
+               <list-item>
+                  <p>Servidor de mapas: GeoServer</p>
+               </list-item>
+               <list-item>
+                  <p>Desarrollo de aplicaciones: basado en los lenguajes PHP y JavaScript</p>
+               </list-item>
+               <list-item>
+                  <p>Librería de mapas: Openlayers</p>
+               </list-item>
+            </list>
+         </p>
+      </sec>
+      <sec>
+         <title>6. Datos</title>
+         <p>
+            Imágenes Raster de México de las variables climáticas diarias: Temperatura máxima, Temperatura mínima y Precipitación, derivadas de un esquema de correcciones sucesivas del modelo numérico Atmosphere Ocean General Circulation Models (AOGCM), a 10km de resolución, de 1979 a 2011 (en proceso de actualización a 2018).
+         </p>
+      </sec>
+      <sec>
+         <title>Agradecimientos</title>
+         <p>
+            Esta investigación se realizó en el marco de los proyectos siguientes: CONACYT “LANOT-2018-295081” (convocatoria Laboratorios Nacionales), y PAPIIT “IN302417”: Seguridad Alimentaria versus preservación ambiental: diseño de una plataforma cartográfica nacional para analizar su compatibilidad de forma multiescalar. 
+         </p>
+      </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias</title>
+         <ref id="B1">
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>CCA UNAM (Centro de Ciencias de la Atmósfera, UNAM)</collab>
+               </person-group>
+               <year>2019, Último acceso: 15 de enero de 2019</year>
+               <article-title><ext-link ext-link-type="uri"
+                            xlink:href="http://uniatmos.atmosfera.unam.mx/ACDM">Unidad de Informática para las Ciencias Atmosféricas y Ambientales (UNIATMOS)</ext-link></article-title>
+               <publisher-loc>UNAM</publisher-loc>
+               <source>UNIATMOS</source>
+               <comment>
+                  Unidad de Informática para las Ciencias Atmosféricas y Ambientales (UNIATMOS).
+                  <ext-link ext-link-type="uri" xlink:href="http://uniatmos.atmosfera.unam.mx/ACDM">
+                     http://uniatmos.atmosfera.unam.mx/ACDM
+                  </ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-01-15">15 de enero de 2019</date-in-citation>
+            </element-citation>
+         </ref>
+
+         <ref id="B2">
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>CONABIO</collab>
+               </person-group>
+               <year>2019, Último acceso: 15 de enero de 2019</year>
+               <article-title><ext-link ext-link-type="uri"
+                            xlink:href="http://www.conabio.gob.mx/informacion/gis"> Sistema Nacional de Información sobre Biodiversidad (SNIB)</ext-link></article-title>
+               <publisher-loc>México</publisher-loc>
+               <source>CONABIO</source>
+               <comment>
+                  Sistema Nacional de Información sobre Biodiversidad (SNIB).
+                  <ext-link ext-link-type="uri" xlink:href="http://www.conabio.gob.mx/informacion/gis">
+                     http://www.conabio.gob.mx/informacion/gis
+                  </ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-01-15">15 de enero de 2019</date-in-citation>
+            </element-citation>
+         </ref>
+
+         <ref id="B3">
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>CONAGUA</collab>
+               </person-group>
+               <year>2019, Último acceso: 15 de enero de 2019</year>
+               <article-title><ext-link ext-link-type="uri"
+                            xlink:href="http://www.conabio.gob.mx/informacion/gis"> Sistema Nacional de Información sobre Biodiversidad (SNIB)</ext-link></article-title>
+               <publisher-loc>México</publisher-loc>
+               <source>CONABIO</source>
+               <comment>
+                  Sistema Nacional de Información sobre Biodiversidad (SNIB).
+                  <ext-link ext-link-type="uri" xlink:href="http://www.conabio.gob.mx/informacion/gis">
+                     http://www.conabio.gob.mx/informacion/gis
+                  </ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-01-15">15 de enero de 2019</date-in-citation>
+            </element-citation>
+         </ref>
+
+         <ref id="B4">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Couturier</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Osorno-Covarrubias</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Magaña Rueda</surname>
+                     <given-names>V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Martínez Zazueta</surname>
+                     <given-names>I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vázquez Cruz</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title> Prototype of the Mexican spatial data infrastructure for climate raster models and satellite imagery (“VISTA-C”)</article-title>
+               <source>IOP Conf. Series: Earth and Environmental Science</source>
+               <volume>54</volume>
+               <fpage>1</fpage>
+               <lpage>6</lpage>
+               <pub-id pub-id-type="doi">10.1088/1755-1315/54/1/012042</pub-id>
+            </element-citation>
+         </ref>
+
+         <ref id="B5">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cressman</surname>
+                     <given-names>G. P.</given-names>
+                  </name>
+               </person-group>
+               <year>1959</year>
+               <article-title>An operational objective analysis system.</article-title>
+               <source>Monthly Weather Review</source>
+               <volume>87</volume>
+               <fpage>367</fpage>
+               <lpage>374</lpage>
+               <pub-id pub-id-type="doi">10.1175/1520-0493(1959)087<0367:AOOAS>2.0.CO;2</pub-id>
+            </element-citation>
+         </ref>
+
+         <ref id="B6">
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Delgado</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Jazcilevich</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Cram</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Siebe</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ruiz</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ángeles-Serrano</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>
+                  <italic>The Environment: Or How Social Issues Affect the Commitment of Environmental Tasks.</italic>
+               </article-title>
+               <pub-id pub-id-type="doi">10.4324/9781315705859</pub-id>
+            </element-citation>
+         </ref>
+
+         <ref id="B7">
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>INECC</collab>
+               </person-group>
+               <year>2015, Último acceso: 12 de agosto de 2015</year>
+               <article-title><ext-link ext-link-type="uri"
+                            xlink:href="http://downloads.gvsig.org/download/documents/reports/Visor_Mapas_cartograficos_Mexico_foss4g_2013.pdf">Cartografía en línea DGIOECE</ext-link></article-title>
+               <publisher-loc>México</publisher-loc>
+               <source>INECC</source>
+               <comment>
+                  Sistema Nacional de Información sobre Biodiversidad (SNIB).
+                  <ext-link ext-link-type="uri" xlink:href="http://downloads.gvsig.org/download/documents/reports/Visor_Mapas_cartograficos_Mexico_foss4g_2013.pdf">
+                     http://downloads.gvsig.org/download/documents/reports/Visor_Mapas_cartograficos_Mexico_foss4g_2013.pdf
+                  </ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-01-15">12 de agosto de 2015</date-in-citation>
+            </element-citation>
+         </ref>
+
+         <ref id="B8">
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>INEGI</collab>
+               </person-group>
+               <year>2019a, Último acceso: 9 de febrero de 2019</year>
+               <article-title><ext-link ext-link-type="uri"
+                            xlink:href="http://www.beta.inegi.org.mx/proyectos/investigacion/conacyt/resulta/2018/convocatoria2/default.html"> Convocatorias Fondo Sectorial CONACYT – INEGI</ext-link></article-title>
+               <publisher-loc>México</publisher-loc>
+               <source>INEGI</source>
+               <comment>
+                  <ext-link ext-link-type="uri" xlink:href="http://www.beta.inegi.org.mx/proyectos/investigacion/conacyt/resulta/2018/convocatoria2/default.html">
+                     http://www.beta.inegi.org.mx/proyectos/investigacion/conacyt/resulta/2018/convocatoria2/default.html
+                  </ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-02-09">9 de febrero de 2019</date-in-citation>
+            </element-citation>
+         </ref>
+
+         <ref id="B9">
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>INEGI</collab>
+               </person-group>
+               <year>2019b, Último acceso: 15 de enero de 2019</year>
+               <article-title><ext-link ext-link-type="uri"
+                            xlink:href="https://www.inegi.org.mx/app/mapas">Mapas del Sistema Nacional de Información en Estadística y Geografía (SNIEG)</ext-link></article-title>
+               <publisher-loc>México</publisher-loc>
+               <source>INEGI</source>
+               <comment>
+                  <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/mapas">
+                     https://www.inegi.org.mx/app/mapas
+                  </ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-01-15">15 de enero de 2019</date-in-citation>
+            </element-citation>
+         </ref>
+
+         <ref id="B10">
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Landa</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Magaña</surname>
+                     <given-names>V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Neri</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <article-title>
+                  <italic>Clima y agua: elementos para la adaptación al cambio climático.</italic>
+               </article-title>
+               <date>
+                  <year>133 pp., 2009</year>
+               </date>
+               <publisher-loc>México</publisher-loc>
+               <publisher-name>Ed. SERMARNAT</publisher-name>
+            </element-citation>
+         </ref>
+
+         <ref id="B11">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>López Vega</surname>
+                     <given-names>M. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Couturier</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Barrera González</surname>
+                     <given-names>K. Y.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Design scheme for a spatial database of climatic and environmental variables in Mexico, integrating Big Data Technology.</article-title>
+               <source>Procedia Computer Science</source>
+               <volume>55</volume>
+               <fpage>503</fpage>
+               <lpage>513</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.procs.2015.07.026</pub-id>
+            </element-citation>
+         </ref>
+
+         <ref id="B12">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Magaña</surname>
+                     <given-names>V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zermeño</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Neri</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Climate change scenarios and potential impacts on water availability in northern Mexico.</article-title>
+               <source>Climate Research</source>
+               <volume>51(2)</volume>
+               <fpage>171</fpage>
+               <lpage>184</lpage>
+               <pub-id pub-id-type="doi">10.3354/cr01080</pub-id>
+            </element-citation>
+         </ref>
+
+         <ref id="B13">
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>NOAA</collab>
+               </person-group>
+               <year>2019, Último acceso: 15 de abril de 2019</year>
+               <article-title><ext-link ext-link-type="uri"
+                            xlink:href="https://www.nnvl.noaa.gov/view/globaldata.html">NOAA View Global Data Explorer</ext-link></article-title>
+               <comment>
+                  <ext-link ext-link-type="uri" xlink:href="https://www.nnvl.noaa.gov/view/globaldata.html">
+                     https://www.nnvl.noaa.gov/view/globaldata.html
+                  </ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-04-15">15 de abril de 2019</date-in-citation>
+            </element-citation>
+         </ref>
+
+         <ref id="B14">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>ONU</surname>
+                     <given-names></given-names>
+                  </name>
+               </person-group>
+               <year>2009, 218p</year>
+               <article-title>Report of Global Assessment on Disaster Risk Reduction.</article-title>
+               <publisher-loc>Genova, Suiza</publisher-loc>
+            </element-citation>
+         </ref>
+
+         <ref id="B15">
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Osorno-Covarrubias</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Couturier</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ricárdez</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>El rol de la Geografía y sus hibridaciones recientes frente a la crisis de sustentabilidad global.</article-title>
+               <source>Boletín de la Asociación de Geógrafos Españoles</source>
+               <volume>69(10)</volume>
+               <fpage>93</fpage>
+               <lpage>112</lpage>
+            </element-citation>
+         </ref>
+
+         <ref id="B16">
+            <element-citation publication-type="webpage">
+               <person-group person-group-type="author">
+                  <collab>SERVIR</collab>
+               </person-group>
+               <year>2019, Último acceso: 9 de febrero de 2019</year>
+               <article-title><ext-link ext-link-type="uri"
+                            xlink:href="https://servir.net">Sistema Regional de Visualización y Monitoreo de Mesoamérica</ext-link></article-title>
+               <comment>
+                  <ext-link ext-link-type="uri" xlink:href="https://servir.net">
+                     https://servir.net
+                  </ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-02-09">9 de febrero de 2019</date-in-citation>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
