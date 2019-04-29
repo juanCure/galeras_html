@@ -27,7 +27,7 @@
             </subj-group>
          </article-categories>
          <title-group>
-            <article-title>Visualizador dinámico de modelos climáticos numéricos en México, basado en estructuras de datos NetCDF✩ / Dynamic visualization of numerical climate models in Mexico based on the NetCDF data format</article-title>
+            <article-title>Visualizador dinámico de modelos climáticos numéricos en México, basado en estructuras de datos NetCDF / Dynamic visualization of numerical climate models in Mexico based on the NetCDF data format</article-title>
             <trans-title-group xml:lang="en">
                <trans-title>Dynamic visualization of numerical climate models in Mexico based on the NetCDF data format</trans-title>
             </trans-title-group>
@@ -90,7 +90,6 @@
                 <city>Mexico City</city>
                 <postal-code>04510</postal-code>
                 </addr-line>
-                <country country="MX">Mexico</country>
             </aff>
          </contrib-group>
          <author-notes>
@@ -216,7 +215,7 @@
             El mapa interactivo de modelos climáticos numéricos de México que presentamos (incorporado en el sitio web vista-c.igg.unam.mx FALTA AQUÍ INSERTAR EL URL DE LA VERSIÓN EXTRAÍDA POR IVÁN!!!) tiene características atractivas para la comunicación de información científica a sectores claves de la sociedad. En primer lugar, los modelos de las variables climáticas cuentan con control estadístico de verificación, garantizando cierto grado de confiabilidad en la correspondencia entre los valores mapeados y los valores in situ. En segundo lugar, el widget de animación desarrollado, basado en Openlayers, que consume datos de GeoServer habilitó una visualización original y amigable. Cabe señalar que, si bien la visualización dinámica de series temporales de las imágenes Raster, es suficientemente ágil, puede mejorarse sustancialmente utilizando un esquema de cacheo apropiado (basado en el componente GeoWebCache de GeoServer). Esta mejora está en vías de implementación. En tercer lugar, el formato NetCDF probó ser muy apropiado para manejar en forma compacta, los “cubos” con series de tiempo muy extensas, con potencial amplio para escalar el volumen de datos. Por otro lado, la interfaz desarrollada permite al usuario la descarga, amigable y libre, de los datos y metadatos en forma directa y sencilla. Aprovechando el formato compacto NetCDF, se está trabajando en la posibilidad de descargar secuencias temporales de imágenes con un formato de animación video, con mayor potencial de usabilidad para usuarios no especializados.
          </p>
          <p>
-            El manejo de los metadatos resultó ser ágil porque muy compacto (un solo metadato para cada estructura de datos NetCDF). Nuestra implementación de metadatos es limitada dado que aún no integra una herramienta CS-W para su manejo, como se hace en la plataforma UNIATMOS y otras plataformas similares. Esta deficiencia se subsanará agregando el plugin CS-W a GeoServer.
+            El manejo de los metadatos resultó ser ágil porque es muy compacto (un solo metadato para cada estructura de datos NetCDF). Nuestra implementación de metadatos es limitada dado que aún no integra una herramienta CS-W para su manejo, como se hace en la plataforma UNIATMOS y otras plataformas similares. Esta deficiencia se subsanará agregando el plugin CS-W a GeoServer.
          </p>
          <p>
             Los resultados de la investigación apuntalan la pertinencia de las estructuras de datos NetCDF para los modelos climáticos numéricos existentes y el desarrollo de nuevos modelos. Nuestro esquema mostró ser muy adecuado para el acopio de datos y la modelación climática que potencialmente genera volúmenes inmensos de datos, y se perfila como un elemento robusto en una estrategia de comunicación de acervos Big Data en los dominios del Big Raster Data y Big Earth Data. Se prevén como extensión a la plataforma el despliegue de información derivada de un procesamiento espacial o temporal básico de las variables climáticas, extensión que potenciaría la usabilidad de la información. Por ejemplo, promedios mensuales, anuales, o tendencias plurianuales de las variables en un determinado mes, o en cierto espacio geográfico. 
@@ -270,13 +269,13 @@
                </person-group>
                <year>2019, Último acceso: 15 de enero de 2019</year>
                <article-title><ext-link ext-link-type="uri"
-                            xlink:href="http://uniatmos.atmosfera.unam.mx/ACDM">Unidad de Informática para las Ciencias Atmosféricas y Ambientales (UNIATMOS)</ext-link></article-title>
+                            xlink:href="http://uniatmos.atmosfera.unam.mx/ACDM/">Unidad de Informática para las Ciencias Atmosféricas y Ambientales (UNIATMOS)</ext-link></article-title>
                <publisher-loc>UNAM</publisher-loc>
                <source>UNIATMOS</source>
                <comment>
                   Unidad de Informática para las Ciencias Atmosféricas y Ambientales (UNIATMOS).
-                  <ext-link ext-link-type="uri" xlink:href="http://uniatmos.atmosfera.unam.mx/ACDM">
-                     http://uniatmos.atmosfera.unam.mx/ACDM
+                  <ext-link ext-link-type="uri" xlink:href="http://uniatmos.atmosfera.unam.mx/ACDM/">
+                     http://uniatmos.atmosfera.unam.mx/ACDM/
                   </ext-link>
                </comment>
                <date-in-citation content-type="access-date" iso-8601-date="2019-01-15">15 de enero de 2019</date-in-citation>
@@ -310,13 +309,13 @@
                </person-group>
                <year>2019, Último acceso: 15 de enero de 2019</year>
                <article-title><ext-link ext-link-type="uri"
-                            xlink:href="http://www.conabio.gob.mx/informacion/gis"> Sistema Nacional de Información sobre Biodiversidad (SNIB)</ext-link></article-title>
+                            xlink:href="http://sina.conagua.gob.mx/sina/tema.php?tema=usosAgua&amp;ver=mapa"> Sistema Nacional de Información del Agua(SINA).</ext-link></article-title>
                <publisher-loc>México</publisher-loc>
-               <source>CONABIO</source>
+               <source>CONAGUA</source>
                <comment>
                   Sistema Nacional de Información sobre Biodiversidad (SNIB).
-                  <ext-link ext-link-type="uri" xlink:href="http://www.conabio.gob.mx/informacion/gis">
-                     http://www.conabio.gob.mx/informacion/gis
+                  <ext-link ext-link-type="uri" xlink:href="http://sina.conagua.gob.mx/sina/tema.php?tema=usosAgua&amp;ver=mapa">
+                     http://sina.conagua.gob.mx/sina/tema.php?tema=usosAgua&amp;ver=mapa
                   </ext-link>
                </comment>
                <date-in-citation content-type="access-date" iso-8601-date="2019-01-15">15 de enero de 2019</date-in-citation>
@@ -371,7 +370,7 @@
                <volume>87</volume>
                <fpage>367</fpage>
                <lpage>374</lpage>
-               <pub-id pub-id-type="doi">10.1175/1520-0493(1959)087</pub-id>
+               <pub-id pub-id-type="doi">10.1175/1520-0493(1959)087&lt;0367:AOOAS&gt;2.0.CO;2</pub-id>
             </element-citation>
          </ref>
 
@@ -557,7 +556,7 @@
                <person-group person-group-type="author">
                   <collab>NOAA</collab>
                </person-group>
-               <year>2019, Último acceso: 15 de abril de 2019</year>
+               <year>NOAA: 2019, Último acceso: 15 de abril de 2019</year>
                <article-title><ext-link ext-link-type="uri"
                             xlink:href="https://www.nnvl.noaa.gov/view/globaldata.html">NOAA View Global Data Explorer</ext-link></article-title>
                <comment>
@@ -577,7 +576,7 @@
                      <given-names></given-names>
                   </name>
                </person-group>
-               <year>2009, 218p</year>
+               <year>ONU: 2009, 218p</year>
                <article-title>Report of Global Assessment on Disaster Risk Reduction.</article-title>
                <publisher-loc>Genova, Suiza</publisher-loc>
             </element-citation>
@@ -605,6 +604,7 @@
                <volume>69(10)</volume>
                <fpage>93</fpage>
                <lpage>112</lpage>
+               <pub-id pub-id-type="doi">10.21138/bage.1891</pub-id>
             </element-citation>
          </ref>
 
