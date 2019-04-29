@@ -136,15 +136,15 @@
          </permissions>
          <abstract>
             <sec>
-               <title>ABSTRACT</title>
+               <title>Abstract</title>
                <bold> </bold>
-               <p>Massive development of unconventional resources using hydraulic fracturing (HF) procedures, has been carried out since the last three decades, with focus on Texas, USA, including the Eagle Ford (EF) play. International concerns have been raised regarding water and environmental impacts closely related to shale production. The aim of this paper is to map spatio-temporal trends of HF development (water use and well density) examining the entire production period in the EF. We used FracFocus as the main source of HF information, from 2009 to 2017. Our database managed in Python, SAGA GIS and QGIS, comprised 15,013 oil and gas well records. Statistical results show that median HF water use has been progressively increasing over time, from ~18,000 m<sup>3</sup>/well (2010) to ~38,000 m<sup>3</sup>/well (2017). Mapping results illustrate that both well density and HF water use peaked in 2014, whereas the area required for HF encompassed ~16,800 km<sup>2</sup> or ~70% of the play surface area. We summarize our results in a public domain interactive GIS-based digital map.</p>
+               <p>Massive development of unconventional resources using hydraulic fracturing (HF) procedures, has been carried out since the last three decades, with focus on Texas, USA, including the Eagle Ford (EF) play. International concerns have been raised regarding water and environmental impacts closely related to shale production. The aim of this paper is to map spatio-temporal trends of HF development (water use and well density) examining the entire production period in the EF. We used FracFocus as the main source of HF information, from 2009 to 2017. Our database managed in Python, SAGA GIS and QGIS, comprised 15,013 oil and gas well records. Statistical results show that median HF water use has been progressively increasing over time, from ~18,000 m<sup>3</sup>/well (2010) to ~38,000 m<sup>3</sup>/well (2017). Mapping results illustrate that both well density and HF water use peaked in 2014, whereas the area required for HF encompassed ~16,800 km<sup>2</sup> or ~70% of the play surface area. We summarize our results in a public domain dynamic GIS-based digital map.</p>
                <p><italic>Keywords: </italic> Shale gas; play; water-energy; hydraulic fracturing; Eagle Ford; GIS</p>
             </sec>
             <sec>
-               <title>RESUMEN</title>
+               <title>Resumen</title>
                <bold> </bold>
-               <p>El desarrollo masivo de recursos no convencionales de gas y aceite usando fracturamiento hidráulico (FH) se ha llevado a cabo desde hace tres décadas, con especial atención en Texas, EUA, incluida la Formación Eagle Ford (EF). Por lo anterior, se han generado alarmas internacionales debido a los grandes volúmenes de agua e impactos ambientales relacionados con la extracción de gas y aceite en lutitas. El objetivo de este artículo es cartografiar la tendencia espacio-temporal de los consumos de agua y la densidad de pozos asociada al FH considerando todo el período de producción de la EF. Usamos FracFocus como la principal fuente de información de 2009-2017. La base de datos manipulada en Python, SAGA GIS y QGIS constó de 15,013 registros de pozos de gas y aceite. Los resultados estadísticos muestran que la mediana de los consumos para FH se ha incrementado progresivamente con respecto al tiempo, de ~18,000 m<sup>3</sup>/pozo (2010) a ~38,000 m<sup>3</sup>/pozo (2017). Los resultados de la cartografía ilustran que el pico de la densidad de pozos y consumos de agua ocurrió en el 2014, mientras que el desarrollo espacial del FH cubrió ~16,800 km<sup>2</sup> o ~70% del área superficial del play. Los resultados se presentan en un mapa interactivo disponible al público en formato SIG.</p>
+               <p>El desarrollo masivo de recursos no convencionales de gas y aceite usando fracturamiento hidráulico (FH) se ha llevado a cabo desde hace tres décadas, con especial atención en Texas, EUA, incluida la Formación Eagle Ford (EF). Por lo anterior, se han generado alarmas internacionales debido a los grandes volúmenes de agua e impactos ambientales relacionados con la extracción de gas y aceite en lutitas. El objetivo de este artículo es cartografiar la tendencia espacio-temporal de los consumos de agua y la densidad de pozos asociada al FH considerando todo el período de producción de la EF. Usamos FracFocus como la principal fuente de información de 2009-2017. La base de datos manipulada en Python, SAGA GIS y QGIS constó de 15,013 registros de pozos de gas y aceite. Los resultados estadísticos muestran que la mediana de los consumos para FH se ha incrementado progresivamente con respecto al tiempo, de ~18,000 m<sup>3</sup>/pozo (2010) a ~38,000 m<sup>3</sup>/pozo (2017). Los resultados de la cartografía ilustran que el pico de la densidad de pozos y consumos de agua ocurrió en el 2014, mientras que el desarrollo espacial del FH cubrió ~16,800 km<sup>2</sup> o ~70% del área superficial del play. Los resultados se presentan en un mapa dinámico disponible al público en formato SIG.</p>
                <p><italic>Palabras clave: </italic> Gas en lutitas; agua-energía; fracturamiento hidráulico; Eagle Ford; GIS</p>
             </sec>
          </abstract>
@@ -198,7 +198,9 @@
          <p>FracFocus is a freely database managed by the Groundwater Protection Council and the Interstate Oil and Gas Commission, which provides oil and gas information from the US and some parts of Canada, including fracturing start and end date, state, county, API number (API = American Petroleum Institute), operator name, well name, well latitude and longitude (NAD83 datum), true vertical depth, HF fluid composition expressed as Chemical Abstract Service (CAS) numbers, and the total base water volume. The latter was directly used as HF water consumption or water use to satisfy shale production per well. </p>
          <p>A dataset comprising 15,013 wells were explored in Microsoft Excel to detect inconsistences (i.e., missing values, inaccurate units, etc). The modified dataset was then exported and managed using advanced mathematical tools such as Python (Python Core Team, 2015) by means of Pandas 0.20.3 (Mckinney and Team, 2015) and Seaborn 0.8.0 libraries (Waskom, 2017).</p>
          <p>Spatio-temporal and statistical mapping analysis included: (1) well density (i.e., number of wells per surface area) and (2) HF water use evaluation. A 5x5 km<sup>2</sup> vector layer grid was defined covering the whole play extent, by using SAGA GIS (<xref ref-type="bibr" rid="B7">Conrad et al. 2015</xref>) and QGIS (<xref ref-type="bibr" rid="B23">QGIS Development Team, 2018</xref>) spatial tools. The grid size was established in order to improve the visual representation since spatial results in a 1x1 km<sup>2</sup> grid were unreadable. Unconventional well counting per year (2009-2017) was carried out by means of the Module count points in polygons, in which FraFocus wells represent the HF wells and the square grid, previously created, embodies the polygon. Finally, well density (number of wells/km<sup>2</sup>) was computed by dividing the number of wells/cell by the cell’s total area (25 km<sup>2</sup>).</p>
-         <p>Furthermore, we estimated total water use per year (2009-2017), considering the sum of all wells/cell and the mean HF water use/well. No distinction was made between vertical and horizontal (e.g. laterals) wells, as this information is lacking in FracFocus. The final geographical information system and presentation mapping was developed in QGIS. <xref ref-type="fig" rid="f2">Plates 1</xref> and <xref ref-type="fig" rid="f3">2</xref> show the main mapping outcomes of this assessment.</p>
+         <p>Furthermore, we estimated total water use per year (2009-2017), considering the sum of all wells/cell and the mean HF water use/well. No distinction was made between vertical and horizontal (e.g. laterals) wells, as this information is lacking in FracFocus.</p>
+         <p>The associated geographical information system and related maps were developed in QGIS. <xref ref-type="fig" rid="f2">Plates 1</xref> and <xref ref-type="fig" rid="f3">2</xref> show the main mapping outcomes of this assessment. The dynamic version of the map can be visualized on the journal platform.</p>
+         <p>Finally, to show the significant impact of unconventional hydrocarbon exploitation on the landscape we have included two Landsat scenes in the dynamic map. We chose cloudless scenes acquired before and after the beginning of the exploitation by fracking of the Eagle Ford play. The initial scene is a Landsat 7 image acquired on 09-26-2002 and the final scene is a Landsat 8 acquired on 11-01-2018. The processing included RGB band combinations to enhance the well platforms, the fracking wastewaters pools and the xerophytic vegetation. We used bands 4, 3, and 2 for the Landsat 7 image and bands 5, 4, and 3 for the Landsat 8 image. A panchromatic enhancement was also used.</p>
       </sec>
       <sec sec-type="results">
          <title>3. Results</title>
@@ -216,16 +218,14 @@
                </caption>
                <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero4/prol_ledesma/a1-1-38003.jpg"/>
             </fig> -->
-            <p>
-               <fig id="f1">
-                  <label>Figure 1 / Figura 1</label>
-                  <caption>
-                     <p><italic><bold>Figure 1. </bold></italic> Boxplots showing temporal trends of hydraulic fracturing water use per well (10<sup>3</sup> m<sup>3</sup>) and cumulative annual HF water use (blue line) over time (2009-2017). Diamonds refer to outlines.</p>
-                     <p><italic><bold>Figura 1. </bold></italic>Boxplots mostrando las tendencias temporales del uso de agua para fracturamiento hidráulico por pozo (10<sup>3</sup> m<sup>3</sup>) y acumulado anual (línea azul) para el periodo analizado (2009-2017). Los valores atípicos se representan como diamantes.</p>
-                  </caption>
-                  <graphic xlink:href="a1-1-7001.png"/>
-               </fig>
-            </p>
+            <fig id="f1">
+               <label>Figure 1 / Figura 1</label>
+               <caption>
+                  <p><italic><bold>Figure 1. </bold></italic> Boxplots showing temporal trends of hydraulic fracturing water use per well (10<sup>3</sup> m<sup>3</sup>) and cumulative annual HF water use (blue line) over time (2009-2017). Diamonds refer to outlines.</p>
+                  <p><italic><bold>Figura 1. </bold></italic>Boxplots mostrando las tendencias temporales del uso de agua para fracturamiento hidráulico por pozo (10<sup>3</sup> m<sup>3</sup>) y acumulado anual (línea azul) para el periodo analizado (2009-2017). Los valores atípicos se representan como diamantes.</p>
+               </caption>
+               <graphic xlink:href="a1-1-7001.png"/>
+            </fig>
             <p>In 2010 FracFocus registered only 5 frac wells using a mean HF water demand of ~18,000 m<sup>3</sup>/well. In contrast, four years later, drilling increased spectacularly to ~4,300 wells in 2014 demanding a mean volume of ~23,600 m<sup>3</sup>/well, equaled to an accumulated volume of ~100 Mm<sup>3</sup>, play-wide, for that particular year.</p>
             <p>Since 2014, HF water volume decreased in 2015 and 2016 to ~70 and 46 Mm<sup>3</sup>, respectively, and increased again to 70 Mm<sup>3</sup> in 2017 (<xref ref-type="fig" rid="f1">Figure 1</xref>). However, mean HF water use per well has been gradually growing to ~28,500, 31,800 and 40,800 m<sup>3</sup>/well for 2015, 2016 and 2017, respectively. Over the eight-year production period, HF water use ranged between 14,656-32,257 m<sup>3</sup>/well (25<sup>th</sup> - 75<sup>th</sup> percentiles), whereas in the most recent year (2017), HF water use fluctuated by 26,675-52,349 m<sup>3</sup>/well (25<sup>th</sup> - 75<sup>th</sup> percentiles). </p>
             <p>Overall, total water use associated with the Eagle Ford play development, totaled 392.73 Mm<sup>3</sup>. That is, for instance, the total groundwater abstracted in the state of Morelos during 2015 to satisfy a dominant percentage of irrigation, industry and domestic supply (<xref ref-type="bibr" rid="B6">CONAGUA, 2016</xref>). <xref ref-type="table" rid="t1">Table 1</xref> summarize these outcomes. </p>
@@ -234,172 +234,170 @@
             <title>3.2 Map synopsis</title>
             <bold> </bold>
             <p>Spatio-temporal mapping for the period 2009-2017 of unconventional well density in the Eagle Ford play, expressed as the number of unconventional wells per surface area (wells/km<sup>2</sup>), is shown in <xref ref-type="fig" rid="f2">Plate 1</xref>. Moreover, water use spatio-temporal mapping to satisfy HF production is displayed in <xref ref-type="fig" rid="f3">Plate 2</xref>. Wells density and HF water use were classified into a five class maps, using a percentile-based rule to appreciate the statistical variation of the most critical development year (2014). The classes in both maps follow the same color classification to compare differences among both maps in terms of wells density and water use.</p>
-            <p>
-               <fig id="f2">
-                  <label>Plate 1 / Lámina 1</label>
-                  <caption>
-                     <p><italic><bold>Plate1. </bold></italic> Well density spatio-temporal mapping linked to hydraulic fracturing across the Eagle Ford play (Texas) from 2009-2017.</p>
-                     <p><italic><bold>Lámina 1. </bold></italic> Mapa de la densidad espacio-temporal de pozos asociados al fracturamiento hidráulico en el play Eagle Ford (Texas) para el periodo 2009-2017.</p>
-                  </caption>
-                  <graphic xlink:href="a1-1-7002.png"/>
-               </fig>
-            </p>
+
+            <fig id="f2">
+               <label>Plate 1 / Lámina 1</label>
+               <caption>
+                  <p><italic><bold>Plate1. </bold></italic> Well density spatio-temporal mapping linked to hydraulic fracturing across the Eagle Ford play (Texas) from 2009-2017.</p>
+                  <p><italic><bold>Lámina 1. </bold></italic> Mapa de la densidad espacio-temporal de pozos asociados al fracturamiento hidráulico en el play Eagle Ford (Texas) para el periodo 2009-2017.</p>
+               </caption>
+               <graphic xlink:href="a1-1-7002.png"/>
+            </fig>
+
             <p>
                <xref ref-type="fig" rid="f2">Plate 1</xref> shown that well density peaked in 2014 with a mean value of ~0.26 wells/ km<sup>2</sup>, which represented a ~70% of the total play surface area partially covered by unconventional wells in that year. In 2017, well density decreased to ~0.21 wells/ km<sup>2 </sup>covering only ~33% of the play area. Over the whole production period, well density accounted for ~0.16 well/ km<sup>2</sup>. </p>
             <p>On the other hand, in concordance with the well density map (<xref ref-type="fig" rid="f2">Plate 1</xref>), HF water use also peaked in 2014 with a median value of ~22,500 m<sup>3</sup>/well (<xref ref-type="fig" rid="f3">Plate 2</xref>). Unconventional wells that were fractured in 2014 using 30,000-40,000 m<sup>3</sup> of water, covered ~9,100 km<sup>2 </sup>of the play (38%), followed by wells using less than 15,000 m<sup>3</sup> (3,400 km<sup>2</sup> or 14% of the play), or wells consuming 40,000-50,000 m<sup>3</sup> (3,350 km<sup>2</sup>; 14%). Finally, fracturing wells with the largest water use (&gt; 50,000 m<sup>3</sup>) were distributed along 900 km<sup>2</sup>, which is only ~3% of the play area. These figures suggest that HF development encompassed ~16,800 km<sup>2</sup> or ~70% of the Eagle Ford play for 2014. In 2017, HF extension decreased by more than half, to about ~8,000 km<sup>2</sup>, or ~33% of the play surface area.</p>
-            <p>
-               <fig id="f3">
-                  <label>Plate 2 / Lámina 2</label>
-                  <caption>
-                     <p><italic><bold>Plate 2. </bold></italic> Water use spatio-temporal mapping linked to hydraulic fracturing across the Eagle Ford play (Texas) from 2009-2017.</p>
-                     <p><italic><bold>Lámina 2. </bold></italic> Mapa espacio-temporal del uso de agua asociado al fracturamiento hidráulico en el play Eagle Ford (Texas) para el periodo 2009-2017.</p>
-                  </caption>
-                  <graphic xlink:href="a1-1-7003.png"/>
-               </fig>
 
-               <table-wrap id="t1">
-                  <label>Table 1 / Tabla 1</label>
-                  <caption>
-                     <p><bold>Table 1: </bold> Hydraulic fracturing water use in the Eagle Ford play over the production period 2009-2017.</p>
-                     <p><bold>Tabla 1: </bold> Uso de agua para fracturamiento hidráulico en el play Eagle Ford para el periodo de producción 2009-2017.</p>
-                  </caption>
-                  <table>
-                     <thead>
-                        <tr>
-                           <th align="center" colspan="10" rowspan="1">Hydraulic fracturing water use per well (m<sup>3</sup>)</th>
-                        </tr>
-                     </thead>
-                     <tbody>
-                        <tr>
-                           <td>Year</td>
-                           <td>Number of wells</td>
-                           <td>Min</td>
-                           <td>Mean</td>
-                           <td>25<sup>th</sup> percentile</td>
-                           <td>Median</td>
-                           <td>75<sup>th</sup> percentile</td>
-                           <td>Max</td>
-                           <td>SD</td>
-                           <td>Accumulated volume (Mm<sup>3</sup>)</td>
-                        </tr>
-                        <tr>
-                           <td>2009-2010</td>
-                           <td>5</td>
-                           <td>15728.86</td>
-                           <td>18215.48</td>
-                           <td>17001.18</td>
-                           <td>18739.00</td>
-                           <td>19227.46</td>
-                           <td>20380.90</td>
-                           <td>1846.96</td>
-                           <td>0.091</td>
-                        </tr>
-                        <tr>
-                           <td>2011</td>
-                           <td>69</td>
-                           <td>60.57</td>
-                           <td>13746.21</td>
-                           <td>11236.42</td>
-                           <td>13902.57</td>
-                           <td>16699.17</td>
-                           <td>29944.35</td>
-                           <td>5235.95</td>
-                           <td>0.948</td>
-                        </tr>
-                        <tr>
-                           <td>2012</td>
-                           <td>794</td>
-                           <td>0.00</td>
-                           <td>15333.00</td>
-                           <td>10044.86</td>
-                           <td>13817.30</td>
-                           <td>20826.27</td>
-                           <td>54482.85</td>
-                           <td>9485.64</td>
-                           <td>12.174</td>
-                        </tr>
-                        <tr>
-                           <td>2013</td>
-                           <td>4117</td>
-                           <td>0.00</td>
-                           <td>17113.88</td>
-                           <td>11237.78</td>
-                           <td>15789.34</td>
-                           <td>23749.79</td>
-                           <td>91457.56</td>
-                           <td>10145.07</td>
-                           <td>70.561</td>
-                        </tr>
-                        <tr>
-                           <td>2014</td>
-                           <td>4311</td>
-                           <td>0.00</td>
-                           <td>23651.17</td>
-                           <td>15725.12</td>
-                           <td>22251.37</td>
-                           <td>30243.90</td>
-                           <td>74852.30</td>
-                           <td>11296.65</td>
-                           <td>102.305</td>
-                        </tr>
-                        <tr>
-                           <td>2015</td>
-                           <td>2548</td>
-                           <td>0.00</td>
-                           <td>28537.74</td>
-                           <td>18536.54</td>
-                           <td>26346.45</td>
-                           <td>36582.28</td>
-                           <td>98365.12</td>
-                           <td>14458.97</td>
-                           <td>72.821</td>
-                        </tr>
-                        <tr>
-                           <td>2016</td>
-                           <td>1449</td>
-                           <td>0.00</td>
-                           <td>31818.18</td>
-                           <td>21198.33</td>
-                           <td>28918.44</td>
-                           <td>41606.44</td>
-                           <td>98754.91</td>
-                           <td>15193.03</td>
-                           <td>46.105</td>
-                        </tr>
-                        <tr>
-                           <td>2017</td>
-                           <td>1720</td>
-                           <td>31.80</td>
-                           <td>40864.20</td>
-                           <td>26675.27</td>
-                           <td>38236.13</td>
-                           <td>52349.42</td>
-                           <td>99042.58</td>
-                           <td>19579.29</td>
-                           <td>72.930</td>
-                        </tr>
-                        <tr>
-                           <td>2009-2017</td>
-                           <td>15013</td>
-                           <td>0.00</td>
-                           <td>24960.84</td>
-                           <td>14656.93</td>
-                           <td>22639.00</td>
-                           <td>32257.87</td>
-                           <td>99042.58</td>
-                           <td>15163.49</td>
-                           <td>392.73</td>
-                        </tr>
-                     </tbody>
-                  </table>
-               </table-wrap>
-            </p>
+            <fig id="f3">
+               <label>Plate 2 / Lámina 2</label>
+               <caption>
+                  <p><italic><bold>Plate 2. </bold></italic> Water use spatio-temporal mapping linked to hydraulic fracturing across the Eagle Ford play (Texas) from 2009-2017.</p>
+                  <p><italic><bold>Lámina 2. </bold></italic> Mapa espacio-temporal del uso de agua asociado al fracturamiento hidráulico en el play Eagle Ford (Texas) para el periodo 2009-2017.</p>
+               </caption>
+               <graphic xlink:href="a1-1-7003.png"/>
+            </fig>
+
+            <table-wrap id="t1">
+               <label>Table 1 / Tabla 1</label>
+               <caption>
+                  <p><bold>Table 1: </bold> Hydraulic fracturing water use in the Eagle Ford play over the production period 2009-2017.</p>
+                  <p><bold>Tabla 1: </bold> Uso de agua para fracturamiento hidráulico en el play Eagle Ford para el periodo de producción 2009-2017.</p>
+               </caption>
+               <table>
+                  <thead>
+                     <tr>
+                        <th align="center" colspan="10" rowspan="1">Hydraulic fracturing water use per well (m<sup>3</sup>)</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="center">Year</td>
+                        <td align="center">Number of wells</td>
+                        <td align="center">Min</td>
+                        <td align="center">Mean</td>
+                        <td align="center">25<sup>th</sup> percentile</td>
+                        <td align="center">Median</td>
+                        <td align="center">75<sup>th</sup> percentile</td>
+                        <td align="center">Max</td>
+                        <td align="center">SD</td>
+                        <td align="center">Accumulated volume (Mm<sup>3</sup>)</td>
+                     </tr>
+                     <tr>
+                        <td align="center">2009-2010</td>
+                        <td align="center">5</td>
+                        <td align="center">15728.86</td>
+                        <td align="center">18215.48</td>
+                        <td align="center">17001.18</td>
+                        <td align="center">18739.00</td>
+                        <td align="center">19227.46</td>
+                        <td align="center">20380.90</td>
+                        <td align="center">1846.96</td>
+                        <td align="center">0.091</td>
+                     </tr>
+                     <tr>
+                        <td align="center">2011</td>
+                        <td align="center">69</td>
+                        <td align="center">60.57</td>
+                        <td align="center">13746.21</td>
+                        <td align="center">11236.42</td>
+                        <td align="center">13902.57</td>
+                        <td align="center">16699.17</td>
+                        <td align="center">29944.35</td>
+                        <td align="center">5235.95</td>
+                        <td align="center">0.948</td>
+                     </tr>
+                     <tr>
+                        <td align="center">2012</td>
+                        <td align="center">794</td>
+                        <td align="center">0.00</td>
+                        <td align="center">15333.00</td>
+                        <td align="center">10044.86</td>
+                        <td align="center">13817.30</td>
+                        <td align="center">20826.27</td>
+                        <td align="center">54482.85</td>
+                        <td align="center">9485.64</td>
+                        <td align="center">12.174</td>
+                     </tr>
+                     <tr>
+                        <td align="center">2013</td>
+                        <td align="center">4117</td>
+                        <td align="center">0.00</td>
+                        <td align="center">17113.88</td>
+                        <td align="center">11237.78</td>
+                        <td align="center">15789.34</td>
+                        <td align="center">23749.79</td>
+                        <td align="center">91457.56</td>
+                        <td align="center">10145.07</td>
+                        <td align="center">70.561</td>
+                     </tr>
+                     <tr>
+                        <td align="center">2014</td>
+                        <td align="center">4311</td>
+                        <td align="center">0.00</td>
+                        <td align="center">23651.17</td>
+                        <td align="center">15725.12</td>
+                        <td align="center">22251.37</td>
+                        <td align="center">30243.90</td>
+                        <td align="center">74852.30</td>
+                        <td align="center">11296.65</td>
+                        <td align="center">102.305</td>
+                     </tr>
+                     <tr>
+                        <td align="center">2015</td>
+                        <td align="center">2548</td>
+                        <td align="center">0.00</td>
+                        <td align="center">28537.74</td>
+                        <td align="center">18536.54</td>
+                        <td align="center">26346.45</td>
+                        <td align="center">36582.28</td>
+                        <td align="center">98365.12</td>
+                        <td align="center">14458.97</td>
+                        <td align="center">72.821</td>
+                     </tr>
+                     <tr>
+                        <td align="center">2016</td>
+                        <td align="center">1449</td>
+                        <td align="center">0.00</td>
+                        <td align="center">31818.18</td>
+                        <td align="center">21198.33</td>
+                        <td align="center">28918.44</td>
+                        <td align="center">41606.44</td>
+                        <td align="center">98754.91</td>
+                        <td align="center">15193.03</td>
+                        <td align="center">46.105</td>
+                     </tr>
+                     <tr>
+                        <td align="center">2017</td>
+                        <td align="center">1720</td>
+                        <td align="center">31.80</td>
+                        <td align="center">40864.20</td>
+                        <td align="center">26675.27</td>
+                        <td align="center">38236.13</td>
+                        <td align="center">52349.42</td>
+                        <td align="center">99042.58</td>
+                        <td align="center">19579.29</td>
+                        <td align="center">72.930</td>
+                     </tr>
+                     <tr>
+                        <td align="center">2009-2017</td>
+                        <td align="center">15013</td>
+                        <td align="center">0.00</td>
+                        <td align="center">24960.84</td>
+                        <td align="center">14656.93</td>
+                        <td align="center">22639.00</td>
+                        <td align="center">32257.87</td>
+                        <td align="center">99042.58</td>
+                        <td align="center">15163.49</td>
+                        <td align="center">392.73</td>
+                     </tr>
+                  </tbody>
+               </table>
+            </table-wrap>
          </sec>
       </sec>
       <sec sec-type="conclusions">
          <title>4. Conclusions</title>
-         <bold> </bold>
-         <p>We present a GIS-based, interactive map showing spatio-temporal trends of water use and well development linked to hydraulic fracturing in the Eagle Ford play (Texas, USA). Here, we show spatio-temporal results at annual scale for the production period from 2009 to 2017. For this, we used freely available data and open-source tools for managing, assessing and linking spatial information. </p>
+         <p>We present a GIS-based, dynamic map showing spatio-temporal trends of water use and well development linked to hydraulic fracturing in the Eagle Ford play (Texas, USA). Here, we show spatio-temporal results at annual scale for the production period from 2009 to 2017. For this, we used freely available data and open-source tools for managing, assessing and linking spatial information. </p>
          <p>From the statistical analysis we concluded that median HF water use has been progressively increasing over time, from ~18,000 m<sup>3</sup>/well (2010) to ~38,000 m<sup>3</sup>/well (2017). On the other hand, spatio-temporal analysis showed that both well density (wells/km<sup>2</sup>) and HF water use peaked in 2014, whereas HF development encompassed ~16,800 km<sup>2</sup>, equivalent to ~70% of the surface area, play-wide.</p>
       </sec>
       <sec>
@@ -423,7 +421,7 @@
       </sec>
       <sec>
          <title>Acknowledgements</title>
-         <p>The first author acknowledges financial support provided by the COMEXUS Fulbright García Robles Fellowship, the UNAM-DGAPA PASPA and the Matías-Romero (SRE-UT LLILAS) Research Visiting Programs that supported this research. Also, to Scott Tinker, Bridget Scanlon, Michael H. Young, Brad Wolaver, JP Nicot and Robert Reedy of the Bureau of Economic Geology (The University of Texas at Austin) for the hospitality during the sabbatical leave of A. Hernández-Espriú. The authors are grateful for the constructive comments of Daniel Itzamna Avila Ortega and one anonymous reviewer that greatly improved the scientific quality of the manuscript. This is the 12<sup>th</sup> contribution from the Hydrogeology Group (Earth Sciences Division), Faculty of Engineering, UNAM, Mexico.</p>
+         <p>The first author acknowledges financial support provided by the COMEXUS Fulbright García Robles Fellowship, the UNAM-DGAPA PASPA and the Matías-Romero (SRE-UT LLILAS) Research Visiting Programs that supported this research. Also, to Scott Tinker, Bridget Scanlon, Michael H. Young, Brad Wolaver, JP Nicot and Robert Reedy of the Bureau of Economic Geology (The University of Texas at Austin) for the hospitality during the sabbatical leave of A. Hernández-Espriú. The authors are grateful for the constructive comments of Daniel Itzamna Avila Ortega and one anonymous reviewer that greatly improved the scientific quality of the manuscript. We would also like to thank Luis Felipe Ruiz Castañeda and Francisco Javier Osorno Covarrubias for the dynamic map development and implementation. Special thanks go to Javier Osorno for its contribution to the Landsat image processing. This is the 12<sup>th</sup> contribution from the Hydrogeology Group (Earth Sciences Division), Faculty of Engineering, UNAM, Mexico.</p>
       </sec>
    </body>
    <back>
@@ -529,7 +527,7 @@
                <year>2014</year>
                <article-title>Ecological Risks of Shale Oil and Gas Development to Wildlife, Aquatic Resources and their Habitats</article-title>
                <source>Environmental Science &amp; Technology</source>
-               <volume>48</volume>
+               <volume>48(19)</volume>
                <issue>19</issue>
                <fpage>11034</fpage>
                <lpage>11047</lpage>
@@ -652,7 +650,7 @@
                <year>2015</year>
                <article-title>System for Automated Geoscientific Analyses (SAGA) v. 2.1.4</article-title>
                <source>Geoscientific Model Development</source>
-               <volume>8</volume>
+               <volume>8(7)</volume>
                <issue>7</issue>
                <fpage>1991</fpage>
                <lpage>2007</lpage>
@@ -754,7 +752,7 @@
                <year>2018</year>
                <article-title>Water Stress from High-Volume Hydraulic Fracturing Potentially Threatens Aquatic Biodiversity and Ecosystem Services in Arkansas, United States</article-title>
                <source>Environmental Science &amp; Technology</source>
-               <volume>52</volume>
+               <volume>52(4)</volume>
                <issue>4</issue>
                <fpage>2349</fpage>
                <lpage>2358</lpage>
@@ -785,7 +783,7 @@
                <year>2015</year>
                <article-title>Hydraulic fracturing water use variability in the United States and potential environmental implications</article-title>
                <source>Water Resources Research</source>
-               <volume>51</volume>
+               <volume>51(7)</volume>
                <issue>7</issue>
                <fpage>5839</fpage>
                <lpage>5845</lpage>
@@ -840,7 +838,7 @@
                <year>2016</year>
                <article-title>Regional assessment of the Eagle Ford Group of South Texas, USA: Insights from lithology, pore volume, water saturation, organic richness, and productivity correlations</article-title>
                <source>Interpretation</source>
-               <volume>4</volume>
+               <volume>4(1)</volume>
                <issue>1</issue>
                <pub-id pub-id-type="doi">10.1190/INT-2015-0099.1</pub-id>
             </element-citation>
@@ -910,7 +908,7 @@
             </element-citation>
          </ref>
          <ref id="B15">
-            <mixed-citation>Ikonnikova, S., Vankov, E., Gülen, G., Browning, J., 2016. Understanding Shale Resource Production: What are the Key Variables ? Society of Petroleum Engineers, doi:10.2118/179984-MS.</mixed-citation>
+            <mixed-citation>Ikonnikova, S., Vankov, E., Gülen, G., Browning, J., 2016. Understanding Shale Resource Production: What are the Key Variables? Society of Petroleum Engineers, doi:10.2118/179984-MS.</mixed-citation>
             <element-citation publication-type="journal">
                <person-group person-group-type="author">
                   <name>
@@ -931,7 +929,7 @@
                   </name>
                </person-group>
                <year>2016</year>
-               <article-title>Understanding Shale Resource Production: What are the Key Variables ?</article-title>
+               <article-title>Understanding Shale Resource Production: What are the Key Variables?</article-title>
                <source>Society of Petroleum Engineers</source>
                <pub-id pub-id-type="doi">10.2118/179984-MS</pub-id>
             </element-citation>
@@ -964,7 +962,7 @@
                <year>2017</year>
                <article-title>Projecting the Water Footprint Associated with Shale Resource Production: Eagle Ford Shale Case Study</article-title>
                <source>Environmental Science &amp; Technology</source>
-               <volume>51</volume>
+               <volume>51(24)</volume>
                <issue>24</issue>
                <fpage>14453</fpage>
                <lpage>14461</lpage>
@@ -1040,7 +1038,7 @@
                <year>2018</year>
                <article-title>The intensification of the water footprint of hydraulic fracturing</article-title>
                <source>Science Advances</source>
-               <volume>4</volume>
+               <volume>4(8)</volume>
                <issue>8</issue>
                <pub-id pub-id-type="doi">10.1126/sciadv.aar5982</pub-id>
             </element-citation>
@@ -1065,7 +1063,7 @@
                <year>2016</year>
                <article-title>Induced seismicity: the potential hazard from shale gas development and CO2 geologic storage</article-title>
                <source>Geosciences Journal</source>
-               <volume>20</volume>
+               <volume>20(1)</volume>
                <issue>1</issue>
                <fpage>137</fpage>
                <lpage>148</lpage>
@@ -1088,7 +1086,7 @@
                <year>2012</year>
                <article-title>Water Use for Shale-Gas Production in Texas, U.S</article-title>
                <source>Environmental Science &amp; Technology</source>
-               <volume>46</volume>
+               <volume>46(6)</volume>
                <issue>6</issue>
                <fpage>3580</fpage>
                <lpage>3586</lpage>
@@ -1096,7 +1094,7 @@
             </element-citation>
          </ref>
          <ref id="B22">
-            <mixed-citation>Nicot, J.-P., Scanlon, B. R., Reedy, R. C., Costley, R. A., 2014. Sourceand Fate of Hydraulic Fracturing Water in the Barnett Shale: A Historical Perspective. Environmental Science &amp; Technology 48 (4), 2464-2471, doi:10.1021/es404050r.</mixed-citation>
+            <mixed-citation>Nicot, J.-P., Scanlon, B. R., Reedy, R. C., Costley, R. A., 2014. Source and Fate of Hydraulic Fracturing Water in the Barnett Shale: A Historical Perspective. Environmental Science &amp; Technology 48 (4), 2464-2471, doi:10.1021/es404050r.</mixed-citation>
             <element-citation publication-type="journal">
                <person-group person-group-type="author">
                   <name>
@@ -1117,9 +1115,9 @@
                   </name>
                </person-group>
                <year>2014</year>
-               <article-title>Sourceand Fate of Hydraulic Fracturing Water in the Barnett Shale: A Historical Perspective</article-title>
+               <article-title>Source and Fate of Hydraulic Fracturing Water in the Barnett Shale: A Historical Perspective</article-title>
                <source>Environmental Science &amp; Technology</source>
-               <volume>48</volume>
+               <volume>48(4)</volume>
                <issue>4</issue>
                <fpage>2464</fpage>
                <lpage>2471</lpage>

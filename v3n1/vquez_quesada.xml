@@ -27,7 +27,7 @@
             </subj-group>
          </article-categories>
          <title-group>
-            <article-title>Visualizador cartográfico y construcción de bases de información sobre infraestructura eléctrica en Centroamérica. / Cartographic display and construction of information database on electric infrastructure in Central America.</article-title>
+            <article-title>Visualizador cartográfico y construcción de bases de información sobre infraestructura eléctrica en Centroamérica / Cartographic display and construction of information database on electric infrastructure in Central America</article-title>
             <trans-title-group xml:lang="en">
                <trans-title>Cartographic display and construction of information database on electric infrastructure in Central America.</trans-title>
             </trans-title-group>
@@ -66,8 +66,8 @@
             </contrib>
             <contrib contrib-type="author">
                <name>
-                  <surname>Martinez Zazueta</surname>
-                  <given-names>Ivan Alejandro</given-names>
+                  <surname>Martínez Zazueta</surname>
+                  <given-names>Iván Alejandro</given-names>
                </name>
                <xref ref-type="aff" rid="aff1">
                   <sup>a</sup>
@@ -141,14 +141,12 @@
          <abstract>
             <sec>
                <title>Resumen</title>
-               <p>La cartografía presentada resulta de la construcción de bases de información exhaustivas sobre el sistema eléctrico de Centroamérica que comprende las centrales de generación eléctrica (priorizando las mayores a 5 MW), las líneas de transmisión, así como algunos megaproyectos directamente relacionados.</p>
-               <p>Diseñada y desarrollada por el Colectivo Geocomunes con apoyo de organizaciones sociales, este mapeo y base de datos funge como un punto de partida de un proyecto de cartografía colaborativa. Su objetivo es proporcionar una base de información que fortalezca la capacidad de las comunidades locales y de la población en general para discutir, argumentar, monitorear y exigir la rendición de cuentas en el sector eléctrico de la región. Una capacidad social que consideramos necesaria frente al contexto de privatización de bienes comunes estratégicos como lo es la electricidad, en donde el Estado ha cedido al mercado global su facultad de gestión y toma de decisiones.</p>
+               <p>La cartografía presentada resulta de la construcción de bases de información exhaustivas sobre el sistema eléctrico de Centroamérica que comprende las centrales de generación eléctrica (priorizando las mayores a 5 MW), las líneas de transmisión, así como algunos megaproyectos directamente relacionados. Diseñada y desarrollada por el Colectivo Geocomunes con apoyo de organizaciones sociales, este mapeo y base de datos funge como un punto de partida de un proyecto de cartografía colaborativa. Su objetivo es proporcionar una base de información que fortalezca la capacidad de las comunidades locales y de la población en general para discutir, argumentar, monitorear y exigir la rendición de cuentas en el sector eléctrico de la región. Una capacidad social que consideramos necesaria frente al contexto de privatización de bienes comunes estratégicos como lo es la electricidad, en donde el Estado ha cedido al mercado global su facultad de gestión y toma de decisiones.</p>
                <p><italic>Palabras clave</italic>: Electricidad; Megaproyectos; Energías Renovables; Defensa del territorio; Cartografía colaborativa.</p>
             </sec>
             <sec>
                <title>Abstract</title>
-               <p>We present a cartography that visualizes an exhaustive spatial database of the electrical power infrastructure of Central America, which include generation plants greater than 5 MW, transmission lines, and some associated megaprojects. </p>
-               <p>Designed and developed by the Geocomunes Collective in collaboration with social organization, this cartography and its associated database are the starting point for a collaborative mapping project. The objective of this research is to provide an information database that aims at strengthen the capacity of local communities in Central America and the population in general to discuss, argue, monitor, and demand accountability mechanisms. A social capability that we consider highly needed in a global context of privatization of strategic common goods, such as power supplies, where the State has ceded to the global market its capacities of management and decision making.</p>
+               <p>We present a cartography that visualizes an exhaustive spatial database of the electrical power infrastructure of Central America, which include generation plants greater than 5 MW, transmission lines, and some associated megaprojects. Designed and developed by the Geocomunes Collective in collaboration with social organization, this cartography and its associated database are the starting point for a collaborative mapping project. The objective of this research is to provide an information database that aims at strengthen the capacity of local communities in Central America and the population in general to discuss, argue, monitor, and demand accountability mechanisms. A social capability that we consider highly needed in a global context of privatization of strategic common goods, such as power supplies, where the State has ceded to the global market its capacities of management and decision making.</p>
                <p><italic>Keywords</italic>: Electricity generation; Megaprojects; Renewable energy; Defense of the territory; Collaborative mapping.</p>
             </sec>
          </abstract>
@@ -197,7 +195,7 @@
                   <sup>1</sup>
                <!-- </xref> -->La participación del capital privado en el subsector eléctrico de la región se legalizó bajo distintas modalidades en todos los países desde mediados de los noventa,<!-- <xref ref-type="fn" rid="fn2"> -->
                   <sup>2</sup>
-               <!-- </xref> --> y desde entonces estas empresas han sido consideradas como el principal motor de la electrificación de la región (con excepción de Costa Rica, donde el capital del Estado sigue siendo prioritario en el desarrollo de esta infraestructura).En la mayoría de los países, la privatización del sector ocurrió de forma paralela a la configuración de <italic>Mercados Mayoristas</italic>
+               <!-- </xref> --> y desde entonces estas empresas han sido consideradas como el principal motor de la electrificación de la región (con excepción de Costa Rica, donde el capital del Estado sigue siendo prioritario en el desarrollo de esta infraestructura). En la mayoría de los países, la privatización del sector ocurrió de forma paralela a la configuración de <italic>Mercados Mayoristas</italic>
                <!-- <xref ref-type="fn" rid="fn3"> -->
                   <sup>3</sup>
                <!-- </xref> --> que operaban en escalas nacionales. Esto es, mercados de electricidad donde los generadores privados podrían vender electricidad directamente a los grandes consumidores (sean estos transmisoras o distribuidoras de electricidad) y que funcionan como mecanismos que garantizan el consumo o la venta de la electricidad producida. En este contexto, la puesta en operación del Mercado de Electricidad Regional (MER) un mercado que opera de manera paralela a los mercados nacionales, y del SIEPAC, que es la red de transmisión eléctrica que posibilita estas transferencias de energía, no sólo ha dinamizado la inversión privada, sino que ha incrementado el número de proyectos eléctricos. La relación entre la instalación de este mercado regional y la expansión de proyectos eléctricos en la región ha sido expuesta en otro documento de análisis del colectivo (<xref ref-type="bibr" rid="B11">Geocomunes, 2019</xref>). En este artículo, el objetivo principal es mostrar la construcción de bases de datos georreferenciadas sobre estos proyectos eléctricos, los principales resultados de este mapeo y las posibilidades que ofrece su visualización.</p>
@@ -258,7 +256,7 @@
             <bold> </bold>
             <p>Las bases de datos se construyeron en tres etapas, priorizando siempre el uso de fuentes de información oficial (pública y privada), y complementando y cotejando con fuentes de información hemerográfica de medios especializados y locales.</p>
             <sec>
-               <title>2.1.1 Construcción de una lista completa de las centrales de generación eléctrica en operación, construcción y en proyecto para cada uno de los seis países.</title>
+               <title>2.1.1 Construcción de una lista completa de las centrales de generación eléctrica</title>
                <bold> </bold>
                <p>La primera fase de la construcción de las capas georeferenciadas consistió en revisar las listas de centrales eléctricas en operación, construcción y proyecto que proporcionan las distintas instancias oficiales en cada país y principalmente los autoridades en materia eléctrica, encargadas de dar autorización a los proyectos<!-- <xref ref-type="fn" rid="fn5"> -->
                      <sup>5</sup>
@@ -280,106 +278,105 @@
                <bold> </bold>
                <p>La tercera parte de la construcción de la información georeferenciada consistió en elaborar una tabla de atributos lo más exhaustiva posible. A la información general que proporcionan las listas oficiales fuimos agregando nuevas columnas de atributos que nos parecían relevantes sobre todo con la intención de documentar los capitales involucrados. </p>
                <p>A continuación se muestra el detalle de la tabla de atributos construida con las fuentes de información para cada campo (ver <xref ref-type="table" rid="t1">Tabla 1</xref>). Cabe mencionar que no se logró obtener la información completa de todos los campos para todas las centrales mapeadas debido a los problemas anteriormente señalados.</p>
-               <p>
-                  <table-wrap id="t1">
-                     <label> Tabla 1. / Table 1. </label>
-                     <caption>
-                        <p><italic><bold>Tabla 1. </bold>Tabla de atributos de la capa de centrales de generación eléctrica.</italic></p>
-                        <p><italic><bold>Table 1. </bold>Attribute table of the power generation plant layer.</italic></p>
-                     </caption>
-                     <table>
-                        <colgroup>
-                           <col span="2"/>
-                        </colgroup>
-                        <thead>
-                           <tr>
-                              <th align="center" colspan="2"/> 
-                           </tr>
-                           <tr>
-                              <th align="center">Campo</th>
-                              <th align="center">Fuentes y metodología </th>
- 
-                           </tr>
-                        </thead>
-                        <tbody>
-                           <tr>
-                              <td align="left">Nombre</td>
-                              <td align="justify">Listas oficiales de instancias gubernamentales</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Fase</td>
-                              <td align="justify">Listas oficiales de instancias gubernamentales y notas de prensa para su actualización</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Filial</td>
-                              <td align="justify">Listas oficiales de instancias gubernamentales</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Matriz</td>
-                              <td align="justify">Páginas oficiales de las empresas, documentos oficiales de compra venta y contratos, notas de prensa</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Sector</td>
-                              <td align="justify">Listas oficiales de instancias gubernamentales</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Empresa constructora</td>
-                              <td align="justify">Páginas oficiales de las empresas y de notas de prensa</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Empresa proveedora de tecnología</td>
-                              <td align="justify">Páginas oficiales de las empresas y de notas de prensa</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Capacidad en MW</td>
-                              <td align="justify">Listas oficiales de instancias gubernamentales</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Inversión</td>
-                              <td align="justify">Páginas oficiales de las empresas y bancos nacionales e internacionales, notas de prensa</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Financiadores</td>
-                              <td align="justify">Páginas oficiales de los principales bancos de desarrollo que operan en la región</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Provincia / departamento</td>
-                              <td align="justify">Listas oficiales de instancias gubernamentales</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">País</td>
-                              <td align="justify">Listas oficiales de instancias gubernamentales</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Conexión al SIEPAC</td>
-                              <td align="justify">Informes de la Empresa Operadora de la Red (2016 y 2017)</td>
- 
-                           </tr>
-                           <tr>
-                              <td align="left">Precisión</td>
-                              <td align="justify">Metodología de geolocalización del punto: por coordenadas oficiales; o por referencias oficiales (dirección) y visualización del elemento.</td>
-                           </tr>
-                        </tbody>
-                     </table>
-                     <table-wrap-foot>
-                        <fn id="TFN1">
-                           <p>Tabla 1. Información de la base de información georreferenciada construida en esta investigación.</p>
-                        </fn>
-                     </table-wrap-foot>
-                  </table-wrap>
-               </p>
+               
+               <table-wrap id="t1">
+                  <label> Tabla 1. / Table 1. </label>
+                  <caption>
+                     <p><italic><bold>Tabla 1. </bold>Tabla de atributos de la capa de centrales de generación eléctrica.</italic></p>
+                     <p><italic><bold>Table 1. </bold>Attribute table of the power generation plant layer.</italic></p>
+                  </caption>
+                  <table>
+                     <colgroup>
+                        <col span="2"/>
+                     </colgroup>
+                     <thead>
+                        <tr>
+                           <th align="center" colspan="2"/> 
+                        </tr>
+                        <tr>
+                           <th align="center">Campo</th>
+                           <th align="center">Fuentes y metodología </th>
+
+                        </tr>
+                     </thead>
+                     <tbody>
+                        <tr>
+                           <td align="left">Nombre</td>
+                           <td align="justify">Listas oficiales de instancias gubernamentales</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Fase</td>
+                           <td align="justify">Listas oficiales de instancias gubernamentales y notas de prensa para su actualización</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Filial</td>
+                           <td align="justify">Listas oficiales de instancias gubernamentales</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Matriz</td>
+                           <td align="justify">Páginas oficiales de las empresas, documentos oficiales de compra venta y contratos, notas de prensa</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Sector</td>
+                           <td align="justify">Listas oficiales de instancias gubernamentales</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Empresa constructora</td>
+                           <td align="justify">Páginas oficiales de las empresas y de notas de prensa</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Empresa proveedora de tecnología</td>
+                           <td align="justify">Páginas oficiales de las empresas y de notas de prensa</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Capacidad en MW</td>
+                           <td align="justify">Listas oficiales de instancias gubernamentales</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Inversión</td>
+                           <td align="justify">Páginas oficiales de las empresas y bancos nacionales e internacionales, notas de prensa</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Financiadores</td>
+                           <td align="justify">Páginas oficiales de los principales bancos de desarrollo que operan en la región</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Provincia / departamento</td>
+                           <td align="justify">Listas oficiales de instancias gubernamentales</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">País</td>
+                           <td align="justify">Listas oficiales de instancias gubernamentales</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Conexión al SIEPAC</td>
+                           <td align="justify">Informes de la Empresa Operadora de la Red (2016 y 2017)</td>
+
+                        </tr>
+                        <tr>
+                           <td align="left">Precisión</td>
+                           <td align="justify">Metodología de geolocalización del punto: por coordenadas oficiales; o por referencias oficiales (dirección) y visualización del elemento.</td>
+                        </tr>
+                     </tbody>
+                  </table>
+                  <table-wrap-foot>
+                     <fn id="TFN1">
+                        <p>Tabla 1. Información de la base de información georreferenciada construida en esta investigación.</p>
+                     </fn>
+                  </table-wrap-foot>
+               </table-wrap>
             </sec>
             <sec>
                <title>2.1.4 Desarrollo y publicación de Geovisualizador</title>
@@ -394,511 +391,499 @@
             <bold> </bold>
             <p>La información incluida en la base de datos georreferenciada, permite hacer una descripción sobre aspectos cualitativos y cuantitativos de los proyectos eléctricos en la región (ver <xref ref-type="fig" rid="f1">Figura 1</xref>). En total, en esta investigación se lograron geolocalizar 745 centrales (378 en operación, 57 en construcción y 310 en proyecto). En su conjunto, estas centrales eléctricas sumaban para el año 2018, una capacidad total en operación de aproximadamente 16,876.7 MW. Si a esta cantidad le agregamos lo que actualmente se está construyendo, la capacidad instalada suma 19,000 MW.</p>
             <p>Analizando la distribución de esta infraestructura por país, tenemos que Honduras y Panamá son los países con mayor número de centrales en cualquiera de sus fases (207 y 201, respectivamente); mientras El Salvador y Nicaragua los que menos tienen (50 y 101 respectivamente). Mientras tanto, en Costa Rica y Guatemala se encontraron, respectivamente, 109  y 129 proyectos en cualquiera de sus fases.</p>
-            <p>
-               <fig id="f1">
-                  <label>Figura 1 / Figure 1</label>
-                  <caption>
-                     <p><italic><bold>Figura 1. </bold>La figura muestra el mapa de la zona de estudio y de las centrales eléctricas georreferenciadas, de acuerdo a su tecnología y energía primaria empleada (biomasa, eólica, geotérmica, hidroeléctrica, solar o térmica fósil) y fase (en operación, en construcción y proyecto), además de otros elementos como la línea del Sistema de Interconexión Eléctrica para América Central (SIEPAC) y la delimitación estatal de los países en cuestión.  Fuente: Elaboración propia con base en capas de la investigación.</italic></p>
-                     <p><italic><bold>Figure 1. </bold>Geographic distribution of power plants in Central America. The map shows country delimitation, the Central American Electrical Interconnection System (SIEPAC), and the power plants according with their technology: biomass, wind, geothermal, hydroelectric, solar or fossil-fuel; and the project status: projected, in construction or operating. Source: Prepared by the authors based on the georeferenced databases of this research.</italic></p>
-                  </caption>
-                  <graphic xlink:href="a2-1-34001.png"/>
-               </fig>
-            </p>
+            
+            <fig id="f1">
+               <label>Figura 1 / Figure 1</label>
+               <caption>
+                  <p><italic><bold>Figura 1. </bold>La figura muestra el mapa de la zona de estudio y de las centrales eléctricas georreferenciadas, de acuerdo a su tecnología y energía primaria empleada (biomasa, eólica, geotérmica, hidroeléctrica, solar o térmica fósil) y fase (en operación, en construcción y proyecto), además de otros elementos como la línea del Sistema de Interconexión Eléctrica para América Central (SIEPAC) y la delimitación estatal de los países en cuestión.  Fuente: Elaboración propia con base en capas de la investigación.</italic></p>
+                  <p><italic><bold>Figure 1. </bold>Geographic distribution of power plants in Central America. The map shows country delimitation, the Central American Electrical Interconnection System (SIEPAC), and the power plants according with their technology: biomass, wind, geothermal, hydroelectric, solar or fossil-fuel; and the project status: projected, in construction or operating. Source: Prepared by the authors based on the georeferenced databases of this research.</italic></p>
+               </caption>
+               <graphic xlink:href="a2-1-34001.png"/>
+            </fig>
             <p>En la <xref ref-type="fig" rid="f2">Figura 2</xref> puede verse el desglose por fase y tecnología de las centrales reportadas en esta investigación. De esta información resulta interesante señalar la concentración en la fase de <italic>proyecto</italic>, y su contraste con el número de centrales en construcción.</p>
-            <p>
-               <fig id="f2">
-                  <label>Figura 2 / Figure 2</label>
-                  <caption>
-                     <p><italic><bold>Figura 2. </bold>Gráfica de la capacidad instalada total en mega watts (MW) por fase de cada tecnología  y con el dato del número de proyectos mapeados en esta investigación. Fuente: Elaboración propia con base en capas de la investigación.</italic></p>
-                     <p><italic><bold>Figure 2. </bold>Total power plant capacity in megawatts (MW) in Central America. The graph shows the total power-plant capacity by technology and project status. Source: Prepared by the authors based on the databases of this research.</italic></p>
-                  </caption>
-                  <graphic xlink:href="a2-1-34002.png"/>
-               </fig>
-            </p>
+            
+            <fig id="f2">
+               <label>Figura 2 / Figure 2</label>
+               <caption>
+                  <p><italic><bold>Figura 2. </bold>Gráfica de la capacidad instalada total en mega watts (MW) por fase de cada tecnología  y con el dato del número de proyectos mapeados en esta investigación. Fuente: Elaboración propia con base en capas de la investigación.</italic></p>
+                  <p><italic><bold>Figure 2. </bold>Total power plant capacity in megawatts (MW) in Central America. The graph shows the total power-plant capacity by technology and project status. Source: Prepared by the authors based on the databases of this research.</italic></p>
+               </caption>
+               <graphic xlink:href="a2-1-34002.png"/>
+            </fig>
             <p>Otro atributo de la base de datos es la capacidad de cada proyecto de generación y la tecnología empleada. Con esta información se puede visualizar a distintas escalas la distribución de los proyectos y su capacidad eléctrica, tal como se muestra en la <xref ref-type="fig" rid="f3">Figura 3</xref> para el caso de Honduras. Si bien la infraestructura de generación eléctrica que opera con fuentes de energía renovable tiene una espacialidad acotada por la existencia de los recursos naturales que las sostienen (ríos, viento, etc.), la distribución de estos proyectos puede mostrar patrones importantes para el análisis, como zonas de concentración de la capacidad eléctrica, zonas sin capacidad, distribución de los proyectos por escala de producción, etc.</p>
-            <p>
-               <fig id="f3">
+            
+            <fig id="f3">
                   <label>Figura 3 / Figure 3</label>
                   <caption>
-                     <p><italic><bold>Figura 3. </bold>Mapa de proyectos de generación eléctrica por tecnología y capacidad en Honduras. El mapa muestra la localización de las plantas de generación hidroeléctrica, biomasa, geotérmica, eólica, fotovoltáica y térmicas convencionales, de acuerdo a su fase (proyecto, operación o construcción). Fuente: Elaboración propia, descargable en el geovisualizador referido, en <xref ref-type="bibr" rid="B12">Geocomunes, 2019 (a)</xref>.</italic></p>
-                     <p><italic><bold>Figure 3.</bold>Geographic distribution of power plants located at the different departments of Honduras. The map shows hydroelectric, biomass, geothermal, wind, photovoltaic, and fossil-fuel power plants and its status. Source: Prepared by the authors based on the georeferenced databases of this research. Downloadable map from <xref ref-type="bibr" rid="B12">Geocomunes, 2019 (a)</xref>.</italic></p>
+                     <p><italic><bold>Figura 3. </bold>Mapa de proyectos de generación eléctrica por tecnología y capacidad en Honduras. El mapa muestra la localización de las plantas de generación hidroeléctrica, biomasa, geotérmica, eólica, fotovoltáica y térmicas convencionales, de acuerdo a su fase (proyecto, operación o construcción). Fuente: Elaboración propia, descargable en el geovisualizador referido, en <xref ref-type="bibr" rid="B13">Geocomunes, 2019(c)</xref>.</italic></p>
+                     <p><italic><bold>Figure 3.</bold>Geographic distribution of power plants located at the different departments of Honduras. The map shows hydroelectric, biomass, geothermal, wind, photovoltaic, and fossil-fuel power plants and its status. Source: Prepared by the authors based on the georeferenced databases of this research. Downloadable map from <xref ref-type="bibr" rid="B13">Geocomunes, 2019(c)</xref>.</italic></p>
                   </caption>
                   <graphic xlink:href="a2-1-34003.png"/>
                </fig>
-            </p>
-            <bold> </bold>
+            
             <p>La <xref ref-type="fig" rid="f4">figura 4</xref> muestra la repartición de centrales entre el sector público y privado. Con la excepción de Costa Rica, resulta claro que la producción de energía eléctrica está en manos del sector privado, ya que éste sector tiene el 79 % del número de centrales operando, el 95 % de centrales en proyecto, el 70 % de la capacidad instalada, el 93 % de la capacidad proyectada y el 81 % de la generación eléctrica actual.</p>
-            <p>
-               <fig id="f4">
-                  <label>Figura 4 / Figure 4</label>
-                  <caption>
-                     <p><italic><bold>Figura 4. </bold>Mapa de proyectos de generación eléctrica por sector público o privado, y de acuerdo con la fase del proyecto (operación, proyecto o contrucción), así como otros elmentos significativos, como la línea de transmisión del Sistema de Interconexión Eléctrica para América Central (SIEPAC), y la delimitación de los países del área de estudio. Fuente: Elaboración propia.</italic></p>
-                     <p><italic><bold>Figure 4. </bold>Mapa de proyectos de generación eléctrica por sector público o privado, y de acuerdo con la fase del proyecto (operación, proyecto o contrucción), así como otros elmentos significativos, como la línea de transmisión del Sistema de Interconexión Eléctrica para América Central (SIEPAC), y la delimitación de los países del área de estudio. Fuente: Elaboración propia.</italic></p>
-                  </caption>
-                  <graphic xlink:href="a2-1-34004.png"/>
-               </fig>
-            </p>
+            
+            <fig id="f4">
+               <label>Figura 4 / Figure 4</label>
+               <caption>
+                  <p><italic><bold>Figura 4. </bold>Mapa de proyectos de generación eléctrica por sector público o privado, y de acuerdo con la fase del proyecto (operación, proyecto o contrucción), así como otros elmentos significativos, como la línea de transmisión del Sistema de Interconexión Eléctrica para América Central (SIEPAC), y la delimitación de los países del área de estudio. Fuente: Elaboración propia.</italic></p>
+                  <p><italic><bold>Figure 4. </bold>Mapa de proyectos de generación eléctrica por sector público o privado, y de acuerdo con la fase del proyecto (operación, proyecto o contrucción), así como otros elmentos significativos, como la línea de transmisión del Sistema de Interconexión Eléctrica para América Central (SIEPAC), y la delimitación de los países del área de estudio. Fuente: Elaboración propia.</italic></p>
+               </caption>
+               <graphic xlink:href="a2-1-34004.png"/>
+            </fig>
             <p>De acuerdo con esta investigación, las empresas que concentraron más capacidad eléctrica instalada en 2017  son las que pueden visualizarse en la <xref ref-type="table" rid="t2">Tabla 2</xref>, junto con el país donde están dadas de alta.</p>
-            <bold> </bold>
-            <p>
-               <table-wrap id="t2">
-                  <label> Tabla 2 / Table 2 </label>
-                  <caption>
-                     <p><italic><bold>Tabla 2. </bold>Empresas con la mayor capacidad de generación eléctrica instalada en los países del SIEPAC, en el año 2017. Se incluye país de la empresa, el sector (público o privado), así como la capacidad total instalada por firma y lo que esto representa en porcentaje de toda la capacidad instalada conectada al SIEPAC. Fuente: Elaboración propia con base en la base de datos georreferenciada de esta investigación.</italic></p>
-                     <p><italic><bold>Table 2. </bold>List of companies with the largest capacity of electricity in the SIEPAC countries, for year 2017, including the name of the company, the home country of the company, the sector (public or private), the total capacity in megawatts (MW) and the percentage of this capacity being connected to the SIEPAC. Source: Prepared by the authors based on the georeferenced databases of this research.</italic></p>
-                  </caption>
-                  <table>
-                     <colgroup>
-                        <col span="4"/>
-                     </colgroup>
-                     <thead>
-                        <tr>
-                           <th align="center"> </th>
-                           <th align="center">Empresa</th>
-                           <th align="center">País de la empresa</th>
-                           <th align="center">Sector</th>
-                           <th align="center">Capacidad Total (MW)</th>
-                           <th align="center">% de la capacidad conectada al SIEPAC</th>
- 
-                        </tr>
-                     </thead>
-                     <tbody>
-                        <tr>
-                           <td align="center">1</td>
-                           <td align="center">Grupo ICE</td>
-                           <td align="center">Costa Rica</td>
-                           <td align="center">Público</td>
-                           <td align="center">2,662</td>
-                           <td align="center">93 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">2</td>
-                           <td align="center">I Squared Capital</td>
-                           <td align="center">EEUU</td>
-                           <td align="center">Privado</td>
-                           <td align="center">1,064</td>
-                           <td align="center">50 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">3</td>
-                           <td align="center">Grupo CEL</td>
-                           <td align="center">Ecuador</td>
-                           <td align="center">Público</td>
-                           <td align="center">794</td>
-                           <td align="center">97 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">4</td>
-                           <td align="center">Grupo Terra</td>
-                           <td align="center">Honduras</td>
-                           <td align="center">Privado</td>
-                           <td align="center">784</td>
-                           <td align="center">84 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">5</td>
-                           <td align="center">AES Corporation</td>
-                           <td align="center">EEUU</td>
-                           <td align="center">Privado</td>
-                           <td align="center">780</td>
-                           <td align="center">99 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">6</td>
-                           <td align="center">Empresa Nicaragüense de Electricidad</td>
-                           <td align="center">Nicaragua</td>
-                           <td align="center">Público</td>
-                           <td align="center">667</td>
-                           <td align="center">81 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">7</td>
-                           <td align="center">Enel Green Power</td>
-                           <td align="center">Italia</td>
-                           <td align="center">Privado</td>
-                           <td align="center">589</td>
-                           <td align="center">82 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">8</td>
-                           <td align="center">LUFUSSA</td>
-                           <td align="center">Honduras</td>
-                           <td align="center">Privado</td>
-                           <td align="center">509</td>
-                           <td align="center">92 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">9</td>
-                           <td align="center">Instituto Nacional de Electrificación (INE)</td>
-                           <td align="center">Guatemala</td>
-                           <td align="center">Público</td>
-                           <td align="center">475</td>
-                           <td align="center">63 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">10</td>
-                           <td align="center">PDVSA y Petronic</td>
-                           <td align="center">Nicaragua y Venezuela</td>
-                           <td align="center">Privado</td>
-                           <td align="center">472</td>
-                           <td align="center">96 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">11</td>
-                           <td align="center">Grupo Argos</td>
-                           <td align="center">Colombia</td>
-                           <td align="center">Privado</td>
-                           <td align="center">416</td>
-                           <td align="center">88 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">12</td>
-                           <td align="center">Ingenio Magdalena</td>
-                           <td align="center">Guatemala</td>
-                           <td align="center">Privado</td>
-                           <td align="center">303</td>
-                           <td align="center">36 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">13</td>
-                           <td align="center">Ashmore Energy International Ltd.</td>
-                           <td align="center">Islas Caimán</td>
-                           <td align="center">Privado</td>
-                           <td align="center">300</td>
-                           <td align="center">100 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">14</td>
-                           <td align="center">InterEnergy</td>
-                           <td align="center">Islas Caimán</td>
-                           <td align="center">Privado</td>
-                           <td align="center">268</td>
-                           <td align="center">100 %</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">15</td>
-                           <td align="center">Corporación Multi Inversiones</td>
-                           <td align="center">Guatemala</td>
-                           <td align="center">Privado</td>
-                           <td align="center">262</td>
-                           <td align="center">94 %</td>
-                        </tr>
-                     </tbody>
-                  </table>
-                  <table-wrap-foot>
-                     <fn id="TFN2">
-                        <p>Tabla 2. Empresas con la mayor capacidad de generación eléctrica instalada en los países del SIEPAC, en el año 2017. Se incluye país de la empresa, el sector (público o privado), así como la capacidad total instalada por firma y lo que esto representa en porcentaje de toda la capacidad instalada conectada al SIEPAC. Fuente: Elaboración propia con base en la base de datos georreferenciada de esta investigación.</p>
-                     </fn>
-                  </table-wrap-foot>
-               </table-wrap>
-            </p>
+            
+            <table-wrap id="t2">
+               <label> Tabla 2 / Table 2 </label>
+               <caption>
+                  <p><italic><bold>Tabla 2. </bold>Empresas con la mayor capacidad de generación eléctrica instalada en los países del SIEPAC, en el año 2017. Se incluye país de la empresa, el sector (público o privado), así como la capacidad total instalada por firma y lo que esto representa en porcentaje de toda la capacidad instalada conectada al SIEPAC. Fuente: Elaboración propia con base en la base de datos georreferenciada de esta investigación.</italic></p>
+                  <p><italic><bold>Table 2. </bold>List of companies with the largest capacity of electricity in the SIEPAC countries, for year 2017, including the name of the company, the home country of the company, the sector (public or private), the total capacity in megawatts (MW) and the percentage of this capacity being connected to the SIEPAC. Source: Prepared by the authors based on the georeferenced databases of this research.</italic></p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col span="4"/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th align="center"> </th>
+                        <th align="center">Empresa</th>
+                        <th align="center">País de la empresa</th>
+                        <th align="center">Sector</th>
+                        <th align="center">Capacidad Total (MW)</th>
+                        <th align="center">% de la capacidad conectada al SIEPAC</th>
+
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="center">1</td>
+                        <td align="center">Grupo ICE</td>
+                        <td align="center">Costa Rica</td>
+                        <td align="center">Público</td>
+                        <td align="center">2,662</td>
+                        <td align="center">93 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">2</td>
+                        <td align="center">I Squared Capital</td>
+                        <td align="center">EEUU</td>
+                        <td align="center">Privado</td>
+                        <td align="center">1,064</td>
+                        <td align="center">50 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">3</td>
+                        <td align="center">Grupo CEL</td>
+                        <td align="center">Ecuador</td>
+                        <td align="center">Público</td>
+                        <td align="center">794</td>
+                        <td align="center">97 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">4</td>
+                        <td align="center">Grupo Terra</td>
+                        <td align="center">Honduras</td>
+                        <td align="center">Privado</td>
+                        <td align="center">784</td>
+                        <td align="center">84 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">5</td>
+                        <td align="center">AES Corporation</td>
+                        <td align="center">EEUU</td>
+                        <td align="center">Privado</td>
+                        <td align="center">780</td>
+                        <td align="center">99 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">6</td>
+                        <td align="center">Empresa Nicaragüense de Electricidad</td>
+                        <td align="center">Nicaragua</td>
+                        <td align="center">Público</td>
+                        <td align="center">667</td>
+                        <td align="center">81 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">7</td>
+                        <td align="center">Enel Green Power</td>
+                        <td align="center">Italia</td>
+                        <td align="center">Privado</td>
+                        <td align="center">589</td>
+                        <td align="center">82 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">8</td>
+                        <td align="center">LUFUSSA</td>
+                        <td align="center">Honduras</td>
+                        <td align="center">Privado</td>
+                        <td align="center">509</td>
+                        <td align="center">92 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">9</td>
+                        <td align="center">Instituto Nacional de Electrificación (INE)</td>
+                        <td align="center">Guatemala</td>
+                        <td align="center">Público</td>
+                        <td align="center">475</td>
+                        <td align="center">63 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">10</td>
+                        <td align="center">PDVSA y Petronic</td>
+                        <td align="center">Nicaragua y Venezuela</td>
+                        <td align="center">Privado</td>
+                        <td align="center">472</td>
+                        <td align="center">96 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">11</td>
+                        <td align="center">Grupo Argos</td>
+                        <td align="center">Colombia</td>
+                        <td align="center">Privado</td>
+                        <td align="center">416</td>
+                        <td align="center">88 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">12</td>
+                        <td align="center">Ingenio Magdalena</td>
+                        <td align="center">Guatemala</td>
+                        <td align="center">Privado</td>
+                        <td align="center">303</td>
+                        <td align="center">36 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">13</td>
+                        <td align="center">Ashmore Energy International Ltd.</td>
+                        <td align="center">Islas Caimán</td>
+                        <td align="center">Privado</td>
+                        <td align="center">300</td>
+                        <td align="center">100 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">14</td>
+                        <td align="center">InterEnergy</td>
+                        <td align="center">Islas Caimán</td>
+                        <td align="center">Privado</td>
+                        <td align="center">268</td>
+                        <td align="center">100 %</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">15</td>
+                        <td align="center">Corporación Multi Inversiones</td>
+                        <td align="center">Guatemala</td>
+                        <td align="center">Privado</td>
+                        <td align="center">262</td>
+                        <td align="center">94 %</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <fn id="TFN2">
+                     <p>Tabla 2. Empresas con la mayor capacidad de generación eléctrica instalada en los países del SIEPAC, en el año 2017. Se incluye país de la empresa, el sector (público o privado), así como la capacidad total instalada por firma y lo que esto representa en porcentaje de toda la capacidad instalada conectada al SIEPAC. Fuente: Elaboración propia con base en la base de datos georreferenciada de esta investigación.</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
             <p>En la <xref ref-type="table" rid="t3">Tabla 3</xref> se muestra la síntesis de la información que se logró ubicar en esta investigación, sobre los financiamientos a proyectos eléctricos, de los tres principales bancos multilaterales de desarrollo que operan en la región. </p>
-            <p>
-               <table-wrap id="t3">
-                  <label> Tabla 3 / Table 3</label>
-                  <caption>
-                     <p><italic><bold>Tabla 3. </bold>Financiamiento de algunos bancos multilaterales de desarrollo para proyectos de generación eléctrica en Centroamérica con datos en millones de dólares. Fuente: Elaboración propia con base en la base de datos georreferenciada de esta investigación. Para consultar todos los financamientos de bancos que se lograron ubicar con posibilidad de filtro por banco o proyecto, ver el visualizador referido (<xref ref-type="bibr" rid="B13">Geocomunes, 2019b</xref>).</italic></p>
-                     <p><italic><bold>Table 3. </bold>Funding from multilateral development banks for power plant generation projects in Central America. Prepared by the authors based on the georeferenced databases of this research. All information is available in <xref ref-type="bibr" rid="B13">Geocomunes, 2019</xref>, and can be refined by country, bank or project.</italic></p>
-                  </caption>
-                  <table>
-                     <colgroup>
-                        <col span="4"/>
-                     </colgroup>
-                     <thead>
-                        <tr>
-                           <th align="center" colspan="1" rowspan="2">País</th>
-                           <th align="center" colspan="2" rowspan="1">BCIE</th>
-                           <th align="center" colspan="2" rowspan="1">BID</th>
-                           <th align="center" colspan="2" rowspan="1">BM</th>
-                        </tr>
-                        <tr>
-                           <th align="center">Núm.</th>
-                           <th align="center">Monto</th>
-                           <th align="center">Núm.</th>
-                           <th align="center">Monto</th>
-                           <th align="center">Núm.</th>
-                           <th align="center">Monto</th>
-                        </tr>
-                     </thead>
-                     <tbody>
-                        <!-- <tr>
-                           <td align="center">Núm.</td>
-                           <td align="center">Monto</td>
-                           <td align="center">Núm.</td>
-                           <td align="center">Monto</td>
-                           <td align="center">Núm.</td>
-                           <td align="center">Monto</td>
-                        </tr> -->
-                        <tr>
-                           <td align="center">Costa Rica</td>
-                           <td align="center">6</td>
-                           <td align="center">563</td>
-                           <td align="center">8</td>
-                           <td align="center">1,305</td>
-                           <td align="center">6</td>
-                           <td align="center">201</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">Guatemala</td>
-                           <td align="center">4</td>
-                           <td align="center">497</td>
-                           <td align="center">6</td>
-                           <td align="center">260</td>
-                           <td align="center">10</td>
-                           <td align="center">319</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">Panamá</td>
-                           <td align="center">4</td>
-                           <td align="center">182</td>
-                           <td align="center">4</td>
-                           <td align="center">309</td>
-                           <td align="center">6</td>
-                           <td align="center">477</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">Honduras</td>
-                           <td align="center">6</td>
-                           <td align="center">291</td>
-                           <td align="center">7</td>
-                           <td align="center">135</td>
-                           <td align="center">11</td>
-                           <td align="center">492</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">Nicaragua</td>
-                           <td align="center">7</td>
-                           <td align="center">536</td>
-                           <td align="center">6</td>
-                           <td align="center">157</td>
-                           <td align="center">4</td>
-                           <td align="center">186</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">El Salvador</td>
-                           <td align="center">4</td>
-                           <td align="center">420</td>
-                           <td align="center">3</td>
-                           <td align="center">284</td>
-                           <td align="center">4</td>
-                           <td align="center">97</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center">Total</td>
-                           <td align="center">31</td>
-                           <td align="center">2,489</td>
-                           <td align="center">34</td>
-                           <td align="center">2,450</td>
-                           <td align="center">41</td>
-                           <td align="center">1,722</td>
-                        </tr>
-                     </tbody>
-                  </table>
-                  <table-wrap-foot>
-                     <fn id="TFN3">
-                        <p>Tabla 3. Financiamiento de algunos bancos multilaterales de desarrollo para proyectos de generación eléctrica en Centroamérica con datos en millones de dólares. Fuente: Elaboración propia con base en la base de datos georreferenciada de esta investigación. Para consultar todos los financamientos de bancos que se lograron ubicar con posibilidad de filtro por banco o proyecto, ver el visualizador referido (<xref ref-type="bibr" rid="B13">Geocomunes, 2019b</xref>).</p>
-                     </fn>
-                  </table-wrap-foot>
-               </table-wrap>
-            </p>
+            
+            <table-wrap id="t3">
+               <label> Tabla 3 / Table 3</label>
+               <caption>
+                  <p><italic><bold>Tabla 3. </bold>Financiamiento de algunos bancos multilaterales de desarrollo para proyectos de generación eléctrica en Centroamérica con datos en millones de dólares. Fuente: Elaboración propia con base en la base de datos georreferenciada de esta investigación. Para consultar todos los financamientos de bancos que se lograron ubicar con posibilidad de filtro por banco o proyecto, ver el visualizador referido (<xref ref-type="bibr" rid="B12">Geocomunes, 2019b</xref>).</italic></p>
+                  <p><italic><bold>Table 3. </bold>Funding in millions of dollar from multilateral development banks for power plant generation projects in Central America. Prepared by the authors based on the georeferenced databases of this research. All information is available in <xref ref-type="bibr" rid="B12">Geocomunes, 2019</xref>, and can be refined by country, bank or project.</italic></p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col span="4"/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th align="center" colspan="1" rowspan="2">País</th>
+                        <th align="center" colspan="2" rowspan="1">BCIE</th>
+                        <th align="center" colspan="2" rowspan="1">BID</th>
+                        <th align="center" colspan="2" rowspan="1">BM</th>
+                     </tr>
+                     <!-- <tr>
+                        <th align="center">Núm.</th>
+                        <th align="center">Monto</th>
+                        <th align="center">Núm.</th>
+                        <th align="center">Monto</th>
+                        <th align="center">Núm.</th>
+                        <th align="center">Monto</th>
+                     </tr> -->
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td></td>
+                        <td align="center">Núm.</td>
+                        <td align="center">Monto</td>
+                        <td align="center">Núm.</td>
+                        <td align="center">Monto</td>
+                        <td align="center">Núm.</td>
+                        <td align="center">Monto</td>
+                     </tr>
+                     <tr>
+                        <td align="center">Costa Rica</td>
+                        <td align="center">6</td>
+                        <td align="center">563</td>
+                        <td align="center">8</td>
+                        <td align="center">1,305</td>
+                        <td align="center">6</td>
+                        <td align="center">201</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">Guatemala</td>
+                        <td align="center">4</td>
+                        <td align="center">497</td>
+                        <td align="center">6</td>
+                        <td align="center">260</td>
+                        <td align="center">10</td>
+                        <td align="center">319</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">Panamá</td>
+                        <td align="center">4</td>
+                        <td align="center">182</td>
+                        <td align="center">4</td>
+                        <td align="center">309</td>
+                        <td align="center">6</td>
+                        <td align="center">477</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">Honduras</td>
+                        <td align="center">6</td>
+                        <td align="center">291</td>
+                        <td align="center">7</td>
+                        <td align="center">135</td>
+                        <td align="center">11</td>
+                        <td align="center">492</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">Nicaragua</td>
+                        <td align="center">7</td>
+                        <td align="center">536</td>
+                        <td align="center">6</td>
+                        <td align="center">157</td>
+                        <td align="center">4</td>
+                        <td align="center">186</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">El Salvador</td>
+                        <td align="center">4</td>
+                        <td align="center">420</td>
+                        <td align="center">3</td>
+                        <td align="center">284</td>
+                        <td align="center">4</td>
+                        <td align="center">97</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center">Total</td>
+                        <td align="center">31</td>
+                        <td align="center">2,489</td>
+                        <td align="center">34</td>
+                        <td align="center">2,450</td>
+                        <td align="center">41</td>
+                        <td align="center">1,722</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <fn id="TFN3">
+                     <p>Tabla 3. Financiamiento de algunos bancos multilaterales de desarrollo para proyectos de generación eléctrica en Centroamérica con datos en millones de dólares. Fuente: Elaboración propia con base en la base de datos georreferenciada de esta investigación. Para consultar todos los financamientos de bancos que se lograron ubicar con posibilidad de filtro por banco o proyecto, ver el visualizador referido (<xref ref-type="bibr" rid="B13">Geocomunes, 2019b</xref>).</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+
             <p>Todos los resultados presentados en esta parte por medio de mapas estáticos y tablas, están disponibles de manera dinámica en el visualizador desarrollado (<xref ref-type="bibr" rid="B11">Geocomunes, 2019</xref>). Así mismo, esta investigación generó y recopiló información espacial sobre proyectos asociados al uso de esta energía (líneas de transmisión nacionales, línea de transmisión del SIEPAC, proyectos mineros, concesiones mineras, zonas francas, etc). Las particularidades de la información georreferenciada y de los datos que aportan pueden ser consultados en la <xref ref-type="table" rid="t1">tabla 1</xref> y en la <xref ref-type="table" rid="t4">tabla 4</xref>.</p>
-            <p>
-               <table-wrap id="t4">
-                  <label> Tabla 4 / Table 4 </label>
-                  <caption>
-                     <p><italic><bold>Tabla 4. </bold>Información de otros elementos vectoriales georreferenciados en esta investigación y que pueden ser visualizados y descargados en el geovisualizador mencionado. Fuente: Elaboración propia.</italic></p>
-                     <p><italic><bold>Table 4. </bold>Detailed information about georeferenced layers included in the geo-visualizer. Source: Prepared by the authors based on the georeferenced databases of this research.</italic></p>
-                  </caption>
-                  <table>
-                     <colgroup>
-                        <col span="4"/>
-                     </colgroup>
-                     <thead>
-                        <tr>
-                           <th align="center">Capa de información</th>
-                           <th align="center">Escala de la información</th>
-                           <th align="center">Tipo de información vectorial</th>
-                           <th align="center">Cualidades de los elementos</th>
- 
-                        </tr>
-                        <tr>
-                           <th align="center" colspan="4">Proyectos de transmisión de energía</th>
-                        </tr>
-                     </thead>
-                     <tbody>
-                        <tr>
-                           <td align="left">Líneas de SIEPAC</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Líneas</td>
-                           <td align="left">Sin caracterización de la información</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left">Líneas de transmisión nacionales</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Líneas</td>
-                           <td align="left">Se desglosa si está en construcción, proyecto  u operación.</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center" colspan="4">Proyectos de transmisión de mercancías e insumos</td>
-                        </tr>
-                        <tr>
-                           <td align="left">Puertos</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Puntos</td>
-                           <td align="left">Se desglosa si están en operación o en proyecto.</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left">Red Integral de Carreteras de América Central</td>
-                           <td align="left">Regional </td>
-                           <td align="left">Líneas</td>
-                           <td align="left">Sin caracterización de la información</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left">Corredores multimodales interoceánicos</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Líneas</td>
-                           <td align="left">Se desglosa en proyecto de canal, corredor seco existente o canal.</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center" colspan="4">Proyectos Extractivos</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left">Concesiones mineras</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Polígonos</td>
-                           <td align="left">Se desglosa el estado de la concesión: Vigente, Solicitada o Cancelada.</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left">Proyectos mineros</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Puntos</td>
-                           <td align="left">Se desglosa el estado del proyecto: Cerrado, Operación, Proyecto o en Suspensión.</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left">Bloques de exploración de Hidrocarburos</td>
-                           <td align="left">Regional </td>
-                           <td align="left">Polígonos</td>
-                           <td align="left">Se desglosa el estado del bloque según su licitación: Otorgado o A Otorgar</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center" colspan="4">Proyectos Extractivos</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left">Zona de cultivo de palma africana en Centroamérica</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Polígonos</td>
-                           <td align="left">Sin caracterización de la información</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left">Zonas de monocultivo de piña en Costa Rica</td>
-                           <td align="left">Nacional (Costa Rica)</td>
-                           <td align="left">Polígonos</td>
-                           <td align="left">Sin caracterización de la información</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left" colspan="1">Zonas de cultivo de caña de azúcar en Guatemala</td>
-                           <td align="left">Nacional (Guatemala)</td>
-                           <td align="left">Polígonos</td>
-                           <td align="left">Sin caracterización de la información</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center" colspan="4">Industria y proyectos asociados a la transformación de materias primas</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left" colspan="1">Zonas Francas</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Puntos</td>
-                           <td align="left">Se desglosa en función de su estado: en operación o en proyecto.</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left" colspan="1">Refinerías</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Puntos</td>
-                           <td align="left">Se desglosa en función de su estado: en operación o en proyecto.</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left" colspan="1">Proyecto de Zonas Económicas Especiales en El Salvador</td>
-                           <td align="left">Nacional (El Salvador)</td>
-                           <td align="left">Polígonos</td>
-                           <td align="left">Sin caracterización de la información</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="center" colspan="4">Capas Base</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left" colspan="1">Límite nacional</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Líneas</td>
-                           <td align="left">Sin caracterización de la información</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left" colspan="1">Límite de provincia o departamento</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Líneas</td>
-                           <td align="left">Sin caracterización de la información</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left" colspan="1">Ríos</td>
-                           <td align="left">Regional</td>
-                           <td align="left">Líneas</td>
-                           <td align="left">Sin caracterización de la información</td>
- 
-                        </tr>
-                        <tr>
-                           <td align="left">Fuente: Elaboración propia.</td>
-                           <td align="left"> </td>
-                           <td align="left"> </td>
-                           <td align="left"> </td>
-                        </tr>
-                     </tbody>
-                  </table>
-                  <table-wrap-foot>
-                     <fn id="TFN4">
-                        <p>Tabla 4. Muestra la información de otros elementos vectoriales georreferenciados en esta investigación y que pueden ser visualizados y descargados en el geovisualizador mencionado. Fuente: Elaboración propia.</p>
-                     </fn>
-                  </table-wrap-foot>
-               </table-wrap>
-            </p>
+            
+            <table-wrap id="t4">
+               <label> Tabla 4 / Table 4 </label>
+               <caption>
+                  <p><italic><bold>Tabla 4. </bold>Información de otros elementos vectoriales georreferenciados en esta investigación y que pueden ser visualizados y descargados en el geovisualizador mencionado. Fuente: Elaboración propia.</italic></p>
+                  <p><italic><bold>Table 4. </bold>Detailed information about georeferenced layers included in the geo-visualizer. Source: Prepared by the authors based on the georeferenced databases of this research.</italic></p>
+               </caption>
+               <table>
+                  <colgroup>
+                     <col span="4"/>
+                  </colgroup>
+                  <thead>
+                     <tr>
+                        <th align="center">Capa de información</th>
+                        <th align="center">Escala de la información</th>
+                        <th align="center">Tipo de información vectorial</th>
+                        <th align="center">Cualidades de los elementos</th>
+                     </tr>
+                  </thead>
+                  <tbody>
+                     <tr>
+                        <td align="center" colspan="4">Proyectos de transmisión de energía</td>
+                     </tr>
+                     <tr>
+                        <td align="left">Líneas de SIEPAC</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Líneas</td>
+                        <td align="left">Sin caracterización de la información</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left">Líneas de transmisión nacionales</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Líneas</td>
+                        <td align="left">Se desglosa si está en construcción, proyecto  u operación.</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center" colspan="4">Proyectos de transmisión de mercancías e insumos</td>
+                     </tr>
+                     <tr>
+                        <td align="left">Puertos</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Puntos</td>
+                        <td align="left">Se desglosa si están en operación o en proyecto.</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left">Red Integral de Carreteras de América Central</td>
+                        <td align="left">Regional </td>
+                        <td align="left">Líneas</td>
+                        <td align="left">Sin caracterización de la información</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left">Corredores multimodales interoceánicos</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Líneas</td>
+                        <td align="left">Se desglosa en proyecto de canal, corredor seco existente o canal.</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center" colspan="4">Proyectos Extractivos</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left">Concesiones mineras</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Polígonos</td>
+                        <td align="left">Se desglosa el estado de la concesión: Vigente, Solicitada o Cancelada.</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left">Proyectos mineros</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Puntos</td>
+                        <td align="left">Se desglosa el estado del proyecto: Cerrado, Operación, Proyecto o en Suspensión.</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left">Bloques de exploración de Hidrocarburos</td>
+                        <td align="left">Regional </td>
+                        <td align="left">Polígonos</td>
+                        <td align="left">Se desglosa el estado del bloque según su licitación: Otorgado o A Otorgar</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center" colspan="4">Proyectos Extractivos</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left">Zona de cultivo de palma africana en Centroamérica</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Polígonos</td>
+                        <td align="left">Sin caracterización de la información</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left">Zonas de monocultivo de piña en Costa Rica</td>
+                        <td align="left">Nacional (Costa Rica)</td>
+                        <td align="left">Polígonos</td>
+                        <td align="left">Sin caracterización de la información</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="1">Zonas de cultivo de caña de azúcar en Guatemala</td>
+                        <td align="left">Nacional (Guatemala)</td>
+                        <td align="left">Polígonos</td>
+                        <td align="left">Sin caracterización de la información</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center" colspan="4">Industria y proyectos asociados a la transformación de materias primas</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="1">Zonas Francas</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Puntos</td>
+                        <td align="left">Se desglosa en función de su estado: en operación o en proyecto.</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="1">Refinerías</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Puntos</td>
+                        <td align="left">Se desglosa en función de su estado: en operación o en proyecto.</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="1">Proyecto de Zonas Económicas Especiales en El Salvador</td>
+                        <td align="left">Nacional (El Salvador)</td>
+                        <td align="left">Polígonos</td>
+                        <td align="left">Sin caracterización de la información</td>
+
+                     </tr>
+                     <tr>
+                        <td align="center" colspan="4">Capas Base</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="1">Límite nacional</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Líneas</td>
+                        <td align="left">Sin caracterización de la información</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="1">Límite de provincia o departamento</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Líneas</td>
+                        <td align="left">Sin caracterización de la información</td>
+
+                     </tr>
+                     <tr>
+                        <td align="left" colspan="1">Ríos</td>
+                        <td align="left">Regional</td>
+                        <td align="left">Líneas</td>
+                        <td align="left">Sin caracterización de la información</td>
+
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <fn id="TFN4">
+                     <p>Tabla 4. Muestra la información de otros elementos vectoriales georreferenciados en esta investigación y que pueden ser visualizados y descargados en el geovisualizador mencionado. Fuente: Elaboración propia.</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+            
          </sec>
       </sec>
       <sec>
@@ -918,11 +903,11 @@
          <p>Agradecimientos</p>
          <bold> </bold>
          <p>Al Colectivo GeoComunes y al Movimiento de Afectados por Represas en América Latina (MAR) por su confianza, retroalimentación y el apoyo mostrado en la construcción de este proyecto conjunto. A la fundación Rosa Luxemburg Stiftung por su amplia solidaridad y los recursos otorgados para realizar esta investigación.</p>
-         <p>Nota sobre el crédito de los autores: Susana Isabel Velázquez Quesada, diseñó el proyecto, realizó la investigación, los textos y la cartografía; Yannick Deniau, diseñó el proyecto, realizó la investigación, los textos y la cartografía; Luis Fernando Pérez Macías, diseñó el proyecto, realizó la investigación, los textos y la cartografía; Ivan Alejandro Martinez Zazueta, realizó el geovisualizador.</p>
+         <p>Nota sobre el crédito de los autores: Susana Isabel Velázquez Quesada, diseñó el proyecto, realizó la investigación, los textos y la cartografía; Yannick Deniau, diseñó el proyecto, realizó la investigación, los textos y la cartografía; Luis Fernando Pérez Macías, diseñó el proyecto, realizó la investigación, los textos y la cartografía; Iván Alejandro Martínez Zazueta, realizó el geovisualizador.</p>
       </sec>
       <sec>
-         <title>Notas de pie</title>
-         <p><sup>1.</sup> Citamos a modo de ejemplo de esta oposición social, la resistencia en Costa Rica contra el proyecto de hidroeléctrica Diquís, hoy cancelado; la oposición al proyecto Hidroeléctrico el Cimarrón en El Salvador; la oposición del pueblo Ngabe Buglé en Panamá contra la construcción de la presa Changuinola II; el conflicto por el Proyecto hidroeléctrico Tumarín en Nicaragua; la oposición al proyecto Hidroeléctrico Patuca III en Honduras, y la oposición contra el proyecto hidroeléctrico Xalalá en Guatemala (ver Enviromental Justice Atlas, 2019). Aunque todas tienen particularidades, estas oposiciones y cuestionamientos explícitos a los proyectos de generación eléctrica están centrados en la defensa de la integridad territorial comunitaria.</p>
+         <title>Notas al pie</title>
+         <p><sup>1.</sup> Citamos a modo de ejemplo de esta oposición social, la resistencia en Costa Rica contra el proyecto de hidroeléctrica Diquís, hoy cancelado; la oposición al proyecto Hidroeléctrico el Cimarrón en El Salvador; la oposición del pueblo Ngabe Buglé en Panamá contra la construcción de la presa Changuinola II; el conflicto por el Proyecto hidroeléctrico Tumarín en Nicaragua; la oposición al proyecto Hidroeléctrico Patuca III en Honduras, y la oposición contra el proyecto hidroeléctrico Xalalá en Guatemala (<xref ref-type="bibr" rid="B10"> ver Enviromental Justice Atlas, 2019</xref>). Aunque todas tienen particularidades, estas oposiciones y cuestionamientos explícitos a los proyectos de generación eléctrica están centrados en la defensa de la integridad territorial comunitaria.</p>
          <p><sup>2.</sup> En Guatemala esta apertura ocurrió en 1996; en Costa Rica en 1995; en Nicaragua en 1998; Honduras en 1994, El Salvador en 1996; y en Panamá en 1997. </p>
          <p><sup>3. </sup> Nuevamente, el único país perteneciente al SIEPAC que al día de hoy no tiene la figura de Mercado Mayorista es Costa Rica. </p>
          <p><sup>4. </sup> Una excepción notable es el caso de El Salvador, donde sí existe una base georreferenciada para los proyectos de energías renovables. </p>
@@ -945,7 +930,7 @@
                <article-title><ext-link ext-link-type="uri"
                             xlink:href="https://aresep.go.cr/operadores/tramites-operadores">Información regulatoria (información en línea)</ext-link></article-title>
                <publisher-loc>Costa Rica</publisher-loc>
-               <source>ASESEP</source>
+               <source>Costa Rica, ASESEP</source>
                <comment>Autoridad Reguladora de los Servicios Públicos (ARESEP), 2019, Información regulatoria (información en línea): Costa Rica, ASESEP, actualización: s/f , <ext-link ext-link-type="uri"
                             xlink:href="https://aresep.go.cr/operadores/tramites-operadores">https://aresep.go.cr/operadores/tramites-operadores</ext-link>
                </comment>
@@ -1039,7 +1024,7 @@
                <article-title><ext-link ext-link-type="uri"
                             xlink:href="https://acme-journal.org/index.php/acme/article/view/723">An Introduction to Critical Cartography (en línea)</ext-link></article-title>
                <source>ACME: An International Journal for Critical Geographies</source>
-               <volume>4</volume>
+               <volume>4(1)</volume>
                <issue>1</issue>
                <fpage>11</fpage>
                <lpage>33</lpage>
@@ -1090,7 +1075,7 @@
                <person-group person-group-type="author">
                   <collab>Empresa de Transmisión Eléctrica Panameña (ETESA)</collab>
                </person-group>
-               <year>2019, consultado: 15 de abril de 2019</year>
+               <year>(Sin fecha), consultado: 15 de abril de 2019</year>
                <article-title><ext-link ext-link-type="uri" xlink:href="https://www.etesa.com.pa/compras.php">Compras de Energía y/o Potencia (consulta en línea)</ext-link></article-title>
                <source>Panamá</source>
                <comment>Empresa de Transmisión Eléctrica Panameña (ETESA), 2019, diversas fechas, Compras de Energía y/o Potencia (consulta en línea), Panamá, <ext-link ext-link-type="uri" xlink:href="https://www.etesa.com.pa/compras.php">https://www.etesa.com.pa/compras.php</ext-link>
@@ -1129,14 +1114,14 @@
             </element-citation>
          </ref>
          <ref id="B11">
-            <mixed-citation>Geocomunes, 2019. Expansión de proyectos eléctricos en Centroamérica. El desarrollo de un sistema eléctrico regional fuera del control de los pueblos (en línea), México: &lt;<comment> El desarrollo de un sistema eléctrico regional fuera del control de los pueblos (en línea), México: <ext-link ext-link-type="uri"
+            <mixed-citation>Geocomunes, 2019(a). Expansión de proyectos eléctricos en Centroamérica. El desarrollo de un sistema eléctrico regional fuera del control de los pueblos (en línea), México: &lt;<comment> El desarrollo de un sistema eléctrico regional fuera del control de los pueblos (en línea), México: <ext-link ext-link-type="uri"
                             xlink:href="http://geocomunes.org/Analisis_PDF/CuadernilloCA">http://geocomunes.org/Analisis_PDF/CuadernilloCA</ext-link>
                </comment>&gt;, consulta: 15 de abril de 2019.</mixed-citation>
             <element-citation publication-type="other">
                <person-group person-group-type="author">
                   <collab>Geocomunes</collab>
                </person-group>
-               <year>2019, consultado: 15 de abril de 2019</year>
+               <year>2019(a), consultado: 15 de abril de 2019</year>
                <article-title><ext-link ext-link-type="uri"
                             xlink:href="http://geocomunes.org/Analisis_PDF/CuadernilloCA">Expansión de proyectos eléctricos en Centroamérica. El desarrollo de un sistema eléctrico regional fuera del control de los pueblos (en línea)</ext-link></article-title>
                <source>México</source>
@@ -1147,24 +1132,6 @@
             </element-citation>
          </ref>
          <ref id="B12">
-            <mixed-citation>Geocomunes, 2019(a). Mapa de proyectos eléctricos en Honduras (en línea), Geocomunes, Anlálisis PDF, México: &lt;<comment> Mapa de proyectos eléctricos en Honduras (en línea), Geocomunes, Anlálisis PDF, México: <ext-link ext-link-type="uri"
-                            xlink:href="http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf">http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf</ext-link>
-               </comment>&gt;, consulta: 15 de abril de 2019.</mixed-citation>
-            <element-citation publication-type="other">
-               <person-group person-group-type="author">
-                  <collab>Geocomunes</collab>
-               </person-group>
-               <year>2019(a), consultado: 15 de abril de 2019</year>
-               <article-title><ext-link ext-link-type="uri"
-                            xlink:href="http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf">Mapa de proyectos eléctricos en Honduras (en línea)</ext-link></article-title>
-               <source>Geocomunes, Anlálisis PDF, México</source>
-               <comment> Mapa de proyectos eléctricos en Honduras (en línea), Geocomunes, Anlálisis PDF, México: <ext-link ext-link-type="uri"
-                            xlink:href="http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf">http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf</ext-link>
-               </comment>
-               <date-in-citation content-type="access-date" iso-8601-date="2019-04-15">15 de abril de 2019</date-in-citation>
-            </element-citation>
-         </ref>
-         <ref id="B13">
             <mixed-citation>Geocomunes, 2019(b). Lista de Financiamientos. En Expansión de proyectos eléctricos en Centroamérica. El desarrollo de un sistema eléctrico regional fuera del control de los pueblos (en línea), México: &lt; <comment> El desarrollo de un sistema eléctrico regional fuera del control de los pueblos (en línea), México: <ext-link ext-link-type="uri"
                             xlink:href="http://geocomunes.org/Analisis_PDF/Detalles_financiadores.xls">http://geocomunes.org/Analisis_PDF/Detalles_financiadores.xls</ext-link>
                </comment>&gt;, consulta: 15 de abril de 2019.</mixed-citation>
@@ -1178,6 +1145,24 @@
                <source>México</source>
                <comment> El desarrollo de un sistema eléctrico regional fuera del control de los pueblos (en línea), México: <ext-link ext-link-type="uri"
                             xlink:href="http://geocomunes.org/Analisis_PDF/Detalles_financiadores.xls">http://geocomunes.org/Analisis_PDF/Detalles_financiadores.xls</ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-04-15">15 de abril de 2019</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>Geocomunes, 2019(c). Mapa de proyectos eléctricos en Honduras (en línea), Geocomunes, Anlálisis PDF, México: &lt;<comment> Mapa de proyectos eléctricos en Honduras (en línea), Geocomunes, Anlálisis PDF, México: <ext-link ext-link-type="uri"
+                            xlink:href="http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf">http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf</ext-link>
+               </comment>&gt;, consulta: 15 de abril de 2019.</mixed-citation>
+            <element-citation publication-type="other">
+               <person-group person-group-type="author">
+                  <collab>Geocomunes</collab>
+               </person-group>
+               <year>2019(c), consultado: 15 de abril de 2019</year>
+               <article-title><ext-link ext-link-type="uri"
+                            xlink:href="http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf">Mapa de proyectos eléctricos en Honduras (en línea)</ext-link></article-title>
+               <source>México</source>
+               <comment> Mapa de proyectos eléctricos en Honduras (en línea), Geocomunes, Anlálisis PDF, México: <ext-link ext-link-type="uri"
+                            xlink:href="http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf">http://geocomunes.org/Analisis_PDF/Honduras%20Lectura.pdf</ext-link>
                </comment>
                <date-in-citation content-type="access-date" iso-8601-date="2019-04-15">15 de abril de 2019</date-in-citation>
             </element-citation>
@@ -1207,7 +1192,7 @@
                <year>(Sin fecha), consultado: 15 de abril de 2019</year>
                <article-title><ext-link ext-link-type="uri" xlink:href="https://www.grupoice.com/wps/portal">Información regulatoria (información en línea)</ext-link></article-title>
                <publisher-loc>Costa Rica</publisher-loc>
-               <source>ASESEP</source>
+               <source>Costa Rica, ASESEP</source>
                <comment>Instituto Costarricense de Electricidad, 2019, s/f, Información regulatoria (información en línea): Costa Rica, ASESEP, actualización: 15 abril de 2019, <ext-link ext-link-type="uri" xlink:href="https://www.grupoice.com/wps/portal">https://www.grupoice.com/wps/portal</ext-link>
                </comment>
                <date-in-citation content-type="access-date" iso-8601-date="2019-04-15">15 de abril de 2019</date-in-citation>
@@ -1285,7 +1270,7 @@
             </element-citation>
          </ref>
          <ref id="B20">
-            <mixed-citation>Osorno Covarrubias, J., Couturier, S., Lopez Quiroz, P., Ferrari, L., &amp; Martinez Zazueta, I. (2018). TERRA DIGITALIS: Diseño e implementación de una revista internacional interactiva de mapas arbitrados. Geofocus-Revista Internacional de Ciencia y Tecnologia de la Informacion Geografica, (22), 115-139.  doi: 10.21138/GF.555 </mixed-citation>
+            <mixed-citation>Osorno Covarrubias, J., Couturier, S., Lopez Quiroz, P., Ferrari, L., &amp; Martínez Zazueta, I. (2018). TERRA DIGITALIS: Diseño e implementación de una revista internacional interactiva de mapas arbitrados. Geofocus-Revista Internacional de Ciencia y Tecnologia de la Informacion Geografica, (22), 115-139.  doi: 10.21138/GF.555 </mixed-citation>
             <element-citation publication-type="journal">
                <person-group person-group-type="author">
                   <name>
@@ -1305,7 +1290,7 @@
                      <given-names>L.</given-names>
                   </name>
                   <name>
-                     <surname>Martinez Zazueta</surname>
+                     <surname>Martínez Zazueta</surname>
                      <given-names>I.</given-names>
                   </name>
                </person-group>
