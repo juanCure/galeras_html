@@ -27,7 +27,7 @@
             </subj-group>
          </article-categories>
          <title-group>
-            <article-title>Visualizador dinámico de modelos climáticos numéricos en México, basado en estructuras de datos NetCDF✩</article-title>
+            <article-title>Visualizador dinámico de modelos climáticos numéricos en México, basado en estructuras de datos NetCDF✩ / Dynamic visualization of numerical climate models in Mexico based on the NetCDF data format</article-title>
             <trans-title-group xml:lang="en">
                <trans-title>Dynamic visualization of numerical climate models in Mexico based on the NetCDF data format</trans-title>
             </trans-title-group>
@@ -94,7 +94,7 @@
             </aff>
          </contrib-group>
          <author-notes>
-            <corresp id="c1"E-mail address: <email>andres@igg.unam.mx</email></corresp>
+            <corresp id="c1">E-mail address: <email>andres@igg.unam.mx</email></corresp>
          </author-notes>
          <pub-date pub-type="epub">
             <day>30</day>
@@ -226,7 +226,7 @@
          </p>
       </sec>
       <sec>
-         <title>5. software</title>
+         <title>5. Software</title>
          <p>
             <list list-type="bullet">
                <list-item>
@@ -371,7 +371,7 @@
                <volume>87</volume>
                <fpage>367</fpage>
                <lpage>374</lpage>
-               <pub-id pub-id-type="doi">10.1175/1520-0493(1959)087<0367:AOOAS>2.0.CO;2</pub-id>
+               <pub-id pub-id-type="doi">10.1175/1520-0493(1959)087</pub-id>
             </element-citation>
          </ref>
 
