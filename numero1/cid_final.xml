@@ -851,18 +851,8 @@ rid="TF1"></xref></th>
     <sec sec-type="supplementary-material">
       <title>Visualizador</title>
       <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
-        xlink:title="local_file" xlink:href="http://132.248.26.105/html/mapas_interactivos/numero1/fallas-cuaternarias.php"
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero1/cid/mapa_interactivo/"
         mimetype="application/php">
-        <object-id pub-id-type="doi">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.3.9</object-id>
-        <label>Mapa Interactivo</label>
-        <caption>
-          <title>Fallas cuaternarias</title>
-          <p>
-            <bold>DOI:</bold>
-            <ext-link ext-link-type="doi" xlink:href="10.22201/igg.terradigitalis.2017.1.3.9">http://dx.doi.org/10.22201/igg.terradigitalis.2017.1.3.9</ext-link>
-          </p>
-        </caption>
-      <media mime-subtype="php" mimetype="application" xlink:href="http://132.248.26.105/html/mapas_interactivos/numero1/fallas-cuaternarias.php"/>
     </supplementary-material>
     </sec>
   </body>
