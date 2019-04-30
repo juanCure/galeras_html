@@ -20,11 +20,13 @@
          </publisher>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="publisher-id">00001</article-id>
-         <article-id pub-id-type="other">00001</article-id>
+         <article-id pub-id-type="doi">10.22201/igg.25940694.2019.1.59.125</article-id>
          <article-categories>
+            <subj-group subj-group-type="display-channel">
+              <subject>Research article</subject>
+            </subj-group>
             <subj-group subj-group-type="heading">
-               <subject>Articles</subject>
+               <subject>Geología</subject>
             </subj-group>
          </article-categories>
          <title-group>
@@ -210,21 +212,13 @@
             <bold> </bold>
             <p>HF water use per well considering the production period from 2009-2017 is shown in <xref ref-type="fig" rid="f1">Fig. 1</xref>.  As noted, water consumption/well has been progressively increasing over time, as pointed out by previous studies (<xref ref-type="bibr" rid="B16">Ikonnikova et al., 2017</xref>). The year 2009 was negligible for practical purposes, while total annual HF water use peaked to ~100 Mm<sup>3</sup> in 2014 and since then declined (<xref ref-type="fig" rid="f1">Figure 1</xref>), related to oil price decrease in 2015-2016 (<xref ref-type="bibr" rid="B9">EIA, 2019</xref>).</p>
 
-            <!-- <fig id="f3">
-               <label>Figure 3 / Figura 3</label>
-               <caption>
-                  <p><italic><bold>Figure 3. </bold>Main morpho-tectonic features of the pacific oceanic floor (modified after <xref ref-type="bibr" rid="B33">INEGI, 2001</xref> and <xref ref-type="bibr" rid="B51">Padilla, 2013</xref>). The distribution of physiographic provinces of México and volcanic features &lt; 3 My are also shown. 1. Baja California Peninsula; 2. Sonora Plains; 3. Sierra Madre Occidental; 4. Basin and range province; 5. Sierra Madre Oriental; 6. North America Plains; 7. Pacific Coastal Plains; 8. Gulf of Mexico coastal plains-north ; 9. Mesa Central Province; 10. Mexican Volcanic Belt; 11. Yucatán Peninsula; 12. Sierra Madre del Sur; 13. Gulf of Mexico coastal plains-south; 14. Sierra de Chiapas - Guatemala; 15. Central America Volcanic Belt. Volcanism with age &lt; 3My after: https://volcano.si.edu/, intraplate volcanism <xref ref-type="bibr" rid="B2">Aranda-Gómez et al., 2005</xref>; <xref ref-type="bibr" rid="B26">Ferrari et al., 2005</xref>, <xref ref-type="bibr" rid="B27">2007</xref>; <xref ref-type="bibr" rid="B76">Vidal-Solano et al., 2005</xref>.</italic></p>
-                  <p><italic><bold>Figura 3. </bold> Rasgos morfotectónicos del piso oceánico del Pacífico. Distribución de las provincias fisiográficas en México y centros volcánicos de &lt; 3 Ma. 1.Península de Baja California; 2. Planicie de Sonora; 3. Sierra Madre Occidental; 4. Provincia de cuencas y sierras; 5. Sierra Madre Oriental; 6. Planicie de Norte América; 7. Planicie de la Costa del Pacífico; 8. Planicie al norte del Golfo de Mexico ; 9. Provincia de la Mesa Central ; 10. Cinturón Volcánico Mexicano; 11.Península de Yucatán; 12. Sierra Madre del Sur; 13. Planicie al sur del Golfo de Mexico; 14. Sierra de Chiapas – Guatemala; 15. Cinturón Volcánico de Centro América.</italic></p>
-               </caption>
-               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero4/prol_ledesma/a1-1-38003.jpg"/>
-            </fig> -->
             <fig id="f1">
                <label>Figure 1 / Figura 1</label>
                <caption>
                   <p><italic><bold>Figure 1. </bold></italic> Boxplots showing temporal trends of hydraulic fracturing water use per well (10<sup>3</sup> m<sup>3</sup>) and cumulative annual HF water use (blue line) over time (2009-2017). Diamonds refer to outlines.</p>
                   <p><italic><bold>Figura 1. </bold></italic>Boxplots mostrando las tendencias temporales del uso de agua para fracturamiento hidráulico por pozo (10<sup>3</sup> m<sup>3</sup>) y acumulado anual (línea azul) para el periodo analizado (2009-2017). Los valores atípicos se representan como diamantes.</p>
                </caption>
-               <graphic xlink:href="a1-1-7001.png"/>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero5/hdez_espriu/a1-1-7001.png"/>
             </fig>
             <p>In 2010 FracFocus registered only 5 frac wells using a mean HF water demand of ~18,000 m<sup>3</sup>/well. In contrast, four years later, drilling increased spectacularly to ~4,300 wells in 2014 demanding a mean volume of ~23,600 m<sup>3</sup>/well, equaled to an accumulated volume of ~100 Mm<sup>3</sup>, play-wide, for that particular year.</p>
             <p>Since 2014, HF water volume decreased in 2015 and 2016 to ~70 and 46 Mm<sup>3</sup>, respectively, and increased again to 70 Mm<sup>3</sup> in 2017 (<xref ref-type="fig" rid="f1">Figure 1</xref>). However, mean HF water use per well has been gradually growing to ~28,500, 31,800 and 40,800 m<sup>3</sup>/well for 2015, 2016 and 2017, respectively. Over the eight-year production period, HF water use ranged between 14,656-32,257 m<sup>3</sup>/well (25<sup>th</sup> - 75<sup>th</sup> percentiles), whereas in the most recent year (2017), HF water use fluctuated by 26,675-52,349 m<sup>3</sup>/well (25<sup>th</sup> - 75<sup>th</sup> percentiles). </p>
@@ -241,7 +235,7 @@
                   <p><italic><bold>Plate1. </bold></italic> Well density spatio-temporal mapping linked to hydraulic fracturing across the Eagle Ford play (Texas) from 2009-2017.</p>
                   <p><italic><bold>Lámina 1. </bold></italic> Mapa de la densidad espacio-temporal de pozos asociados al fracturamiento hidráulico en el play Eagle Ford (Texas) para el periodo 2009-2017.</p>
                </caption>
-               <graphic xlink:href="a1-1-7002.png"/>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero5/hdez_espriu/a1-1-7002.png"/>
             </fig>
 
             <p>
@@ -254,7 +248,7 @@
                   <p><italic><bold>Plate 2. </bold></italic> Water use spatio-temporal mapping linked to hydraulic fracturing across the Eagle Ford play (Texas) from 2009-2017.</p>
                   <p><italic><bold>Lámina 2. </bold></italic> Mapa espacio-temporal del uso de agua asociado al fracturamiento hidráulico en el play Eagle Ford (Texas) para el periodo 2009-2017.</p>
                </caption>
-               <graphic xlink:href="a1-1-7003.png"/>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero5/hdez_espriu/a1-1-7003.png"/>
             </fig>
 
             <table-wrap id="t1">
@@ -423,6 +417,15 @@
          <title>Acknowledgements</title>
          <p>The first author acknowledges financial support provided by the COMEXUS Fulbright García Robles Fellowship, the UNAM-DGAPA PASPA and the Matías-Romero (SRE-UT LLILAS) Research Visiting Programs that supported this research. Also, to Scott Tinker, Bridget Scanlon, Michael H. Young, Brad Wolaver, JP Nicot and Robert Reedy of the Bureau of Economic Geology (The University of Texas at Austin) for the hospitality during the sabbatical leave of A. Hernández-Espriú. The authors are grateful for the constructive comments of Daniel Itzamna Avila Ortega and one anonymous reviewer that greatly improved the scientific quality of the manuscript. We would also like to thank Luis Felipe Ruiz Castañeda and Francisco Javier Osorno Covarrubias for the dynamic map development and implementation. Special thanks go to Javier Osorno for its contribution to the Landsat image processing. This is the 12<sup>th</sup> contribution from the Hydrogeology Group (Earth Sciences Division), Faculty of Engineering, UNAM, Mexico.</p>
       </sec>
+      <sec sec-type="supplementary-material">
+         <title>Visualizador</title>
+         <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero5/espriu/mapa_estatico/"
+           mimetype="application/html">
+           <label>Mapa Estático</label>
+         <media mime-subtype="php" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero5/espriu/mapa_estatico/"/>
+       </supplementary-material>
+       </sec>
    </body>
    <back>
       <ref-list>

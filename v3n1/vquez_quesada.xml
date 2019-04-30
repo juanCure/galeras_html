@@ -20,10 +20,13 @@
          </publisher>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="publisher-id"/>
+         <article-id pub-id-type="doi">10.22201/igg.25940694.2019.1.57.119</article-id>
          <article-categories>
+            <subj-group subj-group-type="display-channel">
+              <subject>Research article</subject>
+            </subj-group>
             <subj-group subj-group-type="heading">
-               <subject>Articles</subject>
+               <subject>Geography</subject>
             </subj-group>
          </article-categories>
          <title-group>
@@ -141,12 +144,12 @@
          <abstract>
             <sec>
                <title>Resumen</title>
-               <p>La cartografía presentada resulta de la construcción de bases de información exhaustivas sobre el sistema eléctrico de Centroamérica que comprende las centrales de generación eléctrica (priorizando las mayores a 5 MW), las líneas de transmisión, así como algunos megaproyectos directamente relacionados. Diseñada y desarrollada por el Colectivo Geocomunes con apoyo de organizaciones sociales, este mapeo y base de datos funge como un punto de partida de un proyecto de cartografía colaborativa. Su objetivo es proporcionar una base de información que fortalezca la capacidad de las comunidades locales y de la población en general para discutir, argumentar, monitorear y exigir la rendición de cuentas en el sector eléctrico de la región. Una capacidad social que consideramos necesaria frente al contexto de privatización de bienes comunes estratégicos como lo es la electricidad, en donde el Estado ha cedido al mercado global su facultad de gestión y toma de decisiones.</p>
+               <p>En este trabajo se presenta la construcción y visualización de bases de información exhaustivas sobre el sistema eléctrico de Centroamérica que comprende las centrales de generación eléctrica (priorizando las mayores a 5 MW), las líneas de transmisión, así como algunos megaproyectos directamente relacionados. Diseñada y desarrollada por el Colectivo Geocomunes con apoyo de organizaciones sociales, este mapeo y base de datos funge como un punto de partida de un proyecto de cartografía colaborativa. Su objetivo es proporcionar una base de información que fortalezca la capacidad de las comunidades locales y de la población en general para discutir, argumentar, monitorear y exigir la rendición de cuentas en el sector eléctrico de la región. Una capacidad social que consideramos necesaria frente al contexto de privatización de bienes comunes estratégicos como lo es la electricidad, en donde el Estado ha cedido al mercado global su facultad de gestión y toma de decisiones.</p>
                <p><italic>Palabras clave</italic>: Electricidad; Megaproyectos; Energías Renovables; Defensa del territorio; Cartografía colaborativa.</p>
             </sec>
             <sec>
                <title>Abstract</title>
-               <p>We present a cartography that visualizes an exhaustive spatial database of the electrical power infrastructure of Central America, which include generation plants greater than 5 MW, transmission lines, and some associated megaprojects. Designed and developed by the Geocomunes Collective in collaboration with social organization, this cartography and its associated database are the starting point for a collaborative mapping project. The objective of this research is to provide an information database that aims at strengthen the capacity of local communities in Central America and the population in general to discuss, argue, monitor, and demand accountability mechanisms. A social capability that we consider highly needed in a global context of privatization of strategic common goods, such as power supplies, where the State has ceded to the global market its capacities of management and decision making.</p>
+               <p>In this work we present the construction and visualization of an exhaustive spatial database of the electrical power infrastructure of Central America, which include generation plants greater than 5 MW, transmission lines, and some associated megaprojects. Designed and developed by the Geocomunes Collective in collaboration with social organization, this cartography and its associated database are the starting point for a collaborative mapping project. The objective of this research is to provide an information database that aims at strengthen the capacity of local communities in Central America and the population in general to discuss, argue, monitor, and demand accountability mechanisms. A social capability that we consider highly needed in a global context of privatization of strategic common goods, such as power supplies, where the State has ceded to the global market its capacities of management and decision making.</p>
                <p><italic>Keywords</italic>: Electricity generation; Megaprojects; Renewable energy; Defense of the territory; Collaborative mapping.</p>
             </sec>
          </abstract>
@@ -187,9 +190,7 @@
          <bold> </bold>
          <bold> </bold>
          <sec>
-            <title>
-               <italic>1.1 Área de investigación y su contexto:</italic>
-            </title> 
+            <title>1.1 Área de investigación y su contexto:</title> 
             <p>La investigación se hizo sobre países que forman parte del Sistema de Interconexión Eléctrica para América Central (SIEPAC): Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica y Panamá; y rastreando principalmente las centrales de generación eléctrica mayores a 5 MW. </p> 
             <p>Desde la década de los noventa, Centroamérica vive un proceso de expansión de infraestructura para la generación y transmisión de electricidad y, particularmente desde 2010, de proyectos asociados con una diversificación de fuentes de energías renovables. A pesar de que esta es una región donde la cobertura de este servicio no ha llegado a toda la población y donde los montos de la importación de energía primaria fósil resultan costosos para las finanzas públicas; la expansión de la capacidad de producción eléctrica con fuentes renovables no ha sido bien vista por las poblaciones de estos países. El despliegue de esta infraestructura ha despertado luchas y oposiciones de comunidades que no ven en la proliferación de centrales eléctricas la realización de un bien de utilidad e interés público, sino la imposición del interés privado de empresas locales y sobre todo extranjeras sobre territorios comunitarios.<!-- <xref ref-type="fn" rid="fn1"> -->
                   <sup>1</sup>
@@ -221,12 +222,11 @@
             <p>Ante este contexto de falta de información sobre el sistema eléctrico existente y en proyecto, los actores que lo controlan o aquellos que lo financian, la investigación que presentamos aporta una base de información exhaustiva sobre la infraestructura y los actores asociados directamente a ella. Una investigación que busca ser el punto de partida de un monitoreo colaborativo que provea al público en general (académicos, comunidades y pueblo interesado) de información actualizada sobre este sector estratégico.</p>
             <p>Es en relación con esto último, que un elemento central de la investigación lo constituye el visualizador que permite la difusión, la actualización e intervención permanente de esta base de información, un elemento que potencia enormemente los mapas estáticos que se difundieron como parte de este proyecto.</p>
             <p>A diferencia de mapas estáticos, que se diseñaron y difundieron con el fin de que esta investigación llegue directamente a las comunidades afectadas por la construcción de la infraestructura eléctrica, muchas de las cuales no cuentan con energía eléctrica o no son cercanas al uso de herramientas digitales ni del internet; este visualizador está diseñado para ser un medio de comunicación y colaboración con comunidades más urbanizadas y con grupos de investigación y acompañamiento a comunidades rurales.</p>
-            <p>El mapa interactivo que presentamos tiene componentes y funcionalidades que representan ventajas significativas sobre otros proyectos de geovisualización referentes a conflictos socioambientales y/o megaproyectos que atentan contra los bienes comunes. Una de estas características la constituye la posibilidad de consultar el texto de análisis de la investigación en el que se incluyen gráficas interactivas y tablas relativas al mismo. Así mismo, otro hito alcanzado es la funcionalidad que permite consultar de forma dinámica las tablas de proyectos de generación de electricidad, así como las empresas y financiamientos relacionados, permitiendo descomponer la base de datos para su análisis. Además, otro componente fundamental es que permite la descarga tanto de las capas de información a través de Geonode, como de los materiales en versión “imprimible” producto de la investigación.  Elementos que fueron diseñados para hacer de este visualizador una herramienta de consulta, de descarga de información y de actualización colaborativa de la información por elemento o región cartografiada.</p>
+            <p>El mapa interactivo se presenta en el sitio <ext-link ext-link-type="uri" xlink:href="http://geocomunes.org/Visualizadores/Centroamerica/">http://geocomunes.org/Visualizadores/Centroamerica/</ext-link>. Tiene componentes y funcionalidades que representan ventajas significativas sobre otros proyectos de geovisualización referentes a conflictos socioambientales y/o megaproyectos que atentan contra los bienes comunes. Una de estas características la constituye la posibilidad de consultar el texto de análisis de la investigación en el que se incluyen gráficas interactivas y tablas relativas al mismo. Así mismo, otro hito alcanzado es la funcionalidad que permite consultar de forma dinámica las tablas de proyectos de generación de electricidad, así como las empresas y financiamientos relacionados, permitiendo descomponer la base de datos para su análisis. Además, otro componente fundamental es que permite la descarga tanto de las capas de información a través de Geonode, como de los materiales en versión “imprimible” producto de la investigación.  Elementos que fueron diseñados para hacer de este visualizador una herramienta de consulta, de descarga de información y de actualización colaborativa de la información por elemento o región cartografiada.</p>
             <p>En este sentido, el mapa digital que presentamos resulta distinto de otros similares que existen en el ámbito de la justicia ambiental y el monitoreo de conflictos como, por ejemplo, el <italic>Environmental Justice Atlas </italic>(EjAtlas) de la Institut de Ciència i Tecnologia Ambientals - Universidad Autónoma de Barcelona. En tanto este último se centra en la presentación de un mapa con el despliegue global de <italic>puntos</italic> sobre conflictos socioambientales clasificados por tipo de conflicto, la descarga de la documentación de los mismos y de otras capas relacionadas, así como una funcionalidad de filtros avanzados con base en los parámetros sistematizados sobre los casos geolocalizados; el que presentamos con esta investigación busca ser una plataforma de visualización de información detallada sobre el sistema eléctrico, de descarga de información sobre cada una de los proyectos, y de <italic>comprensión del sistema eléctrico </italic>así como de <italic>formación metodológica para realizar un monitoreo sobre este sistema</italic> (sección que está detallada en el material escrito que también puede ser consultado en el visualizador). Este visualizador está enfocado en el mapeo preciso del conjunto de proyectos que conforman la infraestructura eléctrica existente y proyectada en la región y no pretende aportar información sobre los conflictos derivados de la instalación de esos proyectos, como lo hace por ejemplo el EJAtlas. </p>
          </sec>
          <sec>
             <title>1.2 Objetivo de la investigación</title>
-            <bold> </bold>
             <p>Construir una base de datos georeferenciada exhaustiva sobre las centrales de generación eléctrica en operación, construcción y en proyecto en los países que forman parte del SIEPAC, así como un mapa interactivo en línea para su consulta, descarga y análisis. La base de datos está ampliamente detallada en diversas cualidades de las centrales, como son datos de tecnología empleada, de la capacidad de generación (en MW), de la empresa promovente, la empresa matriz, el capital al que pertenece la infraestructura (público o privado) y la inversión desembolsada para su planeación y construcción (millones de dólares).</p>
             <bold> </bold>
             <p>A través del mapa interactivo en línea se proporciona información completa y de acceso público sobre la infraestructura eléctrica en esta región que coadyuve a la discusión, la toma de decisiones y la exigencia de rendición de cuentas de la población frente a temas relacionados con el sistema eléctrico y sobre la <italic>utilidad pública</italic> de algunos de los  proyectos de infraestructura energética.</p>
@@ -398,7 +398,7 @@
                   <p><italic><bold>Figura 1. </bold>La figura muestra el mapa de la zona de estudio y de las centrales eléctricas georreferenciadas, de acuerdo a su tecnología y energía primaria empleada (biomasa, eólica, geotérmica, hidroeléctrica, solar o térmica fósil) y fase (en operación, en construcción y proyecto), además de otros elementos como la línea del Sistema de Interconexión Eléctrica para América Central (SIEPAC) y la delimitación estatal de los países en cuestión.  Fuente: Elaboración propia con base en capas de la investigación.</italic></p>
                   <p><italic><bold>Figure 1. </bold>Geographic distribution of power plants in Central America. The map shows country delimitation, the Central American Electrical Interconnection System (SIEPAC), and the power plants according with their technology: biomass, wind, geothermal, hydroelectric, solar or fossil-fuel; and the project status: projected, in construction or operating. Source: Prepared by the authors based on the georeferenced databases of this research.</italic></p>
                </caption>
-               <graphic xlink:href="a2-1-34001.png"/>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero5/velazquez/a2-1-34001.png"/>
             </fig>
             <p>En la <xref ref-type="fig" rid="f2">Figura 2</xref> puede verse el desglose por fase y tecnología de las centrales reportadas en esta investigación. De esta información resulta interesante señalar la concentración en la fase de <italic>proyecto</italic>, y su contraste con el número de centrales en construcción.</p>
             
@@ -408,7 +408,7 @@
                   <p><italic><bold>Figura 2. </bold>Gráfica de la capacidad instalada total en mega watts (MW) por fase de cada tecnología  y con el dato del número de proyectos mapeados en esta investigación. Fuente: Elaboración propia con base en capas de la investigación.</italic></p>
                   <p><italic><bold>Figure 2. </bold>Total power plant capacity in megawatts (MW) in Central America. The graph shows the total power-plant capacity by technology and project status. Source: Prepared by the authors based on the databases of this research.</italic></p>
                </caption>
-               <graphic xlink:href="a2-1-34002.png"/>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero5/velazquez/a2-1-34002.png"/>
             </fig>
             <p>Otro atributo de la base de datos es la capacidad de cada proyecto de generación y la tecnología empleada. Con esta información se puede visualizar a distintas escalas la distribución de los proyectos y su capacidad eléctrica, tal como se muestra en la <xref ref-type="fig" rid="f3">Figura 3</xref> para el caso de Honduras. Si bien la infraestructura de generación eléctrica que opera con fuentes de energía renovable tiene una espacialidad acotada por la existencia de los recursos naturales que las sostienen (ríos, viento, etc.), la distribución de estos proyectos puede mostrar patrones importantes para el análisis, como zonas de concentración de la capacidad eléctrica, zonas sin capacidad, distribución de los proyectos por escala de producción, etc.</p>
             
@@ -418,7 +418,7 @@
                      <p><italic><bold>Figura 3. </bold>Mapa de proyectos de generación eléctrica por tecnología y capacidad en Honduras. El mapa muestra la localización de las plantas de generación hidroeléctrica, biomasa, geotérmica, eólica, fotovoltáica y térmicas convencionales, de acuerdo a su fase (proyecto, operación o construcción). Fuente: Elaboración propia, descargable en el geovisualizador referido, en <xref ref-type="bibr" rid="B13">Geocomunes, 2019(c)</xref>.</italic></p>
                      <p><italic><bold>Figure 3.</bold>Geographic distribution of power plants located at the different departments of Honduras. The map shows hydroelectric, biomass, geothermal, wind, photovoltaic, and fossil-fuel power plants and its status. Source: Prepared by the authors based on the georeferenced databases of this research. Downloadable map from <xref ref-type="bibr" rid="B13">Geocomunes, 2019(c)</xref>.</italic></p>
                   </caption>
-                  <graphic xlink:href="a2-1-34003.png"/>
+                  <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero5/velazquez/a2-1-34003.png"/>
                </fig>
             
             <p>La <xref ref-type="fig" rid="f4">figura 4</xref> muestra la repartición de centrales entre el sector público y privado. Con la excepción de Costa Rica, resulta claro que la producción de energía eléctrica está en manos del sector privado, ya que éste sector tiene el 79 % del número de centrales operando, el 95 % de centrales en proyecto, el 70 % de la capacidad instalada, el 93 % de la capacidad proyectada y el 81 % de la generación eléctrica actual.</p>
@@ -429,7 +429,7 @@
                   <p><italic><bold>Figura 4. </bold>Mapa de proyectos de generación eléctrica por sector público o privado, y de acuerdo con la fase del proyecto (operación, proyecto o contrucción), así como otros elmentos significativos, como la línea de transmisión del Sistema de Interconexión Eléctrica para América Central (SIEPAC), y la delimitación de los países del área de estudio. Fuente: Elaboración propia.</italic></p>
                   <p><italic><bold>Figure 4. </bold>Mapa de proyectos de generación eléctrica por sector público o privado, y de acuerdo con la fase del proyecto (operación, proyecto o contrucción), así como otros elmentos significativos, como la línea de transmisión del Sistema de Interconexión Eléctrica para América Central (SIEPAC), y la delimitación de los países del área de estudio. Fuente: Elaboración propia.</italic></p>
                </caption>
-               <graphic xlink:href="a2-1-34004.png"/>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero5/velazquez/a2-1-34004.png"/>
             </fig>
             <p>De acuerdo con esta investigación, las empresas que concentraron más capacidad eléctrica instalada en 2017  son las que pueden visualizarse en la <xref ref-type="table" rid="t2">Tabla 2</xref>, junto con el país donde están dadas de alta.</p>
             
@@ -914,6 +914,15 @@
          <p><sup>5. </sup> Las fuentes revisadas para cada país son las siguientes: Costa Rica: Autoridad Reguladora de los Servicios Públicos (ARESEP); Instituto Costarricense de Electricidad;  Guatemala: Ministerio de Energía y Minas (MEM); El Salvador: Superintendencia General de Electricidad y Telecomunicaciones (SIGET); Honduras: Secretaria de Energia Recursos Naturales Ambiente y Minas (SERNA); Comisión Reguladora de Energía Eléctrica (CREE); ProHonduras; Nicaragua: Ministerio de Energía y Minas (MEM); Comisión Nacional de Energía; Panamá: Autoridad Nacional de los Servicios Públicos (ASEP); Empresa de Transmisión Eléctrica Panameña; Ministerio de Ambiente. </p>
          <p><sup>6. </sup> Las fuentes consultadas por país para este tipo de información fueron para Costa Rica: Ministerio de Ambiente y la Energía (MINAE); Guatemala: el Ministerio de Ambiente y Recursos Naturales (MARN); El Salvador: Ministerio de Medio Ambiente y Recursos Naturales (MARN); Nicaragua: Ministerio del Ambiente y de los Recursos Naturales (MARENA); Honduras: Dirección General de Evaluación y Control Ambiental; y para Panamá: Autoridad Nacional del Ambiente de Panamá (ANAM). </p>
       </sec>
+      <sec sec-type="supplementary-material">
+         <title>Visualizador</title>
+         <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xlink:title="local_file" xlink:href="http://geocomunes.org/Visualizadores/Centroamerica/"
+           mimetype="application/html">
+           <label>Mapa Estático</label>
+         <media mime-subtype="php" mimetype="application" xlink:href="http://geocomunes.org/Visualizadores/Centroamerica/"/>
+       </supplementary-material>
+       </sec>
    </body>
    <back>
       <ref-list>

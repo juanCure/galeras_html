@@ -20,10 +20,13 @@
          </publisher>
       </journal-meta>
       <article-meta>
-         <article-id pub-id-type="publisher-id">00001</article-id>
+         <article-id pub-id-type="doi">10.22201/igg.25940694.2019.1.58.122</article-id>
          <article-categories>
+            <subj-group subj-group-type="display-channel">
+              <subject>Research article</subject>
+            </subj-group>
             <subj-group subj-group-type="heading">
-               <subject>Articles</subject>
+               <subject>Geography</subject>
             </subj-group>
          </article-categories>
          <title-group>
@@ -197,19 +200,19 @@
       <sec sec-type="methods">
          <title>2. Metodología:</title>
             <sec>
-                <title><italic>2.1 Construcción de los modelos climáticos</italic></title>
+                <title>2.1 Construcción de los modelos climáticos</title>
                 <p>
                     La generación del modelo climático consistió en un primer tiempo en reunir la información diaria de la red de estaciones meteorológicas en una base de datos a nivel nacional (1979 a la fecha). En un segundo tiempo, con base en lo anterior, se realizó una asimilación a mayor resolución espacial del modelo numérico climático de estándar internacional Atmosphere Ocean General Circulation Models (AOGCMs). Para este objetivo, las variables de precipitación, temperatura máxima y temperatura mínima fueron corregidas de errores sistemáticos vía el método de correcciones sucesivas de tipo Cressman (<xref ref-type="bibr" rid="B5">Cressman, 1959</xref>) y un ajuste de valores por altura aplicando un gradiente adiabático seco.
                 </p>
             </sec>
             <sec>
-                <title><italic>2.2 Diseño de las estructuras de datos</italic></title>
+                <title>2.2 Diseño de las estructuras de datos</title>
                 <p>
                     En México existen iniciativas de visualización en línea de variables climáticas. El UNIATMOS (<xref ref-type="bibr" rid="B1">CCA UNAM, 2019</xref>) es un Atlas Climático Digital de México, se centra en el acopio y sistematización de una gama amplia de variables e índices climáticos, y su modo de visualización es esencialmente estático. Para nuestros objetivos de difundir modelos prospectivos dinámicos de clima, optamos por desarrollar una solución apropiada para visualizar secuencias espaciotemporales de imágenes. Nuestro desarrollo se basó en estructuras de datos bajo el estándar abierto NetCDF (“cubos de datos”), que permitió manejar de forma compacta series espaciotemporales extensas como las producidas por modelos dinámicos de simulación espacialmente explícitos.
                 </p>
             </sec>
             <sec>
-                <title><italic>2.3 Construcción del visualizador</italic></title>
+                <title>2.3 Construcción del visualizador</title>
                 <p>
                     Para la visualización interactiva de las variables de las simulaciones climáticas, se desarrolló una aplicación a la medida: El desarrollo se centra en la implementación de un widget que permite recorrer la simulación paso a paso o en forma automática. La información reside en estructuras de datos NetCDF en un servidor de mapas GeoServer, que expone cada uno de los “frames” de la simulación a través de un servicio WMS. El usuario controla la visualización a través de un widget escrito en el lenguaje PhP y que presenta imágenes en un mapa basado en OpenLayers de acuerdo con la interacción con el usuario. Nuestro esquema de visualización es cercano al del visualizador de la NOAA GlobalData (<xref ref-type="bibr" rid="B13">NOAA, 2019</xref>). La plataforma del Sistema Regional de Visualización y Monitoreo de Mesoamérica (<xref ref-type="bibr" rid="B16">SERVIR, 2019</xref>) también ofrece una visualización dinámica de variables climáticas, sin embargo, su visualizador está basado en la licencia propietaria Google Earth API y en el formato kml. Esta solución tecnológica es muy atractiva en cuanto a visualización, pero es deficiente en cuanto a manejo de metadatos, un aspecto sensible para información científica. El diseño de nuestro visualizador consistió en una ventana en donde se despliega el mapa interactivo del territorio mexicano y dos paneles colapsables superpuestos. En el panel del lado derecho se eligen capas de fondo. En el panel del lado izquierdo se elige la variable climática, lo que activa el widget para la animación de series temporales de la variable. También se ofrece ahí la descarga del producto y del metadato.
                 </p>
@@ -218,13 +221,13 @@
       <sec sec-type="results">
          <title>3. Resultados</title>
          <p>
-            Se presenta un visualizador interactivo de secuencias espaciotemporales de modelos climáticos de las variables diarias Temperatura Máxima, Temperatura Mínima y Precipitación a nivel nacional. Las variables están desplegadas en formato Raster a una resolución espacial de 10km y están disponibles de 1979 a 2011. Se está trabajando la actualización de los modelos hasta 2018. La arquitectura del sistema y el visualizador que se presenta en este artículo, son parte de la infraestructura de datos espaciales y plataforma en línea “VISTA-C” (Sitio http://vista-c.igg.unam.mx : consultar <xref ref-type="bibr" rid="B11">López Vega et al., 2015</xref>; <xref ref-type="bibr" rid="B4">Couturier et al., 2017</xref>) desarrollada para el INEGI. Estos avances ofrecen una herramienta de software libre para las instituciones públicas y los sectores productivos en agricultura y pesquería, y de protección civil. Se trata de una visualización sin precedente en el país porque permite la representación dinámica de modelos climáticos numéricos basados en variables rasterizadas. 
+            Se presenta un visualizador interactivo de secuencias espaciotemporales de modelos climáticos de las variables diarias Temperatura Máxima, Temperatura Mínima y Precipitación a nivel nacional. Las variables están desplegadas en formato Raster a una resolución espacial de 10km y están disponibles de 1979 a 2011. Se está trabajando la actualización de los modelos hasta 2018. La arquitectura del sistema y el visualizador que se presenta en este artículo, son parte de la infraestructura de datos espaciales y plataforma en línea “VISTA-C” (Sitio <ext-link ext-link-type="uri" xlink:href="http://vista-c.igg.unam.mx">http://vista-c.igg.unam.mx</ext-link>: Consultar <xref ref-type="bibr" rid="B11">López Vega et al., 2015</xref>; <xref ref-type="bibr" rid="B4">Couturier et al., 2017</xref>) desarrollada para el INEGI. Estos avances ofrecen una herramienta de software libre para las instituciones públicas y los sectores productivos en agricultura y pesquería, y de protección civil. Se trata de una visualización sin precedente en el país porque permite la representación dinámica de modelos climáticos numéricos basados en variables rasterizadas. 
          </p>
       </sec>
       <sec sec-type="conclusions">
          <title>4. Conclusiones</title>
          <p>
-            El mapa interactivo de modelos climáticos numéricos de México que presentamos (incorporado en el sitio web vista-c.igg.unam.mx FALTA AQUÍ INSERTAR EL URL DE LA VERSIÓN EXTRAÍDA POR IVÁN!!!) tiene características atractivas para la comunicación de información científica a sectores claves de la sociedad. En primer lugar, los modelos de las variables climáticas cuentan con control estadístico de verificación, garantizando cierto grado de confiabilidad en la correspondencia entre los valores mapeados y los valores in situ. En segundo lugar, el widget de animación desarrollado, basado en Openlayers, que consume datos de GeoServer habilitó una visualización original y amigable. Cabe señalar que, si bien la visualización dinámica de series temporales de las imágenes Raster, es suficientemente ágil, puede mejorarse sustancialmente utilizando un esquema de cacheo apropiado (basado en el componente GeoWebCache de GeoServer). Esta mejora está en vías de implementación. En tercer lugar, el formato NetCDF probó ser muy apropiado para manejar en forma compacta, los “cubos” con series de tiempo muy extensas, con potencial amplio para escalar el volumen de datos. Por otro lado, la interfaz desarrollada permite al usuario la descarga, amigable y libre, de los datos y metadatos en forma directa y sencilla. Aprovechando el formato compacto NetCDF, se está trabajando en la posibilidad de descargar secuencias temporales de imágenes con un formato de animación video, con mayor potencial de usabilidad para usuarios no especializados.
+            El mapa interactivo de modelos climáticos numéricos de México que presentamos (incorporado en el sitio web <ext-link ext-link-type="uri" xlink:href="http://vista-c.igg.unam.mx/series-mod-clima/">http://vista-c.igg.unam.mx/series-mod-clima/</ext-link>) tiene características atractivas para la comunicación de información científica a sectores claves de la sociedad. En primer lugar, los modelos de las variables climáticas cuentan con control estadístico de verificación, garantizando cierto grado de confiabilidad en la correspondencia entre los valores mapeados y los valores in situ. En segundo lugar, el widget de animación desarrollado, basado en Openlayers, que consume datos de GeoServer habilitó una visualización original y amigable. Cabe señalar que, si bien la visualización dinámica de series temporales de las imágenes Raster, es suficientemente ágil, puede mejorarse sustancialmente utilizando un esquema de cacheo apropiado (basado en el componente GeoWebCache de GeoServer). Esta mejora está en vías de implementación. En tercer lugar, el formato NetCDF probó ser muy apropiado para manejar en forma compacta, los “cubos” con series de tiempo muy extensas, con potencial amplio para escalar el volumen de datos. Por otro lado, la interfaz desarrollada permite al usuario la descarga, amigable y libre, de los datos y metadatos en forma directa y sencilla. Aprovechando el formato compacto NetCDF, se está trabajando en la posibilidad de descargar secuencias temporales de imágenes con un formato de animación video, con mayor potencial de usabilidad para usuarios no especializados.
          </p>
          <p>
             El manejo de los metadatos resultó ser ágil porque es muy compacto (un solo metadato para cada estructura de datos NetCDF). Nuestra implementación de metadatos es limitada dado que aún no integra una herramienta CS-W para su manejo, como se hace en la plataforma UNIATMOS y otras plataformas similares. Esta deficiencia se subsanará agregando el plugin CS-W a GeoServer.
@@ -270,6 +273,15 @@
             Esta investigación se realizó en el marco de los proyectos siguientes: CONACYT “LANOT-2018-295081” (convocatoria Laboratorios Nacionales), y PAPIIT “IN302417”: Seguridad Alimentaria versus preservación ambiental: diseño de una plataforma cartográfica nacional para analizar su compatibilidad de forma multiescalar. 
          </p>
       </sec>
+      <sec sec-type="supplementary-material">
+         <title>Visualizador</title>
+         <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xlink:title="local_file" xlink:href="http://vista-c.igg.unam.mx/series-mod-clima/"
+           mimetype="application/html">
+           <label>Mapa Estático</label>
+         <media mime-subtype="php" mimetype="application" xlink:href="http://vista-c.igg.unam.mx/series-mod-clima/"/>
+       </supplementary-material>
+       </sec>
    </body>
    <back>
       <ref-list>
@@ -321,7 +333,7 @@
                </person-group>
                <year>2019, Último acceso: 15 de enero de 2019</year>
                <article-title><ext-link ext-link-type="uri"
-                            xlink:href="http://sina.conagua.gob.mx/sina/tema.php?tema=usosAgua&amp;ver=mapa"> Sistema Nacional de Información del Agua(SINA).</ext-link></article-title>
+                            xlink:href="http://sina.conagua.gob.mx/sina/tema.php?tema=usosAgua&amp;ver=mapa"> Sistema Nacional de Información del Agua (SINA).</ext-link></article-title>
                <publisher-loc>México</publisher-loc>
                <source>CONAGUA</source>
                <comment>
