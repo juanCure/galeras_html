@@ -66,8 +66,8 @@
                   <surname>Magaña Rueda</surname>
                   <given-names>Victor</given-names>
                </name>
-               <xref ref-type="aff" rid="aff1">
-                  <sup>a</sup>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>b</sup>
                </xref>
             </contrib>
             <contrib contrib-type="author">
@@ -75,8 +75,8 @@
                   <surname>Vázquez Cruz</surname>
                   <given-names>Gustavo</given-names>
                </name>
-               <xref ref-type="aff" rid="aff1">
-                  <sup>a</sup>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>b</sup>
                </xref>
             </contrib>
             <aff id="aff1">
@@ -84,6 +84,18 @@
                 <institution content-type="original">Laboratorio de Análisis Geoespacial (LAGE), Instituto de Geografía, Circuito Exterior s/n, Cd. Universitaria, Universidad Nacional Autónoma de México, 04510, Ciudad de México, México.</institution>
                 <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
                 <institution content-type="orgdiv2">Laboratorio de Análisis Geoespacial (LAGE)</institution>
+                <institution content-type="orgdiv1">Instituto de Geografía</institution>
+                <institution content-type="orgname">Universidad Nacional Autónoma de México</institution>
+                <addr-line>
+                <city>Mexico City</city>
+                <postal-code>04510</postal-code>
+                </addr-line>
+            </aff>
+            <aff id="aff2">
+                <label>2</label>
+                <institution content-type="original">Departamento de Geografía Física, Instituto de Geografía. Circuito Exterior s/n, Cd. Universitaria, Universidad Nacional Autónoma de México, 04510, Ciudad de México, México</institution>
+                <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+                <institution content-type="orgdiv2">Departamento de Geografía Física,</institution>
                 <institution content-type="orgdiv1">Instituto de Geografía</institution>
                 <institution content-type="orgname">Universidad Nacional Autónoma de México</institution>
                 <addr-line>
