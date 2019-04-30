@@ -1,0 +1,1116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.1"
+         article-type="research-article"
+         xml:lang="es"
+         specific-use="sps-1.8">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+         <journal-title-group>
+            <journal-title>Terra Digitalis</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">TD</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2594-0694</issn>
+         <publisher>
+            <publisher-name>Terra Digitalis</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="publisher-id"/>
+         <article-id pub-id-type="doi">10.22201/igg.25940694.2018.2.54.110</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Regionalización Físico-Geográfica (RFG) de Jalisco, México a escala 1:500,000 / Physical Geographic Regionalization (RFG) for Jalisco, México at scale 1:500,000.</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Physical Geographic Regionalization (RFG) for Jalisco, México at scale 1: 500 000.</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>López</surname>
+                  <given-names>Rodolfo Ruiz</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+               <xref ref-type="corresp" rid="corr1">*</xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Manent</surname>
+                  <given-names>Manuel Bollo</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>a</sup>
+               </xref>
+            </contrib>
+            <aff id="aff1">
+               <institution content-type="original">Centro de Investigaciones en Geografía Ambiental, UNAM - Campus Morelia, Morelia, México, C.P. 58190</institution>
+               <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+               <institution content-type="orgdiv1">Centro de Investigaciones en Geografía Ambiental</institution>
+               <institution content-type="orgname">UNAM</institution>
+               <institution content-type="orgdiv2">Campus Morelia</institution>
+               <addr-line>
+                  <city>Morelia</city>
+                  <postal-code>58190</postal-code>
+               </addr-line>
+               <country country="MX">Mexico</country>
+            </aff>
+         </contrib-group>
+         <author-notes>
+            <corresp id="corr1">
+               <email>rruiz@pmip.unam.mx</email>
+            </corresp>
+         </author-notes>
+         <pub-date pub-type="epub">
+            <day>31</day>
+            <month>10</month>
+            <season>Jan-Apr</season>
+            <year>2018</year>
+         </pub-date>
+         <volume>2</volume>
+         <issue>2</issue>
+         <fpage>1</fpage>
+         <lpage>28</lpage>
+         <history>
+            <date date-type="received">
+               <day>01</day>
+               <month>12</month>
+               <year>2017</year>
+            </date>
+            <date date-type="accepted">
+               <day>23</day>
+               <month>08</month>
+               <year>2018</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>&#169; 2018, Rodolfo Ruiz López &amp; Manuel Bollo Manent. Published by Terra Digitalis.</copyright-statement>
+           <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+             <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+           </license>
+         </permissions>
+         <abstract>
+            <sec>
+               <title>Resumen</title>
+               <p>El proceso de Regionalización físico-geográfica (RFG), es una forma de clasificación del espacio geográfico en unidades homogéneas. La diferenciación de las unidades se realiza teniendo en cuenta índices diagnósticos, según el sistema de clasificación taxonómica propuesto para México, en el cual se diferencia al territorio de estudio en las unidades inferiores de la clasificación: Subprovincias, Distritos y Regiones físico-geográficas. De tal manera, el proceso de regionalización de los paisajes físico-geográficos del estado de Jalisco, permitió la distinción y delimitación a detalle de, 15 Subprovincias, 28 Distritos y 66 Regiones físico-geográficas. Las unidades espaciales obtenidas pueden ser utilizadas en estudios regionales de la degradación ambiental, en diagnósticos del estado del medio ambiente del territorio, y como unidades ambientales para distintas formas de ordenamiento del territorio, entre otras aplicaciones.</p>
+               <p><italic>Palabras clave:</italic> Regionalización físico-geográfica; Paisaje físico-geográfico; Jalisco.</p>
+            </sec>
+            <sec>
+               <title>Abstract</title>
+               <p>The physical-geographic regionalization process (RFG) is a way of classifying the geographic space into homogenous units. The differentiation of the units is done taking into account diagnostic indices, according with the taxonomic classification system proposed for Mexico, in which the studied territory is differentiated into the inferior units of the classification: Sub provinces, Districts and physical geographic Regions. In this way, the regionalization process of the physical geographic landscapes in the state of Jalisco, allowed the distinction and delimitation in detail of 15 Sub provinces, 28 districts and 66 physical geographic Regions. The obtained spatial units can be used in regional studies of environmental degradation, in diagnoses of the condition of the environment in the territory, and as environmental units for different forms of spatial planning, among other applications.</p>   
+               <p><italic>Keywords:</italic> Physical-geographic Regionalization; Physical-geographic landscape; Jalisco.</p>
+            </sec>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <p>The physical-geographic regionalization process (RFG) is a way of classifying the geographic space into homogenous units. The differentiation of the units is done taking into account diagnostic indices, according with the taxonomic classification system proposed for Mexico (<xref ref-type="bibr" rid="B3">Bollo et al., 2015</xref>), in which the studied territory is differentiated into the inferior units of the classification: Sub provinces, Districts and physical geographic Regions. In this way, the regionalization process of the physical geographic landscapes in the state of Jalisco, allowed the distinction and delimitation in detail of 15 Sub provinces, 28 districts and 66 physical geographic Regions. The obtained spatial units can be used in regional studies of environmental degradation, in diagnoses of the condition of the environment in the territory, and as environmental units for different forms of spatial planning, among other applications.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>Regionalización físico-geográfica</kwd>
+            <kwd>Paisaje físico-geográfico</kwd>
+            <kwd>Jalisco</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>Physical-geographic Regionalization</kwd>
+            <kwd>Physical-geographic landscape</kwd>
+            <kwd>Jalisco</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="4"/>
+            <table-count count="1"/>
+            <equation-count count="0"/>
+            <ref-count count="20"/>
+            <page-count count="28"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>1. Introducción</title>
+         <bold> </bold>
+         <p>En México, además de una gran biodiversidad, encontramos una amplia geodiversidad que se manifiesta por la variedad de sus paisajes físico-geográficos. </p>
+         <p>En la Geografía del Paisaje existen dos formas de clasificar el espacio a escala o nivel regional, la Tipología del Paisaje, que diferencia el espacio y lo delimita en unidades según la analogía en sus componentes naturales, con unidades repetibles en el espacio y el tiempo y la Regionalización Físico Geográfica (RFG) que distingue individuos, es decir unidades con determinado nivel de homogeneidad, según los rasgos particulares de la interacción entre los componentes naturales en el espacio las cuales son irrepetibles. Entre las unidades distinguidas por cada forma de clasificar, existen relaciones espaciales en un mismo territorio (<xref ref-type="bibr" rid="B2">Bollo, 2017</xref>).</p>
+         <p>El paisaje físico-geográfico (complejo territorial natural o geosistema natural) visto desde la Geografía del Paisaje se concibe como una formación natural, una parte de la superficie terrestre de cualquier dimensión, originada por la integración de componentes y elementos naturales que se encuentran en interrelación dialéctica (la estructura geológica incluyendo la litología, el relieve, las masas de aire atmosférico, el clima, las aguas, los suelos, la vegetación y el mundo animal) formando un sistema integrado (<xref ref-type="bibr" rid="B13">Mateo, 1984</xref>). Las unidades espaciales de la Regionalización físico-geográfica son paisajes físico-geográficos del nivel o escala regional.</p>
+         <p>La integridad y la cohesión interna de cada unidad físico-geográfica en la RFG están determinadas por una misma historia de su desarrollo y la ubicación geográfica común, por la unidad de muchos procesos naturales y la conjugación espacial de sus partes; las unidades físico-geográficas de la RFG se forman en el proceso de desarrollo y diferenciación de la superficie de la Tierra, tienen su propia historia y edad (<xref ref-type="bibr" rid="B3">Bollo et al., 2015</xref>).</p>
+         <p>La Regionalización físico-geográfica (RFG) tiene sus bases teóricas en los trabajos de V.V. Dokuchaiev, en donde se aborda lo relativo a la integración y la diferenciación de los sistemas naturales. En el año 1913, L. S. Berg, propone la primera definición científica de paisaje (<xref ref-type="bibr" rid="B1">Berg, 1913</xref>; <xref ref-type="bibr" rid="B13">Mateo, 1984</xref>; <xref ref-type="bibr" rid="B14">Mateo, 2008</xref>); concepto que más adelante él mismo propondría como “objeto integrador de la geografía”, y en donde además afirma que esta ciencia encuentra su objeto (el paisaje) y su método (la regionalización) (<xref ref-type="bibr" rid="B2">Frolova, 2001, citada en Bollo, 2017</xref>). Este autor introdujo el concepto de paisaje en una propuesta de regionalización y le llamó Regionalización del paisaje, es quién establece por primera ocasión índices diagnóstico para las unidades de la taxonomía de la propuesta de regionalización y es el antecedente de las RFG actuales.</p>
+         <p>Según <xref ref-type="bibr" rid="B13">Mateo (1984</xref>, <xref ref-type="bibr" rid="B14">2008</xref>), entre las décadas de los 40 y 70 del pasado siglo, fueron presentadas diversas variantes de la RFG en las que se introdujeron factores para la diferenciación de los taxones inferiores de la clasificación.  Hacia el año de 1956 (<xref ref-type="bibr" rid="B16">Mateo y Bollo, 2016</xref>), se creó en Rusia, una comisión con el objetivo exclusivo de conformar un sistema de unidades taxonómicas único para la RFG y sus principios metodológicos; lo que llevó al establecimiento de los principios básicos y métodos de la RFG.</p>
+         <p>En América latina los trabajos que se relacionan con la diferenciación de los paisajes basados en la RFG, se iniciaron en la Universidad de la Habana, siendo referente el trabajo sobre la RFG de Cuba elaborado por <xref ref-type="bibr" rid="B15">Mateo y Acevedo (1989</xref>). En países como México y Brasil, diversos autores han abordado el tema de la región físico-geográfica como objeto, método o enfoque; y se han ocupado, de forma importante, en la propuesta de regionalización mediante un sistema de unidades taxonómicas e índices diagnóstico que refuerce la clasificación del paisaje (<xref ref-type="bibr" rid="B16">Correa, 1986, citado en Mateo y Bollo 2016</xref>; <xref ref-type="bibr" rid="B4">Carvalho, 2002</xref>; <xref ref-type="bibr" rid="B3">Bollo et al., 2015</xref>; <xref ref-type="bibr" rid="B16">Mateo y Bollo, 2016</xref>).</p>
+         <p>En México se llevó a cabo una propuesta de regionalización físico-geográfica publicada en <xref ref-type="bibr" rid="B3">Bollo et al. (2015</xref>); en el trabajo, los autores definen un sistema de unidades taxonómicas y sus índices diagnóstico, los cuales facilitan el entendimiento en la delimitación de las unidades de la RFG, presentan la caracterización de las unidades superiores de la regionalización y su cartografía a escala 1: 1 000 000. De tal manera, en dicha investigación se definen, cartografían y caracterizan los subcontinentes, los países, los territorios y las provincias físico-geográficas que forman parte del territorio mexicano. A partir de esta propuesta, se plantea comenzar a distinguir y cartografiar las unidades inferiores de la RFG en tres provincias físico-geográficas: "Península de Baja California" (<xref ref-type="bibr" rid="B20">Zaragoza-Álvarez, 2010</xref>) y "Sierra Madre del Sur" y "Eje Neovolcánico"; por la gran extensión de estas dos últimas, se realiza el proceso de regionalización por estados; Guerrero (<xref ref-type="bibr" rid="B17">Ortíz et al., 2015</xref>), Michoacán (<xref ref-type="bibr" rid="B6">Espinoza-Maya y Bollo-Manent, 2017</xref>) y actualmente se concluyó la RFG del estado de Jalisco por los autores del presente. Estos tres últimos trabajos se integran para establecer la RFG de las unidades inferiores (subprovincias, distritos y regiones físico-geográficas) de parte de las dos provincias físico-geográficas mencionadas y la cartografía de las unidades distinguidas se presenta a escala 1: 500 000. Aunque los resultados se presentan por Estados, las unidades obtenidas se distribuyen más allá de los límites estatales y constituyen un todo continuo al interior de cada provincia físico-geográfica sobre las cuales se delimitó el territorio de los Estados estudiados.</p>
+         <p>En estos trabajos, antecedentes al presente, se aborda además el método de la RFG y se muestran aplicaciones en investigaciones, en las cuales, las unidades de la RFG, son utilizadas como unidades de análisis espacial; muestran que la RFG es una base confiable sobre la cual pueden ser desarrollados estudios regionales de degradación ambiental, cálculo de potenciales de recursos o planeación territorial entre otros.</p>
+         <p>El objetivo de este trabajo es presentar los resultados de la cartografía obtenidos durante el proceso de regionalización de las unidades inferiores de la RFG para el estado de Jalisco, a escala regional. El proceso de regionalización tuvo como resultado la delimitación de las unidades inferiores de la RFG del territorio del estado de Jalisco, fue realizado en un ambiente SIG, mediante técnicas de análisis espacial de todos los componentes del paisaje, más allá de los límites estatales de Jalisco, con lo cual se logró mantener la concordancia y continuidad de los rasgos y procesos dentro del Estado y con los Estados que limita.</p>
+         <p>La RFG de las unidades inferiores del estado de Jalisco es la base principal de la tesis doctoral del primer autor, la cual considera la delimitación y cartografía de las unidades de la regionalización f-g, como plataforma para realizar a continuación el diagnóstico ambiental del territorio.</p>
+      </sec>
+      <sec sec-type="methods">
+         <title>2. Metodología</title>
+         <bold> </bold>
+         <p>La regionalización físico-geográfica, es un método utilizado para ordenar, organizar y clasificar la superficie terrestre en el nivel regional; es considerada dentro de las ciencias geográficas una forma de clasificación de los paisajes físico-geográficos (<xref ref-type="bibr" rid="B13">Mateo, 1984</xref>). Los niveles planetario, regional y local, contienen paisajes de diversa complejidad. Como mencionamos antes, para el nivel regional, es posible la clasificación de dichos paisajes mediante dos vías: la regionalización físico-geográfica y la tipología físico-geográfica.</p>
+         <p>“A la combinación de procedimientos prácticos y métodos para la delimitación y descripción de las unidades regionales que son capaces de dar resultados homogéneos, consistentes con los principios teóricos de la regionalización se le conoce como el método de la RFG". El éxito de la RFG depende de los métodos empleados y el grado en que el proceso de regionalización sea organizado con efectividad” (<xref ref-type="bibr" rid="B12">Isachenko, 1973</xref>:267). El método más aplicado en los últimos años para establecer la RFG de un territorio, se conoce como el método de distinción de los complejos regionales de la RFG, sobre la base del análisis del mapa tipológico regional de los paisajes, que parte de dos principios: primero, que la clasificación tipológica regional de los paisajes caracteriza la estructura de la “Envoltura Geográfica” a ese nivel, por lo que constituye una buena base para la RFG y segundo, que a escala regional, una unidad físico-geográfica individual es el resultado de la asociación definida de paisajes (de carácter tipológico) en cada nivel taxonómico de la RFG (<xref ref-type="bibr" rid="B13">Mateo, 1984</xref>). Se le conoce también como método inductivo (de abajo hacia arriba). Es necesario recordar, como se explicó anteriormente, que la tipología regional y la RFG son dos formas de clasificación, de división de un mismo espacio o territorio con criterios diferentes. </p>
+         <p>Toda RFG divide a la superficie terrestre en unidades espaciales, según un sistema de unidades taxonómicas de diferentes niveles; cada nivel se caracteriza por determinados rasgos de la naturaleza, lo que permite incluir las diferentes partes del espacio a clasificar en cada nivel taxonómico. La propuesta del sistema de unidades taxonómicas de la RFG para el territorio de México tiene 7 niveles, que se reúnen en dos grandes grupos: las unidades superiores y las unidades inferiores de la regionalización. Todos los niveles de esta propuesta están subordinados de forma jerárquica, de tal modo que cada unidad está contenida dentro de otra (anidadas), con lo cual se logra su correspondencia cartográfica, entre otras características (<xref ref-type="bibr" rid="B3">Bollo et al., 2015</xref>). Ello le da un carácter multiescalar y permite establecer conexión entre el nivel de las unidades superiores y las inferiores.</p>
+         <p>Para establecer las unidades inferiores de la regionalización en el presente trabajo, según el método explicado, se partió del "Mapa tipológico de los paisajes de México a escala 1:500 000" (<xref ref-type="bibr" rid="B18">Priego-Santander et al., 2012</xref>). Los mapas tipológicos de paisajes brindan una diferenciación del espacio teniendo en cuenta los rasgos del relieve, la asociación de variables climáticas, de vegetación y suelos, en diferentes niveles taxonómicos; cada unidad es una síntesis de los componentes naturales en cada nivel taxonómico. A partir de la asociación de unidades tipológicas de cada nivel taxonómico de la tipología, se comienzan a definir unidades de la regionalización, según los índices diagnóstico para cada nivel taxonómico de la regionalización. </p>
+         <p>Los índices diagnóstico de las unidades taxonómicas de la RFG propuestos por <xref ref-type="bibr" rid="B3">Bollo et al. (2015)</xref>, son descriptores que permiten la búsqueda de las asociaciones de paisajes tipológicos para cada nivel de la clasificación taxonómica de la regionalización. En la <xref ref-type="table" rid="t1">Tabla 1</xref>, se presentan los mismos, ampliados por los autores. </p>
+         <p>
+            <table-wrap specific-use="rules" position="float" orientation="portrait" id="t1">
+               <label><italic>Tabla 1 / Table 1</italic></label>
+               <caption>
+                  <p><bold>Tabla 1. </bold> Índices Diagnóstico para los niveles inferiores de la RFG.</p>
+                  <p><bold>Table 1. </bold> Diagnostic indices for the lower levels of the RFG.</p>
+               </caption>
+               <table frame="box" rules="groups" border="1" cellpadding="5">
+                  <thead>
+                     <tr>
+                        <th colspan="2" align="center">Índices Diagnóstico</th>
+                     </tr>
+                  </thead>
+                  <!-- <colgroup>
+                     <col span="2"/>
+                  </colgroup> -->
+                  <tbody>
+                     <tr>
+                        <td align="center">Nivel jerárquico</td>
+                        <td align="center">Criterio</td>
+ 
+                     </tr>
+                     <tr>
+                        <td align="center" rowspan="3">Subprovincia f-g</td>
+                        <td align="left">Asociación de clases y subclases de Paisaje (Grupos y Subgrupos de Clima, similar asociación de biocenosis).</td>
+ 
+ 
+                     </tr>
+                     <tr>
+                        <td align="left">Predominio de megaformas de relieve (Asociación de tipos  morfoestructurales, similar génesis).</td>
+ 
+ 
+                     </tr>
+                     <tr>
+                        <td align="left">Comunidad espacial.</td>
+ 
+                     </tr>
+                     <tr>
+                        <td align="center" rowspan="4">Distrito f-g</td>
+                        <td align="left">Asociación de tipos de Paisaje. (similares asociaciones de formaciones vegetales y grandes grupos de suelos).</td>
+ 
+ 
+                     </tr>
+                     <tr>
+                        <td align="left">Asociación de tipos de clima.</td>
+ 
+ 
+                     </tr>
+                     <tr>
+                        <td align="left">Asociación de macroformas del relieve con predominio de un tipo morfoestructural (Similar génesis y asociación litológica).</td>
+ 
+ 
+                     </tr>
+                     <tr>
+                        <td align="left">Comunidad espacial.</td>
+ 
+                     </tr>
+                     <tr>
+                        <td align="center" rowspan="4">Región f-g</td>
+                        <td align="left">Asociación de grupos de Paisaje.(similares asociaciones de tipos de vegetación y tipos de suelos)</td>
+ 
+ 
+                     </tr>
+                     <tr>
+                        <td align="left">Asociación de mesoformas del relieve (similar génesis y litología).</td>
+ 
+ 
+                     </tr>
+                     <tr>
+                        <td align="left">Asociación de subtipos de clima.</td>
+ 
+ 
+                     </tr>
+                     <tr>
+                        <td align="left">Comunidad espacial.</td>
+                     </tr>
+                  </tbody>
+               </table>
+               <table-wrap-foot>
+                  <fn id="TFN1">
+                     <p>Fuente:(<xref ref-type="bibr" rid="B3">Bollo et al. 2015</xref>; Espinosa, et al., 2017, ampliada por los autores).</p>
+                  </fn>
+               </table-wrap-foot>
+            </table-wrap>
+         </p>
+
+         <table-wrap id="t2" position="float">
+          <label><italic>Tabla 2 / Table 2</italic></label>
+          <caption>
+            <p><bold>Tabla 2. </bold>Unidades inferiores físico-geográficas de la RFG de Jalisco</p>
+            <p><bold>Table 2. </bold>Lower physical-geographic units of the RFG of Jalisco</p>
+          </caption>
+          <table frame="box" rules="all" border="1">
+            <thead>
+                  <tr>
+                     <th colspan="1" align="center"></th>
+                     <th colspan="1" align="center">Subprovincia</th>
+                     <th colspan="1" align="center">Distrito</th>
+                     <th colspan="1" align="center">Región</th>
+                  </tr>
+            </thead>
+            <tbody>
+               <tr>
+                 <td rowspan="20" colspan="1">Sierra Madre Occidental (III)</td>
+                 <td rowspan="4" colspan="1">Sierra y Pie de la Sierra Madre Occidental (III.12) 1200.2 km<sup>2</sup></td>
+                 <td rowspan="2" colspan="1">El Carrizalillo-Sierra Los Huicholes (III.12.A) 760.2 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">El Carrizalillo-Sierra Muruata–C. Los Tecolotes (III.12.A.a) 225.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">El Mezquital–Sierra El Nayar-Sierra Los Huicholes–C. El Ciruelo (III.12.A.b) 534.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="2" colspan="1">El Mezquital–San Blasito–Rio Grande Santiago (III.12.B) 440 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Chimaltita-Jesús María-Río Chapalagana (III.12.B.a) 276.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Hostotipaquillo-Rio Grande de Santiago–Aguamilpa (III.12.B.b) 163.7 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="9" colspan="1">Mesetas y Cañadas del Sur (III.16) 8985.2 km<sup>2</sup></td>
+                 <td rowspan="2" colspan="1">El Tlacuache–Valparaíso–Laguna Seca (III.16.A) 2594.7 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Sierra Tenzompa-Sierra Los Huicholes–Huejuquilla (III.16.A.a) 1511.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierra Pinabete-Cordón El Trapiche–Huajimic (III.16.A.b) 1083.5 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="5" colspan="1">El Salvador-Huejuquilla-Sierra Los Cardos (III.16.B) km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Río El Mite-Sierra Los Cardos-Sierra Candelas (III.16.B.a) 345.7 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Bolaños–Los Sabinos–Toloaque (III.16.B.b) 1996.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Totatiche–Atolinga–Sombreretillo (III.16.B.c) 894.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Los Palitos-Mezquital del Oro (III.16.B.d) 1057.7 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Río Grande de Santiago-Santa Rosa (III.16.B.e) 831.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="2" colspan="1">Sierra de Tepec o Tepeque (III.16.C) 1264.6 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Afluentes del Río Bolaños–C. Los Pinitos–El Calvario (III.16.C.a)  689.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Río Bolaños–C. Puerto Colorado–Río Grande Santiago (III.16.C.b)  575.4 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="7" colspan="1">Sierras y Valles Zacatecanos (III.17) 1465.9 km<sup>2</sup></td>
+                 <td rowspan="3" colspan="1">Valparaíso–Jerez–San José de Gracia (III.17.A) 357.2 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Rio Chapalagana–Santa Rita–Mesa Las Chivas (III.17.A.a) 153.8 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Río San Juanito–El Teúl (III.17.A.b) 36.1 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierra Fresnillo–Loreto–Jerez (III.17.A.d)167.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="4" colspan="1">Colotlán-Sierra Morones–Sierra Nochistlán (III.17.B) 1108.7 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Sierra Nochistlán-Sierra El Laurel (III.17.B.a) 458.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierra Morones-Barranca Los Cedros (III.17.B.c) 277 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">La Ticuata-Tlaltenango–Colotlán (III.17.B.d) 151.6 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Santa María de los Ángeles–Tenasco (III.17.B.e) 216.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="7" colspan="1">Mesas del Centro de México (IX)</td>
+                 <td rowspan="5" colspan="1">Llanuras de Ojuelos–Aguascalientes (IX.43) 5641.8 km<sup>2</sup></td>
+                 <td rowspan="3" colspan="1">Aguascalientes– Loreto–Sierra Jacales (IX.43.A) 2883.9 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Aguascalientes–Encarnación–Los Sauces (IX.43.A.a) 544.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierra de Jacales–Mesa El Toro–Loreto (IX.43.A.b) 1813.8 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Ocampo-Ojuelos Jalisco–Arriaga (IX.43.A.c) 525.9</td>
+              </tr>
+              <tr>
+                 <td rowspan="2" colspan="1">El Refugio-Lagos de Moreno (IX.43.B) 2757.9 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">El Refugio-Río Grande (IX.43.B.a)1817.6 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Cerro Las Palomas-Lagos de Moreno (IX.43.B.b) 940.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="2" colspan="1">Sierras y Llanuras del Norte de Guanajuato(IX.44) 144.5 km<sup>2</sup></td>
+                 <td rowspan="2" colspan="1">Sierras Cuatralba–De Guanajuato (IX.44.A) 144.5 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Sierra Alta–Sierra Cuatralba–Sierra Santa Bárbara (IX.44.A.a) 144.5 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Comanjá–A. San Juan de Otates–Río Santa Ana (IX.46.A.a) 238.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="25" colspan="1">Eje Neovolcánico (X)</td>
+                 <td rowspan="2" colspan="1">Sierras Neovolcánicas Nayaritas (X.47) 777.4 km<sup>2</sup></td>
+                 <td rowspan="2" colspan="1">Sierra Vallejo-Río Ameca (X.47.B) 772.2 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Cerro Achotes-Las Palmas–Ixtapa (X.47.B.c) 373.4 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Comatlán-Atenguillo-San Miguel (X.47.B.e) 398.9 km2</td>
+              </tr>
+              <tr>
+                 <td rowspan="8" colspan="1">Altos de Jalisco (X.48) 11350.3 km<sup>2</sup></td>
+                 <td rowspan="2" colspan="1">Cerros Gordo–Grande (X.48.A) 1927.2 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Cerros Gordo-El Capulin-El Tule (X.48.A.a) 1610.8 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Cerro Grande–Barranca Grande–Sierra Pénjamo (X.48.A.b) 316.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierra Los Guajolotes-San Juan de los Lagos (X.48.B) 9423.1 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Atenanguillo-Los Gigantes-Los Sauces (X.48.B.a) 693.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierra Los Guajolotes-El Salto-Mesa del Pino (X.48.B.b) 6298.4 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Nochistlán-Arroyo Ancho (X.48.B.c) 194.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">El Estribón-El Santuario (X.48.B.d) 189.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Ríos Verde-San Juan de los Lagos (X.48.B.e) 1221.7 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Mesa Larga-El Barrial (X.48.B.f) 825.8 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="3" colspan="1">Sierras de Jalisco (X.49) 10536.2 km<sup>2</sup></td>
+                 <td rowspan="2" colspan="1">Sierras Cacoma-El Comalito (X.49.A) 3233 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Cordón Las Ánimas-Sierra Cacoma–Sierra Las Ardillas (X.49.A.a) 1834.5 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Filo Las Loberas-Sierra Jolapa (X.49.A.b) 1398.4  km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierras Verde– Quila (X.49.B) 7303.3 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Sierra Verde-Quila–Tacotán (X.49.B.a) 7303.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="2" colspan="1">Guadalajara (X.50) 2798.9 km<sup>2</sup></td>
+                 <td rowspan="2" colspan="1">Guadalajara–Tequila (X.50.A) 2798.9 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Cerro Coyotes–Río Cocoliso–La Colorada (X.50.A.a) 444.6 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Volcán Tequila–Río Blanco-Guadalajara (X.50.A.b) 2354.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="5" colspan="1">Depresión de Chapala (X.53) 10863.1 km<sup>2</sup></td>
+                 <td rowspan="4" colspan="1">Sierra La Primavera-La Ciénega-Lago de Chapala (X.53.B) 7681.7 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Valle de Ameca–Presa de la Vega-Cocula (X.53.B.a) 975.6 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Tequila–Guadalajara (X.53.B.b) 2798 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Laguna Atotonilco–Laguna San Marcos–Laguna Sayula (X.53.B.c) 798.7 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">La Ciénega–Río Lerma-Zamora (X.53.B.d) 3109.4 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierras La Vainilla-El Tigre-Barranca Verde (X.53.D) 3181.4 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Sierra Tapalpa–Mazamitla (X.53.D.a) 3181.4 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierras y Bajíos Michoacanos (X.54) 192.4 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">La Piedad-Cerro La Joya-Río Lerma (X.54.B) 192.4 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">La Piedad-Numarán-Mesa de Acuitzio (X.54.B.a) 192.4 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="3" colspan="1">Volcán de Colima (X.59) 2550.9 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Cerros El Petacal-Los Gallos-Río Salado (X.59.A) 647.9 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Armería–Colima (X.59.A.a) 647.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="2" colspan="1">Volcanes Nevado de Colima-De Fuego-Cerro La Elisea (X.59.B) 1903.1 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Ríos La Tía Barragana-Atenquique-El Agua Fría (X.59.B.a) 1566.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Nevado de Colima (X.59.B.b) 336.8 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Escarpa Limítrofe del Sur (X.60) 267.3 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Los Reyes-Cerro San Miguel-Escarpe limítrofe (X.60.A) 267.3 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Tomendán-Cerro Jalpa-Presa Cerrito Colorado (X.60.A.a) 267.3 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="14" colspan="1">Sierra Madre del Sur (XII)</td>
+                 <td rowspan="8" colspan="1">Llanuras, Lomeríos y Sierras de Jalisco y Colima (XII.65) 14,970.0 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Cerro Tres Picos–Chamela (XII.65.A) 797.9 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Majahuas-Chamela–Cuitzamala (XII.65.A.a) 797.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="5" colspan="1">Sierras Manantlán–Vallejo (XII.65.B) 13267.6 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Bahía de Banderas-Sierra Zapotitlán-Sierra El Guamuchil (XII.65.B.a) 1358.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierras El Tuito-Río Tomatlán-Cerro Ciruelo Gordo (XII.65.B.b)  8228.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">La Manzanilla-El Tepehuaje–Autlán (XII.65.B.c)  1769.4 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Sierra Perote-El Mamey (XII.65.B.d) 967.2 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Cerro Los Lobos-Ayuquilla-La Magdalena (XII.65.B.e) 944 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="2" colspan="1">Sierras Manantlán (XII.65.C) 904.5 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Cerro Alto Las Yeguas–Río Minatitlán–Cerro Alto San Miguel (XII.65.C.a) 758.7 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Cerro Toxín-Sierra Manantlán-Lagunitas (XII.65.C.b) 145.8 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="6" colspan="1">Cordillera Costera del Sur (XII.66) 6,009.1 km<sup>2</sup></td>
+                 <td rowspan="2" colspan="1">Aguililla-Cerro Vaca Pinta-Puerto El Zorrillo (XII.66.A) 1105.1 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Ixtlahuacan-Cerro Las Morenas (XII.66.A.a) 613.1 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Aguililla-Cerro Vaca Pinta (XII.66.A.b)  491.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="2" colspan="1">Tamazula de Gordiano-Sierra Lalo-Presa Chilatán (XII.66.B) 4380.3 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">Tamazula de Gordiano-Sierra Lalo (XII.66.B.a)  2913.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Jilotlán de Dolores-Cerro Las Ollas (XII.66.B.b) 1466.4 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="2" colspan="1">Apatzingán-Cerro Buenavista Tomatlán-Depresión del Tepalcatepec (XII.66.C) 523.7 km<sup>2</sup></td>
+                 <td rowspan="1" colspan="1">El Terrero-Presa Chilatan (XII.66.C.a)  327.9 km<sup>2</sup></td>
+              </tr>
+              <tr>
+                 <td rowspan="1" colspan="1">Nueva Italia-El Ceñidor (XII.66.C.b) 195.7 km<sup>2</sup></td>
+              </tr>
+            </tbody>
+         </table>
+      </table-wrap>
+         <p>Por ejemplo, para definir en el espacio un distrito físico-geográfico, es necesario, a partir del mapa tipológico de los paisajes, establecer una asociación de tipos de paisaje, la cual está definida por asociaciones de formaciones vegetales y grandes grupos de suelos similares, espacio con similares condiciones de tipos de clima, con una misma asociación de macroformas del relieve, pertenecientes a un mismo tipo morfoestructural, por lo que tendrán una misma génesis del relieve y similar asociación litológica. Esta asociación de tipos de paisajes forma una comunidad espacial, es decir una unidad espacial con cierta homogeneidad, ello permite identificar un distrito físico-geográfico. Al interior de las provincias f-g se distinguen subprovincias, al interior de las subprovincias, distritos f-g y al interior de los distritos, regiones f-g, según los índices diagnóstico de cada nivel taxonómico.</p>
+         <p>El proceso de regionalización para obtener el "Mapa de la Regionalización físico-geográfica del estado de Jalisco, México", se realizó en tres de cuatro etapas o pasos que conforman el proceso de regionalización (<xref ref-type="fig" rid="f1">figura 1</xref>).</p>
+         <p>
+            <fig id="f1">
+               <label><italic>Figura 1 / Figure 1</italic></label>
+               <caption>
+                  <p><italic><bold>Figura 1.</bold> Esquema del proceso de regionalización usado para obtener el Mapa de la RFG del estado de Jalisco, México.</italic></p>
+                  <p><italic><bold>Figure 1.</bold> Diagram of the regionalization process used to produce the RFG map of the Jalisco state, Mexico.</italic></p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero4/ruiz/a3-1-28001.jpg"/>
+            </fig>
+         </p>
+         <p>La primera etapa, de exploración y homogenización cartográfica, consiste en la búsqueda y recopilación del material documental y de las bases de datos espaciales necesarios para definir el área de estudio y para realizar las actividades en los pasos posteriores. En particular, en esta etapa los diversos materiales fueron estandarizados espacialmente (también se hizo en sus bases de datos) y representados a la escala 1:500 000. Del conjunto de materiales utilizados, el Mapa Tipológico de los Paisajes Físico-Geográficos de México escala 1:500 000 (<xref ref-type="bibr" rid="B18">Priego-Santander et al., 2012</xref>), es el material fundamental para realizar el proceso de la RFG. También se consideraron otros materiales cartográficos con escalas y formatos diversos, importantes en la toma de decisiones para distinguir las unidades: el modelo sombreado generado a partir del modelo digital de elevaciones (<xref ref-type="bibr" rid="B8">INEGI, 2003</xref>, <xref ref-type="bibr" rid="B10">2010</xref>), cartas impresas en su versión digital (<xref ref-type="bibr" rid="B9">INEGI, 2007</xref>), los datos vectoriales de curvas de nivel, cuerpos de agua, la red hidrográfica, además de la base toponímica de <xref ref-type="bibr" rid="B7">INEGI (2001</xref>, <xref ref-type="bibr" rid="B11">2015</xref>), así como otros materiales.</p>
+         <p>La segunda etapa, consiste en el análisis e interpretación espacial de la información antes obtenida; es un proceso de sistematización de la información espacial.</p>
+         <p>Se reconocieron ante todo las provincias físico-geográficas en que se encuentran los límites del estado de Jalisco: Sierra Madre Occidental, Sierra Madre del Sur, Mesas del Sur de México y Eje Neovolcánico (<xref ref-type="bibr" rid="B3">Bollo et al., 2015</xref>), con lo cual, se delimita el área de estudio. El área definida contiene en su totalidad la superficie de los estados de Jalisco, Nayarit, Aguas Calientes y Colima; y parte de los estados de Michoacán, Guanajuato, Zacatecas, Durango y Sinaloa. </p>
+         <p>A continuación se trabaja con el Mapa Tipológico de los paisajes f-g de México, el cual presenta 4 niveles taxonómicos (clase, subclase, tipo y grupo de paisaje). A partir de este, se crean 4 mapas, uno por cada nivel taxonómico, y se escriben sus leyendas; se realiza un proceso de rectificación de límites apoyados en los modelos sombreado y de elevación. Estos mapas serán utilizados en la identificación de los límites de las unidades de la RFG en sus diferentes niveles taxonómicos, según sus índices diagnóstico. Posteriormente, se realiza la superposición de estos mapas y del recorte vectorial de cada uno de los materiales obtenidos en la etapa uno, ya todos en la escala de estudio, con el área de estudio definida. A continuación, con toda esta información, comienza el proceso de distinción de los límites de las unidades inferiores a partir de los índices diagnóstico. Son extraídos los polígonos de cada nivel taxonómico de la RFG, que serán revisados y adecuados durante un procedimiento de edición vectorial en el sistema de información geográfica ArcGIS 10.4. (<xref ref-type="bibr" rid="B5">ESRI, 2015</xref>).</p>
+         <p>En la tercera etapa, ya definidos los límites de las unidades de la RFG en cada nivel taxonómico, se lleva a cabo la cartografía, es decir, la representación cartográfica en un mapa con tres niveles taxonómicos de la RFG y su leyenda, resultado que se presenta en este artículo.</p>
+         <p> Finalmente, el proceso de regionalización plantea una cuarta etapa que consiste en la descripción de las unidades pertenecientes a cada nivel jerárquico, lo que constituye una caracterización de las unidades físico-geográficas del territorio de estudio, actualmente en proceso.</p>
+         <p>El conjunto de actividades de las etapas 1 a 3 están relacionadas con el uso y manejo de información geográfica y su análisis dentro de un SIG. La implementación de técnicas de análisis espacial e interpretación del conjunto de mapas básicos y temáticos, así como el uso de información satelital y los modelos digitales son fundamentales ya que ofrecen un amplio panorama que respalda el proceso metodológico para establecer las unidades de la regionalización en cada nivel taxonómico. </p>
+         <p>Adicionalmente, hay que llevar a cabo una búsqueda exhaustiva y la revisión de documentos que permitan conocer sobre nombres locales y regionales para la asignación de la toponimia, que permita dar nombre a cada una de las unidades que son delimitadas. En la RFG, cada una de las unidades de los niveles taxonómicos adquiere una identidad. En el caso de la nomenclatura de las provincias f-g, tiene como base el nombre y la delimitación para la fisiografía de México realizada por INEGI (<xref ref-type="bibr" rid="B19">Quiñónez, 1987</xref>), dada su similitud espacial y con los índices diagnóstico de esta unidad en ambas clasificaciones, sin embargo, es necesario señalar que el detalle de sus límites es precisado siguiendo las características de las unidades de paisaje, es decir no son espacialmente iguales. En el caso de las subprovincias f-g, ocurre algo similar, aunque éstas no necesariamente mantienen el nombre que establece INEGI en la clasificación fisiográfica, este se relaciona con la información que surge de la interpretación espacial y las adecuaciones en sus límites que son diferentes de acuerdo con la diversidad del paisaje. En cuanto a los distritos y regiones f-g, en ambos casos, las peculiaridades encontradas en cada una de estas unidades inferiores permiten establecer su nombre de acuerdo con la toponimia del territorio. Finalmente, en todo momento, para la nomenclatura de las unidades inferiores, es necesaria una amplia búsqueda de información local que haga posible que cada unidad muestre, en su nombre, su identidad propia.</p>
+      </sec>
+      <sec sec-type="results">
+         <title>3. Resultados</title>
+         <bold> </bold>
+         <p>El resultado del proceso de regionalización en nuestro territorio de estudio es la delimitación de los niveles taxonómicos de las unidades inferiores de la regionalización físico-geográfica, es decir de las subprovincias, distritos y regiones físico-geográficas y además la delimitación de las provincias físico-geográficas, las cuales representan una unidad taxonómica de unidades superiores. Así, para el territorio del estado de Jalisco se delimitaron 15 subprovincias físico-geográficas, 28 distritos físico-geográficos, y 66 regiones físico-geográficas; y además se reconocieron y detallaron los límites de 4 provincias físico-geográficas al interior del Estado (<xref ref-type="table" rid="t2">Tabla 2</xref>). Estos resultados están integrados en un mapa de las unidades de la RFG, una leyenda que lo acompaña, y un texto breve que describe a cada unidad.</p>
+         <bold> </bold>
+         <sec>
+            <title>3.1 Provincias físico-geográficas</title>
+            <bold> </bold>
+            <p>En el estado de Jalisco se reconocieron y delimitaron 4 provincias físico-geográficas, de éstas, la Provincia del Eje Neovolcánico es la de mayor tamaño con 39,339.7 km<sup>2</sup>, lo que representa el 50.4% de la superficie total del Estado. Le sigue en extensión la Provincia Sierra Madre del Sur con 20,979.1 km<sup>2</sup>, los cuales representan el 26.9% del total. La Provincia Sierra Madre Occidental es la tercera en superficie con 11,648.1 km<sup>2</sup> en el territorio, esto representa el 14.9% del total. Finalmente, la Provincia Mesas del Centro de México ocupa 6, 029.8 km<sup>2 </sup>que equivalen al 7.7% de la superficie total del Estado. En la <xref ref-type="table" rid="t3">Tabla 3</xref> y la <xref ref-type="fig" rid="f2">Gráfica 1</xref>, se muestran las superficies y sus porcentajes con relación a la superficie total del Estado.</p>
+            <p>
+               <fig id="f2">
+                  <label><italic>Gráfica 1 / Graphic 1</italic></label>
+                  <caption>
+                     <p><italic><bold>Gráfica 1. </bold> Superficie ocupada por las provincias físico-geográficas en el estado de Jalisco.</italic></p>
+                     <p><italic><bold>Graphic 1. </bold> Surface occupied by the physical-geographic provinces in Jalisco state.</italic></p>
+                  </caption>
+                  <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero4/ruiz/a3-1-28002.jpg"/>
+               </fig>
+            </p>
+            <table-wrap specific-use="rules" position="float" orientation="portrait" id="t3">
+              <label><italic>Tabla 3 / Table 3</italic></label>
+              <caption>
+                <p><italic><bold>Tabla 3. </bold> Superficie ocupada en el estado de Jalisco por las  provincias físico-geográficas..</italic></p>
+                <p><italic><bold>Table 3. </bold> Occupied surface by the physical geographical provinces in Jalisco state.</italic></p>
+              </caption>
+              <table frame="box" rules="groups" border="1" cellpadding="5">
+                <thead>
+                  <tr>
+                    <th align="center"></th>
+                    <th align="center">Provincias f-g</th>
+                    <th align="center">Subtotal (km<sup>2</sup>)</th>
+                    <th align="center">&#37;</th>
+                  </tr>
+                </thead>
+                <tbody>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="center">1</td>
+                     <td rowspan="1" colspan="1" align="center">Sierra Madre Occidental</td>
+                     <td rowspan="1" colspan="1" align="center">11648.2</td>
+                     <td rowspan="1" colspan="1" align="center">14.9</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="center">2</td>
+                     <td rowspan="1" colspan="1" align="center">Mesas del Centro de México</td>
+                     <td rowspan="1" colspan="1" align="center">6029.8</td>
+                     <td rowspan="1" colspan="1" align="center">7.7</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="center">3</td>
+                     <td rowspan="1" colspan="1" align="center">Eje Neovolcánico</td>
+                     <td rowspan="1" colspan="1" align="center">39339.7</td>
+                     <td rowspan="1" colspan="1" align="center">50.4</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="center">4</td>
+                     <td rowspan="1" colspan="1" align="center">Sierra Madre del Sur</td>
+                     <td rowspan="1" colspan="1" align="center">20979.0</td>
+                     <td rowspan="1" colspan="1" align="center">26.9</td>
+                  </tr>
+                  <tr>
+                     <td rowspan="1" colspan="1" align="center"></td>
+                     <td rowspan="1" colspan="1" align="center">Totales</td>
+                     <td rowspan="1" colspan="1" align="center">77996.6</td>
+                     <td rowspan="1" colspan="1" align="center">100</td>
+                  </tr>
+               </tbody>
+            </table>
+         </table-wrap>
+         </sec>
+         <sec>
+            <title>3.2 Subprovincias físico-geográficas</title>
+            <bold> </bold>
+            <p>La delimitación de las Subprovincias f-g dio como resultado un total de 15 unidades, de las cuales, cuatro son las más representativas, en conjunto ocupan 47,729.3 km<sup>2</sup> lo que representa el 61.2% del total de la superficie de Jalisco (<xref ref-type="fig" rid="f3">ver Gráfica 2</xref>). </p>
+            <p>
+               <fig id="f3">
+                  <label>Gráfica 2 / Graphic 2</label>
+                  <caption>
+                     <p><italic><bold>Gráfica 2. </bold> Superficie ocupada por las subprovincias físico-geográficas en el estado de Jalisco.</italic></p>
+                     <p><italic><bold>Graphic 2. </bold> Surface occupied by the physical-geographic sub provinces in Jalisco state.</italic></p>
+                  </caption>
+                  <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero4/ruiz/a3-1-28003.jpg"/>
+               </fig>
+            </p>
+            <p>La Subprovincia Llanuras, Lomeríos y Sierras de Jalisco y Colima es la subprovincia con mayor superficie de las cuatro en mención, tiene 14,970 km<sup>2</sup>, que corresponden al 19.2% de la superficie total. Con relación a su tamaño, la Subprovincia Altos de Jalisco es la segunda mayor y cuenta con una superficie de 11,355.2 km<sup>2</sup>, los cuales representan el 14.6%. La Subprovincia Depresión de Chapala, ocupa el 13.9% de la superficie del Estado con 10,863.1 km<sup>2</sup>. De este conjunto, la cuarta Subprovincia lleva por nombre Sierras de Jalisco y presenta una superficie de 10,541 km<sup>2 </sup>que representan el 13.5% de la superficie del territorio.</p>
+            <p>Existe otro conjunto de subprovincias f-g que abarcan el 26.5% de la superficie del estado de Jalisco, tienen una superficie total que varía entre los 5,600 y 9,000 km<sup>2</sup>. De estas unidades, la Subprovincia  Mesetas y Cañadas del Sur ocupa 8,985.2 km<sup>2</sup> (11.5%), le sigue en orden descendente la Subprovincia Cordillera Costera del Sur con 6,009.1 km<sup>2</sup> y la Llanuras de Ojuelos-Aguascalientes con 5,647 km<sup>2</sup>, las cuales representan respectivamente el 7.7 y 7.2% de la superficie total del Estado.</p>
+            <p>El resto del territorio está ocupado por nueve subprovincias f-g, de las cuales cinco cuentan con superficies totales de entre 770 y 2,798.6 km<sup>2</sup>. Subprovincia Guadalajara con el 3.6%, Subprovincia Volcán de Colima con 3.3%, Sierras y Valles Zacatecanos con 1.9%, la Subprovincia Sierra y Pie de la Sierra Madre Occidental con un porcentaje de superficie del 1.5%; y la Subprovincia Sierras Neovolcánicas Nayaritas con el 1% de superficie del Estado.</p>
+         </sec>
+         <sec>
+            <title>3.3 Distrito físico-geográfico</title>
+            <bold> </bold>
+            <p>En total fueron delimitadas 28 unidades para este nivel taxonómico. De éstas, dos distritos f-g son los que denotan por su extensión. El Distrito f-g Sierras de Manantlán-Vallejo que cuenta con una superficie de 13,267.6 km<sup>2</sup>,que representa el 17% del total de la superficie del estado y el Distrito f-g Sierra Los Guajolotes-San Juan de los Lagos, con una superficie de 9,430.7 km<sup>2</sup> que equivalen al 12.1% de la superficie total. A estos distritos le siguen en extensión el Distrito f-g Sierra La Primavera-La Ciénega-Lago de Chapala; y el Distrito f-g Sierras Verde-Quila, con una superficie de 7,681.7 y 7,308 km<sup>2</sup> respectivamente. En conjunto estos cuatro distritos ocupan el 48.3% de la superficie total del Estado.</p>
+            <p>El resto de la superficie se encuentra en 8 distritos f-g, los cuales ocupan en su conjunto una superficie de 26,960.8 km<sup>2</sup>; lo que representa el 34.6 % de la superficie total. Finalmente, se presentan un total de 16 Distritos f-g que ocupan el 17.1% de la superficie restante; con 13, 347.8 km<sup>2</sup>. </p>
+         </sec>
+         <sec>
+            <title>3.4 Regiones físico-geográficas</title>
+            <bold> </bold>
+            <p>La Regionalización físico-geográfica del estado de Jalisco cuenta con un total de 66 regiones f-g (<xref ref-type="fig" rid="f4">ver Lámina 1</xref>). Del total de regiones, hay 3 que sobresalen por su extensión y que en conjunto cuentan con una superficie de 21,841.5 km<sup>2</sup>, lo que representa el 28% de la superficie total del Estado.</p>
+            <p>Las regiones f-g más representativas por su extensión son: Región f-g Sierras El Tuito-Rio Tomatlán-Cerro Ciruelo Gordo, la cual tiene una superficie de 8,228.9 km<sup>2</sup> y representa el 10.6% de la superficie total. La Región f-g Sierra Verde-Quila-Tacotán que cubre el 9.4% de la superficie estatal, lo que equivale a 7,308 km<sup>2</sup>. La Región f-g Sierra Los Guajolotes-El Salto-Mesa del Pino que cuenta con una superficie de 6,304.6 km<sup>2</sup> que equivalen al 8.1% de la superficie del territorio.</p>
+            <p>En la Lámina 1 se muestra el mapa con las unidades de la Regionalización físico-geográfica para el estado de Jalisco. En el mapa, los límites de las subprovincias f-g están representadas con una línea gruesa en color negro. Los distritos f-g, se representaron mediante dos elementos gráficos, líneas delgadas en color morado y colores sólidos. </p>
+            <p>
+               <fig id="f4">
+                  <label>Lámina 1 / Plate 1</label>
+                  <caption>
+                     <p><italic><bold>Lámina 1. </bold> Regionalización Físico-Geográfica del estado de Jalisco.</italic></p>
+                     <p><italic><bold>Plate 1. </bold> Physical Geographic Regionalization of Jalisco state.</italic></p>
+                  </caption>
+                  <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero4/ruiz/a3-1-28004.jpg"/>
+               </fig>
+            </p>
+            <p>Finalmente las regiones f-g fueron representadas con una línea aún más delgada de color azul.</p>
+            <p>En la Leyenda del mapa en cuestión, la clave que aparece acompañando a cada unidad, es un indicativo del nivel jerárquico en el que encontramos a cada unidad dentro de la clasificación taxonómica de la RFG; a cada nivel jerárquico corresponde un tamaño de clave, de esta forma, tenemos que la clave de la Subprovincia f-g Sierras de Jalisco es X.49; para uno de los distritos (letra mayúscula) que la conforman, en este caso el Distrito Sierras Verde-Quila la clave es X.49.B; y finalmente para una de las regiones f-g que la integran (letra minúscula), en este caso la Región f-g Sierra Verde-Quila-Tacotán, su clave es X.49.B.a.</p>
+         </sec>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>4. CONCLUSIONES</title>
+         <bold> </bold>
+         <p>En el artículo se exponen los resultados que se obtuvieron en el trabajo de Regionalización físico-geográfica para el territorio del estado de Jalisco. La Regionalización físico-geográfica es un procedimiento que permite establecer la diferenciación de los paisajes del espacio geográfico, en unidades homogéneas en diversos niveles taxonómicos, a partir de la aplicación de los criterios que integran los índices diagnóstico.</p>
+         <p>El territorio del estado de Jalisco cuenta con un paisaje variado y diverso que está incluido en cuatro provincias físico-geográficas de México. En el mapa final se encuentran diferenciadas las unidades inferiores que corresponden a tres niveles taxonómicos de la RFG, en Jalisco se identifican total o parcialmente 66 regiones, 28 distritos y 16subprovincias físico-geográficas. La información que resultó de este trabajo es útil en el conocimiento de los paisajes y la geografía física de Jalisco, y puede considerarse una base cartográfica confiable de unidades espaciales, aplicables en investigaciones sobre la degradación ambiental, el estado del medio ambiente, en el ordenamiento, la planeación y gestión de los recursos naturales, entre otras.</p>
+      </sec>
+      <sec>
+         <title>5. SOFTWARE</title>
+         <bold> </bold>
+         <p>El mapa de la Regionalización Físico-Geográfica de Jalisco fue realizado con el software ArcGIS 10.4</p>
+      </sec>
+      <sec>
+         <title>AGRADECIMIENTOS</title>
+         <bold> </bold>
+         <p>Se agradece a la UNAM, al Posgrado en Geografía y particularmente al CIGA, como el centro en donde se realiza la tesis de Doctorado. Asimismo, el respaldo y apoyo recibido por parte del Director del CIGA, Dr. Antonio Vieyra Medrano durante la parte final de la producción del mapa de la Regionalización físico-geográfica de Jalisco.</p>
+      </sec>
+      <sec sec-type="supplementary-material">
+         <title>Visualizador</title>
+         <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero4/ruiz/mapa_estatico/"
+           mimetype="application/html">
+         <object-id pub-id-type="doi"></object-id>
+           <label>Mapa Estático Ruiz-Lopez</label>
+           <caption>
+             <title>Regionalización Físico-Geografica del estado de Jalisco, México.</title>
+           </caption>
+         <media mime-subtype="html" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero4/ruiz/mapa_estatico/"/>
+         </supplementary-material>
+       </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>REFERENCIAS</title>
+         <ref id="B1">
+            <mixed-citation>Berg, L S., 1913. Ensayo de la división de Siberia y Turkestán en regiones paisajísticas y morfológicas, in D. N. Sbornik v chest. 70 - letia. Sasnae, Moscú, 167-180 pp, (en ruso).</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Berg</surname>
+                     <given-names>L S.</given-names>
+                  </name>
+               </person-group>
+               <year>1913</year>
+               <article-title>Ensayo de la división de Siberia y Turkestán en regiones paisajísticas y morfológicas</article-title>
+               <publisher-name>D. N. Sbornik v chest. 70 - letia</publisher-name>
+               <publisher-loc>Sasnae, Moscú (en ruso)</publisher-loc>
+               <fpage>167</fpage>
+               <lpage>180</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>Bollo, M., 2017. La Geografía del Paisaje y La Geoecología. Teoría y enfoques. En Paisaje: métodos de análisis y reflexiones. Ed. Ediciones del Lirio - Editorial UAM. México. 125-151 pp.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bollo</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>La Geografía del Paisaje y La Geoecología. Teoría y enfoques</article-title>
+               <source>Paisaje: métodos de análisis y reflexiones</source>
+               <publisher-name>Ediciones del Lirio - Editorial UAM</publisher-name>
+               <publisher-loc>México</publisher-loc>
+               <fpage>125</fpage>
+               <lpage>151</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>Bollo, M., Hernández, J., Priego, A., Zaragoza, R., Ortíz, A., Espinoza, A., Ruíz, R., 2015. Una propuesta de Regionalización físico-geográfica de México: Morelia, Universidad Nacional Autónoma de México (UNAM), Centro de Investigaciones en Geografía Ambiental (CIGA), 59 pp.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Bollo</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Priego</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zaragoza</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ortíz</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Espinoza</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ruíz</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>59 pp., 2015</year>
+               <!-- <source>Una propuesta de Regionalización físico-geográfica de México</source> -->
+               <article-title>Una propuesta de Regionalización físico-geográfica de México</article-title>
+               <publisher-loc>Morelia</publisher-loc>
+               <publisher-name>Universidad Nacional Autónoma de México (UNAM), Centro de Investigaciones en Geografía Ambiental (CIGA)</publisher-name>
+               <!-- <fpage>59</fpage>
+               <lpage>59</lpage> -->
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>Carvalho, G., 2002. Região a evolução de uma categoria analise da Geografia: Boletim Goiano de Geografia 22 (1), 135-153 pp.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Carvalho</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <article-title>Região a evolução de uma categoria analise da Geografia</article-title>
+               <source>Boletim Goiano de Geografia</source>
+               <volume>22(1)</volume>
+               <issue>1</issue>
+               <fpage>135</fpage>
+               <lpage>153</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>Environmental Systems Research Institute (ESRI), 2015. ArcGIS 10.4.1 for Desktop. Applications: ArcCatalog<sup>TM</sup>, ArcGlobe<sup>TM</sup>, ArcMap<sup>TM</sup> y ArcScene<sup>TM</sup>. Environmental Systems Research Institute. California, EE.UU.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>Environmental Systems Research Institute (ESRI)</collab>
+               </person-group>
+               <year>2015</year>
+               <!-- <source>ArcGIS 10.4.1 for Desktop. Applications: ArcCatalog<sup>TM</sup>, ArcGlobe<sup>TM</sup>, ArcMap<sup>TM</sup> y ArcScene<sup>TM</sup>
+               </source> -->
+               <article-title>ArcGIS 10.4.1 for Desktop. Applications: ArcCatalog<sup>TM</sup>, ArcGlobe<sup>TM</sup>, ArcMap<sup>TM</sup> y ArcScene<sup>TM</sup>
+               </article-title>
+               <publisher-name>Environmental Systems Research Institute</publisher-name>
+               <publisher-loc>California, EE.UU</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>Espinoza, A., Bollo, M., 2017. La Cartografía de las Unidades Inferiores de la Regionalización Físico-Geográfica (RFG) de Michoacán. Terra Digitalis, 1(1), 1-10. doi:10.22201/igg.terradigitalis.2017.1.4.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Espinoza</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bollo</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>La Cartografía de las Unidades Inferiores de la Regionalización Físico-Geográfica (RFG) de Michoacán</article-title>
+               <source>Terra Digitalis</source>
+               <volume>1(1)</volume>
+               <issue>1</issue>
+               <fpage>1</fpage>
+               <lpage>10</lpage>
+               <pub-id pub-id-type="doi">10.22201/igg.terradigitalis.2017.1.4</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>Instituto Nacional de Estadística, Geografía e Informática (INEGI), 2001. Conjunto de Datos Vectoriales Fisiográficos. Continuo Nacional. Escala 1:1000,000. Serie I. Instituto Nacional de Estadística, Geografía e Informática, Aguascalientes, México.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>Instituto Nacional de Estadística, Geografía e Informática (INEGI)</collab>
+               </person-group>
+               <year>2001</year>
+               <!-- <source>Conjunto de Datos Vectoriales Fisiográficos. Continuo Nacional. Escala 1:1000,000. Serie I</source> -->
+               <article-title>Conjunto de Datos Vectoriales Fisiográficos. Continuo Nacional. Escala 1:1000,000. Serie I</article-title>
+               <publisher-name>Instituto Nacional de Estadística, Geografía e Informática</publisher-name>
+               <publisher-loc>Aguascalientes, México</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>Instituto Nacional de Estadística, Geografía e Informática (INEGI), 2003. Continuo de Elevaciones Mexicano (CEM 1.0),  INEGI.  <ext-link ext-link-type="uri"
+                         xlink:href="http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/">http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>Instituto Nacional de Estadística, Geografía e Informática (INEGI)</collab>
+               </person-group>
+               <year>2003</year>
+               <!-- <source>Continuo de Elevaciones Mexicano (CEM 1.0),  INEGI</source> -->
+               <article-title>Continuo de Elevaciones Mexicano (CEM 1.0),  INEGI. <ext-link ext-link-type="uri"
+                         xlink:href="http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/">http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/</ext-link> </article-title>
+               <!-- <ext-link ext-link-type="uri"
+                         xlink:href="http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/">http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/</ext-link> -->
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>Instituto Nacional de Estadística, Geografía e Informática (INEGI), 2007. Carta topográfica impresa digital. Escala 1:250 000. Claves: F13-1-4, F13-2, F13-3, F13-5, F13-6, F13-8, F13-9, F14-4, F14-7, y G13-11. Instituto Nacional de Estadística, Geografía e Informática, Aguascalientes, México.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>Instituto Nacional de Estadística, Geografía e Informática (INEGI)</collab>
+               </person-group>
+               <year>2007</year>
+               <!-- <source>Carta topográfica impresa digital. Escala 1:250 000. Claves: F13-1-4, F13-2, F13-3, F13-5, F13-6, F13-8, F13-9, F14-4, F14-7, y G13-11</source> -->
+               <article-title>Carta topográfica impresa digital. Escala 1:250 000. Claves: F13-1-4, F13-2, F13-3, F13-5, F13-6, F13-8, F13-9, F14-4, F14-7, y G13-11</article-title>
+               <publisher-name>Instituto Nacional de Estadística, Geografía e Informática</publisher-name>
+               <publisher-loc>Aguascalientes, México</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>Instituto Nacional de Estadística, Geografía e Informática (INEGI), 2010. Continuo de Elevaciones Mexicano (CEM 2.0), INEGI. <ext-link ext-link-type="uri"
+                         xlink:href="http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/">http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>Instituto Nacional de Estadística, Geografía e Informática (INEGI)</collab>
+               </person-group>
+               <year>2010</year>
+               <!-- <source>Continuo de Elevaciones Mexicano (CEM 2.0), INEGI</source> -->
+               <article-title>Continuo de Elevaciones Mexicano (CEM 2.0), INEGI. <ext-link ext-link-type="uri"
+                         xlink:href="http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/">http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/</ext-link></article-title>
+               <!-- <ext-link ext-link-type="uri"
+                         xlink:href="http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/">http://www.beta.inegi.org.mx/app/geo2/elevacionesmex/</ext-link> -->
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>Instituto Nacional de Estadística, Geografía e Informática (INEGI), 2015. Conjunto de datos vectoriales de información topográfica digital, por condensado estatal. Escala 1:250 000. Serie IV 11. Instituto Nacional de Estadística, Geografía e Informática, Aguascalientes, México.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>Instituto Nacional de Estadística, Geografía e Informática (INEGI)</collab>
+               </person-group>
+               <year>2015</year>
+               <!-- <source>Conjunto de datos vectoriales de información topográfica digital, por condensado estatal. Escala 1:250 000. Serie IV 11</source> -->
+               <article-title>Conjunto de datos vectoriales de información topográfica digital, por condensado estatal. Escala 1:250 000. Serie IV 11</article-title>
+               <publisher-name>Instituto Nacional de Estadística, Geografía e Informática</publisher-name>
+               <publisher-loc>Aguascalientes, México</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>Isachenko A.G., 1973. Principles of Landscape Science and Physical-Geographic Regionalization. Melbourne University Press, John S. Massey, 311 pp.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Isachenko</surname>
+                     <given-names>A.G.</given-names>
+                  </name>
+               </person-group>
+               <year>311 pp., 1973</year>
+               <!-- <source>Principles of Landscape Science and Physical-Geographic Regionalization</source> -->
+               <article-title>Principles of Landscape Science and Physical-Geographic Regionalization</article-title>
+               <publisher-name>Melbourne University Press, John S. Massey</publisher-name>
+               <publisher-loc>Australia</publisher-loc>
+               <!-- <fpage>311</fpage>
+               <lpage>311</lpage> -->
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>Mateo, J. 1984. Apuntes de Geografía de los Paisajes. Editorial Voisin, 470 pp.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mateo</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>470 pp., 1984</year>
+               <!-- <source>Apuntes de Geografía de los Paisajes</source> -->
+               <article-title>Apuntes de Geografía de los Paisajes</article-title>
+               <publisher-name>Editorial Voisin</publisher-name>
+               <!-- <fpage>470</fpage>
+               <lpage>470</lpage> -->
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>Mateo J. 2008. Geografía de los paisajes. Universidad de La Habana, Facultad de Geografía, Cuba, 188 pp.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mateo</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>188 pp., 2008</year>
+               <!-- <source>Geografía de los paisajes</source> -->
+               <article-title>Geografía de los paisajes</article-title>
+               <publisher-name>Universidad de La Habana, Facultad de Geografía</publisher-name>
+               <publisher-loc>Cuba</publisher-loc>
+               <!-- <fpage>188</fpage>
+               <lpage>188</lpage> -->
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>Mateo, J., Acevedo, M., 1989. Regionalización Físico-Geográfica de Cuba XVII.2.1 (5), escala 1:3000, 000. RHEA Consultores S. A. e Instituto Geográfico Nacional, España, 1 mapa.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mateo</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Acevedo</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>1989</year>
+               <!-- <source>Regionalización Físico-Geográfica de Cuba XVII.2.1 (5), escala 1:3000, 000</source> -->
+               <article-title>Regionalización Físico-Geográfica de Cuba XVII.2.1 (5), escala 1:3000, 000</article-title>
+               <publisher-name>RHEA Consultores S. A. e Instituto Geográfico Nacional</publisher-name>
+               <publisher-loc>España</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>Mateo, J., Bollo. M., 2016. La Región como categoría geográfica. Centro de Investigaciones en Geografía Ambiental, UNAM. Primera edición. Morelia, 108 pp.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mateo</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bollo</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>108 pp., 2016</year>
+               <!-- <source>La Región como categoría geográfica</source> -->
+               <article-title>La Región como categoría geográfica</article-title>
+               <publisher-name>Centro de Investigaciones en Geografía Ambiental, UNAM</publisher-name>
+               <publisher-loc>Morelia</publisher-loc>
+               <!-- <fpage>108</fpage>
+               <lpage>108</lpage> -->
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>Ortíz, R., Bollo, M., Hernández, S., Priego, S., 2015. La Regionalización físico-geográfica del estado de Jalisco, México. UNAM-CIGA, Morelia, 157 pp. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ortíz</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bollo</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Priego</surname>
+                     <given-names>S.</given-names>
+                  </name>
+               </person-group>
+               <year>157 pp., 2015</year>
+               <!-- <source>La Regionalización físico-geográfica del estado de Jalisco, México</source> -->
+               <article-title>La Regionalización físico-geográfica del estado de Jalisco, México</article-title>
+               <publisher-name>UNAM-CIGA</publisher-name>
+               <publisher-loc>Morelia</publisher-loc>
+               <!-- <fpage>157</fpage>
+               <lpage>157</lpage> -->
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>Priego-Santander, A.G., Bocco-Verdinelli, G., Palacio-Prieto, J.L., Velázquez-Montes, A., Ortiz-Pérez, M.A., Hernández-Santana, J.R., Geissert-Kientz, D., Isunza-Vera, E., Bollo-Manent, M., Granados-Oliva, A., Troche-Souza, C., Bautista-Zúñiga, F., Rojas-Villalobos, H.L., Gerardo-Palacio, A., 2012. Paisajes Físico-Geográficos de México, escala 1:500,000. UNAM-CIGA, Morelia, 1 mapa.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Priego-Santander</surname>
+                     <given-names>A.G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bocco-Verdinelli</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Palacio-Prieto</surname>
+                     <given-names>J.L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Velázquez-Montes</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ortiz-Pérez</surname>
+                     <given-names>M.A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández-Santana</surname>
+                     <given-names>J.R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Geissert-Kientz</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Isunza-Vera</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bollo-Manent</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Granados-Oliva</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Troche-Souza</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bautista-Zúñiga</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rojas-Villalobos</surname>
+                     <given-names>H.L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gerardo-Palacio</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <!-- <source>Paisajes Físico-Geográficos de México, escala 1:500,000</source> -->
+               <article-title>Paisajes Físico-Geográficos de México, escala 1:500,000</article-title>
+               <publisher-name>UNAM-CIGA</publisher-name>
+               <publisher-loc>Morelia</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>Quiñónez, G., 1987. El Sistema fisiográfico de la Dirección General de Geografía. Revista de Geografía 1 (2), 13-20.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Quiñónez</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>1987</year>
+               <article-title>El Sistema fisiográfico de la Dirección General de Geografía</article-title>
+               <source>Revista de Geografía</source>
+               <volume>1(2)</volume>
+               <issue>2</issue>
+               <fpage>13</fpage>
+               <lpage>20</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>Zaragoza-Álvarez, R., 2010. Tipología y regionalización físico-geográfica de la península de Baja California, México. Centro de Investigaciones en Geografía Ambiental, Universidad Nacional Autónoma de México, Tesis de maestría, 153 pp.</mixed-citation>
+            <element-citation publication-type="thesis">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zaragoza-Álvarez</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>153 pp., 2010</year>
+               <!-- <source>Tipología y regionalización físico-geográfica de la península de Baja California, México</source> -->
+               <article-title>Tipología y regionalización físico-geográfica de la península de Baja California, México (Tesis de maestría)</article-title>
+               <publisher-name>Centro de Investigaciones en Geografía Ambiental, Universidad Nacional Autónoma de México</publisher-name>
+               <publisher-loc>Morelia Michoacán, México</publisher-loc>
+               <comment content-type="degree">maestría</comment>
+               <!-- <fpage>153</fpage>
+               <lpage>153</lpage> -->
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

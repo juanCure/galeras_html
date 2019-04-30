@@ -1,0 +1,1192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.1"
+         article-type="research-article"
+         xml:lang="en"
+         specific-use="sps-1.8">
+  <front>
+    <journal-meta>
+      <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+      <issn pub-type="epub">0000-000X</issn>
+      <publisher>
+        <publisher-name>Terra Digitalis</publisher-name>
+      </publisher>
+    </journal-meta>
+    <article-meta>
+      <article-id pub-id-type="doi">10.22201/igg.25940694.2018.2.53.106</article-id>
+      <article-categories>
+        <subj-group subj-group-type="display-channel">
+          <subject>Research article</subject>
+        </subj-group>
+        <subj-group subj-group-type="heading">
+          <subject>Geography</subject>
+        </subj-group>
+      </article-categories>
+      <title-group>
+        <article-title>
+          Digital geologic map and geochronologic, geochemical and geothermal database of the south-eastern part of the Sierra Madre Occidental, Mexico / 
+          Cartografía geológica digital y base de datos geocronológicos, geoquímicos y geotérmicos de la parte suroriental de la Sierra Madre Occidental, México
+        </article-title>
+        <trans-title-group xml:lang="es">
+          <trans-title>
+            Cartografía geológica digital y base de datos geocronológicos, geoquímicos y geotérmicos de la parte suroriental de la Sierra Madre Occidental, México
+          </trans-title>
+        </trans-title-group>
+      </title-group>
+      <contrib-group>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Ferrari</surname>
+            <given-names>Luca</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>a</sup>
+          </xref>
+          <xref ref-type="corresp" rid="cor1">*</xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Castillo-Reynoso</surname>
+            <given-names>Juan Carlos</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>a</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Orozco-Esquivel</surname>
+            <given-names>Teresa</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>a</sup>
+          </xref>
+        </contrib>
+        <contrib contrib-type="author">
+          <name>
+            <surname>Silva-Fragoso</surname>
+            <given-names>Argelia</given-names>
+          </name>
+          <xref ref-type="aff" rid="aff1">
+            <sup>a</sup>
+          </xref>
+        </contrib>
+      </contrib-group>
+      <author-notes>
+        <corresp id="cor1">
+          <email>luca@unam.mx</email>
+        </corresp>
+      </author-notes>
+      <aff id="aff1">
+        <label>a</label>
+        <institution content-type="original">Centro de Geociencias, Universidad Nacional Autónoma de México, Campus UNAM Juriquilla, Queretaro, 76230, Mexico</institution>
+        <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+        <institution content-type="orgdiv1">Centro de Geociencias</institution>
+        <institution content-type="orgname">Universidad Nacional Autónoma de México</institution>
+        <addr-line>
+          <city>Campus Juriquilla</city>
+          <state>Queretaro</state>
+          <postal-code>76230</postal-code>
+        </addr-line>
+        <country country="MX">México</country>
+      </aff>
+      <pub-date date-type="pub" publication-format="electronic">
+        <day>31</day>
+        <month>10</month>
+        <year>2018</year>
+      </pub-date>
+      <volume>2</volume>
+      <issue>2</issue>
+      <fpage>1</fpage>
+      <lpage>6</lpage>
+      <history>
+        <date date-type="received">
+          <day>24</day>
+          <month>07</month>
+          <year>2018</year>
+        </date>
+        <date date-type="accepted">
+          <day>19</day>
+          <month>10</month>
+          <year>2018</year>
+        </date>
+      </history>
+      <permissions>
+        <copyright-statement>&#169; L. Ferrari, J. C. Castillo-Reynoso, T. Orozco-Esquivel, A. Silva-Fragoso</copyright-statement>
+        <copyright-statement>&#169; 2017, Gonzalo. Cid Villegas, Carlos. Mendoza &amp; Luca. Ferrari</copyright-statement>
+        <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+          <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (https://creativecommons.org/licenses/by-nc-sa/4.0/), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+        </license>
+      </permissions>
+      <abstract abstract-type="section">
+        <sec>
+          <title>Abstract</title>
+          <p>We present a first interactive digital geological map of the southeastern part of the Sierra Madre Occidental at its borders with the Mesa Central. The area of the geological cartography covers approximately 120,000 km<sup>2</sup> that includes part of the states of Jalisco, Zacatecas, Aguascalientes and Durango. The geology has been compiled in ArcGIS through an interpretation of all the information available in the literature, integrated with our own geological mapping. Published maps were georeferenced and, as far as possible, the traces of the geologic limits and structures with a clear morphological expression were refined using digital elevation models and satellite images available in Google Earth. The map includes 15 geological units and the main tectonic structures. The informal geological units used in the map are chronostratigraphic and lithological and are designed to highlight the main magmatic episodes that shaped the region. The age assignment for each unit has been compared with a geochronological database that includes 304 ages. The lithological classification of each polygon has been compared for consistency with a geochemical database compiled from the literature that includes 313 samples. We also added a layer of information with the main hot springs of the region and their temperature.</p>
+          <p><bold>Keywords:</bold> Digital geologic map, Sierra Madre Occidental, geochronology and geochemical database</p>
+        </sec>
+        <sec>
+          <title>Resumen</title>
+          <p>Presentamos un primer mapa geológico digital interactivo de la parte suroriental de la Sierra Madre Occidental en sus límites con la Mesa Central. El área cubierta por la cartografía geológica abarca aproximadamente 120,000 km<sup>2</sup> e incluye parte de los estados de Jalisco, Zacatecas, Aguascalientes y Durango. La geología ha sido compilada en ArcGIS a través de una interpretación de toda la información disponible en la literatura e integrada con nuestra propia cartografía geológica. Los mapas publicados fueron georeferenciados y hasta donde fue posible se corrigió la ubicación de los rasgos con una clara expresión morfológica utilizando modelos de elevación digital e imágenes satelitales disponibles en Google Earth. El mapa incluye 15 unidades geológicas y las principales estructuras tectónicas. Las unidades geológicas informales utilizadas son cronoestratigráficas y litológicas y están diseñadas para destacar los principales episodios magmáticos ocurridos en la región. La asignación de la edad para cada unidad ha sido cotejada con una base de datos geocronológicos que incluye 304 edades. La clasificación litológica de cada polígono ha sido comparada por consistencia con una base de datos geoquímicos recopilados de la literatura que incluye 313 muestras. Finalmente, se ha agregado una capa de información con las principales manifestaciones termales de la región y su temperatura.</p>
+          <p><bold>Palabras clave:</bold> Mapa geológico digital, Sierra Madre Occidental, base de datos geocronológica y geoquímica</p>
+        </sec>
+      </abstract>
+      <trans-abstract xml:lang="es">
+        <title>Resumen</title>
+        <bold></bold>
+        <p>Presentamos un primer mapa geológico digital interactivo de la parte suroriental de la Sierra Madre Occidental en sus límites con la Mesa Central. El área cubierta por la cartografía geológica abarca aproximadamente 120,000 km<sup>2</sup> e incluye parte de los estados de Jalisco, Zacatecas, Aguascalientes y Durango. La geología ha sido compilada en ArcGIS a través de una interpretación de toda la información disponible en la literatura e integrada con nuestra propia cartografía geológica. Los mapas publicados fueron georeferenciados y hasta donde fue posible se corrigió la ubicación de los rasgos con una clara expresión morfológica utilizando modelos de elevación digital e imágenes satelitales disponibles en Google Earth. El mapa incluye 15 unidades geológicas y las principales estructuras tectónicas. Las unidades geológicas informales utilizadas son cronoestratigráficas y litológicas y están diseñadas para destacar los principales episodios magmáticos ocurridos en la región. La asignación de la edad para cada unidad ha sido cotejada con una base de datos geocronológicos que incluye 304 edades. La clasificación litológica de cada polígono ha sido comparada por consistencia con una base de datos geoquímicos recopilados de la literatura que incluye 313 muestras. Finalmente, se ha agregado una capa de información con las principales manifestaciones termales de la región y su temperatura.</p>
+        <p><bold>Palabras clave:</bold> Mapa geológico digital, Sierra Madre Occidental, base de datos geocronológica y geoquímica</p>
+      </trans-abstract>
+      <kwd-group xml:lang="en">
+        <title>Keywords:</title>
+        <kwd>Digital geologic map</kwd>
+        <kwd>Sierra Madre Occidental</kwd>
+        <kwd>geochronology and geochemical database</kwd>
+      </kwd-group>
+      <kwd-group xml:lang="es">
+        <title>Palabras clave:</title>
+        <kwd>Mapa geológico digital</kwd>
+        <kwd>Sierra Madre Occidental</kwd>
+        <kwd>base de datos geocronológica y geoquímica</kwd>
+      </kwd-group>
+      <counts>
+        <fig-count count="1"/>
+        <table-count count="1"/>
+        <equation-count count="0"/>
+        <ref-count count="27"/>
+        <page-count count="6"/>
+      </counts>
+    </article-meta>
+  </front>
+  <body>
+    <sec sec-type="intro">
+      <title>1. Introduction</title>
+      <bold> </bold>
+      <p>
+        The Sierra Madre Occidental (SMO) silicic large igneous province (SLIP) is one of the largest on Earth (<xref ref-type="bibr" rid="B1">Bryan and Ferrari, 2013</xref>). The SMO SLIP consists of silicic ignimbrites and less rhyolitic domes with interspersed basaltic flows mostly emplaced between the end of the Eocene and the early Miocene (see <xref ref-type="bibr" rid="B9">Ferrari et al., 2007</xref>, for an extensive review). Also called “Upper Volcanic Supergroup” (<xref ref-type="bibr" rid="B19">McDowell and Keizer, 1977</xref>) this unusual, large volume, bimodal volcanism is accompanied by widespread extensional structures that are part of the “Mexican Basin and Range” in its eastern part (<xref ref-type="bibr" rid="B14">Henry and Aranda-Gomez, 1992</xref>) and of the “Gulf Extensional Province” in the west (<xref ref-type="bibr" rid="B10">Gastil et al., 1975</xref>; <xref ref-type="bibr" rid="B3">Calmus et al., 2010</xref>). Recent works have shown that the two provinces are at least partly coeval and related to a wide rift stage that affected western Mexico between 35 and 18 Ma, which preceded the focusing of extension in the region of the present Gulf of California (<xref ref-type="bibr" rid="B6">Ferrari et al., 2013</xref>, <xref ref-type="bibr" rid="B7">2017</xref>; <xref ref-type="bibr" rid="B5">Duque-Trujillo et al., 2015</xref>). See <xref ref-type="fig" rid="f1">Plate 1</xref> for a static version of the map.
+      </p>
+      <p>
+        The SMO SLIP covers the products of the so-called Laramide magmatic arc, developed between ~100 and 45 Ma along the western margin of Mexico during the subduction of the Farallon plate beneath North America (<xref ref-type="bibr" rid="B20">McDowell et al., 2001</xref>; <xref ref-type="bibr" rid="B15">Henry et al., 2003</xref>; <xref ref-type="bibr" rid="B13">González-León et al., 2011</xref>). Also called “Lower Volcanic Complex” (<xref ref-type="bibr" rid="B19">McDowell and Keizer, 1977</xref>), these rocks intrude or cover a basement which, in the southern half of the province, consists of volcano-sedimentary terrigenous successions of the Guerrero Terrane and limestone representing the westernmost part of the Sierra Madre Oriental carbonate successions (<xref ref-type="bibr" rid="B9">Ferrari et al., 2007</xref>). 
+      </p>
+      <p>
+        The southeastern part of the SMO, in the states of Jalisco, Zacatecas and Durango, is characterized by regularly spaced tectonic depressions (graben) that host thermal springs, with temperatures between 35ºC and 74ºC, not associated to Pliocene-Quaternary silicic volcanism, as in the conventional geothermal reservoirs exploited so far in Mexico. Unconventional geothermal deposits not associated with Neogene volcanism have been studied in France and Australia, where the source of heat is the product of the decay of radioactive isotopes (U, Th, K) naturally present in Paleozoic and Precambrian granites covered by layers of sediments with low thermal conductivity and low permeability (<xref ref-type="bibr" rid="B12">Gerner and Holgate, 2010</xref>; <xref ref-type="bibr" rid="B25">Siégel et al., 2014</xref>; <xref ref-type="bibr" rid="B11">Genter et al., 2010</xref>). A similar geological situation occurs in the extensional basins of the south-eastern part of the SMO, where the upper crust is constituted by granites and silicic ignimbrites covered by continental sediments and where anomalous contents of U have been reported in some areas (e.g. <xref ref-type="bibr" rid="B2">Bryan et al., 2008</xref>). 
+      </p>
+      <p>
+        As a first step in an interdisciplinary project aimed at understanding the nature of the thermal waters present in the southeastern SMO (UNAM-DGAPA-PAPIIT 100117), we have constructed the first interactive digital geological map of this region. The area of the geological cartography covers approximately 120,000 Km<sup>2</sup> that includes part of the states of Jalisco, Zacatecas, Aguascalientes and Durango. From the geologic point of view the map also include the westernmost part of the Central Mesa and the northernmost part of the Trans-Mexican Volcanic Belt (<xref ref-type="bibr" rid="B8">Ferrari et al., 2018</xref>).
+      </p>
+    </sec>
+    <sec sec-type="methods">
+			<title>2. Methods</title>
+			<bold> </bold>
+			<p>
+			  The geologic information has been mostly compiled from 1:250,000 and, when available, 1:50,000 scale maps of the Mexican Geologic Survey (<xref ref-type="bibr" rid="B23">Servicio Geológico Mexicano, 2007</xref>), maps in published papers (<xref ref-type="bibr" rid="B16">Loza-Aguirre et al.,  2008</xref>, <xref ref-type="bibr" rid="B17">2012</xref>), plus our own unpublished field mapping and observations that are partly included in recent bachelor and postgraduate theses (<xref ref-type="bibr" rid="B24">Silva-Fragoso, 2015</xref>; <xref ref-type="bibr" rid="B18">Martínez-Reséndiz, 2016</xref>; <xref ref-type="bibr" rid="B4">Castillo-Reynoso, 2018</xref>). The first step in the elaboration of the map was to define a general stratigraphy for the entire area. Based on chronostratigraphic and lithologic criteria, we defined 15 informal units specifically designed to enhance the Cenozoic magmatic and tectonic activity and provide a synthetic view. This simplified stratigraphy is supported by a geochronological database that includes 304 ages and a geochemical database that includes 313 samples, both compiled from the literature and updated to July 2018. These databases are available for download at the journal website. Published geologic maps and our unpublished cartography have been reinterpreted according to the regional stratigraphy established in the previous stage. In most cases we had to group two or more original units into a single unit, characterized by similar lithology and age range. We also compiled faults, folds, and volcanic vents. Published maps were georeferenced and, as far as possible, the traces of the geologic limits and structures with a clear morphological expression were refined using digital elevation models and satellite images available in Google Earth. Digitization was carried out with ArcGIS and QGIS taking special care in checking the consistency of the lithological classification and age assignment for each unit with the geochronologic and geochemical databases. Finally, we have included a layer of information with the main hot springs of the region and their temperature based on (<xref ref-type="bibr" rid="B26">Torres-Rodríguez et al. 1993</xref>).
+			</p>
+    </sec>
+    <sec>
+		  <title>3. Map units</title>
+		  <bold> </bold>
+		  <p>
+		    All geologic units used in the map are lithologic informal units, the age of which have been bracketed by available isotopic ages, or by their stratigraphic position. They can be divided into two broad groups: 1) Basement terranes that precede the onset of the continental magmatism and sedimentation of the SMO, and 2) rocks belonging to the SMO volcanic activity and associated continental sedimentary deposits. Rocks pre-dating the SMO SLIP belong to the Laramide Arc, the Sierra Madre Oriental and the Guerrero terrane. Each map unit is briefly described in <xref ref-type="table" rid="t1">Table 1</xref>.
+		  </p>
+		  <table-wrap id="t1">
+		    <label>Table 1 / Tabla 1</label>
+        <caption>
+          <p><bold>Table 1:</bold> Description of maps units</p>
+          <p><bold>Tabla 1:</bold> Descripción de las unidades del mapa</p>
+		    </caption>
+		    <table>
+		      <colgroup>
+		        <col/>
+		        <col/>
+		        <col/>
+		      </colgroup>
+		      <thead>
+		        <tr>
+		          <th align="center">Map unit</th>
+		          <th align="center">Age</th>
+		          <th align="center">Description</th>
+		        </tr>
+		      </thead>
+		      <tbody>
+		        <tr>
+		          <td colspan="3" align="center">Late Cretaceous to Cenozoic continental magmatism and sedimentation</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Unconsolidated surficial deposits</td>
+		          <td align="center">Quaternary</td>
+		          <td align="left">Uppermost, recent alluvial and lacustrine deposits; mostly undergoing sedimentation</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Upper basaltic rocks</td>
+		          <td align="center">Quaternary</td>
+		          <td align="left">Basaltic lava field and small cinder cones, mostly with intraplate affinity, of the Durango volcanic field</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Bimodal volcanic rocks of the Trans-Mexican Volcanic Belt</td>
+		          <td align="center">Pliocene to Quaternary</td>
+		          <td align="left">Cinder cones and lavas flows, silicic lava domes and associated pyroclastic flows of the western Trans-Mexican Volcanic Belt</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Siliciclastic rocks of Mesa Central</td>
+		          <td align="center">Neogene</td>
+		          <td align="left">
+		            Volcano-sedimentary sandstone, conglomerate and lacustrine deposits filling endorheic basins of the Mesa Central. In most cases under active erosion
+		          </td>
+		        </tr>
+		        <tr>
+		          <td align="left">Middle basaltic rocks</td>
+		          <td align="center">Middle to late Miocene (14-9 Ma)</td>
+		          <td align="left">
+		            Fissure-fed mafic lava flows and small shield volcanoes associated to extensional faults. Intraplate affinity in the central SMO (e.g., Río Chico-Otinapa graben) and subduction signature in the southern SMO and TMVB
+		          </td>
+		        </tr>
+		        <tr>
+		          <td align="left">Siliciclastic rocks of the Sierra Madre Occidental</td>
+		          <td align="center">Late Oligocene to late Miocene</td>
+		          <td align="left">
+		            Clastic and lacustrine deposits filling the main tectonic basins. Presently undergoing erosion
+		          </td>
+		        </tr>
+		        <tr>
+		          <td align="left">Lower basaltic rocks</td>
+		          <td align="center">Oligocene to early Miocene (32 to 19 Ma)</td>
+		          <td align="left">Fissure-fed mafic lava flows capping or intercalated in the ignimbrites of the SMO. Mostly showing an intraplate affinity</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Rhyolitic domes and flows</td>
+		          <td align="center">Oligocene to early Miocene (29 to 18 Ma)</td>
+		          <td align="left">Rhyolitic domes capping the ignimbrites of each pulse of the SMO</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Upper silicic ignimbrites</td>
+		          <td align="center">Late Oligocene to early Miocene (24 to 19 Ma)</td>
+		          <td align="left">Large volume ash-flow deposits of the second ignimbrite pulse of the SMO</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Lower silicic ignimbrites</td>
+		          <td align="center">Late Eocene to Oligocene (43 to 29 Ma)</td>
+		          <td align="left">Large volume ash-flow deposits of the first ignimbrite pulse of the SMO</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Porphyritic intrusions</td>
+		          <td align="center">Eocene-Oligocene (?)</td>
+		          <td align="left">Hypabyssal intrusions of intermediate composition</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Andesitic rocks</td>
+		          <td align="center">Paleocene (?) to Eocene</td>
+		          <td align="left">Andesitic lava flows associated to the Laramide Arc (Lower Volcanic Complex)</td>
+		        </tr>
+		        <tr>
+		          <td colspan="3" align="center">Basement terranes</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Marine sedimentary successions (Sierra Madre Oriental)</td>
+		          <td align="center">Cretaceous (Berriasian to Santonian)</td>
+		          <td align="left">Limestone, shale, and sandstone involved in folding of Laramide age belonging to the Sierra Madre Oriental</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Marine sedimentary successions (Sierra Madre Oriental)</td>
+		          <td align="center">Late Jurassic</td>
+		          <td align="left">Sandstone and shale involved in folding of Laramide age belonging to the Sierra Madre Oriental</td>
+		        </tr>
+		        <tr>
+		          <td align="left">Volcano-sedimentary and metasedimentary succession (Guerrero terrane)</td>
+		          <td align="center">Triassic to Early Cretaceous</td>
+		          <td align="left">Low to medium grade metamorphic succession of marine sandstone and shales, locally interbedded with volcanic rocks</td>
+		        </tr>
+		      </tbody>
+		    </table>
+		  </table-wrap>
+		</sec>
+    <sec>
+			<title>4. Main geologic aspects of the map</title>
+			<bold> </bold>
+			<p>
+			  The map of the southeastern part of the Sierra Madre Occidental and the associated geochronologic and geochemical databases presented in this work shows several interesting aspects of this peculiar geologic province.
+			</p>
+			<p>
+			  Ignimbrites belonging to the two pulses already recognized in the SMO silicic large igneous province dominate the study region. In previous regional geologic maps of Mexico, silicic ignimbrites forming the Upper Volcanic Supergroup have been mapped as a single unit (e.g. <xref ref-type="bibr" rid="B21">Ortega-Gutiérrez et al., 1992</xref>; <xref ref-type="bibr" rid="B23">Servicio Geológico Mexicano, 2007</xref>). In this work, we were able to separate the ignimbrite packages of the two flare-ups. We were also able to identify rhyolitic domes and porphyritic intrusive rocks associated with the ignimbritic pulses. In the study region rhyolitic domes were emplaced at the end of the first ignimbrite flare-up often along major faults or intersection of faults. 
+			</p>
+			<p>
+			  Although silicic rocks are volumetrically dominant, basaltic volcanism is also widespread albeit with much lower volume. Mafic volcanism occurred in two major pulses: the first span from late Oligocene to early Miocene with a peak in ages at 23-22 Ma; the second is middle to late Miocene with peak at 13-11 Ma and is particularly voluminous in the southernmost part of the region, where this volcanism merges with that of the Trans-Mexican Volcanic Belt. From a geochemical point of view, intraplate basaltic lavas indicating sources in the asthenospheric mantle were emplaced mostly during the first pulse (<xref ref-type="bibr" rid="B7">Ferrari et al., 2017</xref>). The middle-late Miocene pulse mainly consists of basaltic andesite with higher Mg# at similar SiO2 contents and composition consistent with contributions from slab melt. Intraplate magmatism, although scarce, also occurred during this pulse more inland, in the Rio Chico-Otinapa graben west of Durango city. 
+			</p>
+			<p>
+			  The crosscutting relations between the main faults bounding the graben and the volcanic units indicate that crustal extension was active since the late Oligocene but continued into the early Miocene. The main graben structures can be grouped into a southern structural domain with NNE-SSW to N-S orientation and a northern domain with NNW-SSE orientation, with a limit approximately at the latitude of Durango city. There is also evidence of a late Miocene reactivation of extensional faults in the southern part of the Juchipila graben, where &lt;10 Ma lacustrine deposits are gently tilted. Small extensional fault scarps are also observed cutting lava flows of the Durango volcanic field, which indicate a Quaternary reactivation. In general, thermal springs are spatially associated with normal faults (sometimes buried) or with the contact between ignimbrites and graben filling sediments
+			</p>
+			<p>
+			  No obvious caldera structure is observed in the region covered by the map. Calderas forming the early ignimbrite succession may have been buried by subsequent eruptions. (<xref ref-type="bibr" rid="B27">Webber et al. 1994</xref>) proposed the existence of two calderas in the Juchipila graben. However, our fieldwork and new isotopic ages (to be published in a future paper), do not support this interpretation but rather indicate that some of the youngest ignimbrites can be related to fissure parallel to major normal faults, as it has been also proposed in the Bolaños graben (<xref ref-type="bibr" rid="B22">Ramos-Rosique, 2013</xref>). 
+			</p>
+		</sec>
+    <sec>
+      <title>Acknowledgements</title>
+      <bold> </bold>
+      <p>
+        The digital map was elaborated in the frame of grant UNAM-PAPIIT IV100117 to Luca Ferrari. We thank Ángel Nieto Samaniego and Carlos González León for their constructive reviews that helped to improve the work.
+      </p>
+      <fig id="f1" position="float" orientation="portrait">
+        <graphic xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero4/ferrari/mapa_estatico/images/ferrari_mapa_2018_4_label.png" position="float" orientation="portrait" xlink:type="simple">
+          <label> Plate 1 / Lámina 1</label>
+          <caption>
+            <p><bold>Plate 1: </bold>Geologic map of the south-eastern part of the Sierra Madre Occidental</p>
+            <p><bold>Lámina 1: </bold>Mapa geológico de la porción sureste de la Sierra Madre Occidental</p>
+          </caption>
+        </graphic>
+      </fig>
+    </sec>
+    <sec sec-type="supplementary-material">
+      <title>Visualizador</title>
+      <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+        xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero4/ferrari/mapa_estatico/"
+        mimetype="application/html">
+        <label>Mapa Estático</label>
+        <caption>
+          <title>Mapa geológico de la porción sureste de la Sierra Madre Occidental</title>
+          <p>
+            <bold>DOI:</bold>
+            <ext-link ext-link-type="doi" xlink:href="10.7554/eLife.21900.021">10.22201/igg.terradigitalis.2018.1.34.93</ext-link>
+          </p>
+        </caption>
+      <media mime-subtype="php" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero4/ferrari/mapa_estatico/"/>
+    </supplementary-material>
+    </sec>
+  </body>
+  <back>
+  	<ref-list>
+		  <title>References</title>
+		  <ref id="B1">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Bryan</surname>
+		          <given-names>S. E.</given-names>
+		        </name>
+		        <name>
+		          <surname>Ferrari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2013</year>
+		      <article-title>Large igneous provinces and silicic large igneous provinces: Progress in our understanding over the last 25 years.</article-title>
+		      <source>GSA Bulletin</source>
+		      <volume>125(7-8)</volume>
+		      <issue>7-8</issue>
+		      <fpage>1053</fpage>
+		      <lpage>1078</lpage>
+		      <pub-id pub-id-type="doi">10.1130/B30820.1</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B2">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Bryan</surname>
+		          <given-names>S. E.</given-names>
+		        </name>
+		        <name>
+		          <surname>Ferrari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		        <name>
+		          <surname>Reiners</surname>
+		          <given-names>P. W.</given-names>
+		        </name>
+		        <name>
+		          <surname>Allen</surname>
+		          <given-names>C. M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Petrone</surname>
+		          <given-names>C. M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Ramos-Rosique</surname>
+		          <given-names>A.</given-names>
+		        </name>
+		        <name>
+		          <surname>Campbell</surname>
+		          <given-names>I. H.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2008</year>
+		      <article-title>New Insights into Crustal Contributions to Large-volume Rhyolite Generation in the Mid-Tertiary Sierra Madre Occidental Province, Mexico, Revealed by U–Pb Geochronology</article-title>
+		      <source>Journal of Petrology</source>
+		      <volume>49(1)</volume>
+		      <issue>1</issue>
+		      <fpage>47</fpage>
+		      <lpage>77</lpage>
+		      <pub-id pub-id-type="doi">10.1093/petrology/egm070</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B3">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Calmus</surname>
+		          <given-names>T.</given-names>
+		        </name>
+		        <name>
+		          <surname>Pallares</surname>
+		          <given-names>C.</given-names>
+		        </name>
+		        <name>
+		          <surname>Maury</surname>
+		          <given-names>R. C.</given-names>
+		        </name>
+		        <name>
+		          <surname>Aguillón-Robles</surname>
+		          <given-names>A.</given-names>
+		        </name>
+		        <name>
+		          <surname>Bellon</surname>
+		          <given-names>H.</given-names>
+		        </name>
+		        <name>
+		          <surname>Benoit</surname>
+		          <given-names>M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Michaud</surname>
+		          <given-names>F.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2010</year>
+		      <article-title>Volcanic Markers of the Post-Subduction Evolution of Baja California and Sonora, Mexico: Slab Tearing Versus Lithospheric Rupture of the Gulf of California.</article-title>
+		      <source>Pure and Applied Geophysics</source>
+		      <volume>168(8-9)</volume>
+		      <issue>8-9</issue>
+		      <fpage>1303</fpage>
+		      <lpage>1330</lpage>
+		      <pub-id pub-id-type="doi">10.1007/s00024-010-0204-z</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B4">
+		    <element-citation publication-type="thesis">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Castillo-Reynoso</surname>
+		          <given-names>J. C.</given-names>
+		        </name>
+		      </person-group>
+		      <date>
+            <year>2018</year>
+          </date>
+		      <article-title>Tectónica del límite sur de la Sierra Madre Occidental: la zona de cizalla del Río Santiago</article-title>
+		      <publisher-name>M.Sc. Thesis, Universidad Nacional Autónoma de México, Posgrado en Ciencias de la Tierra</publisher-name>
+          <publisher-loc>México: 196 pp</publisher-loc>
+		    </element-citation>
+		  </ref>
+		  <ref id="B5">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Duque-Trujillo</surname>
+		          <given-names>J.</given-names>
+		        </name>
+		        <name>
+		          <surname>Ferrari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		        <name>
+		          <surname>Orozco-Esquivel</surname>
+		          <given-names>T.</given-names>
+		        </name>
+		        <name>
+		          <surname>López-Martínez</surname>
+		          <given-names>M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Lonsdale</surname>
+		          <given-names>P.</given-names>
+		        </name>
+		        <name>
+		          <surname>Bryan</surname>
+		          <given-names>S. E.</given-names>
+		        </name>
+		        <name>
+		          <surname>Kluesner</surname>
+		          <given-names>J.</given-names>
+		        </name>
+		        <name>
+		          <surname>Piñero-Lajas</surname>
+		          <given-names>J.</given-names>
+		        </name>
+		        <name>
+		          <surname>Solari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2015</year>
+		      <article-title>Timing of rifting in the southern Gulf of California and its conjugate margins: Insights from the plutonic record</article-title>
+		      <source>GSA Bulletin</source>
+		      <volume>127(5-6)</volume>
+		      <issue>5-6</issue>
+		      <fpage>702</fpage>
+		      <lpage>736</lpage>
+		      <pub-id pub-id-type="doi">10.1130/B31008.1</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B6">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Ferrari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		        <name>
+		          <surname>López-Martínez</surname>
+		          <given-names>M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Orozco-Esquivel</surname>
+		          <given-names>T.</given-names>
+		        </name>
+		        <name>
+		          <surname>Bryan</surname>
+		          <given-names>S. E.</given-names>
+		        </name>
+		        <name>
+		          <surname>Duque-Trujillo</surname>
+		          <given-names>J.</given-names>
+		        </name>
+		        <name>
+		          <surname>Lonsdale</surname>
+		          <given-names>P.</given-names>
+		        </name>
+		        <name>
+		          <surname>Solari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2013</year>
+		      <article-title>Late Oligocene to Middle Miocene rifting and synextensional magmatism in the southwestern Sierra Madre Occidental, Mexico: The beginning of the Gulf of California rift</article-title>
+		      <source>Geosphere</source>
+		      <volume>9(5)</volume>
+		      <issue>5</issue>
+		      <fpage>1161</fpage>
+		      <lpage>1200</lpage>
+		      <pub-id pub-id-type="doi">10.1130/GES00925.1</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B7">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Ferrari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		        <name>
+		          <surname>Orozco-Esquivel</surname>
+		          <given-names>T.</given-names>
+		        </name>
+		        <name>
+		          <surname>Bryan</surname>
+		          <given-names>S. E.</given-names>
+		        </name>
+		        <name>
+		          <surname>López-Martínez</surname>
+		          <given-names>M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Silva-Fragoso</surname>
+		          <given-names>A.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2017</year>
+		      <article-title>Cenozoic magmatism and extension in western Mexico: Linking the Sierra Madre Occidental silicic large igneous province and the Comondú Group with the Gulf of California rift</article-title>
+		      <source>Earth-Science Reviews</source>
+		      <volume>183</volume>
+		      <fpage>115</fpage>
+		      <lpage>152</lpage>
+		      <pub-id pub-id-type="doi">10.1016/j.earscirev.2017.04.006</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B8">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Ferrari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		        <name>
+		          <surname>Orozco-Esquivel</surname>
+		          <given-names>T.</given-names>
+		        </name>
+		        <name>
+		          <surname>Navarro</surname>
+		          <given-names>M.</given-names>
+		        </name>
+		        <name>
+		          <surname>López-Quiroz</surname>
+		          <given-names>P.</given-names>
+		        </name>
+		        <name>
+		          <surname>Luna</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2018</year>
+		      <article-title>Digital Geologic Cartography and Geochronologic Database of the Trans-Mexican Volcanic Belt and Adjoining Areas</article-title>
+		      <source>Terra Digitalis</source>
+		      <volume>2(1)</volume>
+		      <issue>1</issue>
+		      <pub-id pub-id-type="doi">10.22201/igg.terradigitalis.2018.1.34</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B9">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Ferrari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		        <name>
+		          <surname>Valencia-Moreno</surname>
+		          <given-names>M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Bryan</surname>
+		          <given-names>S.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2007</year>
+		      <article-title>
+            Magmatism and tectonics of the Sierra Madre Occidental and its relation with the evolution of the western margin of North America
+          </article-title>
+		      <person-group person-group-type="editor">
+		        <name>
+		          <surname>Alaniz-Alvarez</surname>
+		          <given-names>S. A.</given-names>
+		        </name>
+		        <name>
+		          <surname>Nieto-Samaniego</surname>
+		          <given-names>A. F.</given-names>
+		        </name>
+		      </person-group>
+		      <source>Geology of Mexico: Celebrating the Centenary of the Geological Society of Mexico: Geological Society of America, Special Paper</source>
+		      <publisher-name>Geological Society of America, Special Paper</publisher-name>
+		      <volume>422</volume>
+		      <fpage>1</fpage>
+		      <lpage>39</lpage>
+		      <pub-id pub-id-type="doi">10.1130/2007.2422(01)</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B10">
+		    <element-citation publication-type="book">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Gastil</surname>
+		          <given-names>R. G.</given-names>
+		        </name>
+		        <name>
+		          <surname>Phillips</surname>
+		          <given-names>R. P.</given-names>
+		        </name>
+		        <name>
+		          <surname>Allison</surname>
+		          <given-names>E. C.</given-names>
+		        </name>
+		      </person-group>
+		      <year>201 pp. 1975</year>
+		      <article-title>Reconnaissance Geology of the State of Baja California</article-title>
+		      <source>Geological Society of America Memoirs</source>
+		      <publisher-name>Geological Society of America</publisher-name>
+		      <volume>140</volume>
+		      <pub-id pub-id-type="doi">10.1130/MEM140-p1</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B11">
+		    <element-citation publication-type="book">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Genter</surname>
+		          <given-names>A.</given-names>
+		        </name>
+		        <name>
+		          <surname>Goerke</surname>
+		          <given-names>X.</given-names>
+		        </name>
+		        <name>
+		          <surname>Graff</surname>
+		          <given-names>J. J.</given-names>
+		        </name>
+		        <name>
+		          <surname>Cuenot</surname>
+		          <given-names>N.</given-names>
+		        </name>
+		        <name>
+		          <surname>Krall</surname>
+		          <given-names>G.</given-names>
+		        </name>
+		        <name>
+		          <surname>Schindler</surname>
+		          <given-names>M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Ravier</surname>
+		          <given-names>G.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2010</year>
+		      <article-title>Current status of the EGS Soultz geothermal project (France)</article-title>
+		      <source>World Geothermal Congress, WGC2010, Bali, Indonesia</source>
+		      <fpage>25</fpage>
+		      <lpage>29</lpage>
+		    </element-citation>
+		  </ref>
+		  <ref id="B12">
+		    <element-citation publication-type="book">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Genter</surname>
+		          <given-names>E. J.</given-names>
+		        </name>
+		        <name>
+		          <surname>Holgate</surname>
+		          <given-names>F. L.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2010</year>
+		      <article-title>
+            OzTemp – Interpreted Temperature at 5km Depth Image. 
+            <ext-link ext-link-type="url" xlink:href="https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search?node=srv#/metadata/a05f7892-f9e7-7506-e044-00144fdd4fa6">
+              https://ecat.ga.gov.au/geonetwork/srv/eng/catalog.search?node=srv#/metadata/a05f7892-f9e7-7506-e044-00144fdd4fa6
+            </ext-link>
+          </article-title>
+		      <source>Geoscience Australia, Canberra</source>
+		    </element-citation>
+		  </ref>
+		  <ref id="B13">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>González-León</surname>
+		          <given-names>C. M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Solari</surname>
+		          <given-names>L.</given-names>
+		        </name>
+		        <name>
+		          <surname>Solé</surname>
+		          <given-names>J.</given-names>
+		        </name>
+		        <name>
+		          <surname>Ducea</surname>
+		          <given-names>M. N.</given-names>
+		        </name>
+		        <name>
+		          <surname>Lawton</surname>
+		          <given-names>T. F.</given-names>
+		        </name>
+		        <name>
+		          <surname>Bernal</surname>
+		          <given-names>J. P.</given-names>
+		        </name>
+		        <name>
+		          <surname>González-Becuar</surname>
+		          <given-names>E.</given-names>
+		        </name>
+		        <name>
+		          <surname>Gray</surname>
+		          <given-names>F.</given-names>
+		        </name>
+		        <name>
+		          <surname>López-Martínez</surname>
+		          <given-names>M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Lozano-Santacruz</surname>
+		          <given-names>R.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2011</year>
+		      <article-title>Stratigraphy, geochronology, and geochemistry of the Laramide magmatic arc in north-central Sonora, Mexico</article-title>
+		      <source>Geosphere</source>
+		      <volume>7(6)</volume>
+		      <issue>6</issue>
+		      <fpage>1392</fpage>
+		      <lpage>1418</lpage>
+		      <pub-id pub-id-type="doi">10.1130/GES00679.1</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B14">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Henry</surname>
+		          <given-names>C. D.</given-names>
+		        </name>
+		        <name>
+		          <surname>Aranda-Gomez</surname>
+		          <given-names>J. J.</given-names>
+		        </name>
+		      </person-group>
+		      <year>1992</year>
+		      <article-title>The real southern Basin and Range: Mid- to late Cenozoic extension in Mexico</article-title>
+		      <source>Geology</source>
+		      <volume>20(8)</volume>
+		      <issue>8</issue>
+		      <fpage>701</fpage>
+		      <lpage>704</lpage>
+		      <pub-id pub-id-type="doi">10.1130/0091-7613(1992)020&lt;0701:TRSBAR&gt;2.3.CO;2</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B15">
+		    <element-citation publication-type="book">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Henry</surname>
+		          <given-names>C. D.</given-names>
+		        </name>
+		        <name>
+		          <surname>McDowell</surname>
+		          <given-names>F. W.</given-names>
+		        </name>
+		        <name>
+		          <surname>Silver</surname>
+		          <given-names>L. T.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2003</year>
+		      <article-title>
+            Geology and geochronology of granitic batholith complex, Sinaloa, México: Implications for Cordilleran magmatism and tectonics
+          </article-title>
+		      <person-group person-group-type="editor">
+		        <name>
+		          <surname>Johnson</surname>
+		          <given-names>S. E.</given-names>
+		        </name>
+		        <name>
+		          <surname>Paterson</surname>
+		          <given-names>S. R.</given-names>
+		        </name>
+		        <name>
+		          <surname>Fletcher</surname>
+		          <given-names>J. M.</given-names>
+		        </name>
+		        <name>
+		          <surname>Girty</surname>
+		          <given-names>G. H.</given-names>
+		        </name>
+		        <name>
+		          <surname>Kimbrough</surname>
+		          <given-names>D. L.</given-names>
+		        </name>
+		        <name>
+		          <surname>Martín-Barajas</surname>
+		          <given-names>A.</given-names>
+		        </name>
+		      </person-group>
+		      <source>Tectonic evolution of northwestern Mexico and the Southwestern USA: Geological Society of America Special Paper</source>
+		      <volume>374</volume>
+		      <pub-id pub-id-type="doi">10.1130/0-8137-2374-4.237</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B16">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Loza-Aguirre</surname>
+		          <given-names>I.</given-names>
+		        </name>
+		        <name>
+		          <surname>Nieto-Samaniego</surname>
+		          <given-names>A. F.</given-names>
+		        </name>
+		        <name>
+		          <surname>Alaniz-Alvarez</surname>
+		          <given-names>S. A.</given-names>
+		        </name>
+		        <name>
+		          <surname>Iriondo</surname>
+		          <given-names>A.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2008</year>
+		      <article-title>Relaciones estratigráfico-estructurales en la intersección del sistema de fallas San Luis-Tepehuanes y el graben de Aguascalientes, México central</article-title>
+		      <source>Revista mexicana de ciencias geológicas</source>
+		      <volume>25(3)</volume>
+		      <issue>3</issue>
+		      <fpage>533</fpage>
+		      <lpage>548</lpage>
+		    </element-citation>
+		  </ref>
+		  <ref id="B17">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Loza-Aguirre</surname>
+		          <given-names>I.</given-names>
+		        </name>
+		        <name>
+		          <surname>Nieto-Samaniego</surname>
+		          <given-names>A. F.</given-names>
+		        </name>
+		        <name>
+		          <surname>Alaniz-Alvarez</surname>
+		          <given-names>S. A.</given-names>
+		        </name>
+		        <name>
+		          <surname>Ortega-Obregón</surname>
+		          <given-names>C.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2012</year>
+		      <article-title>Cenozoic volcanism and extension in northwestern Mesa Central, Durango, México</article-title>
+		      <source>Boletín de la Sociedad Geológica Mexicana</source>
+		      <volume>64(2)</volume>
+		      <issue>2</issue>
+		      <fpage>243</fpage>
+		      <lpage>263</lpage>
+		    </element-citation>
+		  </ref>
+		  <ref id="B18">
+		    <element-citation publication-type="thesis">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Martínez-Reséndiz</surname>
+		          <given-names>V.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2016</year>
+		      <article-title>Petrografía y geoquímica del vulcanismo máfico del Mioceno en la porción sur de la Sierra Madre Occidental</article-title>
+		      <publisher-name>Bachelor Thesis, Universidad Nacional Autónoma de México, Facultad de Ciencias</publisher-name>
+          <publisher-loc>México: 160 pp</publisher-loc>
+		    </element-citation>
+		  </ref>
+		  <ref id="B19">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>McDowell</surname>
+		          <given-names>F. W.</given-names>
+		        </name>
+		        <name>
+		          <surname>Keizer</surname>
+		          <given-names>R. P.</given-names>
+		        </name>
+		      </person-group>
+		      <year>1977</year>
+		      <article-title>Timing of mid-Tertiary volcanism in the Sierra Madre Occidental between Durango City and Mazatlan, Mexico</article-title>
+		      <source>GSA Bulletin</source>
+		      <volume>88(10)</volume>
+		      <issue>10</issue>
+		      <fpage>1479</fpage>
+		      <lpage>1487</lpage>
+		      <pub-id pub-id-type="doi">10.1130/0016-7606(1977)88&lt;1479:TOMVIT&gt;2.0.CO;2</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B20">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>McDowell</surname>
+		          <given-names>F. W.</given-names>
+		        </name>
+		        <name>
+		          <surname>Roldán-Quintana</surname>
+		          <given-names>J.</given-names>
+		        </name>
+		        <name>
+		          <surname>Connelly</surname>
+		          <given-names>J. N.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2001</year>
+		      <article-title>Duration of Late Cretaceous–early Tertiary magmatism in east-central Sonora, Mexico</article-title>
+		      <source>GSA Bulletin</source>
+		      <volume>113(4)</volume>
+		      <issue>4</issue>
+		      <fpage>521</fpage>
+		      <lpage>531</lpage>
+		      <pub-id pub-id-type="doi">10.1130/0016-7606(2001)113&lt;0521:DOLCET&gt;2.0.CO;2</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B21">
+		    <element-citation publication-type="book">
+		      <person-group person-group-type="author">
+            <name>
+              <surname>Ortega-Gutiérrez</surname>
+              <given-names>F.</given-names>
+            </name>
+            <name>
+              <surname>Mitre-Salazar</surname>
+              <given-names>L. M.</given-names>
+            </name>
+            <name>
+              <surname>Roldán-Quintana</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Aranda-Gómez</surname>
+              <given-names>J.</given-names>
+            </name>
+            <name>
+              <surname>Morán-Zenteno</surname>
+              <given-names>D.</given-names>
+            </name>
+            <name>
+              <surname>Alaniz-Álvarez</surname>
+              <given-names>S.</given-names>
+            </name>
+            <name>
+              <surname>Nieto-Samaniego</surname>
+              <given-names>A.</given-names>
+            </name>
+		      </person-group>
+		      <year>78 pp., 1992</year>
+		      <article-title>Carta Geológica de la República Mexicana escala 1:2,000,000</article-title>
+		      <publisher-name>Universidad Nacional Autónoma de México, Instituto de Geología, Mapa y Texto Explicativo</publisher-name>
+		      <publisher-loc>México</publisher-loc>
+		    </element-citation>
+		  </ref>
+		  <ref id="B22">
+		    <element-citation publication-type="thesis">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Ramos-Rosique</surname>
+		          <given-names>A.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2013</year>
+		      <article-title>
+		        Timing and evolution of late Oligocene to early Miocene magmatism and epithermal mineralization in the Bolanos Graben, southern Sierra Madre Occidental, Mexico
+		      </article-title>
+		      <publisher-name>Doctoral dissertation, Kingston University</publisher-name>
+          <publisher-loc>Reino Unido</publisher-loc>
+		    </element-citation>
+		  </ref>
+		  <ref id="B23"><!--revisar, no funciona ext-link-type-->
+		    <element-citation publication-type="book">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Servicio Geológico Mexicano (SGM)</surname>
+		        </name>
+		      </person-group>
+		      <year>2007</year>
+		      <article-title>
+		        Carta Geológica de la República Mexicana, Scale 1:2,000,000. 
+            <ext-link ext-link-type="url" xlink:href="https://mapserver.sgm.gob.mx/Cartas_Online/geologia/sgm2000.pdf">
+              https://mapserver.sgm.gob.mx/Cartas_Online/geologia/sgm2000.pdf
+            </ext-link>
+		      </article-title>
+		    </element-citation>
+		  </ref>
+		  <ref id="B24">
+		    <element-citation publication-type="thesis">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Silva-Fragoso</surname>
+		          <given-names>A.</given-names>
+		        </name>
+		      </person-group>
+		      <year>128 pp., 2015</year>
+		      <article-title>
+		        Tectónica y volcanismo bimodal en la zona de transición entre la Sierra Madre Occidental y la Faja Volcánica Trans-Mexicana al norte de Guadalajara, Jalisco
+		      </article-title>
+		      <publisher-name>Bachelor Thesis, Universidad Nacional Autónoma de México, Facultad de Ingeniería</publisher-name>
+          <publisher-loc>México</publisher-loc>
+		    </element-citation>
+		  </ref>
+		  <ref id="B25">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Siégel</surname>
+		          <given-names>C.</given-names>
+		        </name>
+		        <name>
+		          <surname>Schrank</surname>
+		          <given-names>C. E.</given-names>
+		        </name>
+		        <name>
+		          <surname>Bryan</surname>
+		          <given-names>S. E.</given-names>
+		        </name>
+		        <name>
+		          <surname>Beardsmore</surname>
+		          <given-names>G. R.</given-names>
+		        </name>
+		        <name>
+		          <surname>Purdy</surname>
+		          <given-names>D. J.</given-names>
+		        </name>
+		      </person-group>
+		      <year>2014</year>
+		      <article-title>
+		        Heat-producing crust regulation of subsurface temperatures: A stochastic model re-evaluation of the geothermal potential in southwestern Queensland, Australia
+		      </article-title>
+		      <source>Geothermics</source>
+		      <volume>51</volume>
+		      <fpage>182</fpage>
+		      <lpage>200</lpage>
+		      <pub-id pub-id-type="doi">10.1016/j.geothermics.2014.01.005</pub-id>
+		    </element-citation>
+		  </ref>
+		  <ref id="B26">
+		    <element-citation publication-type="book">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Torres-Rodríguez</surname>
+		          <given-names>V.</given-names>
+		        </name>
+		        <name>
+		          <surname>Venegas-Salgado</surname>
+		          <given-names>S.</given-names>
+		        </name>
+		        <name>
+		          <surname>Herrera-Franco</surname>
+		          <given-names>J.</given-names>
+		        </name>
+		        <name>
+		          <surname>González-Partida</surname>
+		          <given-names>E.</given-names>
+		        </name>
+		      </person-group>
+		      <year>1993</year>
+		      <article-title>Manifestaciones Termales de la República Mexicana</article-title>
+		      <person-group person-group-type="editor">
+		        <name>
+		          <surname>Torres-Rodríguez</surname>
+		          <given-names>V.</given-names>
+		        </name>
+		      </person-group>
+		      <source>Geotermia en México</source>
+		      <publisher-name>UNAM, Coordinación de la Investigación Científica, Programa Universitario de Energía</publisher-name>
+          <publisher-loc>México</publisher-loc>
+		      <fpage>1</fpage>
+		      <lpage>79</lpage>
+		      <isbn>968-36-3444-3</isbn>
+		    </element-citation>
+		  </ref>
+		  <ref id="B27">
+		    <element-citation publication-type="journal">
+		      <person-group person-group-type="author">
+		        <name>
+		          <surname>Webber</surname>
+		          <given-names>K. L.</given-names>
+		        </name>
+		        <name>
+		          <surname>Fernández,</surname>
+		          <given-names>L. A.</given-names>
+		        </name>
+		        <name>
+		          <surname>Simmons</surname>
+		          <given-names>W. B.</given-names>
+		        </name>
+		      </person-group>
+		      <year>1994</year>
+		      <article-title>Geochemistry and mineralogy of the Eocene-Oligocene volcanic sequence, Southern Sierra Madre Occidental, Juchipila, Zacatecas, Mexico</article-title>
+		      <source>Geofísica Internacional</source>
+		      <volume>33(1)</volume>
+		      <issue>1</issue>
+		      <fpage>77</fpage>
+		      <lpage>89</lpage>
+		    </element-citation>
+		  </ref>
+		</ref-list>
+  </back>
+</article>
