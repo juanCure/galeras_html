@@ -1,0 +1,2929 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.1"
+         article-type="research-article"
+         xml:lang="es"
+         specific-use="sps-1.8">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+         <journal-title-group>
+            <journal-title>Terra Digitalis</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">TD</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2594-0694</issn>
+         <publisher>
+            <publisher-name>Terra Digitalis</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+         <article-id pub-id-type="doi">10.22201/igg.25940694.2019.2.56.135</article-id>
+         <article-categories>
+            <subj-group subj-group-type="heading">
+               <subject>Research article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Distribución espacial de los pastos marinos y la vegetación acuática sumergida en los Petenes, Campeche / Spatial distribution of seagrasses and submerged aquatic vegetation of los Petenes, Campeche</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>Spatial distribution of seagrasses and submerged aquatic vegetation of los Petenes, Campeche.</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Pérez Espinosa</surname>
+                  <given-names>Iliana</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Gallegos Martínez</surname>
+                  <given-names>Margarita E.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ressl</surname>
+                  <given-names>Rainer A.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Valderrama Landeros</surname>
+                  <given-names>Luis H.</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Hernández Cárdenas</surname>
+                  <given-names>Gilberto</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1 </label>
+            <institution content-type="original">Laboratorio de Manejo de Recursos Naturales, Universidad Autónoma Metropolitana, Unidad Iztapalapa (UAM-I), San Rafael Atlixco 186, Col. Vicentina, 09340, Ciudad de México. biologa.ilianape@gmail.com</institution>
+            <institution content-type="normalized">Universidad Autónoma Metropolitana</institution>
+            <institution content-type="orgdiv1">Laboratorio de Manejo de Recursos Naturales</institution>
+            <institution content-type="orgname">Universidad Autónoma Metropolitana, Unidad Iztapalapa (UAM-I)</institution>
+            <addr-line>
+               <postal-code>09340</postal-code>
+               <city>Ciudad de México</city>
+            </addr-line>
+            <country country="MX">Mexico</country>
+            <email>biologa.ilianape@gmail.com</email>
+         </aff>
+         <aff id="aff2">
+            <label>2</label>
+            <institution content-type="original">  Laboratorio de Pastos Marinos, UAM-I, Ciudad de México.</institution>
+            <institution content-type="normalized">Universidad Autónoma Metropolitana</institution>
+            <institution content-type="orgdiv1">Laboratorio de Pastos Marinos</institution>
+            <institution content-type="orgname">UAM-I</institution>
+            <addr-line>
+               <city>Ciudad de México</city>
+            </addr-line>
+            <country country="MX">Mexico</country>
+         </aff>
+         <aff id="aff3">
+            <label>3 </label>
+            <institution content-type="original"> Dirección General de Geomática, Comisión Nacional para el Uso y Conocimiento de la Biodiversidad (CONABIO), Av. Liga Periférico-Insurgentes Sur 4903, Parques del Pedregal, Tlalpan, 14010, México, Ciudad de México. </institution>
+            <institution content-type="orgdiv1">Dirección General de Geomática</institution>
+            <institution content-type="orgname">Comisión Nacional para el Uso y Conocimiento de la Biodiversidad (CONABIO)</institution>
+            <addr-line>
+               <postal-code>14010</postal-code>
+               <city>Ciudad de México</city>
+            </addr-line>
+            <country country="MX">México</country>
+         </aff>
+         <pub-date pub-type="epub">
+            <day>31</day>
+            <month>10</month>
+            <!-- <season>Jul-Oct</season> -->
+            <year>2019</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue>2</issue>
+         <fpage>1</fpage>
+         <lpage>37</lpage>
+         <history>
+            <date date-type="received">
+               <day>24</day>
+               <month>02</month>
+               <year>2019</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>01</day>
+               <month>05</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>15</day>
+               <month>08</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>&#169; 2019, Iliana Pérez Espinosa, Margarita E. Gallegos Martínez, Rainer A. Ressl &amp; Luis H. Valderrama Landeros. Published by Terra Digitalis.
+            </copyright-statement>
+            <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+               <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+            </license>
+         </permissions>
+         <abstract>
+          <sec>
+            <title>Resumen</title>
+            <p>Los pastos marinos y la vegetación acuática sumergida (VAS) proporcionan múltiples servicios ecológicos. Recientemente, han tenido especial atención por la capacidad de secuestrar carbono atmosférico y almacenarlo en sus raíces y rizomas en el suelo, hecho de relevancia para la mitigación del cambio climático. A la fecha, la cartografía sobre la extensión y composición florística de los pastos marinos y la VAS en México es escasa. En este contexto, el objetivo de esta investigación fue elaborar el mapa de la extensión y composición florística de los pastos marinos y la VAS, en la zona de la Reserva de las Biosfera de los Petenes (RBLP), Campeche. Dicho mapa representa la base para posteriores estudios que permitan promover el manejo, protección y conservación del área. La clasificación de la composición florística de la RBLP, se llevó a cabo utilizando percepción remota hidroacústica, mediante 38 transectos perpendiculares a la costa de hasta 21 km, y 10 transectos paralelos de hasta 60 km, elaborados del 2011 al 2017; además de una imagen satelital Sentinel 2A del 29 de marzo del 2017. Como resultado, se establecieron 5 clases de pastos marinos y VAS que ocupan 1,512 km<sup>2</sup> de superficie y corresponden al 83% de la RBLP. La escala del mapeo de VAS es 1:100,000, la fiabilidad del 78% y el coeficiente Kappa de 71%. La metodología aplicada representa una exploración valiosa en la determinación de la distribución de pastos marinos y la VAS, en zonas someras del Golfo de México, consideradas difíciles de trabajar por la naturaleza de sus aguas, comparativamente más turbias que las del mar caribe. </p>
+            <p><italic>Palabras clave: </italic> Pastos marinos; Vegetación acuática sumergida; macro algas; percepción remota; mapa de la distribución espacial; Reserva de la Biosfera Los Petenes </p>
+          </sec>
+          <sec>
+            <title>Abstract</title>
+            <p>Seagrasses and Submerged aquatic vegetation (SAV) provide multiple ecological services. They have gained special attention due to the ability to sequester significant amounts of atmospheric carbon in roots and rhizomes, making them relevant ecosystems for climate change mitigation. Despite of its importance, to date, the cartography on the extension and floristic composition of seagrasses and SAV in Mexico is very scarce. In this context, the objective of this research was to map the extension and floristic composition of seagrasses and SAV in the Biosphere Reserve of Los Petenes (BRLP), state of Campeche. The resulting map may serve as baseline information for further studies to promote the management, protection and conservation of the area. Between 2011 and 2017, 38 perpendicular to the coast transects and 10 parallel transects, up to 21 km and up to 60 km length, respectively, were sampled applying hydroacoustic remote sensing. In addition, a Sentinel 2A satellite image of March 29, 2017 was used in combination with hydroacoustic information to derive 5 main classes of seagrasses and SAV occupying 1,512 km<sup>2</sup>, corresponding to 83% of the BRLP. The scale of the derived SAV map is 1:100,000, with overall map accuracy of 78% and Kappa coefficient of 71%. The methodology applied represents a valuable exploration in determining the distribution of seagrass and SAV in shallow areas of the Gulf of Mexico, considered difficult to survey, because of the nature of its waters, comparatively more turbid than those of the Caribbean Sea.</p>
+            <p><italic>Keywords: </italic> Seagrasses; Submerged aquatic vegetation; macro algae; remote sensing; spatial distribution map;Biosphere Reserve of Los Petenes</p>
+          </sec>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>ABSTRACT</title>
+            <bold> </bold>
+            <p>Seagrasses and Submerged aquatic vegetation (SAV) provide multiple ecological services. They have gained special attention due to the ability to sequester significant amounts of atmospheric carbon in roots and rhizomes, making them relevant ecosystems for climate change mitigation. Despite of its importance, to date, the cartography on the extension and floristic composition of seagrasses and SAV in Mexico is very scarce. In this context, the objective of this research was to map the extension and floristic composition of seagrasses and SAV in the Biosphere Reserve of Los Petenes (BRLP), state of Campeche. The resulting map may serve as baseline information for further studies to promote the management, protection and conservation of the area. Between 2011 and 2017, 38 perpendicular to the coast transects and 10 parallel transects, up to 21 km and up to 60 km length, respectively, were sampled applying hydroacoustic remote sensing. In addition, a Sentinel 2A satellite image of March 29, 2017 was used in combination with hydroacoustic information to derive 5 main classes of seagrasses and SAV occupying 1,512 km<sup>2</sup>, corresponding to 83% of the BRLP. The scale of the derived SAV map is 1:100,000, with overall map accuracy of 78% and Kappa coefficient of 71%. The methodology applied represents a valuable exploration in determining the distribution of seagrass and SAV in shallow areas of the Gulf of Mexico, considered difficult to survey, because of the nature of its waters, comparatively more turbid than those of the Caribbean Sea.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>Pastos marinos</kwd>
+            <kwd>Vegetación acuática sumergida</kwd>
+            <kwd>macro algas</kwd>
+            <kwd>percepción remota</kwd>
+            <kwd>mapa de la distribución espacial</kwd>
+            <kwd>Reserva de la Biosfera Los Petenes</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>Seagrasses</kwd>
+            <kwd>Submerged aquatic vegetation</kwd>
+            <kwd>macro algae</kwd>
+            <kwd>remote sensing</kwd>
+            <kwd>spatial distribution map</kwd>
+            <kwd>Biosphere Reserve of Los Petenes</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="8"/>
+            <table-count count="3"/>
+            <equation-count count="0"/>
+            <ref-count count="42"/>
+            <page-count count="37"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>1. Introducción</title>
+         <p>Los pastos marinos son un grupo único de plantas con flores que se han adaptado a pasar todo su ciclo de vida totalmente sumergidos, ya que han desarrollado adaptaciones morfológicas, fisiológicas y ecológicas únicas (<xref ref-type="bibr" rid="B23">Kuo y den Hartog, 2006</xref>). En las zonas tropicales, los pastos marinos desarrollan poblaciones mono específicas o mixtas (<xref ref-type="bibr" rid="B36">Spalding <italic>et al.</italic>, 2003</xref>). Cuando las poblaciones que forman están mezcladas con otras especies de pastos marinos, así como con la flora de macro algas de la región, se les denomina Vegetación Acuática Sumergida o VAS (<xref ref-type="bibr" rid="B37">Thayer <italic>et al</italic>., 1984</xref>; <xref ref-type="bibr" rid="B42">Zhu <italic>et al</italic>., 2007</xref>). Estas poblaciones comparten o disputan el espacio en donde se desarrollan y suelen tener una coexistencia inseparable. Los pastos marinos y la VAS representan comunidades que son la base de la cadena trófica (<xref ref-type="bibr" rid="B20">Molina-Hernández y van Tussenbroek, 2014</xref>); por lo tanto, proporcionan múltiples servicios ecológicos. Destacan por ser sitios de anidación, alimentación y crianza de múltiples especies de importancia ecológica y comercial (<xref ref-type="bibr" rid="B19">Hemminga y Duarte, 2000</xref>). Adicionalmente, brindan protección a las costas ante la acción de corrientes, tormentas y mareas (<xref ref-type="bibr" rid="B22">Hotaling-Hagan <italic>et al</italic>., 2017</xref>). Asimismo, son eficientes sumideros de carbono que, por su naturaleza marina y dinámica en su componente subterráneo, se denomina carbono azul, el cual almacenan en rizomas y raíces durante décadas (<xref ref-type="bibr" rid="B31">Oreska <italic>et al</italic>., 2017</xref>). Los pastos marinos y la VAS son el foco de atención de muchas investigaciones actuales acerca de la mitigación del cambio climático (<xref ref-type="bibr" rid="B14">Fourqurean <italic>et al</italic>., 2012</xref>).</p>
+         <p>Una de las especies más conspicuas de la VAS es <italic>Thalassia testudinum (Tt), </italic>ya que generalmente persiste debido a sus rizomas, gruesos y fuertes, que penetran más de 20 cm en el suelo (<xref ref-type="bibr" rid="B24">Kilminster <italic>et al</italic>., 2015</xref>). Crece en aguas muy someras de menos de 2 m y hasta los 15 m de profundidad (<xref ref-type="bibr" rid="B40">van Tussenbroek <italic>et al</italic>., 2010</xref>), prefiriendo los suelos fangosos y arenosos (<xref ref-type="bibr" rid="B43">Kennedy <italic>et al</italic>., 2010</xref>). Por lo general, crece cerca de manglares y/o arrecifes de coral e interactúa con estos ecosistemas (<xref ref-type="bibr" rid="B21">Hogarth, 2007</xref>). Otras especies de la VAS, como <italic>Halodule wrightii (Hw) </italic>y<italic> Syringodium filiforme (Sf),</italic> se caracterizan por ser colonizadoras y/o oportunistas (<xref ref-type="bibr" rid="B24">Kilminster <italic>et al</italic>., 2015</xref>). <italic>S. filiforme</italic> presenta características con rangos intermedios de las colonizadoras (<italic>H. wrightii</italic>) y las persistentes de <italic>T. testudinum</italic>. Estas similitudes se observan porque ambas generalmente forman manchones que se interrumpen por zonas desprovistas de vegetación, también llamados manchones transitorios, debido a que no persisten como lo hacen los manchones permanentes de <italic>T. testudinum</italic>. Los manchones pueden pasar de transitorios a permanentes y viceversa, como consecuencia de los cambios que se presentan en el ambiente (e.g. mala calidad del agua), los cuales pueden ser favorables o desfavorables para los rangos de tolerancia de las especies en el medio donde se desarrollan; causando una variación temporal en la composición, abundancia y fenología a diferentes escalas (<xref ref-type="bibr" rid="B24">Kilminster <italic>et al</italic>., 2015</xref>). Lo anterior se encuentra bien documentado en diversos trabajos realizados alrededor del mundo. Por ejemplo, (<xref ref-type="bibr" rid="B18">Hale <italic>et al</italic>. 2004</xref>), analizaron los cambios y pérdidas en las comunidades de pastos marinos de las costas de Big Bend, Florida, entre los años 1974 a 2000, observando que las poblaciones de <italic>T. testudinum </italic>fueron sustituidas en un 16% por las de <italic>S. filiforme </italic>y <italic>H. wrightii</italic>, mientras que las poblaciones de estas últimas especies, ganaron territorio en un 19% y 23%, respectivamente. Las causas parecen incluir los cambios en las condiciones de luz y la presencia de nuevos vertimientos de aguas residuales, como sedimentos y nutrientes adicionales, producto del desarrollo urbano. Por otro lado, el trabajo de (<xref ref-type="bibr" rid="B6">Christiaen et al. 2016</xref>), reporta también el efecto que la calidad del agua tiene en las tasas de cambio de praderas de <italic>Zostera japónica</italic>, <italic>Phyllospadix scouleri </italic>y <italic>Phyllospadix serrulatus, </italic>en diferentes subregiones del Hood Canal, Washington, entre 2003 y 2014. Finalmente, también está documentado que los eventos naturales tales como huracanes y tormentas, modifican la calidad del agua y pueden causar la muerte de la vegetación. </p>
+         <p>Considerando lo anterior, a partir del incidente del derrame petrolero de la plataforma BP, frente a las costas de Luisiana en EUA, en el año 2010; se planteó la necesidad de realizar este proyecto para registrar y cuantificar la extensión de las praderas de pastos marinos y VAS de la RBLP, ya que las primeras estimaciones para el Golfo de México, presentadas por (<xref ref-type="bibr" rid="B10">Espinoza-Avalos, 1996</xref>), contenían información de carácter general.</p>
+         <p>A la par, otros trabajos se dieron a la tarea de conocer el estado de salud de las plantas de la RBLP.  (<xref ref-type="bibr" rid="B16">Gallegos et al. 2019</xref>), por ejemplo, determinó que las condiciones ambientales en la RBLP, favorecen el crecimiento y desarrollo de <italic>T. testudinum, </italic>sanas y sin estrés; de acuerdo con un estudio efectuado para determinar la eficiencia fotosintética. Por otro lado, (<xref ref-type="bibr" rid="B32">Mijangos 2018</xref>), determinó el buen estado de salud de la pradera de la reserva, a partir de las altas tasas de biomasa, densidad, demografía, floración, crecimiento y productividad, que la RBLP presenta, con respecto a otras praderas marinas de la Península de Yucatán y el Caribe Mexicano. Lo anterior se debe, entre otras cosas a que la RBLP, Campeche, está ubicada geográficamente en una zona de menor vulnerabilidad a huracanes con respecto al caribe (<xref ref-type="bibr" rid="B16">Gallegos <italic>et al</italic>., 2019</xref>), además de que se ha observado que las comunidades mono específicas de pasto marino y mixtas de VAS, que muestran un desarrollo continuo, son menos susceptibles a modificarse que aquellas que se encuentran fragmentadas y aisladas (<xref ref-type="bibr" rid="B8">Cole <italic>et al</italic>., 2018</xref>; <xref ref-type="bibr" rid="B30">Silva et al., 2014</xref>). </p>
+         <p>Para el desarrollo de este trabajo, fue importante considerar que, en el Golfo de México y Caribe mexicano, los pastos marinos y la VAS se distribuyen desde la Laguna Madre, en el estado de Tamaulipas (<xref ref-type="bibr" rid="B34">Rahnemoonfar <italic>et al</italic>., 2019</xref>), hasta la Reserva de la Biosfera de Sian ka´an, en el mar Caribe (<xref ref-type="bibr" rid="B5">Cerdeira-Estrada <italic>et al</italic>., 2018</xref>), en el estado de Quintana Roo; siendo Campeche el estado con la mayor distribución de VAS en todo el Golfo de México (<xref ref-type="bibr" rid="B16">Gallegos <italic>et al</italic>., 2019</xref>). Debido a la gran extensión que ocupan los pastos marinos en la RBLP, fue indispensable el uso conjunto de herramientas de percepción remota satelital (<xref ref-type="bibr" rid="B27">McKenzie <italic>et al</italic>., 2001</xref>) y de sonares hidroacústicos (Ecosonda Biosonics) (<xref ref-type="bibr" rid="B1">Avalos, 2012</xref>). Ambos métodos, junto con verificaciones puntuales en campo mediante buceo, han sido utilizados, para la detección de los fondos marinos y la VAS, en diversos estudios en distintas partes del mundo, como Australia, Estados Unidos de América, España, Francia, India y Turquía (<xref ref-type="bibr" rid="B12">Fornes <italic>et al</italic>., 2006</xref>). </p>
+         <p>En México, estas herramientas combinadas de percepción remota fueron utilizadas para el mapeo de los hábitats bentónicos de Puerto Morelos, en el Estado de Quintana Roo, con imágenes WorldView-2 y una ecosonda SyQwest Bathy 500 DF, para obtener la batimetría del fondo marino (<xref ref-type="bibr" rid="B4">Cerdeira-Estrada <italic>et al</italic>., 2012</xref>). Adicionalmente, (<xref ref-type="bibr" rid="B33">Palafox-Juárez y Liceaga-Correa, 2017</xref>) realizaron el mapeo en aguas someras de la costa de Yucatán con el satélite Landsat ETM+ y video-transectos para identificar los hábitats de pastos marinos y VAS. Esta estrategia para generar cartografía en aguas costeras en México es muy reciente y ha resultado exitosa para obtener la distribución de los pastos marinos y la VAS en Campeche, en donde prácticamente era desconocida su extensión. En esta investigación, elaboramos el mapa de la extensión y composición florística de la VAS, en la zona de la Reserva de la Biosfera de los Petenes (RBLP), Campeche; el cual representa una importante base para posteriores estudios, como la cuantificación de carbono azul. </p>
+      </sec>
+      <sec sec-type="methods">
+         <title>2. Métodos</title>
+        <sec>
+          <title>2.1 Trabajo de campo</title>
+         <p>. La Reserva de la Biosfera los Petenes se ubica entre las coordenadas extremas: (x min, y min) = (90º 49’49.08”, 19º 51’42.12”) y (x max, y max) = (90º 27’6.48”, 20º 38’8.16”). La zona marina abarca una extensión de 1,817.64 km<sup>2</sup>. La estrategia de mapeo consistió en registrar los pastos marinos y la VAS con una ecosonda hidroacústica modelo Biosonics DT-X que incluye un GPS, la cual se instaló en una embarcación de mediana altura de 12 metros de eslora, con motor fuera de borda y capacidad de 60 caballos de fuerza. La ecosonda trabaja a una frecuencia de 430 kHz con 6.4 x 6.4 grados de apertura (<xref ref-type="bibr" rid="B35">Sabol, 2003</xref>). Los intervalos de registro varían de 2 a 5 m, en función de la velocidad con la que avanza la embarcación por las condiciones de oleaje y viento. </p>
+         <p>Se definió una malla de registro en forma de una red regular (<xref ref-type="bibr" rid="B3">Caloz y Collet, 1997</xref>). Se utilizaron 38 transectos perpendiculares a la costa (PE), de hasta 21 km de distancia de la misma, en donde la vegetación era escasa o ausente. Adicionalmente, se usaron 10 transectos paralelos (PA) a la costa, con una longitud de hasta 60 km de largo, medidos desde el extremo sur al extremo norte de la reserva; con una distancia entre ellos de 2 a 3 km aproximadamente. Los transectos fueron realizados en distintas fechas, desde el año 2011 al 2017 (<xref ref-type="fig" rid="f1">Figura 1</xref>), cubriendo aproximadamente 1,300 km lineales, lo que representa la extensión de la zona marina de la RBLP. (<xref ref-type="table" rid="t1">Tabla 1</xref>). La señal de la ecosonda no diferencia entre géneros o especies, sólo puntualiza la presencia o ausencia (p/a) de plantas (<xref ref-type="bibr" rid="B11">Fairbanks y Norris, 2004</xref>). Para resolver esta limitante se usó una cámara submarina (SeaViewer) que registraba en forma continua la vegetación, al mismo tiempo que la ecosonda generaba los ecogramas de cobertura, altura de las plantas y profundidad (<xref ref-type="bibr" rid="B28">Norris <italic>et al</italic>., 1997</xref>; <xref ref-type="bibr" rid="B29">Norris <italic>et al</italic>., 2007</xref>). Los videos se sincronizaron con los transectos de la ecosonda y se efectuaron verificaciones con equipo de buceo autónomo cada 3-5 km; cuando no era posible identificar la composición florística a través del video, o bien, cuando el patrón del ecograma mostraba diferencias. Paralelamente, se efectuaron 70 buceos, en los que se realizaron 10 mediciones del porcentaje (%) de cobertura de las especies presentes, en un cuadrante de 0.5m x 0.5m, por el método de Braun-Blanquet; identificando la composición florística (<xref ref-type="bibr" rid="B13">Fourqurean <italic>et al</italic>., 2003</xref>). Estos datos fueron complementados con 73 waypoints adicionales de presencia de las especies, incorporando así una base de datos de 143 puntos, que fueron utilizados para evaluar la exactitud de las clases de pastos marinos y de VAS, detectadas con la imagen satelital Sentinel 2A. </p>
+
+         <!--<p>-->
+            <fig id="f1">
+               <label>Figura 1 / Figure 1</label>
+               <caption>
+                  <p><italic><bold>Figura 1. </bold></italic>Registros de los pastos marinos y la VAS colectados con la ecosonda mediante transectos perpendiculares (PE) y paralelos (PA) a la costa (“red regular”) y elaborados entre los años 2011 al 2017.</p>
+                  <p><italic><bold>Figure 1. </bold></italic>Seagrasses and SAV registries collected using perpendicular (PE) and parallel (PA) transects (“regular grid”) from 2011 to 2017</p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37001.png"/>
+            </fig>
+         <!--</p>-->
+         <p>Con la información hidroacústica también fue posible construir la batimetría del fondo marino y recuperar las alturas de los pastos marinos y VAS de la Reserva de la Biosfera Los Petenes, Campeche, México. Para conseguirlo, se utilizó la herramienta <italic>Geostatistical Analyst de ARCGIS 9.1, </italic>que permite representar el gradiente de la información hidroacústica, referente a la variable profundidad, en la RBLP. Como primer paso, se eligió el Kriging Ordinario como método de interpolación; el cual ha sido ampliamente utilizado en geoestadística para representar variables espaciales, requiriendo datos independientes que permitan la definición de patrones (<xref ref-type="bibr" rid="B26">Maxwell et al., 2009</xref>). A continuación, se obtuvo una superficie (mapa raster), el cual fue categorizado en intervalos equivalentes (cada 0.5 metros). Se determinó la dependencia espacial mediante un semivariograma, el cual describe la continuidad espacial de los datos para estimar valores de los puntos no muestreados (<xref ref-type="bibr" rid="B38">Valley et al., 2005</xref>). También, se eligió un modelo esférico, ya que presentó menor error en las mediciones con el ángulo de tolerancia y amplitud de la banda (<xref ref-type="bibr" rid="B17">Greenstreet et al., 1997</xref>), así como el número de intervalos de distancia (10 <italic>lags</italic>). Asimismo, se utilizó una función polinómica de segundo grado o cuadrática, ya que es la que mejor resultados arroja en superficies que presentan un relieve variado. Se eligió el número de vecinos (10 puntos) a tomar en cuenta en la interpolación; los cuales tuvieron más peso en la asignación del nuevo valor. El mapa fue vectorizado para derivar isolineas que posteriormente fueron reinterpoladas. Con el propósito de “suavizar” la superficie construida, a partir del vector resultante, se construyeron nuevos valores por medio del método TIN (Triangular Interpolation Network), para generar el modelo digital de elevación con intervalos cada 0.5 metros y la misma resolución espacial que la imagen satelital Sentinel 2A (<xref ref-type="fig" rid="f2">Figura 2</xref>, <xref ref-type="fig" rid="f3">3</xref> y <xref ref-type="fig" rid="f4">4</xref>). </p>
+         <p>
+            <fig id="f2">
+               <label>Figura 2 / Figure 2</label>
+               <caption>
+                <p><italic><bold>Figura 2. </bold></italic>Diagrama de flujo con los métodos aplicados para la construcción de la batimetría del fondo marino y las alturas de la planta en la reserva de la biosfera los Petenes, Campeche.</p>
+                <p><italic><bold>Figure 2. </bold></italic>Diagram of the applied methods to obtain bathymetry and the vegetation heights in the BRLP.</p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37002.png"/>
+            </fig>
+         </p>
+         </sec>
+         <sec>
+           <title>2.2 Trabajo de gabinete</title>
+           <p>Se descargó una imagen satelital Sentinel 2A (S-2A), con fecha del 29 de marzo del 2017, del portal <italic>Copernicus </italic>de la Agencia Espacial Europea (ESA). Se utilizaron las 7 primeras bandas de la imagen, aplicando un pre-procesamiento con el procesador Sen2cor, descrito por (<xref ref-type="bibr" rid="B25">Louis <italic>et al</italic>. 2016</xref>). Este pre-procesamiento permite reducir los efectos de la atmósfera y mejorar la identificación de objetos. La imagen fue elegida por ser una de las pocas que estaban disponibles para la zona de estudio, por su calidad radiométrica y por encontrarse libre de nubes. Se definieron áreas de entrenamiento, a partir de una selección aleatoria de 10% de los registros provenientes de los video-transectos y la ecosonda (364,030 registros), distribuidos uniformemente en toda la imagen.</p>
+           <p>
+              <fig id="f3">
+                 <label>Figura 3 / Figure 3</label>
+                 <caption>
+                  <p><italic><bold>Figura 3. </bold></italic>Mapa de batimetría (m) del fondo marino en la RBLP.</p>
+                  <p><italic><bold>Figure 3. </bold></italic>Map of the bathymetry (m) of the BRLP.</p>
+                 </caption>
+                 <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37003.png"/>
+              </fig>
+           </p>
+           <p>Se determinaron las características espectrales de las áreas de entrenamiento y, de acuerdo a ello, se les asignó una clase de pasto marino y/o VAS. Las clases identificadas por medio de reflectancias capturadas por el satélite Sentinel 2A, se decidieron con base en la separabilidad de las firmas espectrales (<xref ref-type="fig" rid="f5">Figura 5</xref>) y en función de la composición florística observada durante los registros.  Las clases resultantes de pastos marinos y VAS son:</p>
+
+           <list list-type="bullet">
+            <list-item><p>Clase 1: <italic>Thalassia testudinum (Tt)</italic></p></list-item>
+            <list-item><p>Clase 2: <italic>Syringodium filiforme (Sf)</italic></p></list-item>
+            <list-item><p>Clase 3:<italic> Tt y macroalgas (MxTtA)</italic></p></list-item>
+            <list-item><p>Clase 4: <italic>Tt </italic>y<italic> Sf </italic>y/o<italic> Halodule wrightii (Hw) y macroalgas (MxPA)</italic></p></list-item>
+            <list-item><p>Clase 5: <italic>Tt y Sf y/o Hw (MxPP)</italic></p></list-item>
+            <list-item><p>Clase 6:<italic> Sin clasificar (S/Clasificar)</italic></p></list-item>
+           </list>
+
+           <sec>
+             <title>2.2.1 Clasificación Supervisada</title>
+             <p>Se realizó una clasificación supervisada (<xref ref-type="fig" rid="f8">Lámina 1</xref>), utilizando la información de campo antes descrita y el <italic>Semi-Automatic clasification plugin</italic> (<xref ref-type="bibr" rid="B9">Congedo, 2016</xref>) del software de acceso libre <italic>QGIS 2.18.15.</italic> Para la clasificación supervisada, se aplicó el algoritmo de máxima probabilidad (<xref ref-type="bibr" rid="B9">Congedo, 2016</xref>). El algoritmo agrupa pixeles de acuerdo a los datos generados en el proceso de entrenamiento, asignándolos a categorías ya definidas, que representan espectralmente las clases de pasto marino y de VAS. Posteriormente, se aplicó un filtro de mayoría, con un área mínima cartografíable de una hectárea, con la finalidad de limpiar la imagen de pixeles clasificados aisladamente, efecto también llamado “sal y pimienta” (<xref ref-type="bibr" rid="B7">Chuvieco, 2002</xref>). </p>
+           </sec>
+           <sec>
+             <title>2.2.2 Análisis estadístico</title>
+             <p>A través de una matriz Bray-Curtis, se estimó la similitud entre clases espectrales, para determinar las clases que mejor se diferencian de las que se confunden entre ellas (<xref ref-type="table" rid="t2">Tabla 2</xref>). Este análisis contempla similitudes en la reflectancia entre clases (<xref ref-type="bibr" rid="B15">Fyfe, 2003</xref>) e identifica aquellas bandas, en la imagen satelital, que mejor representan la diferenciación de la huella espectral de las clases de pastos marinos y VAS. </p>
+           </sec>
+           <sec>
+             <title>2.2.3 Matriz de Confusión</title>
+             <p>Con las clases de pastos marinos y VAS definidas, se generó una matriz de confusión que comprende las verificaciones efectuadas, mediante buceos, en los puntos de muestreo, a lo largo de los transectos (143 puntos), y el producto resultante de la clasificación supervisada (<xref ref-type="table" rid="t3">Tabla 3</xref>). A partir de la matriz de confusión, se estimó la exactitud global del mapa y el grado de exactitud y confusión por clase (<xref ref-type="bibr" rid="B12">Fornes <italic>et al</italic>., 2006</xref>). </p>
+             <p>La fiabilidad de la clasificación digital de pastos marinos y de VAS de la RBLP fue de 78% con +/- 2.96 de intervalo de confianza y con un valor de coeficiente Kappa de 71% (<xref ref-type="table" rid="t3">Tabla 3</xref>). Así, el 29% de la clasificación es incierta y puede ocurrir por cuestiones de casualidad (<xref ref-type="bibr" rid="B7">Chuvieco, 2002</xref>). </p>
+             <p>Se calcularon las superficies correspondientes a cada clase definida como pastos marinos y VAS, en total ocupan el 83% de la reserva mientras que el 17% no fue clasificado por falta de información de campo (<xref ref-type="fig" rid="f4">Figura 4</xref>). Las dos primeras clases muestran las superficies de las especies de pastos marinos, <italic>Thalassia testudinum (Tt) </italic>y <italic>Syringodium filiforme (Sf</italic>). Las superficies mono específicas de estas especies, suman en conjunto 28% del área en la RBLP. La clase 3 es una asociación de VAS mixta de <italic>Tt y </italic>de macroalgas cubriendo 13% del área. La vegetación mixta de <italic>Tt</italic> y/o <italic>Sf</italic> y/o<italic> Halodule wrightii (Hw)</italic> con macroalgas, corresponde al 25% de la superficie cubierta (clase 4). La clase mixta que engloba a todas las especies de pasto marino, cubre 17% del área (clase 5). Por último, un 17% del total del área marina de la RBLP no fue clasificado como vegetación, debido a la calidad de la imagen y carencia de datos (clase 6; <xref ref-type="fig" rid="f6">Figura 6</xref> ; <xref ref-type="table" rid="t4">Tabla 4</xref>).</p>
+             <p>
+                <fig id="f4">
+                   <label>Figura 4 / Figure 4</label>
+                   <caption>
+                    <p><italic><bold>Figura 4. </bold></italic>Mapa de la altura (cm) de los pastos marinos y la vegetación acuática sumergida en la RBLP.</p>
+                    <p><italic><bold>Figure 4. </bold></italic>Map of the heights (cm) of the vegetation of the BRLP.</p>
+                   </caption>
+                   <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37004.png"/>
+                </fig>
+             </p>
+             <p>En el sitio de estudio también se registraron combinaciones de <italic>Tt-Hw,</italic> y manchones mono-específicos de <italic>Hw</italic> en forma muy escasa. Por limitaciones de diferenciación espectral de estas composiciones de pastos marinos, fueron agrupadas en la clase MxPP (Clase 5).</p>
+             <p>
+                <fig id="f5">
+                   <label>Figura 5 / Figure 5</label>
+                   <caption>
+                    <p><italic><bold>Figura 5. </bold></italic>Porcentaje de reflectancia de los promedios de las firmas espectrales de las Clases de pastos marinos y la VAS detectadas con S-2A en las diferentes bandas del espectro electromagnético. Clase 1: <italic>Thalassia testudinum </italic>(<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: Tt y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf </italic>y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP).</p>
+                    <p><italic><bold>Figure 5. </bold></italic>Mean reflectancy percentajes of the spectral signatures of the seagrasses and SAV classes detected by S-2A.</p>
+                   </caption>
+                   <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37005.png"/>
+                </fig>
+             </p>
+             <p>
+                <fig id="f6">
+                   <label>Figura 6 / Figure 6</label>
+                   <caption>
+                    <p><italic><bold>Figura 6. </bold></italic>Superficies calculadas (Km<sup>2</sup>) de las clases de pastos marinos y la VAS en la RBLP</p>
+                    <p><italic><bold>Figure 6. </bold></italic>Surface occupancy (Km<sup>2</sup>) of seagrasses and SAV  in the BRLP.</p>
+                   </caption>
+                   <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37006.png"/>
+                </fig>
+             </p>
+             <p>Finalmente se efectuó un análisis de frecuencias con la información referente a la variable cobertura obtenida con la ecosonda, encontrando que las mayores frecuencias de cobertura están en un rango de 55 a 100%, para todas las clases e identificando que la cobertura es casi continua. No obstante, las clases 1 y 3 mostraron también frecuencias entre 10 y 55%, indicando la presencia de espacios sin vegetación o de arena (<xref ref-type="fig" rid="f7">Figura 7</xref>). </p>
+             <p>
+                <fig id="f7">
+                   <label>
+                      <italic>Figura 7 / Figure 7</italic>
+                   </label>
+                   <caption>
+                    <p><italic><bold>Figura 7. </bold></italic>Porcentaje de cobertura encontrada en cada clase de pastos marinos y la VAS, según frecuencias observadas (F). Clase 1: <italic>Thalassia testudinum</italic> (<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: <italic>Tt</italic> y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP).</p>
+                    <p><italic><bold>Figure 7. </bold></italic>Coverage percentage detected in every class of seagrasses and SAV, according to observed frequencies.</p>
+                   </caption>
+                   <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37007.png"/>
+                </fig>
+             </p>
+           </sec>
+         </sec>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>3. Conclusiones</title>
+         <bold> </bold>
+         <bold> </bold>
+         <bold> </bold>
+         <p>Se obtuvo la cartografía de la distribución espacial de pastos marinos y de la vegetación acuática sumergida (VAS). Se calcularon las superficies ocupadas y coberturas por cada clase. En total, las clases de pasto marino y VAS ocupan 83% de la zona marina de la RBLP, correspondiente a un área de 1,513 km<sup>2</sup> de superficie. </p>
+         <p>Las metodologías aplicadas permitieron generar la clasificación de los pastos marinos y VAS en zonas someras del Golfo de México, consideradas difíciles de mapear, por la naturaleza de sus aguas, comparativamente más turbias que las del mar caribe, y por las grandes extensiones que ocupan espacialmente las distintas especies que la conforman. </p>
+       </sec>
+       <sec>
+         <title>4. Software</title>
+         <p> Se utilizó el software de captura de datos <italic>Visual Adquisition</italic> Vers.1.0, el cual nos muestra en tiempo real un ecograma, que es una representación gráfica del perfil marino y provee información sobre la presencia y ausencia de vegetación. <italic>EcoSAV 1.0</italic> es el software de pos-procesamiento y calcula los parámetros de altura de la planta, cobertura, profundidad al fondo, basados en las características de la señal del eco (<xref ref-type="bibr" rid="B42">Zhu et al., 2007</xref>, <xref ref-type="bibr" rid="B41">Winfield et al., 2007</xref>, <xref ref-type="bibr" rid="B2">Biosonics, 2008</xref>). Para el pre-procesamiento de la imagen satelital Sentinel 2A, se utilizó <italic>SNAP desktop, con el procesador Sen2cor, </italic>diseñado por la ESA. Para la clasificación y la estimación de las áreas de cada clase, se empleó el complemento <italic>Semi-Automatic classification plugin </italic>del software de licencia abierta <italic>QGIS Vers. 2.18.15</italic>. Para el diseño de los mapas se empleó el Software <italic>ArcGis 10.3 </italic>de ESRI.</p>
+       </sec>
+       <sec>
+         <title>Agradecimientos</title>
+         <p>A la maestría en ciencias (Energía y Medio Ambiente) de la Universidad Autónoma Metropolitana Unidad Iztapalapa (UAM-I), la cual pertenece al Padrón Nacional de Posgrados de Calidad del Consejo Nacional de Ciencia y Tecnología (CONACYT), por la beca recibida para el desarrollo de esta tesis.</p>
+         <p>Al Instituto Nacional de Ecología y Cambio Climático (INECC) por el proyecto “Indicadores del estado de las comunidades de Pastos Marinos en la zona costera del Golfo de México susceptible de ser impactada por los hidrocarburos derramados por la Plataforma Horizon operada por BP”. Al proyecto: “Implementación de redes de observaciones oceanográficas (físicas, geoquímicas, ecológicas) para la generación de escenarios ante posibles contingencias relacionadas a la explotación y producción de hidrocarburos en aguas profundas del Golfo de México”, del Consorcio de Investigación del Golfo de México (CIGOM).  Al CONACYT, por su colaboración con el INECC y CIGOM. A la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO) por contibuir en la asesoría y dirección de la tesis de maestría: “Patrones de distribución espacial de la vegetación acuática sumergida en la Reserva de la Biosfera de los Petenes, Campeche México”. Al Laboratorio de Manejo de Recursos Naturales (LABRENA) y al Laboratorio de Pastos Marinos, ambos de la UAM-I, por sus asesorías, préstamo de equipo y apoyo financiero. </p>
+         <p>
+            <fig id="f8">
+               <label>Lámina 1 / Plate 1</label>
+               <caption>
+                <p><italic><bold>Lámina 1. </bold></italic>Mapa de distribución espacial de los pastos marinos y la vegetación acuática sumergida en la RBLP. Clase 1: <italic>Thalassia testudinum </italic>(<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: Tt y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf </italic>y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP).</p>
+                <p><italic><bold>Plate 1. </bold></italic>Map of the spatial distribution of the seagrasses and SAV in the BRLP.</p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37008.jpg"/>
+            </fig>
+         </p>
+         <!-- Definiendo tabla 1 de manera manual -->
+         <table-wrap id="t1" position="float">
+          <label> Tabla 1 / Table 1 </label>
+          <caption>
+            <p><bold>Tabla 1: </bold> Información sobre los transectos perpendiculares (PE) y paralelos (PA) trazados con la ecosonda hidroacústica del 2011 al 2017</p>
+            <p><bold>Table 1: </bold> Perpendicular (PE) and parallel (PA) transects traced using the hydroacoustic sonar from 2011 to 2017</p>
+          </caption>
+          <table frame="box" rules="all" border="1">
+            <thead>
+              <tr>
+                <th colspan="5" align="center">Información referente a la colecta con la ecosonda hidroacústica</th>
+                <th colspan="4" align="center">Coordenadas geográficas de los transectos</th>
+                <th colspan="1" align="center">Buceos por transecto</th>
+                <th colspan="3" align="center">Datos para la calibración de la ecosonda</th>
+              </tr>
+            </thead>
+            <tbody>
+              <!-- Segundo header -->
+              <tr>
+                <td colspan="1" align="center">Transectos</td>
+                <td colspan="1" align="center">ID</td>
+                <td colspan="1" align="center">Fecha</td>
+                <td colspan="1" align="center">Longitud de transecto (m)</td>
+                <td colspan="1" align="center">Puntos registrados</td>
+                <td colspan="1" align="center">Latitud inicial</td>
+                <td colspan="1" align="center">Longitud inicial</td>
+                <td colspan="1" align="center">Latitud Final</td>
+                <td colspan="1" align="center">Longitud Final</td>
+                <td colspan="1" align="center">Verificación</td>
+                <td colspan="1" align="center">Tempetatura(ºC)</td>
+                <td colspan="1" align="center">Salinidad (UPS)</td>
+                <td colspan="1" align="center">pH</td>
+              </tr>
+              <!-- Primer renglon de los 70 y algo que estan definidos -->
+              <tr>
+                <td rowspan="38" colspan="1" align="center">Perpendiculares (PE) a la costa de Norte a Sur</td>
+                <td rowspan="1" colspan="1" align="center">T1PE</td>
+                <td rowspan="1" colspan="1" align="center">02/05/2016</td>
+                <td rowspan="1" colspan="1" align="center">15,803</td>
+                <td rowspan="1" colspan="1" align="center">6832</td>
+                <td rowspan="1" colspan="1" align="center">20.512136</td>
+                <td rowspan="1" colspan="1" align="center">-90.497026</td>
+                <td rowspan="1" colspan="1" align="center">20.488335</td>
+                <td rowspan="1" colspan="1" align="center">-90.634994</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">29.71</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.17</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T2PE</td>
+                <td rowspan="1" colspan="1" align="center">22/02/2014</td>
+                <td rowspan="1" colspan="1" align="center">12,750</td>
+                <td rowspan="1" colspan="1" align="center">2836</td>
+                <td rowspan="1" colspan="1" align="center">20.46661</td>
+                <td rowspan="1" colspan="1" align="center">-90.5323</td>
+                <td rowspan="1" colspan="1" align="center">20.46231</td>
+                <td rowspan="1" colspan="1" align="center">-90.64349</td>
+                <td rowspan="1" colspan="1" align="center">2</td>
+                <td rowspan="1" colspan="1" align="center">23.3</td>
+                <td rowspan="1" colspan="1" align="center">39</td>
+                <td rowspan="1" colspan="1" align="center">8.47</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T2APE</td>
+                <td rowspan="1" colspan="1" align="center">02/05/2016</td>
+                <td rowspan="1" colspan="1" align="center">16,277</td>
+                <td rowspan="1" colspan="1" align="center">8397</td>
+                <td rowspan="1" colspan="1" align="center">20.470522</td>
+                <td rowspan="1" colspan="1" align="center">-90.501389</td>
+                <td rowspan="1" colspan="1" align="center">20.46221</td>
+                <td rowspan="1" colspan="1" align="center">-90.644965</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">29.71</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.17</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T3PE</td>
+                <td rowspan="1" colspan="1" align="center">11/08/2016</td>
+                <td rowspan="1" colspan="1" align="center">19,027</td>
+                <td rowspan="1" colspan="1" align="center">7608</td>
+                <td rowspan="1" colspan="1" align="center">20.433206</td>
+                <td rowspan="1" colspan="1" align="center">-90.498247</td>
+                <td rowspan="1" colspan="1" align="center">20.43016</td>
+                <td rowspan="1" colspan="1" align="center">-90.664644</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">31.67</td>
+                <td rowspan="1" colspan="1" align="center">36.89</td>
+                <td rowspan="1" colspan="1" align="center">8.05</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T4PE</td>
+                <td rowspan="1" colspan="1" align="center">06/09/2011</td>
+                <td rowspan="1" colspan="1" align="center">11,915</td>
+                <td rowspan="1" colspan="1" align="center">2464</td>
+                <td rowspan="1" colspan="1" align="center">20.40008</td>
+                <td rowspan="1" colspan="1" align="center">-90.49052</td>
+                <td rowspan="1" colspan="1" align="center">20.39566</td>
+                <td rowspan="1" colspan="1" align="center">-90.51747</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <!-- El 6 renglón empieza aquí -->
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T4APE</td>
+                <td rowspan="1" colspan="1" align="center">19/04/2016</td>
+                <td rowspan="1" colspan="1" align="center">13,984</td>
+                <td rowspan="1" colspan="1" align="center">7944</td>
+                <td rowspan="1" colspan="1" align="center">20.391372</td>
+                <td rowspan="1" colspan="1" align="center">-90.488901</td>
+                <td rowspan="1" colspan="1" align="center">20.392552</td>
+                <td rowspan="1" colspan="1" align="center">-90.608178</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">27.71</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.2</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T5PE</td>
+                <td rowspan="1" colspan="1" align="center">11/08/2016</td>
+                <td rowspan="1" colspan="1" align="center">19,064</td>
+                <td rowspan="1" colspan="1" align="center">7946</td>
+                <td rowspan="1" colspan="1" align="center">20.3713</td>
+                <td rowspan="1" colspan="1" align="center">-90.486975</td>
+                <td rowspan="1" colspan="1" align="center">20.360537</td>
+                <td rowspan="1" colspan="1" align="center">-90.652232</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">31.67</td>
+                <td rowspan="1" colspan="1" align="center">36.89</td>
+                <td rowspan="1" colspan="1" align="center">8.05</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T6PE</td>
+                <td rowspan="1" colspan="1" align="center">08/04/2013</td>
+                <td rowspan="1" colspan="1" align="center">15,173</td>
+                <td rowspan="1" colspan="1" align="center">3253</td>
+                <td rowspan="1" colspan="1" align="center">20.338687</td>
+                <td rowspan="1" colspan="1" align="center">-90.495658</td>
+                <td rowspan="1" colspan="1" align="center">20.32504</td>
+                <td rowspan="1" colspan="1" align="center">-90.62329</td>
+                <td rowspan="1" colspan="1" align="center">2</td>
+                <td rowspan="1" colspan="1" align="center">25</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.3</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T7PE</td>
+                <td rowspan="1" colspan="1" align="center">27/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">14,673</td>
+                <td rowspan="1" colspan="1" align="center">2981</td>
+                <td rowspan="1" colspan="1" align="center">20.31633</td>
+                <td rowspan="1" colspan="1" align="center">-90.51734</td>
+                <td rowspan="1" colspan="1" align="center">20.31007</td>
+                <td rowspan="1" colspan="1" align="center">-90.64717</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T7APE</td>
+                <td rowspan="1" colspan="1" align="center">12/08/2016</td>
+                <td rowspan="1" colspan="1" align="center">18,141</td>
+                <td rowspan="1" colspan="1" align="center">8015</td>
+                <td rowspan="1" colspan="1" align="center">20.321433</td>
+                <td rowspan="1" colspan="1" align="center">-90.493512</td>
+                <td rowspan="1" colspan="1" align="center">20.310737</td>
+                <td rowspan="1" colspan="1" align="center">-90.651811</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">31.5</td>
+                <td rowspan="1" colspan="1" align="center">36.29</td>
+                <td rowspan="1" colspan="1" align="center">8.03</td>
+              </tr>
+              <!-- Aquí empieza el 11 renglón -->
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T8PE</td>
+                <td rowspan="1" colspan="1" align="center">27/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">17,075</td>
+                <td rowspan="1" colspan="1" align="center">3080</td>
+                <td rowspan="1" colspan="1" align="center">20.30164</td>
+                <td rowspan="1" colspan="1" align="center">-90.48974</td>
+                <td rowspan="1" colspan="1" align="center">20.29053</td>
+                <td rowspan="1" colspan="1" align="center">-90.63843</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T9PE</td>
+                <td rowspan="1" colspan="1" align="center">08/04/2013</td>
+                <td rowspan="1" colspan="1" align="center">17,164</td>
+                <td rowspan="1" colspan="1" align="center">4573</td>
+                <td rowspan="1" colspan="1" align="center">20.28273</td>
+                <td rowspan="1" colspan="1" align="center">-90.49092</td>
+                <td rowspan="1" colspan="1" align="center">20.273646</td>
+                <td rowspan="1" colspan="1" align="center">-90.6382</td>
+                <td rowspan="1" colspan="1" align="center">2</td>
+                <td rowspan="1" colspan="1" align="center">25</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.3</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T10PE</td>
+                <td rowspan="1" colspan="1" align="center">28/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">17,600</td>
+                <td rowspan="1" colspan="1" align="center">3488</td>
+                <td rowspan="1" colspan="1" align="center">20.2627</td>
+                <td rowspan="1" colspan="1" align="center">-90.49168</td>
+                <td rowspan="1" colspan="1" align="center">20.25237</td>
+                <td rowspan="1" colspan="1" align="center">-90.64629</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T11PE</td>
+                <td rowspan="1" colspan="1" align="center">09/04/2013</td>
+                <td rowspan="1" colspan="1" align="center">19,749</td>
+                <td rowspan="1" colspan="1" align="center">2915</td>
+                <td rowspan="1" colspan="1" align="center">20.244487</td>
+                <td rowspan="1" colspan="1" align="center">-90.490112</td>
+                <td rowspan="1" colspan="1" align="center">20.24183</td>
+                <td rowspan="1" colspan="1" align="center">-90.66055</td>
+                <td rowspan="1" colspan="1" align="center">3</td>
+                <td rowspan="1" colspan="1" align="center">25.62</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T11APE</td>
+                <td rowspan="1" colspan="1" align="center">12/08/2016</td>
+                <td rowspan="1" colspan="1" align="center">19,335</td>
+                <td rowspan="1" colspan="1" align="center">10100</td>
+                <td rowspan="1" colspan="1" align="center">20.263764</td>
+                <td rowspan="1" colspan="1" align="center">-90.492764</td>
+                <td rowspan="1" colspan="1" align="center">20.254804</td>
+                <td rowspan="1" colspan="1" align="center">-90.654724</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">31.5</td>
+                <td rowspan="1" colspan="1" align="center">36.29</td>
+                <td rowspan="1" colspan="1" align="center">8.03</td>
+              </tr>
+              <!-- Aquí empieza el 16 vo renglon -->
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T12PE</td>
+                <td rowspan="1" colspan="1" align="center">28/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">17,445</td>
+                <td rowspan="1" colspan="1" align="center">3267</td>
+                <td rowspan="1" colspan="1" align="center">20.22644</td>
+                <td rowspan="1" colspan="1" align="center">-90.48744</td>
+                <td rowspan="1" colspan="1" align="center">20.21919</td>
+                <td rowspan="1" colspan="1" align="center">-90.64078</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T13PE</td>
+                <td rowspan="1" colspan="1" align="center">10/04/2013</td>
+                <td rowspan="1" colspan="1" align="center">20,484</td>
+                <td rowspan="1" colspan="1" align="center">5186</td>
+                <td rowspan="1" colspan="1" align="center">20.19504</td>
+                <td rowspan="1" colspan="1" align="center">-90.47951</td>
+                <td rowspan="1" colspan="1" align="center">20.2062</td>
+                <td rowspan="1" colspan="1" align="center">-90.65572</td>
+                <td rowspan="1" colspan="1" align="center">3</td>
+                <td rowspan="1" colspan="1" align="center">25.46</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.21</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T13APE</td>
+                <td rowspan="1" colspan="1" align="center">28/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">13,565</td>
+                <td rowspan="1" colspan="1" align="center">2402</td>
+                <td rowspan="1" colspan="1" align="center">20.18678</td>
+                <td rowspan="1" colspan="1" align="center">-90.48022</td>
+                <td rowspan="1" colspan="1" align="center">20.20714</td>
+                <td rowspan="1" colspan="1" align="center">-90.59697</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T13BPE</td>
+                <td rowspan="1" colspan="1" align="center">21/02/2016</td>
+                <td rowspan="1" colspan="1" align="center">16,503</td>
+                <td rowspan="1" colspan="1" align="center">6873</td>
+                <td rowspan="1" colspan="1" align="center">20.19596</td>
+                <td rowspan="1" colspan="1" align="center">-90.49854</td>
+                <td rowspan="1" colspan="1" align="center">20.2195</td>
+                <td rowspan="1" colspan="1" align="center">-90.64095</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T14PE</td>
+                <td rowspan="1" colspan="1" align="center">10/04/2013</td>
+                <td rowspan="1" colspan="1" align="center">15,997</td>
+                <td rowspan="1" colspan="1" align="center">2983</td>
+                <td rowspan="1" colspan="1" align="center">20.16164</td>
+                <td rowspan="1" colspan="1" align="center">-90.50679</td>
+                <td rowspan="1" colspan="1" align="center">20.16782</td>
+                <td rowspan="1" colspan="1" align="center">-90.64653</td>
+                <td rowspan="1" colspan="1" align="center">2</td>
+                <td rowspan="1" colspan="1" align="center">25.46</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.21</td>
+              </tr>
+              <!-- Aquí empieza el 21 -->
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T15PE</td>
+                <td rowspan="1" colspan="1" align="center">29/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">17,361</td>
+                <td rowspan="1" colspan="1" align="center">3536</td>
+                <td rowspan="1" colspan="1" align="center">20.15366</td>
+                <td rowspan="1" colspan="1" align="center">-90.49516</td>
+                <td rowspan="1" colspan="1" align="center">20.15187</td>
+                <td rowspan="1" colspan="1" align="center">-90.64969</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T15APE</td>
+                <td rowspan="1" colspan="1" align="center">21/02/2016</td>
+                <td rowspan="1" colspan="1" align="center">17,241</td>
+                <td rowspan="1" colspan="1" align="center">3536</td>
+                <td rowspan="1" colspan="1" align="center">20.15364</td>
+                <td rowspan="1" colspan="1" align="center">-90.49487</td>
+                <td rowspan="1" colspan="1" align="center">20.1509</td>
+                <td rowspan="1" colspan="1" align="center">-90.64458</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">22.58</td>
+                <td rowspan="1" colspan="1" align="center">37.98</td>
+                <td rowspan="1" colspan="1" align="center">8.51</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T16PE</td>
+                <td rowspan="1" colspan="1" align="center">11/04/2013</td>
+                <td rowspan="1" colspan="1" align="center">14,734</td>
+                <td rowspan="1" colspan="1" align="center">3801</td>
+                <td rowspan="1" colspan="1" align="center">20.13506</td>
+                <td rowspan="1" colspan="1" align="center">-90.48698</td>
+                <td rowspan="1" colspan="1" align="center">20.13211</td>
+                <td rowspan="1" colspan="1" align="center">-90.61485</td>
+                <td rowspan="1" colspan="1" align="center">5</td>
+                <td rowspan="1" colspan="1" align="center">25.46</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.21</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T17PE</td>
+                <td rowspan="1" colspan="1" align="center">29/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">17,889</td>
+                <td rowspan="1" colspan="1" align="center">3700</td>
+                <td rowspan="1" colspan="1" align="center">20.09841</td>
+                <td rowspan="1" colspan="1" align="center">-90.48122</td>
+                <td rowspan="1" colspan="1" align="center">20.09969</td>
+                <td rowspan="1" colspan="1" align="center">-90.63902</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T17APE</td>
+                <td rowspan="1" colspan="1" align="center">22/02/2016</td>
+                <td rowspan="1" colspan="1" align="center">17,983</td>
+                <td rowspan="1" colspan="1" align="center">6869</td>
+                <td rowspan="1" colspan="1" align="center">20.09999</td>
+                <td rowspan="1" colspan="1" align="center">-90.63931</td>
+                <td rowspan="1" colspan="1" align="center">20.09796</td>
+                <td rowspan="1" colspan="1" align="center">-90.48252</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">22.58</td>
+                <td rowspan="1" colspan="1" align="center">37.98</td>
+                <td rowspan="1" colspan="1" align="center">8.51</td>
+              </tr>
+              <!-- Aquí empieza el 26 -->
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T18PE</td>
+                <td rowspan="1" colspan="1" align="center">05/12/2013</td>
+                <td rowspan="1" colspan="1" align="center">19,100</td>
+                <td rowspan="1" colspan="1" align="center">5405</td>
+                <td rowspan="1" colspan="1" align="center">20.08333</td>
+                <td rowspan="1" colspan="1" align="center">-90.49004</td>
+                <td rowspan="1" colspan="1" align="center">20.09199</td>
+                <td rowspan="1" colspan="1" align="center">-90.6572</td>
+                <td rowspan="1" colspan="1" align="center">4</td>
+                <td rowspan="1" colspan="1" align="center">30.26</td>
+                <td rowspan="1" colspan="1" align="center">33.49</td>
+                <td rowspan="1" colspan="1" align="center">8.06</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T19PE</td>
+                <td rowspan="1" colspan="1" align="center">05/12/2013</td>
+                <td rowspan="1" colspan="1" align="center">16,374</td>
+                <td rowspan="1" colspan="1" align="center">4274</td>
+                <td rowspan="1" colspan="1" align="center">20.06028</td>
+                <td rowspan="1" colspan="1" align="center">-90.5117</td>
+                <td rowspan="1" colspan="1" align="center">20.07032</td>
+                <td rowspan="1" colspan="1" align="center">-90.65504</td>
+                <td rowspan="1" colspan="1" align="center">4</td>
+                <td rowspan="1" colspan="1" align="center">30.26</td>
+                <td rowspan="1" colspan="1" align="center">33.49</td>
+                <td rowspan="1" colspan="1" align="center">8.06</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T20PE</td>
+                <td rowspan="1" colspan="1" align="center">29/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">19,248</td>
+                <td rowspan="1" colspan="1" align="center">3538</td>
+                <td rowspan="1" colspan="1" align="center">20.04477</td>
+                <td rowspan="1" colspan="1" align="center">-90.5117</td>
+                <td rowspan="1" colspan="1" align="center">20.5817</td>
+                <td rowspan="1" colspan="1" align="center">-90.65353</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T20APE</td>
+                <td rowspan="1" colspan="1" align="center">22/02/2016</td>
+                <td rowspan="1" colspan="1" align="center">19,064</td>
+                <td rowspan="1" colspan="1" align="center">5793</td>
+                <td rowspan="1" colspan="1" align="center">20.04465</td>
+                <td rowspan="1" colspan="1" align="center">-90.48421</td>
+                <td rowspan="1" colspan="1" align="center">20.03892</td>
+                <td rowspan="1" colspan="1" align="center">-90.65187</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">22.58</td>
+                <td rowspan="1" colspan="1" align="center">37.98</td>
+                <td rowspan="1" colspan="1" align="center">8.51</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T21PE</td>
+                <td rowspan="1" colspan="1" align="center">06/12/2013</td>
+                <td rowspan="1" colspan="1" align="center">16,961</td>
+                <td rowspan="1" colspan="1" align="center">3292</td>
+                <td rowspan="1" colspan="1" align="center">20.02416</td>
+                <td rowspan="1" colspan="1" align="center">-90.50523</td>
+                <td rowspan="1" colspan="1" align="center">20.01362</td>
+                <td rowspan="1" colspan="1" align="center">-90.65464</td>
+                <td rowspan="1" colspan="1" align="center">2</td>
+                <td rowspan="1" colspan="1" align="center">30.26</td>
+                <td rowspan="1" colspan="1" align="center">33.49</td>
+                <td rowspan="1" colspan="1" align="center">8.06</td>
+              </tr>
+              <!-- Aquí empieza el 31 -->
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T22PE</td>
+                <td rowspan="1" colspan="1" align="center">20/04/2016</td>
+                <td rowspan="1" colspan="1" align="center">21,982</td>
+                <td rowspan="1" colspan="1" align="center">12658</td>
+                <td rowspan="1" colspan="1" align="center">20.002421</td>
+                <td rowspan="1" colspan="1" align="center">-90.463196</td>
+                <td rowspan="1" colspan="1" align="center">20.003444</td>
+                <td rowspan="1" colspan="1" align="center">-90.654545</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">27.7</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.2</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T23PE</td>
+                <td rowspan="1" colspan="1" align="center">29/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">22,529</td>
+                <td rowspan="1" colspan="1" align="center">4007</td>
+                <td rowspan="1" colspan="1" align="center">20.00287</td>
+                <td rowspan="1" colspan="1" align="center">-90.46327</td>
+                <td rowspan="1" colspan="1" align="center">20.0032</td>
+                <td rowspan="1" colspan="1" align="center">-90.65488</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T24PE</td>
+                <td rowspan="1" colspan="1" align="center">20/08/2013</td>
+                <td rowspan="1" colspan="1" align="center">21,275</td>
+                <td rowspan="1" colspan="1" align="center">6843</td>
+                <td rowspan="1" colspan="1" align="center">19.98597</td>
+                <td rowspan="1" colspan="1" align="center">-90.47091</td>
+                <td rowspan="1" colspan="1" align="center">19.98089</td>
+                <td rowspan="1" colspan="1" align="center">-90.6553</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">30.26</td>
+                <td rowspan="1" colspan="1" align="center">33.49</td>
+                <td rowspan="1" colspan="1" align="center">8.06</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T25PE</td>
+                <td rowspan="1" colspan="1" align="center">30/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">21,512</td>
+                <td rowspan="1" colspan="1" align="center">3780</td>
+                <td rowspan="1" colspan="1" align="center">19.4673</td>
+                <td rowspan="1" colspan="1" align="center">-90.4673</td>
+                <td rowspan="1" colspan="1" align="center">19.96947</td>
+                <td rowspan="1" colspan="1" align="center">-90.65668</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T25APE</td>
+                <td rowspan="1" colspan="1" align="center">20/04/2016</td>
+                <td rowspan="1" colspan="1" align="center">22,217</td>
+                <td rowspan="1" colspan="1" align="center">10738</td>
+                <td rowspan="1" colspan="1" align="center">19.971944</td>
+                <td rowspan="1" colspan="1" align="center">-90.462293</td>
+                <td rowspan="1" colspan="1" align="center">19.969395</td>
+                <td rowspan="1" colspan="1" align="center">-90.655442</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">27.7</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.2</td>
+              </tr>
+              <!-- Aquí empieza el 36 -->
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T26PE</td>
+                <td rowspan="1" colspan="1" align="center">30/07/2011</td>
+                <td rowspan="1" colspan="1" align="center">20,260</td>
+                <td rowspan="1" colspan="1" align="center">3516</td>
+                <td rowspan="1" colspan="1" align="center">19.89833</td>
+                <td rowspan="1" colspan="1" align="center">-90.50378</td>
+                <td rowspan="1" colspan="1" align="center">19.91963</td>
+                <td rowspan="1" colspan="1" align="center">-90.66708</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T26APE</td>
+                <td rowspan="1" colspan="1" align="center">18/04/2016</td>
+                <td rowspan="1" colspan="1" align="center">20,406</td>
+                <td rowspan="1" colspan="1" align="center">12264</td>
+                <td rowspan="1" colspan="1" align="center">19.899611</td>
+                <td rowspan="1" colspan="1" align="center">-90.504913</td>
+                <td rowspan="1" colspan="1" align="center">19.919648</td>
+                <td rowspan="1" colspan="1" align="center">-90.665832</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">27.7</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.2</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">T27PE</td>
+                <td rowspan="1" colspan="1" align="center">18/08/2013</td>
+                <td rowspan="1" colspan="1" align="center">12,215</td>
+                <td rowspan="1" colspan="1" align="center">2709</td>
+                <td rowspan="1" colspan="1" align="center">19.85767</td>
+                <td rowspan="1" colspan="1" align="center">-90.52921</td>
+                <td rowspan="1" colspan="1" align="center">19.85581</td>
+                <td rowspan="1" colspan="1" align="center">-90.63583</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">30.33</td>
+                <td rowspan="1" colspan="1" align="center">34.97</td>
+                <td rowspan="1" colspan="1" align="center">8.02</td>
+              </tr>
+              <!-- Aquí comienza el el renglon Paralelos a la costa -->
+              <tr>
+                <td rowspan="28" colspan="1" align="center">Paralelos (PA) a la costa</td>
+                <td rowspan="4" colspan="1" align="center">T1PA</td>
+                <td rowspan="1" colspan="1" align="center">09/12/2013</td>
+                <td rowspan="1" colspan="1" align="center">23,170</td>
+                <td rowspan="1" colspan="1" align="center">4752</td>
+                <td rowspan="1" colspan="1" align="center">19.88098</td>
+                <td rowspan="1" colspan="1" align="center">-90.65842</td>
+                <td rowspan="1" colspan="1" align="center">20.06452</td>
+                <td rowspan="1" colspan="1" align="center">-90.64284</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">27.17</td>
+                <td rowspan="1" colspan="1" align="center">32.84</td>
+                <td rowspan="1" colspan="1" align="center">7.74</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">23/09/2014</td>
+                <td rowspan="1" colspan="1" align="center">28,187</td>
+                <td rowspan="1" colspan="1" align="center">6201</td>
+                <td rowspan="1" colspan="1" align="center">20.28847</td>
+                <td rowspan="1" colspan="1" align="center">-90.65724</td>
+                <td rowspan="1" colspan="1" align="center">20.2885</td>
+                <td rowspan="1" colspan="1" align="center">-90.65725</td>
+                <td rowspan="1" colspan="1" align="center">3</td>
+                <td rowspan="1" colspan="1" align="center">28.76</td>
+                <td rowspan="1" colspan="1" align="center">36.07</td>
+                <td rowspan="1" colspan="1" align="center">8.3</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">11/08/2016</td>
+                <td rowspan="1" colspan="1" align="center">17,300</td>
+                <td rowspan="1" colspan="1" align="center">7620</td>
+                <td rowspan="1" colspan="1" align="center">20.272352</td>
+                <td rowspan="1" colspan="1" align="center">-90.648241</td>
+                <td rowspan="1" colspan="1" align="center">20.480835</td>
+                <td rowspan="1" colspan="1" align="center">-90.637529</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">31.67</td>
+                <td rowspan="1" colspan="1" align="center">36.89</td>
+                <td rowspan="1" colspan="1" align="center">8.05</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">18/03/2017</td>
+                <td rowspan="1" colspan="1" align="center">10,623</td>
+                <td rowspan="1" colspan="1" align="center">5706</td>
+                <td rowspan="1" colspan="1" align="center">20.339109</td>
+                <td rowspan="1" colspan="1" align="center">-90.655178</td>
+                <td rowspan="1" colspan="1" align="center">20.433695</td>
+                <td rowspan="1" colspan="1" align="center">-90.66265</td>
+                <td rowspan="1" colspan="1" align="center">2</td>
+                <td rowspan="1" colspan="1" align="center">25.74</td>
+                <td rowspan="1" colspan="1" align="center">39.34</td>
+                <td rowspan="1" colspan="1" align="center">8</td>
+              </tr>
+              <tr>
+                <td rowspan="2" colspan="1" align="center">T2PA</td>
+                <td rowspan="1" colspan="1" align="center">08/12/2013</td>
+                <td rowspan="1" colspan="1" align="center">15,195</td>
+                <td rowspan="1" colspan="1" align="center">2834</td>
+                <td rowspan="1" colspan="1" align="center">20.02665</td>
+                <td rowspan="1" colspan="1" align="center">-90.61864</td>
+                <td rowspan="1" colspan="1" align="center">19.899971</td>
+                <td rowspan="1" colspan="1" align="center">-90.61558</td>
+                <td rowspan="1" colspan="1" align="center">1</td>
+                <td rowspan="1" colspan="1" align="center">27.17</td>
+                <td rowspan="1" colspan="1" align="center">32.84</td>
+                <td rowspan="1" colspan="1" align="center">7.74</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">24/09/2014</td>
+                <td rowspan="1" colspan="1" align="center">34,032</td>
+                <td rowspan="1" colspan="1" align="center">7878</td>
+                <td rowspan="1" colspan="1" align="center">20.30922</td>
+                <td rowspan="1" colspan="1" align="center">-90.62794</td>
+                <td rowspan="1" colspan="1" align="center">20.1596</td>
+                <td rowspan="1" colspan="1" align="center">-90.62533</td>
+                <td rowspan="1" colspan="1" align="center">3</td>
+                <td rowspan="1" colspan="1" align="center">28.76</td>
+                <td rowspan="1" colspan="1" align="center">36.07</td>
+                <td rowspan="1" colspan="1" align="center">8.3</td>
+              </tr>
+              <tr>
+                <td rowspan="3" colspan="1" align="center">T3PA</td>
+                <td rowspan="1" colspan="1" align="center">09/12/2013</td>
+                <td rowspan="1" colspan="1" align="center">19,910</td>
+                <td rowspan="1" colspan="1" align="center">3866</td>
+                <td rowspan="1" colspan="1" align="center">20.03466</td>
+                <td rowspan="1" colspan="1" align="center">-90.59818</td>
+                <td rowspan="1" colspan="1" align="center">20.03469</td>
+                <td rowspan="1" colspan="1" align="center">-90.59819</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">27.17</td>
+                <td rowspan="1" colspan="1" align="center">32.84</td>
+                <td rowspan="1" colspan="1" align="center">7.74</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">27/06/2014</td>
+                <td rowspan="1" colspan="1" align="center">28,700</td>
+                <td rowspan="1" colspan="1" align="center">6053</td>
+                <td rowspan="1" colspan="1" align="center">20.13698</td>
+                <td rowspan="1" colspan="1" align="center">-90.60323</td>
+                <td rowspan="1" colspan="1" align="center">20.13711</td>
+                <td rowspan="1" colspan="1" align="center">-90.60323</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">25.36</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.49</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">19/03/2017</td>
+                <td rowspan="1" colspan="1" align="center">14,334</td>
+                <td rowspan="1" colspan="1" align="center">6446</td>
+                <td rowspan="1" colspan="1" align="center">20.308377</td>
+                <td rowspan="1" colspan="1" align="center">-90.611476</td>
+                <td rowspan="1" colspan="1" align="center">20.427873</td>
+                <td rowspan="1" colspan="1" align="center">-90.613065</td>
+                <td rowspan="1" colspan="1" align="center">2</td>
+                <td rowspan="1" colspan="1" align="center">23.63</td>
+                <td rowspan="1" colspan="1" align="center">38.64</td>
+                <td rowspan="1" colspan="1" align="center">7.98</td>
+              </tr>
+              <tr>
+                <td rowspan="3" colspan="1" align="center">T4PA</td>
+                <td rowspan="1" colspan="1" align="center">08/12/2013</td>
+                <td rowspan="1" colspan="1" align="center">18,140</td>
+                <td rowspan="1" colspan="1" align="center">3853</td>
+                <td rowspan="1" colspan="1" align="center">19.88174</td>
+                <td rowspan="1" colspan="1" align="center">-90.56833</td>
+                <td rowspan="1" colspan="1" align="center">20.03132</td>
+                <td rowspan="1" colspan="1" align="center">-90.57809</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">27.17</td>
+                <td rowspan="1" colspan="1" align="center">32.84</td>
+                <td rowspan="1" colspan="1" align="center">7.74</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">26/06/2014</td>
+                <td rowspan="1" colspan="1" align="center">31,804</td>
+                <td rowspan="1" colspan="1" align="center">6965</td>
+                <td rowspan="1" colspan="1" align="center">20.03337</td>
+                <td rowspan="1" colspan="1" align="center">-90.57762</td>
+                <td rowspan="1" colspan="1" align="center">20.30942</td>
+                <td rowspan="1" colspan="1" align="center">-90.5846</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">25.36</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.49</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">19/03/2017</td>
+                <td rowspan="1" colspan="1" align="center">18,098</td>
+                <td rowspan="1" colspan="1" align="center">6803</td>
+                <td rowspan="1" colspan="1" align="center">20.458417</td>
+                <td rowspan="1" colspan="1" align="center">-90.588099</td>
+                <td rowspan="1" colspan="1" align="center">20.309004</td>
+                <td rowspan="1" colspan="1" align="center">-90.584394</td>
+                <td rowspan="1" colspan="1" align="center">3</td>
+                <td rowspan="1" colspan="1" align="center">23.63</td>
+                <td rowspan="1" colspan="1" align="center">38.64</td>
+                <td rowspan="1" colspan="1" align="center">7.98</td>
+              </tr>
+              <!-- Aquí empieza el renglón T5PA -->
+              <tr>
+                <td rowspan="5" colspan="1" align="center">T5PA</td>
+                <td rowspan="1" colspan="1" align="center">24/02/2014</td>
+                <td rowspan="4" colspan="1" align="center">50,063</td>
+                <td rowspan="4" colspan="1" align="center">10704</td>
+                <td rowspan="4" colspan="1" align="center">20.04732</td>
+                <td rowspan="4" colspan="1" align="center">-90.54052</td>
+                <td rowspan="4" colspan="1" align="center">20.0466</td>
+                <td rowspan="4" colspan="1" align="center">-90.54061</td>
+                <td rowspan="4" colspan="1" align="center">2</td>
+                <td rowspan="1" colspan="1" align="center">26.15</td>
+                <td rowspan="1" colspan="1" align="center">32</td>
+                <td rowspan="1" colspan="1" align="center">8.76</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">25/02/2014</td>
+                <td rowspan="1" colspan="1" align="center">26.03</td>
+                <td rowspan="1" colspan="1" align="center">36.193</td>
+                <td rowspan="1" colspan="1" align="center">8.6</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">28/06/2014</td>
+                <td rowspan="1" colspan="1" align="center">25.36</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.49</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">22/09/2014</td>
+                <td rowspan="1" colspan="1" align="center">28.76</td>
+                <td rowspan="1" colspan="1" align="center">36.76</td>
+                <td rowspan="1" colspan="1" align="center">8.3</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">20/03/2017</td>
+                <td rowspan="1" colspan="1" align="center">14,195</td>
+                <td rowspan="1" colspan="1" align="center">5508</td>
+                <td rowspan="1" colspan="1" align="center">20.430732</td>
+                <td rowspan="1" colspan="1" align="center">-90.546686</td>
+                <td rowspan="1" colspan="1" align="center">20.313223</td>
+                <td rowspan="1" colspan="1" align="center">-90.537733</td>
+                <td rowspan="1" colspan="1" align="center">2</td>
+                <td rowspan="1" colspan="1" align="center">23.8</td>
+                <td rowspan="1" colspan="1" align="center">38.7</td>
+                <td rowspan="1" colspan="1" align="center">7.84</td>
+              </tr>
+              <!-- Aquí empieza el T6PA -->
+              <tr>
+                <td rowspan="4" colspan="1" align="center">T6PA</td>
+                <td rowspan="1" colspan="1" align="center">07/12/2013</td>
+                <td rowspan="1" colspan="1" align="center">7,147</td>
+                <td rowspan="1" colspan="1" align="center">1569</td>
+                <td rowspan="1" colspan="1" align="center">19.87321</td>
+                <td rowspan="1" colspan="1" align="center">-90.52627</td>
+                <td rowspan="1" colspan="1" align="center">19.86493</td>
+                <td rowspan="1" colspan="1" align="center">-90.52921</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">27.26</td>
+                <td rowspan="1" colspan="1" align="center">23.34</td>
+                <td rowspan="1" colspan="1" align="center">7.96</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">17/05/2014</td>
+                <td rowspan="1" colspan="1" align="center">12,211</td>
+                <td rowspan="1" colspan="1" align="center">8491</td>
+                <td rowspan="1" colspan="1" align="center">19.95553</td>
+                <td rowspan="1" colspan="1" align="center">-90.53586</td>
+                <td rowspan="1" colspan="1" align="center">19.95551</td>
+                <td rowspan="1" colspan="1" align="center">-90.53586</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">25.36</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.49</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">28/06/2014</td>
+                <td rowspan="1" colspan="1" align="center">35,957</td>
+                <td rowspan="1" colspan="1" align="center">7249</td>
+                <td rowspan="1" colspan="1" align="center">20.01919</td>
+                <td rowspan="1" colspan="1" align="center">-90.51914</td>
+                <td rowspan="1" colspan="1" align="center">20.31242</td>
+                <td rowspan="1" colspan="1" align="center">-90.51027</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">25.63</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.29</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">20/03/2017</td>
+                <td rowspan="1" colspan="1" align="center">18,378</td>
+                <td rowspan="1" colspan="1" align="center">7935</td>
+                <td rowspan="1" colspan="1" align="center">20.312435</td>
+                <td rowspan="1" colspan="1" align="center">-90.510685</td>
+                <td rowspan="1" colspan="1" align="center">20.465512</td>
+                <td rowspan="1" colspan="1" align="center">-90.526918</td>
+                <td rowspan="1" colspan="1" align="center">3</td>
+                <td rowspan="1" colspan="1" align="center">23.8</td>
+                <td rowspan="1" colspan="1" align="center">38.7</td>
+                <td rowspan="1" colspan="1" align="center">7.84</td>
+              </tr>
+              <!-- Aquí empieza el T7PA -->
+              <tr>
+                <td rowspan="2" colspan="1" align="center">T7PA</td>
+                <td rowspan="1" colspan="1" align="center">21/02/2014</td>
+                <td rowspan="1" colspan="1" align="center">29,242</td>
+                <td rowspan="1" colspan="1" align="center">5947</td>
+                <td rowspan="1" colspan="1" align="center">20.29488</td>
+                <td rowspan="1" colspan="1" align="center">-90.49164</td>
+                <td rowspan="1" colspan="1" align="center">20.05296</td>
+                <td rowspan="1" colspan="1" align="center">-90.49585</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">25.76</td>
+                <td rowspan="1" colspan="1" align="center">31</td>
+                <td rowspan="1" colspan="1" align="center">8.14</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">24/02/2014</td>
+                <td rowspan="1" colspan="1" align="center">31,627</td>
+                <td rowspan="1" colspan="1" align="center">7761</td>
+                <td rowspan="1" colspan="1" align="center">19.94369</td>
+                <td rowspan="1" colspan="1" align="center">-90.4821</td>
+                <td rowspan="1" colspan="1" align="center">19.94372</td>
+                <td rowspan="1" colspan="1" align="center">-90.48211</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">26.15</td>
+                <td rowspan="1" colspan="1" align="center">32</td>
+                <td rowspan="1" colspan="1" align="center">8.76</td>
+              </tr>
+              <!-- Aquí empieza T8PA -->
+              <tr>
+                <td rowspan="5" colspan="1" align="center">T8PA</td>
+                <td rowspan="1" colspan="1" align="center">20/04/2015</td>
+                <td rowspan="3" colspan="1" align="center">59,862</td>
+                <td rowspan="3" colspan="1" align="center">14911</td>
+                <td rowspan="3" colspan="1" align="center">19.87226</td>
+                <td rowspan="3" colspan="1" align="center">-90.50623</td>
+                <td rowspan="3" colspan="1" align="center">20.30636</td>
+                <td rowspan="3" colspan="1" align="center">-90.49081</td>
+                <td rowspan="3" colspan="1" align="center">10</td>
+                <td rowspan="1" colspan="1" align="center">28.9</td>
+                <td rowspan="1" colspan="1" align="center">36</td>
+                <td rowspan="1" colspan="1" align="center">8.2</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">21/04/2015</td>
+                <td rowspan="1" colspan="1" align="center">27</td>
+                <td rowspan="1" colspan="1" align="center">36</td>
+                <td rowspan="1" colspan="1" align="center">7.9</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">22/04/2015</td>
+                <td rowspan="1" colspan="1" align="center">27</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.3</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">19/04/2016</td>
+                <td rowspan="2" colspan="1" align="center">11,104</td>
+                <td rowspan="2" colspan="1" align="center">5295</td>
+                <td rowspan="2" colspan="1" align="center">20.345659</td>
+                <td rowspan="2" colspan="1" align="center">-90.501378</td>
+                <td rowspan="2" colspan="1" align="center">20.433475</td>
+                <td rowspan="2" colspan="1" align="center">-90.499032</td>
+                <td rowspan="2" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">27.71</td>
+                <td rowspan="1" colspan="1" align="center">40</td>
+                <td rowspan="1" colspan="1" align="center">8.2</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">11/08/2016</td>
+                <td rowspan="1" colspan="1" align="center">31.67</td>
+                <td rowspan="1" colspan="1" align="center">36.89</td>
+                <td rowspan="1" colspan="1" align="center">8.05</td>
+              </tr>
+              <!-- Aquí empieza Trayectos irregulares -->
+              <tr>
+                <td rowspan="2" colspan="1" align="center">Trayectos irregulares</td>
+                <td rowspan="1" colspan="1" align="center">Track1PE</td>
+                <td rowspan="1" colspan="1" align="center">17/08/2013</td>
+                <td rowspan="1" colspan="1" align="center">43,067</td>
+                <td rowspan="1" colspan="1" align="center">9734</td>
+                <td rowspan="1" colspan="1" align="center">19.87298</td>
+                <td rowspan="1" colspan="1" align="center">-90.52611</td>
+                <td rowspan="1" colspan="1" align="center">19.87294</td>
+                <td rowspan="1" colspan="1" align="center">-90.52608</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">30</td>
+                <td rowspan="1" colspan="1" align="center">34.63</td>
+                <td rowspan="1" colspan="1" align="center">8.14</td>
+              </tr>
+              <tr>
+                <td rowspan="1" colspan="1" align="center">Track2PE</td>
+                <td rowspan="1" colspan="1" align="center">07/12/2013</td>
+                <td rowspan="1" colspan="1" align="center">28,764</td>
+                <td rowspan="1" colspan="1" align="center">6547</td>
+                <td rowspan="1" colspan="1" align="center">19.93259</td>
+                <td rowspan="1" colspan="1" align="center">-90.56912</td>
+                <td rowspan="1" colspan="1" align="center">19.93261</td>
+                <td rowspan="1" colspan="1" align="center">-90.56909</td>
+                <td rowspan="1" colspan="1" align="center">-</td>
+                <td rowspan="1" colspan="1" align="center">27.26</td>
+                <td rowspan="1" colspan="1" align="center">23.34</td>
+                <td rowspan="1" colspan="1" align="center">7.96</td>
+              </tr>
+            </tbody>
+          </table>
+         </table-wrap>
+         <p>
+            <table-wrap id="t2">
+               <label>Tabla 2 / Table 2</label>
+               <caption>
+                <p><italic><bold>Tabla 2. </bold></italic>Índice de similitud encontrado entre las respuestas espectrales de las diferentes clases detectadas con S-2A. Clase 1: <italic>Thalassia testudinum </italic>(<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: Tt y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf </italic>y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP).</p>
+                <p><italic><bold>Table 2. </bold></italic>Similarity index between spectral signatures of detected classes using  S-2A.</p>
+               </caption>
+               <table frame="box" rules="all" border="1">
+                 <thead>
+                   <tr>
+                     <th align="center">Clase</th>
+                     <th align="center">Área Km<sup>2</sup></th>
+                     <th align="center">%</th>
+                   </tr>
+                 </thead>
+                 <tbody>
+                   <tr>
+                     <td align="center">1.<i>Tt</i></td>
+                     <td align="center">139</td>
+                     <td align="center">8</td>
+                   </tr>
+                   <tr>
+                     <td align="center">2.<i>Sf</i></td>
+                     <td align="center">360</td>
+                     <td align="center">20</td>
+                   </tr>
+                   <tr>
+                     <td align="center">3.Mx<i>Tt</i>A</td>
+                     <td align="center">243</td>
+                     <td align="center">13</td>
+                   </tr>
+                   <tr>
+                     <td align="center">4. MxPA</td>
+                     <td align="center">464</td>
+                     <td align="center">25</td>
+                   </tr>
+                   <tr>
+                     <td align="center">5. MxPP</td>
+                     <td align="center">308</td>
+                     <td align="center">17</td>
+                   </tr>
+                   <tr>
+                     <td align="center">6. S/Clasificar</td>
+                     <td align="center">313</td>
+                     <td align="center">17</td>
+                   </tr>
+                   <tr>
+                     <td align="center">Total</td>
+                     <td align="center">1,826</td>
+                     <td align="center">100</td>
+                   </tr>
+                 </tbody>
+               </table>
+            </table-wrap>
+         </p>
+         <p>
+            <table-wrap id="t3">
+               <label>Tabla 3 / Table 3</label>
+               <caption>
+                <p><italic><bold>Tabla 3. </bold></italic>Matriz de confusión para evaluar la exactitud de la clasificación derivada de datos de Sentinel-2A. Clase 1: <italic>Thalassia testudinum </italic>(<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: Tt y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf </italic>y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP).</p>
+                <p><italic><bold>Table 3. </bold></italic>Confusion matrix to evaluate the classification.</p>
+               </caption>
+               <table frame="box" rules="all" border="1">
+                 <thead>
+                   <tr>
+                     <th colspan="7" rowspan="1" align="center">Matríz de confusión de Imagen Satelital Sentinel 2A / Confusion Matrix Satelital Image Sentinel 2A</th>
+                     <th colspan="1" rowspan="1" align="center">Total (n)</th>
+                     <th colspan="1" rowspan="1" align="center">Exactitud (%)</th>
+                     <th colspan="1" rowspan="1" align="center">Error Comisión (%)</th>
+                   </tr>
+                 </thead>
+                 <tbody>
+                   <tr>
+                     <td rowspan="6" colspan="1" align="center">Verificaciones in situ/ In situ Verifications</td>
+                     <td rowspan="1" colspan="1" align="center">CLASES</td>
+                     <td rowspan="1" colspan="1" align="center">1.<i>Tt</i></td>
+                     <td rowspan="1" colspan="1" align="center">2.<i>Sf</i></td>
+                     <td rowspan="1" colspan="1" align="center">3.Mx<i>Tt</i>A</td>
+                     <td rowspan="1" colspan="1" align="center">4.MxPA</td>
+                     <td rowspan="1" colspan="1" align="center">5.MxPP</td>
+                     <td></td>
+                     <td></td>
+                     <td></td>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="1" align="center">1.<i>Tt</i></td>
+                     <td rowspan="1" colspan="1" align="center">44</td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">11</td>
+                     <td rowspan="1" colspan="1" align="center">1</td>
+                     <td rowspan="1" colspan="1" align="center">3</td>
+                     <td rowspan="1" colspan="1" align="center">58</td>
+                     <td rowspan="1" colspan="1" align="center">76</td>
+                     <td rowspan="1" colspan="1" align="center">24</td>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="1" align="center">2.<i>Sf</i></td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">15</td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">1</td>
+                     <td rowspan="1" colspan="1" align="center">1</td>
+                     <td rowspan="1" colspan="1" align="center">17</td>
+                     <td rowspan="1" colspan="1" align="center">88</td>
+                     <td rowspan="1" colspan="1" align="center">12</td>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="1" align="center">3.Mx<i>Tt</i>A</td>
+                     <td rowspan="1" colspan="1" align="center">2</td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">21</td>
+                     <td rowspan="1" colspan="1" align="center">4</td>
+                     <td rowspan="1" colspan="1" align="center">1</td>
+                     <td rowspan="1" colspan="1" align="center">28</td>
+                     <td rowspan="1" colspan="1" align="center">75</td>
+                     <td rowspan="1" colspan="1" align="center">25</td>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="1" align="center">4.MxPA</td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">2</td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">22</td>
+                     <td rowspan="1" colspan="1" align="center">4</td>
+                     <td rowspan="1" colspan="1" align="center">28</td>
+                     <td rowspan="1" colspan="1" align="center">79</td>
+                     <td rowspan="1" colspan="1" align="center">21</td>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="1" align="center">5.MxPP</td>
+                     <td rowspan="1" colspan="1" align="center">1</td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">1</td>
+                     <td rowspan="1" colspan="1" align="center">10</td>
+                     <td rowspan="1" colspan="1" align="center">12</td>
+                     <td rowspan="1" colspan="1" align="center">83</td>
+                     <td rowspan="1" colspan="1" align="center">17</td>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="2" align="center">Total general</td>
+                     <td rowspan="1" colspan="1" align="center">47</td>
+                     <td rowspan="1" colspan="1" align="center">17</td>
+                     <td rowspan="1" colspan="1" align="center">32</td>
+                     <td rowspan="1" colspan="1" align="center">29</td>
+                     <td rowspan="1" colspan="1" align="center">18</td>
+                     <td rowspan="1" colspan="1" align="center">143</td>
+                     <td rowspan="1" colspan="1" align="center">Fiabilidad(%)</td>
+                     <td rowspan="1" colspan="1" align="center">78</td>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="2" align="center">Exactitud  (%)</td>
+                     <td rowspan="1" colspan="1" align="center">94</td>
+                     <td rowspan="1" colspan="1" align="center">88</td>
+                     <td rowspan="1" colspan="1" align="center">66</td>
+                     <td rowspan="1" colspan="1" align="center">76</td>
+                     <td rowspan="1" colspan="1" align="center">56</td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">Int. Confianza</td>
+                     <td rowspan="1" colspan="1" align="center">2.96</td>
+                   </tr>
+                   <tr>
+                     <td rowspan="1" colspan="2" align="center">Error Omisión(%)</td>
+                     <td rowspan="1" colspan="1" align="center">6</td>
+                     <td rowspan="1" colspan="1" align="center">12</td>
+                     <td rowspan="1" colspan="1" align="center">34</td>
+                     <td rowspan="1" colspan="1" align="center">24</td>
+                     <td rowspan="1" colspan="1" align="center">44</td>
+                     <td rowspan="1" colspan="1" align="center">-</td>
+                     <td rowspan="1" colspan="1" align="center">Kappa(%)</td>
+                     <td rowspan="1" colspan="1" align="center">71</td>
+                   </tr>
+                 </tbody>
+               </table>
+            </table-wrap>
+         </p>
+         <p>
+            <table-wrap id="t4">
+               <label>Tabla 4 / Table 4</label>
+               <caption>
+                <p><italic><bold>Tabla 4. </bold></italic>Área y porcentaje de superficie ocupada por los pastos marinos y la vegetación acuática sumergida. Clase 1: <italic>Thalassia testudinum </italic>(<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: Tt y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf </italic>y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP).</p>
+                <p><italic><bold>Table 4. </bold></italic>Area and percentaje of surface occupancy of seagrasses and SAV.</p>
+               </caption>
+               <table frame="box" rules="all" border="1">
+                 <thead>
+                   <tr>
+                     <th colspan="6" rowspan="1">% Similitud entre clases (Bray-Curtis)/% Similarity between classes (Bray-Curtis)</th>
+                   </tr>
+                 </thead>
+                 <tbody>
+                   <tr>
+                     <td colspan="1" rowspan="1" align="center">Clases/Classes</td>
+                     <td colspan="1" rowspan="1" align="center">1.<i>Tt</i></td>
+                     <td colspan="1" rowspan="1" align="center">2.<i>Sf</i></td>
+                     <td colspan="1" rowspan="1" align="center">3.Mx<i>Tt</i>A</td>
+                     <td colspan="1" rowspan="1" align="center">4.MxPA</td>
+                     <td colspan="1" rowspan="1" align="center">5.MxPP</td>
+                   </tr>
+                   <tr>
+                     <td colspan="1" rowspan="1" align="center">1. <i>Tt</i></td>
+                     <td colspan="1" rowspan="1" align="center">100</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                   </tr>
+                   <tr>
+                     <td colspan="1" rowspan="1" align="center">2. <i>Sf</i></td>
+                     <td colspan="1" rowspan="1" align="center">77.54</td>
+                     <td colspan="1" rowspan="1" align="center">100</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                   </tr>
+                   <tr>
+                     <td colspan="1" rowspan="1" align="center">3. Mx<i>Tt</i>A</td>
+                     <td colspan="1" rowspan="1" align="center">87.57</td>
+                     <td colspan="1" rowspan="1" align="center">88.99</td>
+                     <td colspan="1" rowspan="1" align="center">100</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                   </tr>
+                   <tr>
+                     <td colspan="1" rowspan="1" align="center">4. MxPA</td>
+                     <td colspan="1" rowspan="1" align="center">80.13</td>
+                     <td colspan="1" rowspan="1" align="center">93.54</td>
+                     <td colspan="1" rowspan="1" align="center">92.37</td>
+                     <td colspan="1" rowspan="1" align="center">100</td>
+                     <td colspan="1" rowspan="1" align="center">-</td>
+                   </tr>
+                   <tr>
+                     <td colspan="1" rowspan="1" align="center">5. MxPP</td>
+                     <td colspan="1" rowspan="1" align="center">77.41</td>
+                     <td colspan="1" rowspan="1" align="center">94.31</td>
+                     <td colspan="1" rowspan="1" align="center">85.11</td>
+                     <td colspan="1" rowspan="1" align="center">88</td>
+                     <td colspan="1" rowspan="1" align="center">100</td>
+                   </tr>
+                 </tbody>
+               </table>
+            </table-wrap>
+         </p>
+      </sec>
+      <sec sec-type="supplementary-material">
+         <title>Visualizador</title>
+         <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/ojs3/index.php/terra_digitalis/article/view/56/137"
+           mimetype="application/html">
+           <label>Mapa Interactivo</label>
+            <media mime-subtype="php" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/html/ojs3/index.php/terra_digitalis/article/view/56/137"/>
+          </supplementary-material>
+       </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias</title>
+         <ref id="B1">
+            <mixed-citation>Avalos Piña, K. (2012). Percepción Remota y sus aplicaciones a la evaluación de la calidad del agua. Universidad Nacional Autónoma de México. UNAM Tesis de Maestría. Pp. 120.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Avalos Piña</surname>
+                     <given-names>K.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <source>Tesis de Maestría</source>
+               <publisher-name>Universidad Nacional Autónoma de México. UNAM</publisher-name>
+               <comment content-type="degree">Percepción Remota y sus aplicaciones a la evaluación de la calidad del agua</comment>
+               <fpage>120</fpage>
+               <lpage>120</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>Biosonics Inc. (2008). Guía de uso de EcoSAV Software, Seattle, WA, USA.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>Biosonics Inc</collab>
+               </person-group>
+               <year>2008</year>
+               <source>Guía de uso de EcoSAV Software, Seattle, WA, USA.</source>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>Caloz, R., y Collet, C. (1997). Geographic information systems (GIS) and remote sensing in aquatic botany: methodological aspects. <italic>Aquatic botany</italic> 
+               <italic>58</italic> (3), Pp. 209-228. https://doi.org/10.1016/S0304-3770(97)00036-3</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Caloz</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Collet</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <article-title>Geographic information systems (GIS) and remote sensing in aquatic botany: methodological aspects</article-title>
+               <source>Aquatic botany</source>
+               <volume>58</volume>
+               <issue>3</issue>
+               <fpage>209</fpage>
+               <lpage>228</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0304-3770(97)00036-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>Cerdeira-Estrada, S., Heege, T., Kolb, M., Ohlendorf, S., Uribe, A., Muller, A., Garza, R.; Ressl, R.; Aguirre, R.; Mariño, I.; Silva, R. y Martell, R. (2012). Benthic habitat and bathymetry mapping of shallow waters in Puerto Morelos reefs using remote sensing with a physics based data processing. In <italic>Geoscience and Remote Sensing Symposium (IGARSS), 2012 IEEE International</italic>. Munich, Alemania. Pp. 4383-4386. https://doi.org/10.1109/IGARSS.2012.6350402</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cerdeira-Estrada</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Heege</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kolb</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ohlendorf</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Uribe</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Muller</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Garza</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ressl</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Aguirre</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Mariño</surname>
+                     <given-names>I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Silva</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Martell</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Benthic habitat and bathymetry mapping of shallow waters in Puerto Morelos reefs using remote sensing with a physics based data processing</article-title>
+               <source>In <italic>Geoscience and Remote Sensing Symposium (IGARSS), 2012 IEEE International</italic>. Munich, Alemania</source>
+               <fpage>4383</fpage>
+               <lpage>4386</lpage>
+               <pub-id pub-id-type="doi">10.1109/IGARSS.2012.6350402</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>Cerdeira-Estrada, S., Martínez-Clorio, M.I., Rosique-De La Cruz, L.O., Kolb, M.,  Gonzales-Posada, A.M., Uribe-Martínez, A., Martell-Dubois, R., Cruz-López, M.I., Ressl, R.,  (2018). Hábitats Bentónicos de los Ecosistemas Marinos del Caribe Mexicano: Cabo Catoche - Xcalak. 2018, escala: 1:8000. edición: 2. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. México. <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/biodiv/bidarrecif/covertv2gw">http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/biodiv/bidarrecif/covertv2gw</ext-link>
+               </comment>. Accessed: 9-10-2019</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cerdeira-Estrada</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Martínez-Clorio</surname>
+                     <given-names>M.I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rosique-De La Cruz</surname>
+                     <given-names>L.O.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kolb</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gonzales-Posada</surname>
+                     <given-names>A.M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Uribe-Martínez</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Martell-Dubois</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Cruz-López</surname>
+                     <given-names>M.I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ressl</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. México</source>
+               <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="http://www.conabio.gob.mx/informacion/gis/?vns=gis_root/biodiv/bidarrecif/covertv2gw">Hábitats Bentónicos de los Ecosistemas Marinos del Caribe Mexicano: Cabo Catoche - Xcalak. 2018, escala: 1:8000. edición: 2</ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-10-09">9-10-2019</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>Christiaen, B., Dowty, P., Ferrier, L., Gaeckle, J., Berry, H., Stowe, J., y Sutton, E. (2016). Puget Sound submerged vegetation monitoring program 2014 report. Nearshore Habitat Program, Washington Department of Natural Resources, Aquatic Resources Division, Olympia WA. Pp. 1-46. <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://www.dnr.wa.gov/publications/aqr_nrsh_svmp_report_2014.pdf?xabobc">https://www.dnr.wa.gov/publications/aqr_nrsh_svmp_report_2014.pdf?xabobc</ext-link>
+               </comment>. Accessed: 9-10-2019.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Christiaen</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Dowty</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ferrier</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gaeckle</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Berry</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Stowe</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Sutton</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <source>Washington Department of Natural Resources, Aquatic Resources Division, Olympia WA</source>
+               <fpage>1</fpage>
+               <lpage>46</lpage>
+               <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://www.dnr.wa.gov/publications/aqr_nrsh_svmp_report_2014.pdf?xabobc">Puget Sound submerged vegetation monitoring program 2014 report. Nearshore Habitat Program</ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-10-09">9-10-2019</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>Chuvieco Salinero, E. (2002). Teledetección ambiental: la observación de la tierra desde el espacio. <italic>Ariel Ciencia</italic>. 1ª Edición. Barcelona, España. Pp. 586.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Chuvieco Salinero</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2002</year>
+               <source>Teledetección ambiental: la observación de la tierra desde el espacio. <italic>Ariel Ciencia</italic>. 1ª Edición. Barcelona, España</source>
+               <fpage>586</fpage>
+               <lpage>586</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>Cole, A. M., Durako, M. J., y Hall, M. O. (2018). Multivariate analysis of water quality and benthic macrophyte communities in Florida Bay, USA reveals hurricane effects and susceptibility to seagrass die-off. Frontiers in plant science 9. Pp. 1-16. https://doi.org/10.3389/fpls.2018.00630</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Cole</surname>
+                     <given-names>A. M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Durako</surname>
+                     <given-names>M. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hall</surname>
+                     <given-names>M. O.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Multivariate analysis of water quality and benthic macrophyte communities in Florida Bay, USA reveals hurricane effects and susceptibility to seagrass die-off. Frontiers in plant science</article-title>
+               <fpage>1</fpage>
+               <lpage>16</lpage>
+               <pub-id pub-id-type="doi">10.3389/fpls.2018.00630</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>Congedo, L. (2016). Semi-automatic classification plugin documentation. Release, 4 (0.1), https://doi.org/10.13140/RG.2.2.29474.02242/1</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Congedo</surname>
+                     <given-names>L.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Semi-automatic classification plugin documentation. Release, 4</article-title>
+               <pub-id pub-id-type="doi">10.13140/RG.2.2.29474.02242/1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>Espinoza-Avalos, J. (1996). Distribution of seagrasses in the Yucatan Peninsula, Mexico. <italic>Bulletin of marine science</italic>, 59 (2), Pp. 449-454.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Espinoza-Avalos</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>1996</year>
+               <article-title>Distribution of seagrasses in the Yucatan Peninsula, Mexico</article-title>
+               <source>Bulletin of marine science</source>
+               <volume>59</volume>
+               <issue>2</issue>
+               <fpage>449</fpage>
+               <lpage>454</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>Fairbanks, C., y Norris, J. G. (2004). Whatcom County submerged aquatic vegetation survey methods. Fairbanks Environmental Services. Inc Marine Resources Consultants. <italic>Report National Oceanic and Atmospheric Administration</italic> Pp. 1-9.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fairbanks</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Norris</surname>
+                     <given-names>J. G.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <article-title>Whatcom County submerged aquatic vegetation survey methods. Fairbanks Environmental Services. Inc Marine Resources Consultants. <italic>Report National Oceanic and Atmospheric Administration</italic>
+               </article-title>
+               <fpage>1</fpage>
+               <lpage>9</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>Fornes, A., Basterretxea, G., Orfila, A., Jordi, A., Alvarez, A., y Tintore, J. (2006). Mapping <italic>Posidonia oceanica</italic> from IKONOS. ISPRS <italic>Journal of Photogrammetry and Remote Sensing</italic>, 60 (5), Pp. 315-322. https://doi.org/10.1016/j.isprsjprs.2006.04.002</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fornes</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Basterretxea</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Orfila</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Jordi</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Alvarez</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tintore</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>Mapping Posidonia oceanica from IKONOS</article-title>
+               <source>ISPRS <italic>Journal of Photogrammetry and Remote Sensing</italic>
+               </source>
+               <volume>60</volume>
+               <issue>5</issue>
+               <fpage>315</fpage>
+               <lpage>322</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.isprsjprs.2006.04.002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>Fourqurean, J. W., Boyer, J. N., Durako, M. J., Hefty, L. N., y Peterson, B. J. (2003). Forecasting responses of seagrass distributions to changing water quality using monitoring data. <italic>Ecological Applications</italic>, 13 (2), Pp. 474-489. https://doi.org/10.1890/1051-0761(2003)013[0474:FROSDT]2.0.CO;2</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fourqurean</surname>
+                     <given-names>J. W.</given-names>
+                  </name>
+                  <name>
+                     <surname>Boyer</surname>
+                     <given-names>J. N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Durako</surname>
+                     <given-names>M. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hefty</surname>
+                     <given-names>L. N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Peterson</surname>
+                     <given-names>B. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>Forecasting responses of seagrass distributions to changing water quality using monitoring data</article-title>
+               <source>Ecological Applications</source>
+               <volume>13</volume>
+               <issue>2</issue>
+               <fpage>474</fpage>
+               <lpage>489</lpage>
+               <pub-id pub-id-type="doi">10.1890/1051-0761(2003)013[0474:FROSDT]2.0.CO;2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>Fourqurean, J. W., Duarte, C. M., Kennedy, H., Marbá, N., Holmer, M., Mateo, M. A., Apostolaki, E. T., Kendrick, G.A., Krause-Jensen, D. y Serrano, O. (2012). Seagrass ecosystems as a globally significant carbon stock. <italic>Nature geoscience</italic>, 5 (7), Pp. 505.  https://doi.org/10.1038/ngeo1477</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fourqurean</surname>
+                     <given-names>J. W.</given-names>
+                  </name>
+                  <name>
+                     <surname>Duarte</surname>
+                     <given-names>C. M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kennedy</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Marbá</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Holmer</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Mateo</surname>
+                     <given-names>M. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Apostolaki</surname>
+                     <given-names>E. T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kendrick</surname>
+                     <given-names>G.A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Krause-Jensen</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Serrano</surname>
+                     <given-names>O.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Seagrass ecosystems as a globally significant carbon stock</article-title>
+               <source>Nature geoscience</source>
+               <volume>5</volume>
+               <issue>7</issue>
+               <fpage>505</fpage>
+               <lpage>505</lpage>
+               <pub-id pub-id-type="doi">10.1038/ngeo1477</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>Fyfe, S. K. (2003). Spatial and temporal variation in spectral reflectance: Are seagrass species spectrally distinct? <italic>Limnology and Oceanography</italic>, 48, Pp. 464-479. https://doi.org/10.4319/lo.2003.48.1_part_2.0464</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Fyfe</surname>
+                     <given-names>S. K.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>Spatial and temporal variation in spectral reflectance: Are seagrass species spectrally distinct?</article-title>
+               <source>Limnology and Oceanography</source>
+               <volume>48</volume>
+               <fpage>464</fpage>
+               <lpage>479</lpage>
+               <pub-id pub-id-type="doi">10.4319/lo.2003.48.1_part_2.0464</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>Gallegos, M.E., Moro-Chao, I., Hernández, G., Valdez, F., Pérez., I., Mijangos, I., Márquez, G., Hernández, E. y Avelino, G. (2019). Estado de salud, conservación y vulnerabilidad de los ecosistemas de pastos marinos del litoral del Golfo de México. Consorcio de investigación del Golfo de México, Consejo Nacional de Ciencia y Tecnología y Universidad Autónoma Metropolitana. Informe segunda etapa febrero de 2019. Pp. 158.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Gallegos</surname>
+                     <given-names>M.E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Moro-Chao</surname>
+                     <given-names>I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Valdez</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Pérez</surname>
+                     <given-names>I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Mijangos</surname>
+                     <given-names>I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Márquez</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hernández</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Avelino</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>Estado de salud, conservación y vulnerabilidad de los ecosistemas de pastos marinos del litoral del Golfo de México. Consorcio de investigación del Golfo de México, Informe segunda etapa febrero de 2019</article-title>
+               <source>Consejo Nacional de Ciencia y Tecnología y Universidad Autónoma Metropolitana</source>
+               <fpage>158</fpage>
+               <lpage>158</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>Greenstreet, S. P., Tuck, I. D., Grewar, G. N., Armstrong, E., Reid, D. G., y Wright, P. J. (1997). An assessment of the acoustic survey technique, RoxAnn, as a means of mapping seabed habitat. ICES <italic>Journal of Marine Science</italic>, 54(5), 939-959. https://doi.org/10.1006/jmsc.1997.0220</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Greenstreet</surname>
+                     <given-names>S. P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tuck</surname>
+                     <given-names>I. D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Grewar</surname>
+                     <given-names>G. N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Armstrong</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Reid</surname>
+                     <given-names>D. G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wright</surname>
+                     <given-names>P. J.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <article-title>An assessment of the acoustic survey technique, RoxAnn, as a means of mapping seabed habitat</article-title>
+               <source>ICES <italic>Journal of Marine Science</italic>
+               </source>
+               <volume>54</volume>
+               <issue>5</issue>
+               <fpage>939</fpage>
+               <lpage>959</lpage>
+               <pub-id pub-id-type="doi">10.1006/jmsc.1997.0220</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>Hale, J. A., Frazer, T. K., Tomasko, D. A., y Hall, M. O. (2004). Changes in the distribution of seagrass species along Florida's Central Gulf Coast: Iverson and Bittaker revisited. <italic>Estuaries</italic>, 27 (1), Pp. 36. https://doi.org/10.1007/BF02803558</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hale</surname>
+                     <given-names>J. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Frazer</surname>
+                     <given-names>T. K.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tomasko</surname>
+                     <given-names>D. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hall</surname>
+                     <given-names>M. O.</given-names>
+                  </name>
+               </person-group>
+               <year>2004</year>
+               <article-title>Changes in the distribution of seagrass species along Florida's Central Gulf Coast: Iverson and Bittaker revisited</article-title>
+               <source>Estuaries</source>
+               <volume>27</volume>
+               <issue>1</issue>
+               <fpage>36</fpage>
+               <lpage>36</lpage>
+               <pub-id pub-id-type="doi">10.1007/BF02803558</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>Hemminga M.A. y C.M. Duarte. (2000). Seagrass Ecology. Cambridge University Press, New York. Pp. 298. https://doi.org/10.1017/CBO9780511525551</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hemminga</surname>
+                     <given-names>M.A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Duarte</surname>
+                     <given-names>C.M.</given-names>
+                  </name>
+               </person-group>
+               <year>2000</year>
+               <article-title>Seagrass Ecology</article-title>
+               <publisher-name>Cambridge University Press</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <fpage>298</fpage>
+               <lpage>298</lpage>
+               <pub-id pub-id-type="doi">10.1017/CBO9780511525551</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>Molina-Hernández, A. L., y van Tussenbroek, B. I. (2014). Patch dynamics and species shifts in seagrass communities under moderate and high grazing pressure by green sea turtles. <italic>Marine Ecology Progress Series</italic>, 517, 143-157. https://doi.org/10.3354/meps11068</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Molina-Hernández</surname>
+                     <given-names>A. L.</given-names>
+                  </name>
+                  <name>
+                     <surname>van Tussenbroek</surname>
+                     <given-names>B. I.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Patch dynamics and species shifts in seagrass communities under moderate and high grazing pressure by green sea turtles</article-title>
+               <source>Marine Ecology Progress Series</source>
+               <volume>517</volume>
+               <fpage>143</fpage>
+               <lpage>157</lpage>
+               <pub-id pub-id-type="doi">10.3354/meps11068</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>Hogarth, P. (2007). The biology of mangroves and seagrasses. Oxford. New York. Pp. 304.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hogarth</surname>
+                     <given-names>P.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>The biology of mangroves and seagrasses</article-title>
+               <publisher-name>Oxford</publisher-name>
+               <publisher-loc>New York</publisher-loc>
+               <fpage>304</fpage>
+               <lpage>304</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>Hotaling-Hagan, A., Swett, R., Ellis, L. R., y Frazer, T. K. (2017). A spatial model to improve site selection for seagrass restoration in shallow boating environments. <italic>Journal of environmental management</italic>, 186, Pp. 42-54. https://doi.org/10.1016/j.jenvman.2016.10.005</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hotaling-Hagan</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Swett</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ellis</surname>
+                     <given-names>L. R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Frazer</surname>
+                     <given-names>T. K.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>A spatial model to improve site selection for seagrass restoration in shallow boating environments</article-title>
+               <source>Journal of environmental management</source>
+               <volume>186</volume>
+               <fpage>42</fpage>
+               <lpage>54</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jenvman.2016.10.005</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B43">
+            <mixed-citation>Kennedy, H., Beggins, J., Duarte, C. M., Fourqurean, J. W., Holmer, M., Marbà, N., y Middelburg, J. J. (2010). Seagrass sediments as a global carbon sink: Isotopic constraints. Global Biogeochemical Cycles, 24(4).</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kennedy</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Beggins</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Duarte</surname>
+                     <given-names>C. M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fourqurean</surname>
+                     <given-names>J. W.</given-names>
+                  </name>
+                  <name>
+                     <surname>Holmer</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Marbà</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Middelburg</surname>
+                     <given-names>J. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>Seagrass sediments as a global carbon sink: Isotopic constraints</article-title>
+               <source>Global Biogeochemical Cycles</source>
+               <volume>24(4)</volume>
+               <issue>4</issue>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>Kuo, J. y den Hartog, C. (2006). Seagrass Morphology, Anatomy, and Ultrastructure. In: Larkum, A.W.D.; R.J. Orth and C.M. Duarte (Eds.). Seagrasses: Biology, Ecology and Conservation. <italic>Springer</italic>. Pp. 51-87. https://doi.org/10.1007/978-1-4020-2983-7_3</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kuo</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>den Hartog</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>Seagrass Morphology, Anatomy, and Ultrastructure</article-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Larkum</surname>
+                     <given-names>A.W.D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Orth</surname>
+                     <given-names>R.J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Duarte</surname>
+                     <given-names>C.M.</given-names>
+                  </name>
+               </person-group>
+               <source>Seagrasses: Biology, Ecology and Conservation</source>
+               <publisher-name>Springer</publisher-name>
+               <fpage>51</fpage>
+               <lpage>87</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-1-4020-2983-7_3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>Kilminster, K., McMahon, K., Waycott, M., Kendrick, G. A., Scanes, P., McKenzie, L., y Glasby, T. (2015). Unravelling complexity in seagrass systems for management: Australia as a microcosm. <italic>Science of the Total Environment</italic>, 534, Pp. 97-109. https://doi.org/10.1016/j.scitotenv.2015.04.061</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kilminster</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name>
+                     <surname>McMahon</surname>
+                     <given-names>K.</given-names>
+                  </name>
+                  <name>
+                     <surname>Waycott</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kendrick</surname>
+                     <given-names>G. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Scanes</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>McKenzie</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Glasby</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>Unravelling complexity in seagrass systems for management: Australia as a microcosm</article-title>
+               <source>Science of the Total Environment</source>
+               <volume>534</volume>
+               <fpage>97</fpage>
+               <lpage>109</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.scitotenv.2015.04.061</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B25">
+            <mixed-citation>Louis, J., Debaecker, V., Pflug, B., Main-Knorn, M., Bieniarz, J., Mueller-Wilm, U., Cadau, E. y Gascon, F. (2016). Sentinel-2 Sen2Cor: L2A Processor for Users. In <italic>Proceedings Living Planet Symposium 2016</italic> Pp. 1-8. Spacebooks Online. <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://elib.dlr.de/107381/1/LPS2016_sm10_3louis.pdf">https://elib.dlr.de/107381/1/LPS2016_sm10_3louis.pdf</ext-link>
+               </comment>. Accessed: 9-10-2019.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Louis</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Debaecker</surname>
+                     <given-names>V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Pflug</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Main-Knorn</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bieniarz</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Mueller-Wilm</surname>
+                     <given-names>U.</given-names>
+                  </name>
+                  <name>
+                     <surname>Cadau</surname>
+                     <given-names>E.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gascon</surname>
+                     <given-names>F.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Sentinel-2 Sen2Cor: L2A Processor for Users</article-title>
+               <source>Proceedings Living Planet Symposium 2016</source>
+               <fpage>1</fpage>
+               <lpage>8</lpage>
+               <publisher-name>Spacebooks</publisher-name>
+               <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://elib.dlr.de/107381/1/LPS2016_sm10_3louis.pdf">https://elib.dlr.de/107381/1/LPS2016_sm10_3louis.pdf</ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-10-09">9-10-2019</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="B26">
+            <mixed-citation>Maxwell, D. L., Stelzenmüller, V., Eastwood, P. D., y Rogers, S. I. (2009). Modelling the spatial distribution of plaice (<italic>Pleuronectes platessa</italic>), sole (<italic>Solea solea</italic>) and thornback ray (Raja clavata) in UK waters for marine management and planning. <italic>Journal of Sea Research</italic>, <italic>61</italic>(4), 258-267. https://doi.org/10.1016/j.seares.2008.11.008</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Maxwell</surname>
+                     <given-names>D. L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Stelzenmüller</surname>
+                     <given-names>V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Eastwood</surname>
+                     <given-names>P. D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rogers</surname>
+                     <given-names>S. I.</given-names>
+                  </name>
+               </person-group>
+               <year>2009</year>
+               <article-title>Modelling the spatial distribution of plaice (Pleuronectes platessa), sole (Solea solea) and thornback ray (Raja clavata) in UK waters for marine management and planning</article-title>
+               <source>Journal of Sea Research</source>
+               <volume>61</volume>
+               <issue>4</issue>
+               <fpage>258</fpage>
+               <lpage>267</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.seares.2008.11.008</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B27">
+            <mixed-citation>McKenzie, L., Finkbeiner, M. y Kirkman, H. (2001). Methods for mapping seagrass distribution. In: F. Short, R. Coles y C. Short, ed., <italic>Global Seagrass Research Methods</italic>, 1st ed. Amsterdam, The Netherlands. <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://www.elsevier.com/books/global-seagrass-research-methods/short/978-0-444-50891-1">https://www.elsevier.com/books/global-seagrass-research-methods/short/978-0-444-50891-1</ext-link>
+               </comment>. Accessed: 9-10-2019.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>McKenzie</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Finkbeiner</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kirkman</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2001</year>
+               <chapter-title>Methods for mapping seagrass distribution</chapter-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Short</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Coles</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Short</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <source>In: F. Short, R. Coles y C. Short, ed. Global Seagrass Research Methods</source>
+               <publisher-loc>Amsterdam, The Netherlands</publisher-loc>
+               <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://www.elsevier.com/books/global-seagrass-research-methods/short/978-0-444-50891-1">Methods for mapping seagrass distribution</ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-10-09">9-10-2019</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="B28">
+            <mixed-citation>Norris, J. G., Wyllie-Echeverria, S., Mumford, T., Bailey, A., y Turner, T. (1997). Estimating basal area coverage of subtidal seagrass beds using underwater videography. <italic>Aquatic Botany</italic>, 58 (3-4), Pp. 269-287. https://doi.org/10.1016/S0304-3770(97)00040-5</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Norris</surname>
+                     <given-names>J. G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wyllie-Echeverria</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Mumford</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Bailey</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Turner</surname>
+                     <given-names>T.</given-names>
+                  </name>
+               </person-group>
+               <year>1997</year>
+               <article-title>Estimating basal area coverage of subtidal seagrass beds using underwater videography</article-title>
+               <source>Aquatic Botany</source>
+               <volume>58</volume>
+               <issue>3-4</issue>
+               <fpage>269</fpage>
+               <lpage>287</lpage>
+               <pub-id pub-id-type="doi">10.1016/S0304-3770(97)00040-5</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B29">
+            <mixed-citation>Norris, J. G., Fraser, I. E., (2007). Eelgrass Mapping Along the Elwha Nearshore. June and September 2006. <italic>In Proceedings of the 2007 Georgia Basin/Puget Sound Research Conference</italic>. Pp. 10. <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://www.clallamcountymrc.org/media/18562/norris-fraser-2006-eelgrass-mapping-along-the-elwha-nearshore.pdf">https://www.clallamcountymrc.org/media/18562/norris-fraser-2006-eelgrass-mapping-along-the-elwha-nearshore.pdf</ext-link>
+               </comment>. Accessed: 9-10-2019.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Norris</surname>
+                     <given-names>J. G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fraser</surname>
+                     <given-names>I. E.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Eelgrass Mapping Along the Elwha Nearshore</article-title>
+               <source>In Proceedings of the 2007 Georgia Basin/Puget Sound Research Conference</source>
+               <fpage>10</fpage>
+               <lpage>10</lpage>
+               <comment> 
+                  <ext-link ext-link-type="uri"
+                            xlink:href="https://www.clallamcountymrc.org/media/18562/norris-fraser-2006-eelgrass-mapping-along-the-elwha-nearshore.pdf">https://www.clallamcountymrc.org/media/18562/norris-fraser-2006-eelgrass-mapping-along-the-elwha-nearshore.pdf</ext-link>
+               </comment>
+               <date-in-citation content-type="access-date" iso-8601-date="2019-10-09">9-10-2019</date-in-citation>
+            </element-citation>
+         </ref>
+         <ref id="B30">
+            <mixed-citation>Silva, R., Martínez, M. L., Hesp, P. A., Catalan, P., Osorio, A. F., Martell, R., Fossati, M., Miot da Silva, G., Mariño-Tapia, I., Pereira, P., Cienguegos, R., Klein, A. y Govaere, G. (2014). Present and Future Challenges of Coastal Erosion in Latin America. <italic>Journal of Coastal Research</italic>, <italic>71</italic>, Pp. 1-16. https://doi.org/10.2112/SI71-001.1</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Silva</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Martínez</surname>
+                     <given-names>M. L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hesp</surname>
+                     <given-names>P. A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Catalan</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Osorio</surname>
+                     <given-names>A. F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Martell</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fossati</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Miot da Silva</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Mariño-Tapia</surname>
+                     <given-names>I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Pereira</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Cienguegos</surname>
+                     <given-names>R.</given-names>
+                  </name>
+                  <name>
+                     <surname>Klein</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Govaere</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Present and Future Challenges of Coastal Erosion in Latin America</article-title>
+               <source>Journal of Coastal Research</source>
+               <volume>71</volume>
+               <fpage>1</fpage>
+               <lpage>16</lpage>
+               <pub-id pub-id-type="doi">10.2112/SI71-001.1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B31">
+            <mixed-citation>Oreska, M. P., McGlathery, K. J., y Porter, J. H. (2017). Seagrass blue carbon spatial patterns at the meadow-scale. <italic>PloS one</italic>, 12 (4), Pp. 1-18. https://doi.org/10.1371/journal.pone.0176630</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Oreska</surname>
+                     <given-names>M. P.</given-names>
+                  </name>
+                  <name>
+                     <surname>McGlathery</surname>
+                     <given-names>K. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Porter</surname>
+                     <given-names>J. H.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Seagrass blue carbon spatial patterns at the meadow-scale</article-title>
+               <source>PloS one</source>
+               <volume>12</volume>
+               <issue>4</issue>
+               <fpage>1</fpage>
+               <lpage>18</lpage>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0176630</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B32">
+            <mixed-citation>Mijangos, H. I. A. (2018). Análisis de la productividad de <italic>Thalassia testudinum</italic> Banks ex Kôenig y su relación con los factores ambientales de la Reserva de la Biósfera los Petenes, Campeche. Tesis de maestría: Universidad Autónoma Metropolitana Iztapala, México. </mixed-citation>
+            <element-citation publication-type="thesis">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mijangos</surname>
+                     <given-names>H. I. A.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Tesis de maestría</source>
+               <comment content-type="degree">Análisis de la productividad de <italic>Thalassia testudinum</italic> Banks ex Kôenig y su relación con los factores ambientales de la Reserva de la Biósfera los Petenes, Campeche</comment>
+               <publisher-name>Universidad Autónoma Metropolitana</publisher-name>
+               <publisher-loc>Iztapala, México</publisher-loc>
+               <publisher-loc>Iztapala, México</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="B33">
+            <mixed-citation>Palafox-Juárez, E. B., y Liceaga-Correa, M. A. (2017). Spatial diversity of a coastal seascape: Characterization, analysis and application for conservation. <italic>Ocean &amp; coastal management</italic>, 136, Pp. 185-195. https://doi.org/10.1016/j.ocecoaman.2016.12.002</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Palafox-Juárez</surname>
+                     <given-names>E. B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Liceaga-Correa</surname>
+                     <given-names>M. A.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Spatial diversity of a coastal seascape: Characterization, analysis and application for conservation</article-title>
+               <source>Ocean &amp; coastal management</source>
+               <volume>136</volume>
+               <fpage>185</fpage>
+               <lpage>195</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ocecoaman.2016.12.002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B34">
+            <mixed-citation>Rahnemoonfar, M., Rahman, A. F., Kline, R. J., &amp; Greene, A. (2019). Automatic Seagrass Disturbance Pattern Identification on Sonar Images. <italic>IEEE Journal of Oceanic Engineering</italic>, 99, Pp. 1-10. https://doi.org/10.1109/JOE.2017.2780707</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rahnemoonfar</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>A. F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kline</surname>
+                     <given-names>R. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Greene</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>Automatic Seagrass Disturbance Pattern Identification on Sonar Images</article-title>
+               <source>IEEE Journal of Oceanic Engineering</source>
+               <volume>99</volume>
+               <fpage>1</fpage>
+               <lpage>10</lpage>
+               <pub-id pub-id-type="doi">10.1109/JOE.2017.2780707</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B35">
+            <mixed-citation>Sabol, B. (2003). Operating instructions manual for the acoustic-based submersed aquatic plant mapping system. <italic>US Army Engineer Research and Development Center</italic>.</mixed-citation>
+            <element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sabol</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>Operating instructions manual for the acoustic-based submersed aquatic plant mapping system</article-title>
+               <source>US Army Engineer Research and Development Center</source>
+            </element-citation>
+         </ref>
+         <ref id="B36">
+            <mixed-citation>Spalding, M.D.,  Taylor, M.,  Ravilious, C.,  Short, F. y Green, E. (2003). Global overview. The distribution and status of seagrasses. In: E.P.,  Green  y F.T. Short (Eds.), World Atlas of Seagrasses. University of California Press. Pp 5-26. </mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Spalding</surname>
+                     <given-names>M.D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Taylor</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ravilious</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Short</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Green</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>Global overview. The distribution and status of seagrasses</article-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Green</surname>
+                     <given-names>E.P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Short</surname>
+                     <given-names>F.T.</given-names>
+                  </name>
+               </person-group>
+               <source>World Atlas of Seagrasses</source>
+               <publisher-name>University of California Press</publisher-name>
+               <fpage>5</fpage>
+               <lpage>26</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B37">
+            <mixed-citation>Thayer, G. W., Kenworthy, W. J., y Fonseca, M. S.   (1984). Ecology of Eelgrass Meadows of the Atlantic Coast: a community profile (No. FWS/OBS-84/02). National Marine Fisheries Service, Beaufort, NC (USA). Beaufort Lab.; Virginia Univ., Charlottesville (USA). <italic>Dept. of Environmental Sciences</italic>.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thayer</surname>
+                     <given-names>G. W.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kenworthy</surname>
+                     <given-names>W. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fonseca</surname>
+                     <given-names>M. S.</given-names>
+                  </name>
+               </person-group>
+               <year>1984</year>
+               <article-title>Ecology of Eelgrass Meadows of the Atlantic Coast: a community profile (No. FWS/OBS-84/02)</article-title>
+               <source>National Marine Fisheries Service, Beaufort, NC (USA). Beaufort Lab.; Virginia Univ., Charlottesville (USA). <italic>Dept. of Environmental Sciences</italic>
+               </source>
+            </element-citation>
+         </ref>
+         <ref id="B38">
+            <mixed-citation>Valley, R. D., Drake, M. T., y Anderson, C. S. (2005). Evaluation of alternative interpolation techniques for the mapping of remotely-sensed submersed vegetation abundance. <italic>Aquatic botany</italic>, <italic>81</italic>(1), 13-25. https://doi.org/10.1016/j.aquabot.2004.09.002</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Valley</surname>
+                     <given-names>R. D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Drake</surname>
+                     <given-names>M. T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Anderson</surname>
+                     <given-names>C. S.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Evaluation of alternative interpolation techniques for the mapping of remotely-sensed submersed vegetation abundance</article-title>
+               <source>Aquatic botany</source>
+               <volume>81</volume>
+               <issue>1</issue>
+               <fpage>13</fpage>
+               <lpage>25</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.aquabot.2004.09.002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B39">
+            <mixed-citation>van Tussenbroek, B.I., Vonk, J.A., Erftemeijer, P.L., Middelburg , J.J. y Zieman, J.C. (2006). The biology of <italic>Thalassia</italic>: Paradigms and recent advances in research. In: Larkum, A.W.D.; R.J. Orth and C.M. Duarte (Eds.). Seagrasses: <italic>Biology, Ecology and Conservation</italic>. Springer. Pp. 409-439. https://doi.org/10.1007/978-1-4020-2983-7_18</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>van Tussenbroek</surname>
+                     <given-names>B.I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vonk</surname>
+                     <given-names>J.A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Erftemeijer</surname>
+                     <given-names>P.L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Middelburg</surname>
+                     <given-names>J.J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zieman</surname>
+                     <given-names>J.C.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>The biology of Thalassia: Paradigms and recent advances in research</article-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Larkum</surname>
+                     <given-names>A.W.D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Orth</surname>
+                     <given-names>R.J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Duarte</surname>
+                     <given-names>C.M.</given-names>
+                  </name>
+               </person-group>
+               <source>Seagrasses: <italic>Biology, Ecology and Conservation</italic>
+               </source>
+               <publisher-name>Springer</publisher-name>
+               <fpage>409</fpage>
+               <lpage>439</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-1-4020-2983-7_18</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B40">
+            <mixed-citation>van Tussenbroek, B.I.; M.G. Barba-Santos; K. Van D. y M. Waycott. (2010). A guide to the tropical seagrasses of the Western Atlantic. UNAM. México. Pp. 75.</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>van Tussenbroek</surname>
+                     <given-names>B.I.</given-names>
+                  </name>
+                  <name>
+                     <surname>Barba-Santos</surname>
+                     <given-names>M.G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Van D</surname>
+                     <given-names>K</given-names>
+                  </name>
+                  <name>
+                     <surname>Waycott</surname>
+                     <given-names>M</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>A guide to the tropical seagrasses of the Western Atlantic</article-title>
+               <publisher-name>UNAM</publisher-name>
+               <publisher-loc>México</publisher-loc>
+               <fpage>75</fpage>
+               <lpage>75</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B41">
+            <mixed-citation>Winfield, I. J., Fletcher, J. M., y James, J. B. (2007). Seasonal variability in the abundance of Arctic charr (<italic>Salvelinus alpinus</italic> (L.) recorded using hydroacoustics in Windermere, UK and its implications for survey design. <italic>Ecology of Freshwater Fish</italic>, 16 (1), Pp. 64-69. https://doi.org/10.1111/j.1600-0633.2006.00170.x</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Winfield</surname>
+                     <given-names>I. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fletcher</surname>
+                     <given-names>J. M.</given-names>
+                  </name>
+                  <name>
+                     <surname>James</surname>
+                     <given-names>J. B.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Seasonal variability in the abundance of Arctic charr (Salvelinus alpinus (L.) recorded using hydroacoustics in Windermere, UK and its implications for survey design</article-title>
+               <source>Ecology of Freshwater Fish</source>
+               <volume>16</volume>
+               <issue>1</issue>
+               <fpage>64</fpage>
+               <lpage>69</lpage>
+               <pub-id pub-id-type="doi">10.1111/j.1600-0633.2006.00170.x</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B42">
+            <mixed-citation>Zhu, B., Dean G. Fitzgerald, Susan B. Hoskins, Lars G. Rudstam, Christine M. Mayer, y Edward L. Mills. (2007). Quantification of Historical Changes of Submerged Aquatic Vegetation Cover in Two Bays of Lake Ontario with Three Complementary Methods. <italic>Journal of Great Lakes Research</italic> 33 (1), Pp. 122-135. https://doi.org/10.3394/0380-1330(2007)33[122:QOHCOS]2.0.CO;2</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zhu</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fitzgerald</surname>
+                     <given-names>Dean G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hoskins</surname>
+                     <given-names>Susan B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rudstam</surname>
+                     <given-names>Lars G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Mayer</surname>
+                     <given-names>Christine M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Mills</surname>
+                     <given-names>Edward L.</given-names>
+                  </name>
+               </person-group>
+               <year>2007</year>
+               <article-title>Quantification of Historical Changes of Submerged Aquatic Vegetation Cover in Two Bays of Lake Ontario with Three Complementary Methods</article-title>
+               <source>Journal of Great Lakes Research</source>
+               <volume>33</volume>
+               <issue>1</issue>
+               <fpage>122</fpage>
+               <lpage>135</lpage>
+               <pub-id pub-id-type="doi">10.3394/0380-1330(2007)33[122:QOHCOS]2.0.CO;2</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>

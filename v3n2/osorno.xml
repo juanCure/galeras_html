@@ -1,0 +1,1595 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article xmlns:xlink="http://www.w3.org/1999/xlink"
+         xmlns:mml="http://www.w3.org/1998/Math/MathML"
+         dtd-version="1.1"
+         article-type="research-article"
+         xml:lang="es"
+         specific-use="sps-1.8">
+   <front>
+      <journal-meta>
+         <journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+         <journal-title-group>
+            <journal-title>Terra Digitalis</journal-title>
+            <abbrev-journal-title abbrev-type="publisher">TD</abbrev-journal-title>
+         </journal-title-group>
+         <issn pub-type="epub">2594-0694</issn>
+         <publisher>
+            <publisher-name>Terra Digitalis</publisher-name>
+         </publisher>
+      </journal-meta>
+      <article-meta>
+        <article-id pub-id-type="doi">10.22201/igg.25940694.2019.2.61.129</article-id>
+         <article-id pub-id-type="publisher-id">00002</article-id>
+         <article-categories>
+            <subj-group subj-group-type="display-channel">
+               <subject>Research article</subject>
+            </subj-group>
+         </article-categories>
+         <title-group>
+            <article-title>Representación cartográfica interactiva, 3D, dinámica y en línea, de patrones espaciotemporales de movilidad. Caso de estudio: el sistema de bicicleta compartida “Ecobici” de la Ciudad de México / 3D online, dynamic, interactive cartography of spatiotemporal mobility patterns. Case study: the “Ecobici” bike sharing system of Mexico City</article-title>
+            <trans-title-group xml:lang="en">
+               <trans-title>3D online, dynamic, interactive cartography of spatiotemporal mobility patterns. Case study: the “Ecobici” bike sharing system of Mexico City</trans-title>
+            </trans-title-group>
+         </title-group>
+         <contrib-group>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Osorno-Covarrubias</surname>
+                  <given-names>Francisco Javier</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff1">
+                  <sup>1</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Suarez-Lastra</surname>
+                  <given-names>Manuel</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff2">
+                  <sup>2</sup>
+               </xref>
+            </contrib>
+            <contrib contrib-type="author">
+               <name>
+                  <surname>Ruiz-Castañeda</surname>
+                  <given-names>Luis Felipe</given-names>
+               </name>
+               <xref ref-type="aff" rid="aff3">
+                  <sup>3</sup>
+               </xref>
+            </contrib>
+         </contrib-group>
+         <aff id="aff1">
+            <label>1</label>
+            <institution content-type="original">Laboratorio de Análisis Geoespacial Instituto de Geografìa, Universidad Nacional Autonoma de Mèxico</institution>
+            <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+            <institution content-type="orgdiv2">Laboratorio de Análisis Geoespacial</institution>
+            <institution content-type="orgdiv1">Instituto de Geografìa</institution>
+            <institution content-type="orgname">Universidad Nacional Autonoma de Mèxico</institution>
+            <country country="MX">Mexico</country>
+         </aff>
+         <aff id="aff2">
+            <label>2</label>
+            <institution content-type="original">Departamento de Geografía Económica: Instituto de Geografía; Universidad Nacional Autonoma de Mèxico </institution>
+            <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+            <institution content-type="orgdiv2">Departamento de Geografía Económica</institution>
+            <institution content-type="orgdiv1">Instituto de Geografía</institution>
+            <institution content-type="orgname">Universidad Nacional Autonoma de Mèxico</institution>
+            <country country="MX">Mexico</country>
+         </aff>
+         <aff id="aff3">
+            <label>3</label>
+            <institution content-type="original">Facultad de Ciencias. Universidad Nacional Autónoma de México, Circuito Exterior, Ciudad Universitaria, Coyoacán, 04510, México.</institution>
+            <institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+            <institution content-type="orgdiv1">Facultad de Ciencias</institution>
+            <institution content-type="orgname">Universidad Nacional Autónoma de México</institution>
+            <addr-line>
+               <city>Circuito Exterior, Ciudad Universitaria, Coyoacán</city>
+               <postal-code>04510</postal-code>
+            </addr-line>
+            <country country="MX">Mexico</country>
+         </aff>
+         <pub-date pub-type="epub">
+            <day>31</day>
+            <month>10</month>
+            <!--<season>Jan-Apr</season>-->
+            <year>2019</year>
+         </pub-date>
+         <volume>3</volume>
+         <issue>2</issue>
+         <fpage>38</fpage>
+         <lpage>77</lpage>
+         <history>
+            <date date-type="received">
+               <day>21</day>
+               <month>06</month>
+               <year>2019</year>
+            </date>
+            <date date-type="rev-recd">
+               <day>15</day>
+               <month>09</month>
+               <year>2019</year>
+            </date>
+            <date date-type="accepted">
+               <day>06</day>
+               <month>10</month>
+               <year>2019</year>
+            </date>
+         </history>
+         <permissions>
+            <copyright-statement>&#169; 2019, Francisco Javier Osorno-Covarrubias, Manuel Suarez-Lastra &amp; Luis Felipe Ruiz-Castañeda. Published by Terra Digitalis.
+            </copyright-statement>
+            <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+               <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+            </license>
+         </permissions>
+         <abstract>
+            <sec>
+              <title>Resumen</title>
+              <p>Dada su complejidad, la representación cartográfica de patrones espaciotemporales de movilidad presenta retos difíciles de resolver y comunicar a través de los métodos tradicionales, limitados por las características del sustrato en papel, inherentemente plano, estático y desconectado de los datos subyacentes. Si bien existe software comercial que ofrece herramientas para elaborar cartografía dinámica en 3 dimensiones, la difusión en línea de los productos generados permanece atada a costosas licencias en el servidor, y por ende están sujetas a una difusión limitada. En este artículo presentamos una metodología innovadora, basada en software libre y de código abierto, orientada a la generación de productos cartográficos que habilitan la exploración tridimensional, dinámica, interactiva y en línea de dichos patrones. Nuestro caso de estudio usa el acervo masivo de datos abiertos del sistema de bicicleta compartida ECOBICI, de la ciudad de México. Como prueba de concepto, se presentan cuatro escenas interactivas. Finalmente se discuten las ventajas y limitaciones de la metodología utilizada.</p>
+              <p><italic><bold>Palabras clave:</bold> </italic> mapas interactivos; cartografía dinámica en línea; escenas 3D; sistemas de bici compartida; movilidad ciclista; software libre; datos abiertos.</p>
+            </sec>
+            <sec>
+              <title>Abstract</title>
+              <p>Given its complexity, the cartographic representation of spatio-temporal mobility patterns presents challenges which are difficult to solve and communicate using traditional methods that are also limited by its paper substrate, inherently flat, static and disconnected from the underlying data. Even though there is proprietary software that offers tools to create dynamic cartography in 3 dimensions, the generated products remain tied to the desktop GIS, disconnected from the World Wide Web and therefore, with limited reach. In this article we present an innovative methodology, based on free and open source software, that enables the online, three-dimensional, dynamic, interactive exploration of these patterns. Our study case uses the massive open data of the shared bike system Ecobici, from Mexico City. As proof of concept, four maps that allow exploring the dynamic behavior of the system, are presented. Finally, we argue about the possibilities and limitations of our methodology.</p>
+              <p><italic><bold>Keywords:</bold></italic> interactive maps; dynamic maps; 3D maps; online cartography; mobility patterns; bicycle; bike sharing systems; Mexico City; Mexico.</p>
+            </sec>
+         </abstract>
+         <trans-abstract xml:lang="en">
+            <title>Abstract</title>
+            <bold> </bold>
+            <p>Given its complexity, the cartographic representation of spatio-temporal mobility patterns presents challenges which are difficult to solve and communicate using traditional methods that are also limited by its paper substrate, inherently flat, static and disconnected from the underlying data. Even though there is proprietary software that offers tools to create dynamic cartography in 3 dimensions, the generated products remain tied to the desktop GIS, disconnected from the World Wide Web and therefore, with limited reach. In this article we present an innovative methodology, based on free and open source software, that enables the online, three-dimensional, dynamic, interactive exploration of these patterns. Our study case uses the massive open data of the shared bike system Ecobici, from Mexico City. As proof of concept, four maps that allow exploring the dynamic behavior of the system, are presented. Finally, we argue about the possibilities and limitations of our methodology.</p>
+         </trans-abstract>
+         <kwd-group xml:lang="es">
+            <title>Palabras clave:</title>
+            <kwd>mapas interactivos</kwd>
+            <kwd>cartografía dinámica en línea</kwd>
+            <kwd>escenas 3D</kwd>
+            <kwd>sistemas de bici compartida</kwd>
+            <kwd>movilidad ciclista</kwd>
+            <kwd>software libre</kwd>
+            <kwd>datos abiertos</kwd>
+         </kwd-group>
+         <kwd-group xml:lang="en">
+            <title>Keywords:</title>
+            <kwd>interactive maps</kwd>
+            <kwd>dynamic maps</kwd>
+            <kwd>3D maps</kwd>
+            <kwd>online cartography</kwd>
+            <kwd>mobility patterns</kwd>
+            <kwd>bicycle</kwd>
+            <kwd>bike sharing systems</kwd>
+            <kwd>Mexico City</kwd>
+            <kwd>Mexico.</kwd>
+         </kwd-group>
+         <counts>
+            <fig-count count="14"/>
+            <table-count count="4"/>
+            <equation-count count="0"/>
+            <ref-count count="28"/>
+            <page-count count="40"/>
+         </counts>
+      </article-meta>
+   </front>
+   <body>
+      <sec sec-type="intro">
+         <title>1. Introducción</title>
+         <p>Existe un volumen creciente de registros de movilidad que provienen de una variedad de fuentes tales como los generados por sensores GPS en teléfonos móviles y patinetas eléctricas, los de arribo y retiro en puntos de anclaje de sistemas de bicicleta compartida o los generados por tarjetas inteligentes en los torniquetes de estaciones de transporte público. Si bien estos flujos de datos están diseñados para satisfacer necesidades operativas específicas de los sistemas que los producen, al ser ofrecidos de manera pública y abierta constituyen una valiosa mina de indicios que pueden ser usados para mejorar la calidad de vida de los ciudadanos a través de decisiones de gestión urbana y políticas basadas en evidencia (<xref ref-type="bibr" rid="B4">Batty, 2013</xref>; <xref ref-type="bibr" rid="B5">Ferreira et al., 2013</xref>). </p>
+         <p>Se puede argumentar que el análisis visual de estos flujos masivos de datos espaciotemporales es pertinente en dos sentidos; en primer lugar, porque la representación visual de datos facilita la comunicación científica y la formulación de preguntas científicas pertinentes como un paso previo para escoger métodos computacionales apropiados y dirigir su trabajo (<xref ref-type="bibr" rid="B15">Ren et al., 2014</xref>). En segundo lugar, porque las técnicas de visualización científica son irremplazables -por lo menos a la fecha, en el estudio de procesos que se desarrollan en el espacio geográfico. La heterogeneidad de propiedades y relaciones que ocurren en dicho espacio, no pueden ser adecuadamente representadas para su uso en procesos enteramente automatizados dado que la extracción de evidencias depende aún de las capacidades de inferencia humana y del conocimiento tácito de las propiedades, relaciones y experiencias asociadas a espacios y lugares concretos (<xref ref-type="bibr" rid="B2">Andrienko &amp; Andrienko, 2013</xref>; <xref ref-type="bibr" rid="B12">Keim et al., 2008</xref>). </p>
+         <p>El mapa -análogo o digital-, sigue siendo la herramienta de elección para la representación y comunicación de fenómenos espaciales. El rol del mapa se expandió con la tecnología SIG habilitando una integración estrecha de los procesos, que van desde la adquisición de los datos, su depuración, análisis, edición en productos cartográficos, hasta su comunicación a través de mapas impresos, o digitales y en línea. </p>
+         <p>En el caso específico de los fenómenos de movilidad, el desarrollo de la cartografía se ha mantenido al paso de la evolución tecnológica, de manera que es común encontrarla en aplicaciones de uso masivo, conectadas en tiempo real a bases de datos gigantescas. Tal es el caso, por ejemplo, de las aplicaciones de navegación vehicular y de transporte como servicio. Estos avances invitan a repensar la comunicación científica de fenómenos de movilidad, trascendiendo del paradigma del mapa bidimensional, estático, al de mapas interactivos, tridimensionales, dinámicos y conectados a fuentes de datos masivas. Existen desarrollos recientes en el ámbito comercial que habilitan este tipo de productos cartográficos (ArcGIS Desktop + ArcScene + ArcGIS Server). Sin embargo, estos productos son de código cerrado y la difusión permanece atada a costosas licencias. </p>
+         <p>Dado el hecho de que los fenómenos de movilidad nos atañen a todos por su impacto en la calidad de vida (<xref ref-type="bibr" rid="B19">Steg &amp; Gifford, 2005</xref>), incluyendo los efectos sobre la salud y sus consecuencias económicas, conviene que estos estudios se puedan difundir en línea para ser consultados y discutidos con amplitud, idealmente por todos los actores involucrados: especialistas, tomadores de decisiones y público en general. </p>
+         <p>De las consideraciones anteriores, con el objeto de guiar nuestro trabajo, derivamos un conjunto de criterios metodológicos y de selección de herramientas a usar y/o desarrollar para la comunicación científica de patrones de movilidad. Así, nos propusimos usar y/o desarrollar métodos y herramientas que:</p>
+         <p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>sean adecuadas para el procesamiento de flujos masivos de datos espaciotemporales,</p>
+               </list-item>
+               <list-item>
+                  <p>habiliten la exploración de la dinámica espaciotemporal de redes de transporte, en sus nodos -por ejemplo, cicloestaciones, estaciones de metro, de Metrobús etc.; y arcos -por ejemplo, líneas de metro, carriles confinados de Metrobús, etcétera,</p>
+               </list-item>
+               <list-item>
+                  <p>faciliten la visualización/comunicación/comprensión, y permitan la exploración dinámica, interactiva, en escenas tridimensionales, de los patrones asociados al transporte,</p>
+               </list-item>
+               <list-item>
+                  <p>para fines de edición cartográfica, puedan integrarse de manera sencilla con un SIG de escritorio,</p>
+               </list-item>
+               <list-item>
+                  <p>por razones de costo, escalabilidad, e interés científico, estén basadas en software libre y de código abierto,</p>
+               </list-item>
+               <list-item>
+                  <p>por razones de economía del esfuerzo, partan de componentes existentes,</p>
+               </list-item>
+               <list-item>
+                  <p>maximicen la capacidad de difusión mediante su operación en línea.</p>
+               </list-item>
+            </list>
+         </p>
+         <p>En este estudio de carácter exploratorio ofrecemos una solución inédita, hasta donde alcanza nuestro conocimiento, que satisface las especificaciones referidas arriba. Esta solución formula un enfoque metodológico que integra los diferentes pasos desde la adquisición de datos de movilidad a partir de “<italic>streams</italic>” públicos masivos, hasta la publicación de escenas interactivas que permiten explorar en línea la dinámica de la red, utilizando herramientas de software libre.</p>
+         <p>El artículo está organizado en cuatro secciones, en la primera exploramos una selección de trabajos relacionados sobre temas de visualización de patrones de datos espaciotemporales y estudios de movilidad ciclista. En la sección 2 presentamos el caso de estudio y la metodología. En la sección 3 presentamos, a modo de prueba de concepto, tres escenas interactivas. En la sección 4 se discuten los resultados, se ofrecen algunas conclusiones y se delinea el trabajo a futuro.</p>
+      </sec>
+      <sec>
+         <title>2. Trabajos relacionados:</title>
+         <sec>
+            <title>2.1. Visualización</title>
+            <p>El tema de la visualización de datos espacio temporales es un tópico de investigación activo y con amplia tradición. Una muestra de ello es el amplio estudio de (<xref ref-type="bibr" rid="B1">Aigner et al., 2011</xref>), quienes realizan una revisión sistemática de 113 técnicas de visualización espacio temporal, categorizándolas de acuerdo con seis criterios referentes al carácter de los datos -marco de referencia, número de variables, el manejo del tiempo -disposición y primitivas temporales, y la naturaleza de la visualización -dinamicidad y dimensionalidad. De este universo de técnicas<sup>1</sup> solo 15 incluyen las características de tener un marco de referencia espacial y tridimensional y solo una, descrita por (<xref ref-type="bibr" rid="B11">Kapler &amp; Wright, 2005</xref>) es dinámica. Esta técnica que se implementa en el sistema Geotime, permite mostrar ítems de datos (por ejemplo, objetos, eventos, transacciones, flujos) en su contexto espacial y temporal. El sistema provee una versión dinámica e interactiva del concepto de cubo-espacio tiempo, en el que un mapa plano ilustra el contexto espacial y el tiempo se mapea en la dirección vertical. Otras variantes, adaptadas a la representación de series de tiempo involucran el uso de tornillos, espirales y poliedros, bajo el concepto de <italic>“helix icons”</italic> (<xref ref-type="bibr" rid="B25">Tominski et al., 2005</xref>) y el uso de <italic>“data vases”</italic> para la representación de series múltiples (<xref ref-type="bibr" rid="B21">Thakur &amp; Hanson, 2010</xref>). </p>
+            <p>El cambio de enfoque del paradigma estrecho de la cartografía como el arte y técnica de hacer mapas en papel al de una cartografía digital y en línea conectada a infraestructuras de datos, lo aborda (<xref ref-type="bibr" rid="B3">Basaraner, 2016</xref>), quien revisa el rol y alcance de la cartografía a la luz de desarrollos recientes en los procesos de creación de información espacial, integración de bases de datos y la generación de información geográfica y mapas digitales en línea. Este enfoque resulta particularmente pertinente en nuestro caso de estudio, ya que se centra en la representación de datos masivos de movilidad.</p>
+            <p>Otro aspecto central de nuestro estudio es la visualización de flujos origen-destino en condiciones en las que la trayectoria real seguida en cada instancia se desconoce o es irrelevante. Su visualización resulta problemática dado el apiñamiento visual que crece con el cuadrado del número de puntos de conexión. (<xref ref-type="bibr" rid="B7">Graser et al., 2019</xref>) proponen una técnica para la reducción del apiñamiento visual (<italic>“visual clutter”</italic>) en representaciones cartográficas bidimensionales, orientada a operar en software de escritorio. Nuestro enfoque aborda la misma problemática, pero desde la perspectiva de escenas tridimensionales interactivas. </p>
+            <p>(<xref ref-type="bibr" rid="B18">Sandvik, 2008</xref>) y más recientemente (<xref ref-type="bibr" rid="B28">Zhu et al., 2018</xref>) abordan el problema de la representación dinámica de procesos espaciotemporales utilizando lenguajes de marcado (KML y CZML) para la visualización en línea a través de globos virtuales (Google Earth y Cesium, respectivamente). Este enfoque de visualización a través de lenguajes de marcado se ha visto frenado a raíz de que Google Earth descontinuó su plugin para los visualizadores web. Por su parte, la visualización científica bajo el paradigma de globo virtual basada en Cesium, también ha perdido ímpetu por las mismas razones. El paquete plotKML (<xref ref-type="bibr" rid="B9">Hengl et al., 2015</xref>) que depende de Google Earth, ofrece una alternativa interesante para generar archivos KML a partir de estructuras de datos disponibles en R. </p>
+            <p>(<xref ref-type="bibr" rid="B8">Harder y Brown, 2017</xref>) exploran el estado del arte en materia de visualización cartográfica interactiva en línea usando herramientas de software propietario para la edición de escenas tridimensionales interactivas (ArcGIS Desktop y ArcScene) y difusión en línea (ArcGIS Server), ofreciendo ejemplos de aplicaciones en una variedad de campos<sup>2</sup>.</p>
+            <p>En el mapeo de resultados políticos es común usar cartogramas que distorsionan el tamaño de las circunscripciones para igualar la densidad y reflejar de manera más correcta la naturaleza de la distribución espacial de los votantes. Sin embargo, esta práctica dificulta la lectura e interpretación del mapa para el lector en general. (<xref ref-type="bibr" rid="B13">Ourednik, 2017</xref>) destaca la utilidad del mapeo interactivo en 3 dimensiones como un recurso que permite mantener el mapa topográfico base intacto, mientras se usa la tercera dimensión para expresar resultados electorales superpuestos sobre una superficie que refleja la densidad demográfica. Aunque el tema es muy diferente, este estudio tiene similitud con el nuestro por las herramientas de software que utiliza para la visualización interactiva 3D. También es similar en que usa la tercera dimensión para mapear atributos: en su caso la densidad es mapeada a una superficie ráster de elevación y los resultados electorales se superponen en ella. En nuestro caso usamos la altura, color, forma de rasgos tridimensionales para representar la intensidad de los atributos cartografiados. Otra diferencia fundamental es que nosotros añadimos mecanismos para la visualización dinámica de series de tiempo.</p>
+         </sec>
+         <sec>
+            <title>2.2 Big data y movilidad ciclista</title>
+            <bold> </bold>
+            <p>El trabajo de (<xref ref-type="bibr" rid="B14">O’Brien et al., 2014</xref>) es el primero en estudiar el fenómeno de los sistemas de bicicleta compartida (SBC) a nivel global. Para ello construyen un base de datos que abarca 38 sistemas de bicicleta compartida (SBC) en países de Europa, Oriente Medio, Asia, Australasia y América y proponen una clasificación de los sistemas SBC basada en la huella geográfica y las variaciones espaciotemporales en la tasa de ocupación.</p>
+            <p>Se han indagado sistemáticamente los retos teóricos y las aplicaciones del Big Data para tareas de gestión urbana (<xref ref-type="bibr" rid="B24">Thakuriah et al., 2017</xref>; <xref ref-type="bibr" rid="B22">Thakuriah et al., 2017a</xref>, <xref ref-type="bibr" rid="B23">2017b</xref>). De manera más específica (<xref ref-type="bibr" rid="B16">Romanillos et al., 2016</xref>) exploran el campo de investigación emergente de Big Data, aplicado al estudio de la movilidad ciclista. Estos autores revisan las técnicas, objetivos y hallazgos, de una amplia muestra de estudios sobre el tema, clasificándolos en tres categorías según el origen de los datos fuente. 1) Estudios basados en datos GPS 2) en puntos colectados en tiempo real a través de diversos sensores (por ejemplo, torniquetes o puntos de anclaje en sistemas de bicicleta compartida) y 3) datos históricos de viajes origen-destino. Encuentran en estos estudios una transición hacia datos masivos generados a través de aplicaciones en teléfonos inteligentes. Destacan el potencial de los acervos históricos de viajes para el análisis de tendencias y el reconocimiento de patrones, que generan información útil sobre los sistemas de movilidad mismos y de manera indirecta, para otros temas de salud, sociodemográficos y de transporte. </p>
+            <p>El tema de la visualización de flujos de movilidad ciclista en SBC lo abordan (<xref ref-type="bibr" rid="B17">Romanillos et al., 2018</xref>) señalando la importancia de rastrear los patrones de flujo a un nivel más detallado que el nivel de estación. Para ello analizan un gran número de rutas GPS proporcionadas por el SBC de Madrid y proveen un análisis de cómo se distribuye el tráfico en la red de calles urbana y los patrones de variación en el tiempo. </p>
+         </sec>
+      </sec>
+      <sec sec-type="methods|cases">
+         <title>3. Caso de estudio y metodología</title>
+         <bold> </bold>
+         <p>El uso de la bicicleta en Ciudad de México ha tenido un auge en la última década, pasando de 100 mil viajes en 2007 (EOD, 2007), a un número que pudiera oscilar entre 250 y 290 mil, según la fuente. Ello significa que prácticamente se han triplicado los viajes en un lapso de 10 años. A partir de la elaboración de la Estrategia de Infraestructura Ciclista en 2007, el gobierno de la ciudad ha puesto en marcha tres componentes del sistema: infraestructura lineal (ciclovías, ciclocarriles y carriles compartidos), biciestacionamientos (masivos, semimasivos y de corta estancia), así como el sistema de bicicletas públicas ECOBICI. La ciudad, en 2019, cuenta con más de 242 km de ciclovías, y carriles compartidos. Se cuenta también con 4 biciestacionamientos masivos y semimasivos ubicados en estaciones de Metro de gran afluencia que brindan en conjunto, poco menos de mil espacios de estacionamiento. Adicionalmente la ciudad cuenta con más de 2 mil biciestacionamientos de corta estancia. En el caso de Ecobici, el sistema registra cerca de 30 mil viajes diarios según estadísticas oficiales</p>
+         <p>De acuerdo con los estudios que se han realizado sobre el ciclismo urbano en CDMX, los viajes en bicicleta son primordialmente hechos con el propósito de ir a trabajar, seguido del regreso a casa y el ir de compras. A diferencia de los viajes que se realizan en otros modos, los viajes a la escuela parecen estar subrepresentados. </p>
+         <p>La distribución horaria sigue muy de cerca la de los viajes en general, aunque se ha probado que los viajes en bicicleta suelen ser más cortos (30 min) que aquellos que se realizan en otros modos. Los estudios han probado que la bicicleta es el modo de transporte más rápido en la ciudad en hora pico. Mientras que la de un automóvil es de 7 Km/h, similar a la del Metro cuando se consideran los tramos de caminata y espera de sus usuarios, la de la bicicleta asciende a 14 Km/h. No es sorprendente, entonces, que de acuerdo a la Encuesta de Movilidad Ciclista (<xref ref-type="bibr" rid="B6">Gobierno de la Ciudad de México, 2014</xref>) las dos primeras razones por las cuales los usuarios deciden usar la bicicleta sean la rapidez y el costo.</p>
+         <p>El sistema de bicicletas compartidas ECOBICI, brinda una serie de ventajas a los ciclistas, sobre todo el relativo al resguardo diario de la bicicleta; su propiedad y mantenimiento, aunque es limitativo en términos de que requiere de estaciones específicas en donde recoger y dejar la bicicleta. Dicho sistema ha reemplazado un buen número de viajes que antes se realizaban caminando (24%), en colectivo (26%), metro (15%), y un reducido número en automóvil (6%). </p>
+         <p>Debido al volumen de viajes que se realizan en ECOBICI, es claro que se ha convertido en un componente importante en la movilidad de CDMX, por lo que la comprensión del sistema y la dinámica de sus flujos es esencial para su planeación futura. Derivado de lo anterior, este artículo se enfoca en la exploración de herramientas visuales cartográficas que permitan analizar el funcionamiento del sistema de una manera dinámica, para coadyuvar al desarrollo del uso de la bicicleta en Ciudad de México. </p>
+         <sec>
+            <title>3.1. El sistema de bicicleta compartida ECOBICI</title>
+            <bold> </bold>
+            <p>El 16 de febrero de 2010 se puso en marcha el sistema de bicicletas publicas Ecobici que fue el primero automatizado en América Latina (<xref ref-type="bibr" rid="B20">Suárez-Lastra, 2018</xref>). El sistema inició con 1,114 bicicletas distribuidas en 90 cicloestaciones. A la fecha cuenta con 480 cicloestaciones distribuidas en un polígono que abarca 3800 ha. y cuenta con 6,100 bicicletas en operación. La distancia promedio en línea recta entre estaciones es de 150 m y las dos más alejadas se encuentran a 10.05 km una de otra.</p>
+            <p>De acuerdo con una compilación reciente de sistemas de bicicleta compartida en el mundo (<xref ref-type="bibr" rid="B27">Wikipedia, 2019</xref>), el sistema Ecobici de la ciudad de México ocupa el lugar 26 en términos del número de bicicletas. De estos, 19 están en ciudades chinas incluyendo los 11 primeros lugares. </p>
+            <p>En la <xref ref-type="fig" rid="f1">Figura 1</xref> se muestra un mapa interactivo con la ubicación de las cicloestaciones, las fases de implementación de Ecobici, las líneas de metro y Metrobús. La herramienta de búsqueda permite localizar las estaciones por nombre o por número. La herramienta de medición permite medir áreas y distancias a lo largo de trayectos.</p>
+
+            <fig id="f1">
+               <label>Figura 1 / Figure 1</label>
+               <caption>
+                  <p><italic><bold>Figura 1. </bold></italic> Mapa base: cicloestaciones de Ecobici, líneas de metro y metrobus. Fuente: elaboración propia a partir de datos abiertos de los tres sistemas. (Click en el <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa_interactivo/">hipervínculo para ver la versión interactiva del mapa</ext-link>)</p>
+                  <p><italic><bold>Figure 1. </bold></italic> Base map: Ecobici’s bike sharing stations, metro and metrobus lines. Source: prepared by the authors based on open data sources for the three systems. (Click to the <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa_interactivo/">link to see the interactive version of the map</ext-link>).</p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura1.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>3.2. Datos</title>
+            <bold> </bold>
+            <p>El sistema Ecobici ofrece públicamente tres elementos relevantes para conocer la estructura y estado de operación de la red (<xref ref-type="fig" rid="f2">Figura 2</xref>) (1) información estática sobre las cicloestaciones (tabla “cicloEstacion”) (2) información casi-en-tiempo-real sobre el estatus de operación de las cicloestaciones (tabla “statusCEstacion”) y (3) información anonimizada sobre cada uno de los viajes (tabla “viaje”), que se publica mensualmente. </p>
+            <p>El muestreo periódico del estatus de las cicloestaciones permite responder preguntas relevantes. Por un lado, para el usuario y por el otro lado para el operador del sistema. Desde la perspectiva del usuario interesa saber dónde está la estación en operación más cercana, si ésta tiene bicis disponibles y en su caso si tiene lugares de anclaje disponibles. Desde la perspectiva del operador del sistema interesa saber cuántas estaciones están activas y cuántas fuera de servicio, cuántas bicicletas y lugares de anclaje hay disponibles en cada una, cuáles están llenas y cuáles vacías.</p>
+            <p>La <xref ref-type="fig" rid="f2">Figura 2</xref> presenta el modelo de datos para nuestro estudio. La entidad “viaje”, registra el momento y lugar de inicio y terminación de cada viaje. De aquí se obtiene la duración precisa. Se desconoce la trayectoria seguida y por ende la distancia y velocidad de cada viaje. Para fines comparativos y de animación se puede calcular la distancia asumiendo que el usuario sigue la trayectoria más corta. Para ello utilizamos los algoritmos de pgRouting, sobre la red de calles del OpenStreetMap, procesado para darle una topología rigurosa de red de arcos y nodos. </p>
+
+            <fig id="f2">
+               <label>Figura 2 / Figure 2</label>
+               <caption>
+                  <p><italic><bold>Figura 2. </bold></italic> Modelo de datos para nuestro caso de estudio. Las entidades de color gris las obtenemos de fuentes de datos públicas y abiertas, las de color azul claro las calculamos a través de una variedad de procesos que incluyen el uso de consultas SQL y procedimientos almacenados (PGSQL). Por razones de claridad modificamos los nombres de las entidades y campos de manera que se auto expliquen. Las entidades de color purpura participan directamente en algún mapa o gráfica. Nótese la presencia de marcas de tiempo (<italic>timestamp</italic>) en algunas entidades, lo cual permite analizar el comportamiento dinámico del sistema. Las entidades con campos de tipo geometría permiten realizar análisis espaciales. Se utiliza información complementaria de otras fuentes de datos abiertos como OpenStreetMaps y la geometría de las redes de transporte del metro y metrobus.</p>
+                  <p><italic><bold>Figure 2. </bold></italic> Data model for our case study. The entities in gray are obtained from open data sources, the light blue ones are calculated through a variety of processes that may include SQL queries and stored procedures (PGSQL). For reasons of clarity we modified entities and field names to be self-explanatory. The entities in purple participates directly in some map or graph. Note the presence of timestamps in some entities, which allows analyzing the dynamic behavior of the system. Entities with geometry type fields allow spatial analysis. Complementary information is also used from other open data sources such as the street network derived from OpenStreetMap data, and the metro and metrobus transport networks.</p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura2.png"/>
+            </fig>
+
+            <p>Nótese que la marca de tiempo en los datos fuente, permite agregarlos a diferentes niveles: por ejemplo, intervalos de 15 minutos, de una hora, un día, semana, mes, año, o todo el lapso de operación del sistema. Por otro lado, es posible georreferenciar la ubicación precisa de cada cicloestación y por ende los datos asociados a cada una de ellas, a nivel puntual o agregándolas de acuerdo con criterios de análisis espacial o criterios de inclusión dentro de particiones útiles, como las áreas geoestadísticas básicas y otras teselaciones. Los mapas que presentamos están basados en “vistas” SQL que combinan ambos criterios para conocer, por ejemplo, la dinámica horaria de las cicloestaciones a lo largo de un día, el balance mensual de arribos y retiros en las cicloestaciones, o el número de conexiones entre pares Origen-Destino, en un intervalo de tiempo determinado -hora pico matutino, hora pico vespertino etc.</p>
+         </sec>
+         <sec>
+            <title>3.3. Metodología de implementación</title>
+            <p>De acuerdo con (<xref ref-type="bibr" rid="B26">Tominsky et al., 2012</xref>), los datos de trayectorias asociados a atributos pueden definirse formalmente de la siguiente manera: una trayectoria d ∈ D es un conjunto ordenado de puntos de datos 𝑑 = ( 𝑑<sub>1</sub>,𝑑<suB>𝑙</suB><sub>𝑑</sub><sup>,</sup> ). Cada punto de datos 𝑑<sub>𝑘</sub>: 1&lt;𝑘&lt;𝑙<sub>𝑑</sub> tiene la forma 𝑑<sub>𝑘</sub> ∈ (𝑆<sup>𝑛</sup>𝑥𝑇𝑥&lt; 𝐴<sub>1</sub>,….𝐴<sub>𝑚</sub>), donde 𝑆<sup>𝑛</sup> define las coordenadas espaciales del punto, por ejemplo x, y para n = 2, o x, y, z para n=3, 𝑇 define el tiempo y 𝐴<sub>𝑖</sub>:1≤𝑖≤𝑚 son los atributos cualitativos o cuantitativos del punto. Esta definición muestra la complejidad del problema: los datos incluyen componentes espaciales, temporales y también numéricos y/o categóricos. Si bien (<xref ref-type="bibr" rid="B26">Tominsky et al., 2012</xref>) se centran en trayectorias en el espacio bidimensional y utilizan el tiempo como la tercera dimensión, nosotros generalizamos este esquema agregando también rasgos con geometría de punto y polígono y utilizando la tercera dimensión para representar los atributos de una o más variables y manejando la dimensión temporal a través de animaciones interactivas. De esta manera, en comparación con la simbología de los rasgos en un mapa bidimensional, la representación de atributos asociados a los rasgos se enriquece: los puntos adquieren volumen, las líneas adquieren grosor y altura, los polígonos volumen. Las variaciones de atributos continuos pueden mapearse a variaciones simultaneas de color, anchura y altura. Las diferencias categóricas pueden mapearse a iconos volumétricos diferentes: esferas, conos, cilindros etc. </p>
+            <sec>
+               <title>3.3.1. Arquitectura de la solución propuesta</title>
+               <bold> </bold>
+               <p>En la <xref ref-type="fig" rid="f3">Figura 3</xref> se muestran los elementos de una arquitectura que habilita la gestión de flujos de datos de movilidad, el análisis espacial, la edición de escenas 3D, su exportación a código web, y la modificación de éste para habilitar la visualización interactiva de procesos dinámicos. </p>
+
+               <fig id="f3">
+                 <label>Figura 3 / Figure 3</label>
+                 <caption>
+                    <p><italic><bold>Figura 3. </bold></italic> Principales componentes del sistema y sus interacciones.</p>
+                    <p><italic><bold>Figure 3. </bold></italic> System architecture: main components and its interactions.</p>
+                 </caption>
+                 <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura3.png"/>
+              </fig>
+
+               <p>Los elementos principales y sus interacciones son los siguientes: </p>
+               <p>
+                  <list list-type="bullet">
+                     <list-item>
+                        <p>Stream de datos: Utilizando scripts de Python extraemos del API de Ecobici información sobre el estatus de las cicloestaciones. Esta operación se repite de manera periódica y durante lapsos de la duración que se requiera. Las secuencias de datos obtenidas permiten reproducir la dinámica del sistema a diferentes niveles de compactación. Estos datos en formato json se suben a la base de datos utilizando la librería de Python psycopg2, que implementa cursores de PostgreSQL. La información de los viajes del mes anterior se hace disponible al inicio de cada mes en archivos csv que se pueden importar directamente a la base de datos.</p>
+                     </list-item>
+                     <list-item>
+                        <p>Base de datos de PostgreSQL: La base de datos tiene las extensiones PostGIS, PL/PgSQL y PgRouting. A través del cliente PGAdmin es posible conectarse de manera remota para realizar tareas de gestión de datos, realizar consultas espaciales y definir funciones, por ejemplo, para calcular la geometría 3D de la parábola que representa un cierto número de viajes entre una estación de origen y una de destino.</p>
+                     </list-item>
+                     <list-item>
+                        <p>R Studio Server: La realización de estudios estadísticos finos y la elaboración de gráficas puede efectuarse a través de R-Studio Server. El conector de R a PostgreSQL habilita la conexión directa a las tablas y vistas desde R. Esta herramienta también permite trabajar con los datos en forma remota, concurrente y distribuida.</p>
+                     </list-item>
+                     <list-item>
+                        <p>QGIS: El SIG de escritorio QGIS habilita el análisis y la edición de mapas utilizando los datos y vistas disponibles en la PostgreSQL. Esta conexión bidireccional permite, por ejemplo, calcular el voronoi generado a partir de los centroides geométricos de los clústers de cicloestaciones, obtenidos por un proceso de agregación por k-medias, y exportarlo a PostGIS. En sentido inverso; en Postgres se puede calcular la geometría 3D para un conjunto de conexiones origen-destino. Las vistas resultantes son accesibles desde QGIS.</p>
+                     </list-item>
+                     <list-item>
+                        <p>Edición y exportación de escenas: el plugin de QGIS “Qgis2Three.js”, permite editar escenas 3D y exportarlas a un mapa interactivo formado por código HTML y scripts js que codifican la interacción. Alternativamente se pueden generar mapas interactivos 2D utilizando el plugin de QGIS “Qgis2Web”.</p>
+                     </list-item>
+                     <list-item>
+                        <p>Edición del código y escenas para habilitar la visualización dinámica: A través de un entorno de programación, “Atom” por ejemplo, se realiza la edición de código para habilitar la visualización dinámica de los patrones espaciotemporales. En este paso realizamos modificaciones al código de las librerías dat_gui.panel.js, Qgis2Three.js y THREE.js para introducir los widgets y la lógica que habilita la exploración de secuencias temporales (iniciar/detener la secuencia, recorrerla paso a paso, etc.). </p>
+                     </list-item>
+                  </list>
+               </p>
+            </sec>
+            <sec>
+               <title>3.3.2. Estrategia de análisis</title>
+               <p>Los patrones de movilidad ciclista presentan variaciones temporales marcadas destacándose la presencia de pulsos a diferentes escalas relacionados con periodos de trabajo/ocio a lo largo del año, la semana y el día. También se ven afectados por procesos meteorológicos estacionales y/o episódicos.</p>
+               <p>Para tener una perspectiva completa de estos patrones de movilidad los analizamos partiendo de mayor a menor agregación, en el tiempo, en el espacio y en ambas dimensiones.</p>
+            </sec>
+         </sec>
+      </sec>
+      <sec sec-type="results">
+         <title>4. Resultados</title>
+         <bold> </bold>
+         <sec>
+            <title>4.1. Tendencias a largo plazo y patrones estacionales</title>
+            <bold> </bold>
+            <sec>
+               <title>4.1.1. Expansión de Ecobici</title>
+               <bold> </bold>
+               <p>En la <xref ref-type="fig" rid="f4">Figura 4a</xref> se muestra el proceso de expansión del sistema Ecobici en términos de estaciones, bicicletas y superficie cubierta. Los datos se derivan de los registros de viajes acumulados desde febrero de 2010 a febrero de 2019. Los escalones en el número de estaciones en la gráfica 4b corresponden con los periodos de despliegue de estaciones en los polígonos de operación. Nótese que al entrar en operación el polígono IV no hay un incremento en el número de bicicletas, proporcional al incremento en la superficie. Presumiblemente esto se debe a que el número de estaciones que entran en operación es apenas mayor que el número de estaciones fuera de servicio. Nótese también que desde el inicio de la fase III se observa un patrón de picos y valles quizás asociado con fases de despliegue de nuevas bicis seguidas del retiro gradual de las que presentan condiciones deficientes.</p>
+               <fig id="f4">
+                 <label>Figura 4 / Figure 4</label>
+                 <caption>
+                    <p><italic><bold>Figura 4. </bold></italic> Evolución de Ecobici desde febrero de 2010 a febrero de 2019 a) polígonos de operación incorporados durante cada fase b) número de estaciones y bicicletas en operación (cortes mensuales). Fuentes: para el diagrama 1) Ecobici, para el diagrama 2) elaboración propia a partir de los datos acumulados de viajes publicados por Ecobici.</p>
+                    <p><italic><bold>Figure 4. </bold></italic> Evolution of Ecobici from February 2010 to February 2019 a) new areas incorporated during each phase b) number of bike stations and bicycles in operation (monthly cuts). Sources: for diagram a) Ecobici, for diagram b) author’s elaboration based on accumulated data of origin-destination trips, published by Ecobici.</p>
+                 </caption>
+                 <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura4.png"/>
+                </fig>
+               <p>El número de viajes acumulado a febrero de 2019 es de 58’237,050 de los cuales solo el 25.99% ha sido realizado por mujeres. La duración promedio es de 00:13:43 (elaboración propia a partir del registro de viajes).</p>
+            </sec>
+            <sec>
+               <title>4.1.2. Evolución del número de viajes</title>
+               <bold> </bold>
+               <p>En la <xref ref-type="fig" rid="f5">Figura 5</xref> se presenta la tendencia registrada en el número de viajes desde febrero de 2010. A modo de referencia se incluye la variación mensual en el número de bicicletas. Nótese la disminución significativa y recurrente en el número de viajes, durante los meses de diciembre. Esto podría atribuirse a periodos de frio, pero también coincide con periodos de baja actividad laboral por vacaciones. Descontando las variaciones estacionales a partir de octubre de 2017 se aprecia una tendencia decreciente, que comienza a revertirse en julio de 2018, posiblemente por la introducción de nuevos sistemas de bicicletas sin anclaje -Mobike y VBike, Dzeba, y los sistemas de scooters compartidos -Grin, Lime y Bird entre otros.</p>
+               <p>La <xref ref-type="fig" rid="f6">Figura 6</xref> presenta el número promedio de viajes diarios en cortes semanales durante el periodo de enero de 2018 a febrero de 2019. El rango de variación va de 32,611 viajes por día en la cuarta semana de febrero de 2018 a un mínimo de 11,638 en la cuarta semana de diciembre. En esta gráfica se aprecian disminuciones recurrentes en el número de viajes que posiblemente coinciden con puentes largos y periodos vacacionales. Ello sugiere que existen una dinámica asociada a ciclos laborales. (Suárez et al., 2018) encontraron que existía una disminución en la proporción de viajes en Ecobici tanto en días fríos como en los lluviosos, lo que puede sugerir una combinación de factores que influyen en el uso diario del sistema.</p>
+              <fig id="f5">
+                 <label>Figura 5 / Figure 5</label>
+                 <caption>
+                    <p><italic><bold>Figura 5. </bold></italic> Viajes por mes entre febrero de 2010 y febrero de 2019. El pico máximo, 878,369 viajes por mes, se observa en marzo de 2017. En diciembre de 2018 se presenta un valor de 565,708 que es el valor más bajo registrado desde junio de 2013 (524,102). Fuente: elaboración propia a partir del registro de viajes publicado por Ecobici.</p>
+                    <p><italic><bold>Figure 5. </bold></italic> Trips per month between February 2010 and February 2019. The maximum peak, 878,369 trips per month) is observed in March 2017. In December 2018, 565,708 where recorded, which is the lowest value since June of 2013 (524,102). Source: own elaboration based on trips records published by Ecobici.</p>
+                 </caption>
+                 <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura5.png"/>
+              </fig>
+            </sec>
+         </sec>
+         <sec>
+            <title>4.2. Patrones de movilidad periódicos semanales y diarios</title>
+            <bold> </bold>
+            <p>En la <xref ref-type="fig" rid="f7">Figura 7</xref> se muestra el patrón de actividad por hora durante la semana del sábado 13 de mayo a las 5:00 am al sábado 20 a la misma hora. Durante los días laborables el número promedio de viajes por día es de 27,985; durante los fines de semana el promedio es de 11,542, lo cual represente el 41% de los registrados en días laborables. En la <xref ref-type="table" rid="t1">Tabla 1</xref> se muestra la duración, distancia y velocidad. Se tiene completa certeza de la duración de cada viaje. La distancia que se presenta es la distancia en línea recta entre el origen y el destino (OD), por ende, el valor reportado subestima la velocidad real, sin embargo, el sesgo registrado es consistente para todos los viajes independientemente del propósito y resulta útil para fines comparativos. Nótese que la velocidad media para desplazamientos durante el “ocio-dominical” es significativamente menor a la de los desplazamientos durante los días laborables.</p>
+            <fig id="f6">
+              <label>Figura 6 / Figure 6</label>
+              <caption>
+                <p><italic><bold>Figura 6. </bold></italic> Promedio diario de viajes entre enero de 2018 y febrero de 2019 inclusive. Los datos se presentan en cortes semanales. La línea azul corresponde a días entre semana (lunes a viernes) la línea roja a sábados y domingos.</p>
+                <p><italic><bold>Figure 6. </bold></italic> Daily average trips between January 2018 and February 2019 inclusive. Data is presented in weekly cuts. The blue line corresponds to weekdays (Monday to Friday) the red line to Saturdays and Sundays.</p>
+              </caption>
+              <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura6.png"/>
+            </fig>
+         </sec>
+         <sec>
+            <title>4.3. Dinámica horaria de arribos y retiros en las cicloestaciones</title>
+            <bold> </bold>
+            <p>El explorador interactivo (<xref ref-type="fig" rid="f8">figura 8</xref>), permite examinar la dinámica de inicio y finalización de viajes para cada cicloestación (retiros y arribos de bicicletas, respectivamente). El patrón general de actividad exhibe los picos detectados en la <xref ref-type="fig" rid="f6">Figura 6</xref>, y revela patrones espaciales interesantes. </p>
+            <fig id="f7">
+              <label>Figura 7 / Figure 7</label>
+              <caption>
+                <p><italic><bold>Figura 7. </bold></italic> Número de viajes iniciados por hora durante la semana del 13 al 19 de mayo de 2017.</p>
+                <p><italic><bold>Figure 7. </bold></italic> Number of trips by hour during the week of May 13 to 19, 2017.</p>
+              </caption>
+              <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura7.png"/>
+            </fig>
+            <p>Durante el pico matutino (entre las 8 y 9 am) se presenta una concentración de inicios de viaje en las cicloestaciones cercanas a la estación del tren ligero de Buenavista (<xref ref-type="fig" rid="f8">figura 8b</xref>). El tope se presenta en las estaciones 271 (Carlos J. Meneses-Av. Jesús García) y la contigua 266 con 106 y 61 viajes iniciados respectivamente. Entre las dos suman 167 viajes iniciados en la misma cuadra. En un distante tercer lugar está la estación 107 (Tolsá-Balderas) con 36 viajes, lo cual representa apenas un tercio de los registrados en la 271. Durante el mismo periodo se registra un atractor de arribos en las ciclioestaciones a lo largo del corredor de edificios de oficinas en la avenida Reforma entre las glorietas de rio Misisipi y la glorieta de Niza (<xref ref-type="fig" rid="f8">figura 8c</xref>). La estación más ocupada es la 14 (Reforma-Rio de la plata) que registra 52 arribos, seguida de la 27 (Reforma-Havre) con 45 arribos.</p>
+            <p>Durante el pico vespertino (6 a 7 pm) el patrón se invierte. Los inicios de viaje se distribuyen en forma relativamente equitativa en el mismo corredor de Avenida Reforma. Se registra un tope de 39 (retiros / inicios de viaje) en la estación 27 (Reforma-Havre) y 37 en la siguiente estación que es la 16 (Reforma-Rio Tíber) (<xref ref-type="fig" rid="f8">figura 8d</xref>). En ese mismo rango horario, el atractor principal de arribos es la zona de Buenavista. El máximo se registra en la estación 266 (Av. Jesús García-Carlos J. Meneses) con 85 arribos. La estación 267 (en la misma cuadra y acera), registra 78. Entre las dos suman 163. La siguiente más atareada es la 43 (Juárez y Revillagigedo) con 35 arribos (<xref ref-type="fig" rid="f8">figura 8e</xref>). </p>
+            <p>En síntesis: las estaciones cercanas a la terminal del tren ligero de Buenavista dominan los inicios y finales de viaje durante el pico matutino y vespertino respectivamente. El corredor sobre avenida Reforma, extendiéndose a la zona de Polanco, constituye un atractor y emisor difuso durante los picos matutino y vespertino respectivamente. </p>
+         </sec>
+         <sec>
+            <title>4.4. Conexiones y flujos dominantes en las horas pico.</title>
+            <bold> </bold>
+            <p>Un problema bien conocido de la representación cartográfica de conexiones origen-destino (OD), consiste en que el número de conexiones direccionales posibles para N estaciones, es N<sup>2</sup>. Para el sistema Ecobici estas son (480)<sup>2 </sup>=230,400. En la <xref ref-type="fig" rid="f9">Figura 9</xref> se presentan las 93,703 conexiones direccionales que ocurrieron durante el mes de julio de 2018. Como puede apreciarse a medida que crece el número de estaciones se hace necesario establecer un compromiso entre legibilidad y representatividad del mapa, es decir: si se incluyen todas las instancias de la entidad de interés, el mapa es exhaustivo, pero se vuelve ilegible. Por otro lado, si se presentan pocas instancias el mapa se vuelve legible, pero puede ser muy poco representativo. Esta aseveración también es aplicable a mapas interactivos en línea, dado que entran en juego factores adicionales de la usabilidad/tiempo-de-respuesta para escenas interactivas, considerando que la velocidad de conexión y/o las capacidades del hardware desde el navegador “cliente” pueden ser factores limitativos adicionales. </p>
+            <fig id="f8">
+              <label>Figura 8 / Figure 8</label>
+              <caption>
+                <p><italic><bold>Figura 8. </bold></italic> a) Exploración interactiva de la <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa3D/hourly_dynamics/">dinámica horaria</ext-link> de las cicloestaciones durante el lunes 31 de julio de 2017. Se muestra el número de arribos (cilindros azules), retiros (conos rojos) y la capacidad (columnas cuadrangulares) de cada ciclo estación. En  b y c se muestran los retiros y arribos en el intervalo de 8 a 9. En c y d arribos y retiros durante el intervalo de 18 a 19. Nótese que si el |(arribos – retiros)|  = capacidad, entonces la estación se vacía (o llena). El acarreo de bicis en camiones desde las estaciones llanas a las vacías y viceversa, permite mantener un nivel de arribos o retiros superior a la capacidad de la estación.</p>
+                <p><italic><bold>Figure 8. </bold></italic> Interactive viewer of the bike station <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa3D/hourly_dynamics/">hourly dynamics</ext-link> during July 31, 2017. b) arrivals (blue cylinders), number of trip starts (red cones) and capacity for each station are shown. In b) and c) arrivals and trip starts are shown for the 8 to 9 am interval. In d) and e) are shown for the 6 to 7 pm interval. Notice that if, for an interval |(arribos – retiros)|  = capacidad then the station is full or empties. Bike trawling from full stations to empty ones allow to sustain a flow higher than the capacity of the station.</p>
+              </caption>
+              <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura8.png"/>
+            </fig>
+            <fig id="f9">
+              <label>Figura 9 / Figure 9</label>
+              <caption>
+                <p><italic><bold>Figura 9. </bold></italic> Necesidad y pertinencia de reducir el número de conexiones: a) 93,703 conexiones OD (líneas de color gris) ocurridas durante junio de 2018, la mayaría de las cuales son muy raras, es decir se presentan una sola vez o tienen una frecuencia muy baja b) y c) dos ejemplos de concentración de estaciones a una distancia menor a 200 metros. Los puntos numerados son cicloestaciones; en ambas imágenes la línea verde indica una distancia lineal de 200 metros.</p>
+                <p><italic><bold>Figure 9. </bold></italic> Need and relevance of reducing the number of connections: a) 93,703 OD connections (gray lines), occurred during June 2018, most of which are very rare, that is, they occur only once or have a very low frequency b) and c) two examples of concentration of bike-sharing stations (numbered points) at a distance of less than 200 meters (green lines).</p>
+              </caption>
+              <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura9.png"/>
+            </fig>
+            <sec>
+               <title>4.4.1. Agrupación de cicloestaciones por el método de k-medias</title>
+               <bold> </bold>
+               <p>Una forma razonable de minimizar el número de conexiones es agrupar las estaciones muy cercanas. En las figuras 9b y 9c se aprecian dos ejemplos de un patrón recurrente de distribución de cicloestaciones en las zonas de más alta demanda; es común encontrar varias estaciones contiguas, bien sea a unos cuantos pasos, cruzando la acera o la vuelta de la esquina. Por ejemplo, para un usuario que inicia o termina un viaje cerca de la estación de Buenavista debe ser relativamente indiferente iniciar o terminar su viaje en cualquiera de las 9 estaciones que pueden encontrarse en un tramo de 150 metros (<xref ref-type="fig" rid="f9">Figura 9b</xref>). Lo mismo puede decirse para las 8 estaciones cerca de la glorieta de la palma en Paseo de la Reforma (9c)</p>
+               <p>Con la finalidad de agrupar estaciones sin perder representatividad zonal: </p>
+               <p>
+                  <list list-type="order">
+                     <list-item>
+                        <p>Generamos 96 clústers contiguos por el método de k-medias. Escogimos 96 centroides siguiendo una heurística de Pareto ya que 96 es el 20% de 480,</p>
+                     </list-item>
+                     <list-item>
+                        <p>Se calcularon los centroides geométricos de cada clúster,</p>
+                     </list-item>
+                     <list-item>
+                        <p>Se calculó el voronoi de estos centroides para obtener 96 zonas de proximidad, cortándolo con un buffer que se extiende 250 metros alrededor de las estaciones en la periferia. En la <xref ref-type="fig" rid="f10">Figura 10</xref> se muestran los clústeres resultantes,</p>
+                     </list-item>
+                     <list-item>
+                        <p>Para la representación 3D se calculó una trayectoria parabólica para cada conexión de manera que la altura es proporcional al número de viajes.</p>
+                     </list-item>
+                  </list>
+               </p>
+               <fig id="f10">
+                <label>Figura 10 / Figure 10</label>
+                <caption>
+                  <p><italic><bold>Figura 10. </bold></italic> 96 clúster de estaciones generado por el método de k-medias. Los polígonos de Voronoi se derivan de los centroides  correspondientes.</p>
+                  <p><italic><bold>Figure 10. </bold></italic> 96 clusters generated by k-means. Voronoi polygons are derived from the corresponding centroids.</p>
+                </caption>
+                <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura10.png"/>
+               </fig>
+               <fig id="f11">
+                <label>Figura 11 / Figure 11</label>
+                <caption>
+                  <p><italic><bold>Figura 11. </bold></italic> Conexiones direccionales dominantes medido en términos del número promedio de viajes por hora entre zonas: a) durante el pico matutino (azul) y vespertino (amarillo) en días laborables y  b) durante el pico dominical (rojo); se incluye el patrón matutino como referencia (azul atenuado). Entre corchetes se indica el número de conexiones en cada rango. Nótese la simetría asíncrona de los flujos en a. En b nótese la diferencia muy notable en el número (altura) y longitud de las conexiones durante el periodo de ocio dominical.</p>
+                  <p><italic><bold>Figure 11. </bold></italic> Dominant directional connections measured in average trips per hour between zones: a) during the morning (blue) and evening (yellow) peaks on weekdays and b) during the Sunday peak (red); the morning pattern is included as a reference (attenuated blue). The number of connections in each range is indicated in brackets. Note the asynchronous symmetry of the flows in (a). In (b) note the sharp difference in the number (height) and length of connections, during the Sunday leisure period.</p>
+                </caption>
+                <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura11.png"/>
+               </fig>
+               <fig id="f12">
+                <label>Figura 12 / Figure 12</label>
+                <caption>
+                  <p><italic><bold>Figura 12. </bold></italic> Cicloestaciones ordenadas según el número de viajes a) iniciados, y b) terminados en ella, durante la hora pico matutina en días laborables; los diagramas c) y d) muestran las curvas de regresión para la distribución de inicios y arribos respectivamente, durante el mismo lapso.</p>
+                  <p><italic><bold>Figure 12. </bold></italic> Bike-sharing stations ordered according to a) the number of trips started, and b) finished in it, during the morning peak hour on weekdays; the diagrams c and d show the regression curves for the distribution of the beginnings and arrivals, respectively, during the same period.</p>
+                </caption>
+                <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura12.png"/>
+               </fig>
+               <fig id="f13">
+                <label>Figura 13 / Figure 13</label>
+                <caption>
+                  <p><italic><bold>Figura 13. </bold></italic> Arrastres y conexiones origen-destino dominantes. Se muestran promedios diarios para arrastres de salida (conos rojos), arrastres de entrada (cilindros azules) y arrastres entre cicloestaciones específicas (las parábolas dirigidas que conectan cicloestaciones específicas). La altura es proporcional al número.</p>
+                  <p><italic><bold>Figure 13. </bold></italic> Bike trawl and dominant origin-destination connections. Daily averages are shown for exit trawls (red cones), entry trawls (blue cylinders) and trawls between specific stations. Height is proportional to numbers of trawls.</p>
+                </caption>
+                <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura13.png"/>
+               </fig>
+               <fig id="f14">
+                <label>Figura 14 / Figure 14</label>
+                <caption>
+                  <p><italic><bold>Figura 14. </bold></italic> Ejemplo de estaciones separadas por unos cuantos metros, que presentan una fuerte asimetría en el balance de flujo.</p>
+                  <p><italic><bold>Figure 14. </bold></italic> Example of stations separated by a few meters, which have a strong asymmetry in the flow balance.</p>
+                </caption>
+                <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura14.png"/>
+               </fig>
+               <table-wrap id="t1">
+                 <label>Tabla 1 / Table 1</label>
+                 <caption>
+                  <p><italic><bold>Tabla 1. </bold></italic>Duración, distancia y velocidad media de los desplazamientos durante los intervalos de mayor actividad.</p>
+                  <p><italic><bold>Table 1. </bold></italic>Duration, distance and average speed of trips during intervals of peak activity.</p>
+                 </caption>
+                 <table frame="box" rules="all" border="1">
+                   <thead>
+                     <tr>
+                       <th align="center">Desplazamiento tipo</th>
+                       <th align="center">Intervalo</th>
+                       <th align="center">Duración Media</th>
+                       <th align="center">Distancia Media O-D<sup>2</sup> (m)</th>
+                       <th align="center">Velocidad media O-D<sup>3</sup> (km/h)</th>
+                       <th align="center">Número acumuladode viajes<sup>4</sup></th>
+                     </tr>
+                   </thead>
+                   <tbody>
+                     <tr>
+                       <td align="center">Hogar-trabajo<sup>1</sup></td>
+                       <td align="center">6:30-9:30</td>
+                       <td align="center">00:13:22</td>
+                       <td align="center">1930.0</td>
+                       <td align="center">9.4</td>
+                       <td align="center">265,130</td>
+                     </tr>
+                     <tr>
+                       <td align="center">Trabajo-hogar<sup>1</sup></td>
+                       <td align="center">16:30-19:30</td>
+                       <td align="center">00:16:15</td>
+                       <td align="center">2074.7</td>
+                       <td align="center">8.4</td>
+                       <td align="center">314,806</td>
+                     </tr>
+                     <tr>
+                       <td align="center">Ocio dominical</td>
+                       <td align="center">11:00-14:00</td>
+                       <td align="center">00:21:32</td>
+                       <td align="center">1825.5</td>
+                       <td align="center">6.8</td>
+                       <td align="center">25,837</td>
+                     </tr>
+                     <tr>
+                       <td colspan="6"><sup>1</sup>Lunes a Viernes. <sup>2</sup> Distancia O-D es la distancia origen destino medida en línea recta. <sup>3</sup> velocidad medida considerando la velocidad observada y la distancia en línea recta. <sup>4</sup> Se descartan los “viajes” que tienen una duración menor a 2 minutos.</td>
+                     </tr>
+                   </tbody>
+                 </table>
+                 <table-wrap-foot>
+                  <fn-group>
+                  <fn id="TF1-150"><p>lunes a viernes.</p></fn>
+                  <fn id="TF1-151"><p>Distancia O-D es la distancia origen destino medida en línea recta.</p></fn>
+                  <fn id="TF1-152"><p>velocidad medida considerando la velocidad observada y la distancia en línea recta.</p></fn>
+                  <fn id="TF1-153"><p>Se descartan los “viajes” que tienen una duración menor a 2 minutos.</p></fn>
+                  </fn-group>
+                 </table-wrap-foot>
+               </table-wrap>
+
+               <table-wrap id="t2">
+                 <label>Tabla 2 / Table 2</label>
+                 <caption>
+                  <p><italic><bold>Tabla 2. </bold></italic>Diez orígenes y destinos dominantes durante el pico matutino.</p>
+                  <p><italic><bold>Table 2. </bold></italic>Ten dominant origins and destinations during the morning peak.</p>
+                 </caption>
+                 <table frame="box" rules="all" border="1">
+                   <thead>
+                     <!--<tr>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                       <th align="center"></th>
+                     </tr>-->
+                   </thead>
+                   <tbody>
+                     <tr>
+                       <td align="center" rowspan="2">Origen</td>
+                       <td align="center">Id estación</td>
+                       <td align="center">272</td>
+                       <td align="center">266</td>
+                       <td align="center">271</td>
+                       <td align="center">1</td>
+                       <td align="center">41</td>
+                       <td align="center">19</td>
+                       <td align="center">36</td>
+                       <td align="center">43</td>
+                       <td align="center">21</td>
+                       <td align="center">267</td>
+                     </tr>
+                     <tr>
+                       <td align="center">Viajes</td>
+                       <td align="center">773</td>
+                       <td align="center">756</td>
+                       <td align="center">718</td>
+                       <td align="center">382</td>
+                       <td align="center">351</td>
+                       <td align="center">333</td>
+                       <td align="center">331</td>
+                       <td align="center">318</td>
+                       <td align="center">312</td>
+                       <td align="center">311</td>
+                     </tr>
+                     <tr>
+                       <td align="center" rowspan="2">Destino</td>
+                       <td align="center">Id estación</td>
+                       <td align="center">016</td>
+                       <td align="center">018</td>
+                       <td align="center">027</td>
+                       <td align="center">023</td>
+                       <td align="center">017</td>
+                       <td align="center">013</td>
+                       <td align="center">021</td>
+                       <td align="center">019</td>
+                       <td align="center">261</td>
+                       <td align="center">028</td>
+                     </tr>
+                     <tr>
+                       <td align="center">Viajes</td>
+                       <td align="center">653</td>
+                       <td align="center">613</td>
+                       <td align="center">526</td>
+                       <td align="center">521</td>
+                       <td align="center">519</td>
+                       <td align="center">451</td>
+                       <td align="center">442</td>
+                       <td align="center">401</td>
+                       <td align="center">374</td>
+                       <td align="center">362</td>
+                     </tr>
+                   </tbody>
+                 </table>
+               </table-wrap>
+
+               <table-wrap id="t3">
+                 <label>Tabla 3 / Table 3</label>
+                 <caption>
+                  <p><italic><bold>Tabla 3. </bold></italic>Diez estaciones que presentan mayor reto logístico considerando su nivel de desbalance (arribos-retiros).</p>
+                  <p><italic><bold>Table 3. </bold></italic>Ten stations that present the greatest logistical challenge considering their level of imbalance.</p>
+                 </caption>
+                 <table frame="box" rules="all" border="1">
+                   <thead>
+                     <!--<tr>
+                       <th align="center">CICLOESTACION</th>
+                       <th align="center">REFORMA-DUBLÍN</th>
+                       <th align="center">NEWTON-HORACIO</th>
+                       <th align="center">AV. CENTRAL-J. MENESES</th>
+                       <th align="center">RUBÉN DARÍO-REFORMA</th>
+                       <th align="center">ANDRÉS BELLO-ELLIOT</th>
+                       <th align="center">ÁLVARO OBREGÓN-TONALÁ</th>
+                       <th align="center">EULER-AV. HORACIO</th>
+                       <th align="center">JUÁREZ-REVILLAGIGEDO</th>
+                       <th align="center">AV. JESÚS GARCÍA-CARLOS J. MENESES</th>
+                       <th align="center">AV. JESÚS GARCÍA-CARLOS J. MENESES</th>
+                     </tr>-->
+                   </thead>
+                   <tbody>
+                    <tr>
+                       <td align="center">CICLOESTACION</td>
+                       <td align="center">REFORMA-DUBLÍN</td>
+                       <td align="center">NEWTON-HORACIO</td>
+                       <td align="center">AV. CENTRAL-J. MENESES</td>
+                       <td align="center">RUBÉN DARÍO-REFORMA</td>
+                       <td align="center">ANDRÉS BELLO-ELLIOT</td>
+                       <td align="center">ÁLVARO OBREGÓN-TONALÁ</td>
+                       <td align="center">EULER-AV. HORACIO</td>
+                       <td align="center">JUÁREZ-REVILLAGIGEDO</td>
+                       <td align="center">AV. JESÚS GARCÍA-CARLOS J. MENESES</td>
+                       <td align="center">AV. JESÚS GARCÍA-CARLOS J. MENESES</td>
+                     </tr>
+                     <tr>
+                       <td align="center">idEst</td>
+                       <td align="center">21</td>
+                       <td align="center">211</td>
+                       <td align="center">271</td>
+                       <td align="center">193</td>
+                       <td align="center">238</td>
+                       <td align="center">136</td>
+                       <td align="center">217</td>
+                       <td align="center">43</td>
+                       <td align="center">267</td>
+                       <td align="center">266</td>
+                     </tr>
+                     <tr>
+                       <td align="center">balance(arribos – retiros)</td>
+                       <td align="center">-1,034</td>
+                       <td align="center">-875</td>
+                       <td align="center">-634</td>
+                       <td align="center">-630</td>
+                       <td align="center">-629</td>
+                       <td align="center">588</td>
+                       <td align="center">690</td>
+                       <td align="center">768</td>
+                       <td align="center">2,523</td>
+                       <td align="center">2,674</td>
+                     </tr>
+                   </tbody>
+                 </table>
+               </table-wrap>
+
+
+               <table-wrap id="t4">
+                 <label>Tabla 4 / Table 4</label>
+                 <caption>
+                  <p><italic><bold>Tabla 4. </bold></italic> Diez estaciones con más arrastres de entrada y salida. Se muestran totales y promedios diarios para el mes de enero de 2019.</p>
+                  <p><italic><bold>Table 4. </bold></italic> Ten stations with the most entry and exit trawls. Totals and daily average for January 2019.</p>
+                 </caption>
+                 <table frame="box" rules="all" border="1">
+                   <thead>
+                     <tr>
+                       <th align="center">ESTACIÓN</th>
+                       <th align="center">ARRASTRES SALIDA</th>
+                       <th align="center">PROMEDIO DIARIO</th>
+                     </tr>
+                   </thead>
+                   <tbody>
+                    <tr>
+                      <td align="center">266 AV. JESÚS GARCIA-CARLOS J. MENESES</td>
+                      <td align="center">4997</td>
+                      <td align="center">161.2</td>
+                    </tr>
+                    <tr>
+                      <td align="center">271 AV. CENTRAL-J. MENESES</td>
+                      <td align="center">3709</td>
+                      <td align="center">119.6</td>
+                    </tr>
+                    <tr>
+                      <td align="center">267 AV. JESÚS GARCÍA-CARLOS J. MENESES</td>
+                      <td align="center">3620</td>
+                      <td align="center">116.8</td>
+                    </tr>
+                    <tr>
+                      <td align="center">272 AV. CENTRAL-J. MENESES</td>
+                      <td align="center">1853</td>
+                      <td align="center">59.8</td>
+                    </tr>
+                    <tr>
+                      <td align="center">16 REFORMA-RÍO TIBER</td>
+                      <td align="center">1571</td>
+                      <td align="center">50.7</td>
+                    </tr>
+                    <tr>
+                      <td align="center">18 REFORMA-RIO RHIN</td>
+                      <td align="center">1460</td>
+                      <td align="center">47.1</td>
+                    </tr>
+                    <tr>
+                      <td align="center">23 REFORMA-PRAGA</td>
+                      <td align="center">1376</td>
+                      <td align="center">44.4</td>
+                    </tr>
+                    <tr>
+                      <td align="center">14 REFORMA-RIO DE PLATA</td>
+                      <td align="center">1296</td>
+                      <td align="center">41.8</td>
+                    </tr>
+                    <tr>
+                      <td align="center">27 REFORMA-HAVRE</td>
+                      <td align="center">1287</td>
+                      <td align="center">41.5</td>
+                    </tr>
+                    <tr>
+                      <td align="center">17 REFORMA-RIO TIBER</td>
+                      <td align="center">1157</td>
+                      <td align="center">37.3</td>
+                    </tr>
+
+                    <tr>
+                      <td align="center">271 AV. CENTRAL-J. MENESES </td>
+                      <td align="center">4346</td>
+                      <td align="center">140.2</td>
+                    </tr>
+                    <tr>
+                      <td align="center">266 AV. JESÚS GARCIA-CARLOS J. MENESES</td>
+                      <td align="center">2411</td>
+                      <td align="center">77.8</td>
+                    </tr>
+                    <tr>
+                      <td align="center">272 AV. CENTRAL-J. MENESES</td>
+                      <td align="center">2165</td>
+                      <td align="center">69.8</td>
+                    </tr>
+                    <tr>
+                      <td align="center">23 REFORMA-PRAGA</td>
+                      <td align="center">1746</td>
+                      <td align="center">56.3</td>
+                    </tr>
+                    <tr>
+                      <td align="center">27 REFORMA-HAVRE</td>
+                      <td align="center">1468</td>
+                      <td align="center">47.4</td>
+                    </tr>
+                    <tr>
+                      <td align="center">211 NEWTON-HORACIO</td>
+                      <td align="center">1448</td>
+                      <td align="center">46.7</td>
+                    </tr>
+                    <tr>
+                      <td align="center">21 REFORMA-DUBLIN</td>
+                      <td align="center">1334</td>
+                      <td align="center">43</td>
+                    </tr>
+                    <tr>
+                      <td align="center">16 REFORMA-RÍO TIBER</td>
+                      <td align="center">1333</td>
+                      <td align="center">43</td>
+                    </tr>
+                    <tr>
+                      <td align="center">14 REFORMA-RIO DE PLATA</td>
+                      <td align="center">1291</td>
+                      <td align="center">41.6</td>
+                    </tr>
+                    <tr>
+                      <td align="center">267 AV. JESÚS GARCÍA-CARLOS J. MENESES</td>
+                      <td align="center">1228</td>
+                      <td align="center">39.6</td>
+                    </tr>
+                   </tbody>
+                 </table>
+               </table-wrap>
+
+               <p>Algunos parámetros de la segmentación resultante son los siguientes: Distancia media observada entre los centroides de clúster: 542.8 m. Distancia media esperada: 447.2 m. Índice de vecino más cercano: 1.2. Número de puntos: 96. Z-Score: 4.0</p>
+               <p>A través de este mecanismo redujimos el número de conexiones a 9,216, que representa el 4% de las conexiones originales (962/4802).</p>
+               <p>Para mapear las conexiones durante las fases de mayor actividad, seleccionamos solamente los viajes alrededor de la hora pico matutina (8:00), vespertina (18:30) y la hora pico durante el ocio dominical (3:00) con un rango de más menos ± una hora y media (<xref ref-type="fig" rid="f11">Figura 11</xref>). La altura de los arcos varía en forma proporcional con el número de viajes. El grosor depende de la clase a la que pertenece de acuerdo con cortes de Jenks.</p>
+            </sec>
+            <sec>
+               <title>4.4.2. Análisis de Pareto.</title>
+               <bold> </bold>
+               <p>Con el objetivo de medir la representatividad del mapa, realizamos un análisis de Pareto buscando maximizar la proporción del total del fenómeno explicada con un número mínimo de rasgos (<xref ref-type="fig" rid="f12">Figura 12</xref>). Este procedimiento complementa el método expuesto en el inciso anterior, para ello:</p>
+               <p>
+                  <list list-type="order">
+                     <list-item>
+                        <p>Separamos los arribos y los retiros para comparar el grado de concentración/dispersión durante las horas pico,</p>
+                     </list-item>
+                     <list-item>
+                        <p>Acomodamos las estaciones en orden decreciente según el número de viajes,</p>
+                     </list-item>
+                     <list-item>
+                        <p>Generamos los diagramas de Pareto,</p>
+                     </list-item>
+                     <list-item>
+                        <p>Calculamos las curvas de regresión para tener un indicador de la bondad de ajuste y medir la proporción del total de los viajes explicada por un número dado de rasgos.</p>
+                     </list-item>
+                  </list>
+               </p>
+               <p>En 162 cicloestaciones, que representan el 36.1%, inician 63.9% de los viajes (<xref ref-type="fig" rid="f12">Figura 12a</xref>). En 146 cicloestaciones (32.4%), termina el 67.6% de los viajes (<xref ref-type="fig" rid="f12">Figura 12b</xref>). En la <xref ref-type="table" rid="t2">Tabla 2</xref> nótese la enorme disparidad entre los tres primeros orígenes y los siguientes. Esta misma concentración se observa, aunque de manera menos aguda, en los destinos. Estos resultados confirman lo que puede apreciarse de manera directa en el mapa interactivo.</p>
+            </sec>
+         </sec>
+         <sec>
+            <title>4.5. Balance mensual de arribos y retiros</title>
+            <bold> </bold>
+            <p>Un factor determinante para la operación eficiente del SBC durante las horas de demanda pico, es la estrategia de arrastrar bicicletas de las estaciones que se llenan con rapidez a las estaciones que se vacían, con objeto de satisfacer la demanda de bicis en estas últimas y lugares de anclaje en las primeras. Dado que mover las bicis de un lado a otro, cuesta, se plantea un problema de optimización interesante que consiste en maximizar el flujo en la red minimizando el número de arrastres y la distancia recorrida. En la <xref ref-type="fig" rid="f13">Figura 13a</xref>, se muestra un camión con capacidad para transportar 50 bicicletas. Ecobici cuenta también con camiones para 16 bicicletas a los que se adjuntan remolques con capacidad para arrastrar 16 bicis más. </p>
+            <p>Dada la tabla de viajes (<xref ref-type="fig" rid="f2">Figura 2</xref>), es posible obtener de manera indirecta, información sobre los arrastres que sufre cada bicicleta de la siguiente manera: para cada viaje <italic>i</italic> de la bici <italic>b (<sub>b</sub>V<sub>i</sub>)</italic> las tuplas ordenadas por bici, fechaRetiro, horaRetiro, permiten establecer la siguiente secuencia de cambios de posición de esa bici, de una estación a la siguiente:</p>
+
+            <disp-quote>
+              <p><sub>b</sub>V<sub>i</sub>[fechaRetiro<sub>i</sub>,horaRetiro<sub>i</sub>,cicloEstacionRetiro<sub>i</sub>,</p>
+              <p>fechaArribo<sub>i</sub>,horaArribo<sub>i</sub>,cicloEstacionArribo<sub>i</sub>]</p>
+              <p><sub>b</sub>V<sub>i+1</sub>[fechaRetiro<sub>i+1</sub>,horaRetiro<sub>i+1</sub>,cicloEstacionRetiro<sub>i+1</sub>,</p>
+              <p>fechaArribo<sub>i+1</sub>,horaArribo<sub>i+1</sub>,cicloEstacionArribo<sub>i+1</sub>]</p>
+              <p>. . .</p>
+              <p><sub>b</sub>V<sub>i+n</sub>[fechaRetiro<sub>i+n</sub>,horaRetiro<sub>i+n</sub>,cicloEstacionRetiro<sub>i+n</sub>,</p>
+              <p>fechaArribo<sub>i+n</sub>,horaArribo<sub>i+n</sub>,cicloEstacionArribo<sub>i+n</sub></p>
+            </disp-quote>
+
+            <p>En esta secuencia, si la estación de inicio del siguiente viaje de la bici b es diferente de la estación destino del viaje anterior, eso implica que fue arrastrada de la estación cicloEstacionArribo<sub>i</sub> a la estación cicloEstacionRetiro<sub>i+1</sub>, en algún momento durante el intervalo comprendido entre 
+            </p>
+
+            <disp-quote>
+              <p><italic>fechaArribo<sub>i </sub>+ horaArribo<sub>i </sub>y fechaArribo<sub>i+1 </sub>+ horaArribo<sub>i+1</sub></italic></p>
+            </disp-quote>
+
+            <p>Para tener una idea de la distribución espacial de este fenómeno, generamos el registro exhaustivo de arrastres durante el mes de enero de 2019. De aquí se deriva el promedio diario de arrastres de entrada y salida para cada cicloestación (ver el <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa3D/bike_trawl/">mapa interactivo</ext-link> asociado a la <xref ref-type="fig" rid="f13">Figura 13</xref>). En este periodo se observan 110,029 arrastres, que representan un 15.7% de los 697,279 viajes registrados.</p>
+            <p>En la <xref ref-type="table" rid="t4">Tabla 4</xref> se puede apreciar que el promedio diario de arrastres con salida de la estación 266 es de 161.2 bicis. Esto multiplica por 5 la capacidad de dicha estación que es de 32 bicicletas, lo cual implica realizar por lo menos 3 viajes a lo largo del día en camiones de 50 bicis y uno en camión de 16 bicis. Nótese que todas las estaciones de la lista se concentran en la zona aledaña a la estación Buenavista y Reforma. Esto se puede apreciar también en el mapa interactivo a través de la capa de arrastres origen-destino (“arrastres OD”).</p>
+            <p>En el mapa (<xref ref-type="fig" rid="f13">Figura 13</xref>) se puede apreciar que la distribución espacial es notablemente asimétrica: muy pocas estaciones concentran casi todos los arrastres. Esto se explica porque no es rentable trasladar bicis de una estación a otra a menos que estas estén llenas o vacías.</p>
+         </sec>
+      </sec>
+      <sec sec-type="discussion">
+         <title>5. Discusión y trabajo a futuro</title>
+         <bold> </bold>
+         <p>Como se ilustra en el inciso 3.4 la cartografía de flujos direccionales resulta problemática. El método para organizar paquetes de conexiones (edge bundling) propuesto por (<xref ref-type="bibr" rid="B7">Graser et al., 2019</xref>), funciona bien para mapas bidimensionales. Nuestro enfoque de representación basado en escenas interactivas añade dos dimensiones que permiten 1) mostrar con claridad la jerarquía de las conexiones codificándola por ejemplo, en la altura de la parábola y grosor de los iconos; 2) el uso de iconos direccionales (por ejemplo, conos), indica con toda claridad la dirección del flujo; 3) el carácter interactivo del mapa permite al usuario controlar el grado de saturación de información, manipulando la visibilidad y opacidad de las capas y permitiéndole navegar en la escena; 4) la cuarta dimensión codificada en las marcas de tiempo (timestamp), habilita el examen de las variaciones espaciotemporales del fenómeno de flujo estudiado. Pensamos que estas características agregadas, facilitan examinar el conjunto sin perderse en los detalles y, cambiando de escala, examinar los detalles sin perder el conjunto. Por supuesto nuestro enfoque es vulnerable también al crecimiento cuadrático en el número de nodos, por lo que el enfoque de (<xref ref-type="bibr" rid="B7">Graser et al., 2019</xref>) es complementario. Como trabajo a futuro se sugiere explorar las posibilidades de extender este último método a 4 dimensiones. </p>
+         <p>Otro recurso de simplificación que utilizamos es el de agregar estaciones contiguas por el método de k-medias. Este recurso reduce cuadráticamente el número de conexiones a expensas de perder detalle al interior de las zonas conectadas: sabemos que el viaje inició, por ejemplo, en la vecindad de la estación Buenavista, y terminó en la vecindad de la glorieta de la Palma, se desconocen el origen y destinos específicos. Esta desventaja puede aminorarse mostrando la probabilidad de cada estación para el punto de origen o término de cada conexión, tomando en cuenta que la probabilidad varía con la hora del día. Nótese la dinámica extraordinariamente asimétrica de estaciones ubicadas a unos cuantos metros entre sí (<xref ref-type="fig" rid="f14">Figura 14</xref>)</p>
+         <p>En el caso de que no sea factible o deseable representar todas las conexiones, el análisis de Pareto permite medir y explicitar qué proporción de rasgos está representada en el mapa y cuál es la proporción del fenómeno cubierta por este conjunto de rasgos. Dado el hecho de que en nuestro caso la altura representa la intensidad del fenómeno, podríamos usar el plano de corte que se muestra en la <xref ref-type="fig" rid="f8">Figura 8</xref> para mostrar interactivamente el significado espacial de estos niveles de corte. Las curvas de regresión (<xref ref-type="fig" rid="f12">Figuras 12b y 12c</xref>) pueden utilizarse como un recurso eficiente para calcular estas proporciones. </p>
+         
+         <p>A partir del monitoreo del estatus de las cicloestaciones en lapsos de tiempo muy cortos puede construirse un registro exhaustivo de la dinámica espaciotemporal de arribos y retiros lo que permitiría reproducir a diferentes velocidades la dinámica en tiempo real del sistema.</p>
+      </sec>
+      <sec sec-type="conclusions">
+         <title>6. Conclusiones</title>
+         <bold> </bold>
+         <p>En este trabajo revisamos la literatura existente sobre visualización en general y de manera específica sobre visualización de movilidad ciclista. Presentamos un esquema metodológico y resultados que ilustran una forma innovadora, hasta donde alcanza nuestro conocimiento, de explorar en línea estos patrones a través de escenas tridimensionales, espaciotemporales, interactivas.</p>
+         <p>Se realizó un análisis a diferentes escalas espaciales y temporales, de la dinámica del sistema Ecobici de la ciudad de México, que se presenta a través de gráficas y cuatro mapas referentes a 1) la estructura del sistema, 2) la dinámica horaria de las cicloestaciones a lo largo de un día, 3) las conexiones dominantes OD entre clúster de cicloestaciones agregadas por proximidad, 4) la distribución espacial de los arrastres realizados para compensar excesos espaciotemporales de demanda y oferta.</p>
+         <p>Se concluye que:</p>
+         <p>
+            <list list-type="bullet">
+               <list-item>
+                  <p>Las escenas referidas son un recurso eficaz para comunicar visualmente 1) el nivel de actividad de las cicloestaciones y sus variaciones en el espacio y en el tiempo, 2) el grado de (a)simetría de los flujos entre zonas y sus variaciones durante las horas pico, 3) el nivel de actividad y balance acumulado de las cicloestaciones.</p>
+               </list-item>
+               <list-item>
+                  <p>El examen visual facilita la formulación de hipótesis a ser validadas mediante análisis estadísticos finos. </p>
+               </list-item>
+               <list-item>
+                  <p>La arquitectura propuesta, permite utilizar R Studio para realizar de manera remota, análisis sobre los datos almacenados en PostgreSQL.</p>
+               </list-item>
+               <list-item>
+                  <p>La publicación del tipo de escenas que se presentan aquí -dinámicas, interactivas y en línea, basada en datos abiertos y software libre, ofrece a la comunidad científica un recurso escalable para difundir estudios sobre fenómenos de movilidad, a través de mapas Web interactivos.</p>
+               </list-item>
+            </list>
+         </p>
+      </sec>
+      <sec>
+         <title>Notas al pie</title>
+         <p><sup>1.</sup> La página web del libro de Aigner, tiene este <ext-link ext-link-type="uri" xlink:href="http://www.timeviz.net/">explorador interactivo</ext-link> de las técnicas descritas</p>
+         <p><sup>2.</sup> El <ext-link ext-link-type="uri" xlink:href="https://learn.arcgis.com/en/arcgis-book/?adumkts=branding&amp;aduc=web&amp;adum=general&amp;aduSF=vanity&amp;utm_Source=other&amp;aduca=m17the_arcgis_book_interactive_pdf&amp;aduco=thearcgisbook&amp;aducp=smartcommunities#home-overview">libro interactivo</ext-link> con vínculos a los mapas Web puede verse aquí. </p>
+      </sec>
+      <sec sec-type="supplementary-material">
+         <title>Visualizador</title>
+         <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+           xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa_interactivo/"
+           mimetype="application/html">
+           <label>Mapa Interactivo</label>
+         <media mime-subtype="php" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa_interactivo/"/>
+       </supplementary-material>
+       </sec>
+   </body>
+   <back>
+      <ref-list>
+         <title>Referencias</title>
+         <ref id="B1">
+            <mixed-citation>Aigner, W., Miksch, S., Schumann, H., Tominski, C. (2011). Visualization of time-oriented data: Springer, London. doi: https://doi.org/10.1007/978-0-85729-079-3</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Aigner</surname>
+                     <given-names>W.</given-names>
+                  </name>
+                  <name>
+                     <surname>Miksch</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Schumann</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tominski</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2011</year>
+               <article-title>Visualization of time-oriented data</article-title>
+               <source>Springer, London</source>
+               <pub-id pub-id-type="doi">10.1007/978-0-85729-079-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B2">
+            <mixed-citation>Andrienko, N., &amp; Andrienko, G. (2013). Visual analytics of movement: An overview of methods, tools and procedures. Information Visualization 12(1), 3-24. https://doi.org/10.1177/1473871612457601</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Andrienko</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Andrienko</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Visual analytics of movement: An overview of methods, tools and procedures</article-title>
+               <source>Information Visualization</source>
+               <volume>12</volume>
+               <issue>1</issue>
+               <fpage>3</fpage>
+               <lpage>24</lpage>
+               <pub-id pub-id-type="doi">10.1177/1473871612457601</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B3">
+            <mixed-citation>Basaraner, M. (2016). Revisiting cartography: towards identifying and developing a modern and comprehensive framework. Geocarto International 31(1), 71-91. https://doi.org/10.1080/10106049.2015.1041560</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Basaraner</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Revisiting cartography: towards identifying and developing a modern and comprehensive framework</article-title>
+               <source>Geocarto International</source>
+               <volume>31</volume>
+               <issue>1</issue>
+               <fpage>71</fpage>
+               <lpage>91</lpage>
+               <pub-id pub-id-type="doi">10.1080/10106049.2015.1041560</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B4">
+            <mixed-citation>Batty, M. (2013). Big data, smart cities and city planning. Dialogues in Human Geography 3(3), 274-279. https://doi.org/10.1177/2043820613513390</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Batty</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Big data, smart cities and city planning</article-title>
+               <source>Dialogues in Human Geography</source>
+               <volume>3</volume>
+               <issue>3</issue>
+               <fpage>274</fpage>
+               <lpage>279</lpage>
+               <pub-id pub-id-type="doi">10.1177/2043820613513390</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B5">
+            <mixed-citation>Ferreira, N., Poco, J., Vo, H. T., Freire, J., Silva, C. T. (2013). Visual exploration of big spatio-temporal urban data: A study of new york city taxi trips. IEEE transactions on visualization and computer graphics, 19(12), 2149-2158. https://doi.org/10.1109/TVCG.2013.226</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ferreira</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Poco</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Vo</surname>
+                     <given-names>H. T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Freire</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Silva</surname>
+                     <given-names>C. T.</given-names>
+                  </name>
+               </person-group>
+               <year>2013</year>
+               <article-title>Visual exploration of big spatio-temporal urban data: A study of new york city taxi trips</article-title>
+               <source>IEEE transactions on visualization and computer graphics</source>
+               <volume>19</volume>
+               <issue>12</issue>
+               <fpage>2149</fpage>
+               <lpage>2158</lpage>
+               <pub-id pub-id-type="doi">10.1109/TVCG.2013.226</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B6">
+            <mixed-citation>Gobierno de la Ciudad de México. (2014). Encuesta ECOBICI 2014. Retrieved from <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ecobici.cdmx.gob.mx/sites/default/files/pdf/ecobici_2014_encuesta.pdf">https://www.ecobici.cdmx.gob.mx/sites/default/files/pdf/ecobici_2014_encuesta.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <collab>Gobierno de la Ciudad de México</collab>
+               </person-group>
+               <year>2014</year>
+               <article-title>Encuesta ECOBICI 2014</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://www.ecobici.cdmx.gob.mx/sites/default/files/pdf/ecobici_2014_encuesta.pdf">https://www.ecobici.cdmx.gob.mx/sites/default/files/pdf/ecobici_2014_encuesta.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B7">
+            <mixed-citation>Graser, A., Schmidt, J., Roth, F., Brändle, N. (2019). Untangling origin-destination flows in geographic information systems. Information Visualization 18(1), 153-172. https://doi.org/10.1177/1473871617738122</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Graser</surname>
+                     <given-names>A.</given-names>
+                  </name>
+                  <name>
+                     <surname>Schmidt</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Roth</surname>
+                     <given-names>F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Brändle</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>Untangling origin-destination flows in geographic information systems</article-title>
+               <source>Information Visualization</source>
+               <volume>18</volume>
+               <issue>1</issue>
+               <fpage>153</fpage>
+               <lpage>172</lpage>
+               <pub-id pub-id-type="doi">10.1177/1473871617738122</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B8">
+            <mixed-citation>Harder, C., &amp; Brown, C. (2017). The ArcGIS Book: 10 Big Ideas about Applying The Science of Where. Esri Press, Retrieved from <ext-link ext-link-type="uri" xlink:href="http://go.esri.com/l/82202/2017-05-24/fdd14n">http://go.esri.com/l/82202/2017-05-24/fdd14n</ext-link> 
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Harder</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Brown</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>The ArcGIS Book: 10 Big Ideas about Applying The Science of Where</article-title>
+               <source>Esri Press</source>
+               <ext-link ext-link-type="uri" xlink:href="http://go.esri.com/l/82202/2017-05-24/fdd14n">http://go.esri.com/l/82202/2017-05-24/fdd14n</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B9">
+            <mixed-citation>Hengl, T., Roudier, P., Beaudette, D., Pebesma, E. (2015). plotKML: Scientific visualization of spatio-temporal data. Journal of Statistical Software, 63(5), 1-25. </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Hengl</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Roudier</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Beaudette</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Pebesma</surname>
+                     <given-names>E.</given-names>
+                  </name>
+               </person-group>
+               <year>2015</year>
+               <article-title>plotKML: Scientific visualization of spatio-temporal data</article-title>
+               <source>Journal of Statistical Software</source>
+               <volume>63</volume>
+               <issue>5</issue>
+               <fpage>1</fpage>
+               <lpage>25</lpage>
+            </element-citation>
+         </ref>
+         <ref id="B10">
+            <mixed-citation>INEGI, Gobierno del Distrito Federal, &amp; Gobierno del Estado de México. (2007). Encuesta Origen Destino 2007. México, Distrito Federal.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <collab>INEGI, Gobierno del Distrito Federal</collab>
+                  <collab>Gobierno del Estado de México</collab>
+               </person-group>
+               <year>2007</year>
+               <article-title>Encuesta Origen Destino 2007</article-title>
+               <source>México, Distrito Federal</source>
+            </element-citation>
+         </ref>
+         <ref id="B11">
+            <mixed-citation>Kapler, T., &amp; Wright, W. (2005). Geotime information visualization. Information Visualization 4(2), 136-146. https://doi.org/10.1057/palgrave.ivs.9500097</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kapler</surname>
+                     <given-names>T.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wright</surname>
+                     <given-names>W.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Geotime information visualization</article-title>
+               <source>Information Visualization</source>
+               <volume>4</volume>
+               <issue>2</issue>
+               <fpage>136</fpage>
+               <lpage>146</lpage>
+               <pub-id pub-id-type="doi">10.1057/palgrave.ivs.9500097</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B12">
+            <mixed-citation>Keim, D., Andrienko, G., Fekete, J.-D., Görg, C., Kohlhammer, J., Melançon, G. (2008). Visual analytics: Definition, process, and challenges. Information Visualization. Springer, Berlin, Heidelberg, pp. 154-175. https://doi.org/10.1007/978-3-540-70956-5_7</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Keim</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Andrienko</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Fekete</surname>
+                     <given-names>J.-D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Görg</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kohlhammer</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Melançon</surname>
+                     <given-names>G.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <article-title>Visual analytics: Definition, process, and challenges</article-title>
+               <source>Information Visualization</source>
+               <publisher-name>Springer</publisher-name>
+               <publisher-loc>Berlin, Heidelberg</publisher-loc>
+               <fpage>154</fpage>
+               <lpage>175</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-3-540-70956-5_7</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B13">
+            <mixed-citation>Ourednik, A. (2017). The third dimension of political mapping: exploiting map interactivity for a better understanding of election and referendum results. Cartography and Geographic Information Science 44(4), 284-295. https://doi.org/10.1080/15230406.2017.1295820</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ourednik</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>The third dimension of political mapping: exploiting map interactivity for a better understanding of election and referendum results</article-title>
+               <source>Cartography and Geographic Information Science </source>
+               <volume>44</volume>
+               <issue>4</issue>
+               <fpage>284</fpage>
+               <lpage>295</lpage>
+               <pub-id pub-id-type="doi">10.1080/15230406.2017.1295820</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B14">
+            <mixed-citation>O’Brien, O., Cheshire, J., Batty, M. (2014). Mining bicycle sharing data for generating insights into sustainable transport systems. Journal of Transport Geography, 34, 262-273. https://doi.org/10.1016/j.jtrangeo.2013.06.007</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>O’Brien</surname>
+                     <given-names>O.</given-names>
+                  </name>
+                  <name>
+                     <surname>Cheshire</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Batty</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Mining bicycle sharing data for generating insights into sustainable transport systems</article-title>
+               <source>Journal of Transport Geography</source>
+               <volume>34</volume>
+               <fpage>262</fpage>
+               <lpage>273</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jtrangeo.2013.06.007</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B15">
+            <mixed-citation>Ren, L., Du, Y., Ma, S., Zhang, X. L., Dai, G. Z. (2014). Visual analytics towards big data. Ruan Jian Xue Bao/Journal of Software, 25(9), 1909-1936. https://doi.org/10.13328/j.cnki.jos.004645</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Ren</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Du</surname>
+                     <given-names>Y.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ma</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zhang</surname>
+                     <given-names>X. L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Dai</surname>
+                     <given-names>G. Z.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Visual analytics towards big data</article-title>
+               <source>Ruan Jian Xue Bao/Journal of Software</source>
+               <volume>25</volume>
+               <issue>9</issue>
+               <fpage>1909</fpage>
+               <lpage>1936</lpage>
+               <pub-id pub-id-type="doi">10.13328/j.cnki.jos.004645</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B16">
+            <mixed-citation>Romanillos, G., Austwick, M. Z., Ettema, D., De Kruijf, J. (2016). Big data and cycling. Transport Reviews 36(1), 114-133. https://doi.org/10.1080/01441647.2015.1084067</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Romanillos</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Austwick</surname>
+                     <given-names>M. Z.</given-names>
+                  </name>
+                  <name>
+                     <surname>Ettema</surname>
+                     <given-names>D.</given-names>
+                  </name>
+                  <name>
+                     <surname>De Kruijf</surname>
+                     <given-names>J.</given-names>
+                  </name>
+               </person-group>
+               <year>2016</year>
+               <article-title>Big data and cycling</article-title>
+               <source>Transport Reviews</source>
+               <volume>36</volume>
+               <issue>1</issue>
+               <fpage>114</fpage>
+               <lpage>133</lpage>
+               <pub-id pub-id-type="doi">10.1080/01441647.2015.1084067</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B17">
+            <mixed-citation>Romanillos, G., Moya-Gómez, B., Austwick, M. Z., Lamíquiz-Daudén, P. J. (2018). The pulse of the cycling city: visualising Madrid bike share system GPS routes and cycling flow. Journal of Maps 14(1), 34-43. https://doi.org/10.1080/17445647.2018.1438932</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Romanillos</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Moya-Gómez</surname>
+                     <given-names>B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Austwick</surname>
+                     <given-names>M. Z.</given-names>
+                  </name>
+                  <name>
+                     <surname>Lamíquiz-Daudén</surname>
+                     <given-names>P. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>The pulse of the cycling city: visualising Madrid bike share system GPS routes and cycling flow</article-title>
+               <source>Journal of Maps</source>
+               <volume>14</volume>
+               <issue>1</issue>
+               <fpage>34</fpage>
+               <lpage>43</lpage>
+               <pub-id pub-id-type="doi">10.1080/17445647.2018.1438932</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B18">
+            <mixed-citation>Sandvik, B. (2008). Using KML for thematic mapping. Institute of Geography School of GeoSciences. Edinburgh, University of Edinburgh. MSc in Geographical Information Science, 22. Retrieved from: <ext-link ext-link-type="uri"
+                         xlink:href="https://thematicmapping.org/~thematic/downloads/Using_KML_for_Thematic_Mapping.pdf">https://thematicmapping.org/~thematic/downloads/Using_KML_for_Thematic_Mapping.pdf</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sandvik</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2008</year>
+               <article-title>Using KML for thematic mapping</article-title>
+               <source>Institute of Geography School of GeoSciences. Edinburgh, University of Edinburgh. MSc in Geographical Information Science, 22</source>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://thematicmapping.org/~thematic/downloads/Using_KML_for_Thematic_Mapping.pdf">https://thematicmapping.org/~thematic/downloads/Using_KML_for_Thematic_Mapping.pdf</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B19">
+            <mixed-citation>Steg, L., &amp; Gifford, R. (2005). Sustainable transportation and quality of life. Journal of Transport Geography 13(1), 59-69. https://doi.org/10.1016/j.jtrangeo.2004.11.003</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Steg</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Gifford</surname>
+                     <given-names>R.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>Sustainable transportation and quality of life</article-title>
+               <source>Journal of Transport Geography</source>
+               <volume>13</volume>
+               <issue>1</issue>
+               <fpage>59</fpage>
+               <lpage>69</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.jtrangeo.2004.11.003</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>Suárez-Lastra, M. (2018). Plan BIci CDMX. Ciudad de México: Gobierno de Ciudad de México, Banco Interamericano de Desarrollo, Universidad Nacional Autónoma de México.</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Suárez-Lastra</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Plan BIci CDMX</article-title>
+               <source>Ciudad de México: Gobierno de Ciudad de México, Banco Interamericano de Desarrollo, Universidad Nacional Autónoma de México</source>
+            </element-citation>
+         </ref>
+         <ref id="B21">
+            <mixed-citation>Thakur, S., &amp; Hanson, A. J. (2010). A 3D visualization of multiple time series on maps. In 2010 14th International Conference Information Visualisation. pp. 336-343, iSSN: 2375-0138, 1550-6037. https://doi.org/10.1109/IV.2010.54</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thakur</surname>
+                     <given-names>S.</given-names>
+                  </name>
+                  <name>
+                     <surname>Hanson</surname>
+                     <given-names>A. J.</given-names>
+                  </name>
+               </person-group>
+               <year>2010</year>
+               <article-title>A 3D visualization of multiple time series on maps</article-title>
+               <source>In 2010 14th International Conference Information Visualisation</source>
+               <fpage>336</fpage>
+               <lpage>343</lpage>
+               <pub-id pub-id-type="doi">10.1109/IV.2010.54</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B22">
+            <mixed-citation>Thakuriah, P. V., Tilahun, N., Zellner, M. (Eds.) (2017a). Seeing Cities Through Big Data: Research, Methods and Applications in Urban Informatics. Springer. https://doi.org/10.1007/978-3-319-40902-3</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Thakuriah</surname>
+                     <given-names>P. V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tilahun</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zellner</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Seeing Cities Through Big Data</article-title>
+               <source>Research, Methods and Applications in Urban Informatics</source>
+               <pub-id pub-id-type="doi">10.1007/978-3-319-40902-3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>Thakuriah, P. V., Tilahun, N. Y., Zellner, M. (2017b). Big data and urban informatics: innovations and challenges to urban planning and knowledge discovery. In: Thakuriah P., Tilahun N., Zellner M. (Eds.) Seeing Cities Through Big Data. Springer Geography. Springer, pp. 11-45. https://doi.org/10.1007/978-3-319-40902-3_2</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thakuriah</surname>
+                     <given-names>P. V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tilahun</surname>
+                     <given-names>N. Y.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zellner</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Big data and urban informatics: innovations and challenges to urban planning and knowledge discovery</article-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Thakuriah</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tilahun</surname>
+                     <given-names>N.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zellner</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <source>Seeing Cities Through Big Data. Springer Geography. Springer</source>
+               <fpage>11</fpage>
+               <lpage>45</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-3-319-40902-3_2</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B24">
+            <mixed-citation>Thakuriah, P. V., Tilahun, N. Y., Zellner, M. (2017c). Thakuriah P.., Tilahun N.Y., Zellner M. (2017) Introduction to Seeing Cities Through Big Data: Research, Methods and Applications in Urban Informatics. In: Thakuriah P., Tilahun N., Zellner M. (Eds.) Seeing Cities Through Big Data. Springer Geography. Springer, pp. 1-9. https://doi.org/10.1007/978-3-319-40902-3_1</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Thakuriah</surname>
+                     <given-names>P. V.</given-names>
+                  </name>
+                  <name>
+                     <surname>Tilahun</surname>
+                     <given-names>N. Y.</given-names>
+                  </name>
+                  <name>
+                     <surname>Zellner</surname>
+                     <given-names>M.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Introduction to Seeing Cities Through Big Data: Research, Methods and Applications in Urban Informatics</article-title>
+               <source>Seeing Cities Through Big Data. Springer Geography. Springer</source>
+               <fpage>1</fpage>
+               <lpage>9</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-3-319-40902-3_1</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B25">
+            <mixed-citation>Tominski, C., Schulze-Wollgast, P., Schumann, H. (2005). 3d information visualization for time dependent data on maps. In Ninth International Conference on Information Visualisation (IV'05), pp. 175-181. https://doi.org/10.1109/IV.2005.3</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tominski</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Schulze-Wollgast</surname>
+                     <given-names>P.</given-names>
+                  </name>
+                  <name>
+                     <surname>Schumann</surname>
+                     <given-names>H.</given-names>
+                  </name>
+               </person-group>
+               <year>2005</year>
+               <article-title>3d information visualization for time dependent data on maps</article-title>
+               <source>In Ninth International Conference on Information Visualisation (IV'05)</source>
+               <fpage>175</fpage>
+               <lpage>181</lpage>
+               <pub-id pub-id-type="doi">10.1109/IV.2005.3</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B26">
+            <mixed-citation>Tominski, C., Schumann, H., Andrienko, G., Andrienko, N. (2012). Stacking-based visualization of trajectory attribute data. IEEE transactions on visualization and computer graphics 18(12), 2565-2574. https://doi.org/10.1109/TVCG.2012.265</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Tominski</surname>
+                     <given-names>C.</given-names>
+                  </name>
+                  <name>
+                     <surname>Schumann</surname>
+                     <given-names>H.</given-names>
+                  </name>
+                  <name>
+                     <surname>Andrienko</surname>
+                     <given-names>G.</given-names>
+                  </name>
+                  <name>
+                     <surname>Andrienko</surname>
+                     <given-names>N.</given-names>
+                  </name>
+               </person-group>
+               <year>2012</year>
+               <article-title>Stacking-based visualization of trajectory attribute data</article-title>
+               <source>IEEE transactions on visualization and computer graphics</source>
+               <volume>18</volume>
+               <issue>12</issue>
+               <fpage>2565</fpage>
+               <lpage>2574</lpage>
+               <pub-id pub-id-type="doi">10.1109/TVCG.2012.265</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B27">
+            <mixed-citation>Wikipedia. (2019, 29/03/2019). List of bicycle-sharing systems.  Retrieved from <ext-link ext-link-type="uri"
+                         xlink:href="https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems">https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems</ext-link>
+            </mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <collab>Wikipedia</collab>
+               </person-group>
+               <year>2019</year>
+               <article-title>List of bicycle-sharing systems</article-title>
+               <ext-link ext-link-type="uri"
+                         xlink:href="https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems">https://en.wikipedia.org/wiki/List_of_bicycle-sharing_systems</ext-link>
+            </element-citation>
+         </ref>
+         <ref id="B28">
+            <mixed-citation>Zhu, L., Li, Z., Wang, Z.. (2018). Representing Time-Dynamic Geospatial Objects on Virtual Globes Using CZML-Part II: Impact, Comparison, and Future Developments. ISPRS International Journal of Geo-Information 7(3), 102. https://doi.org/10.3390/ijgi7030102</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Zhu</surname>
+                     <given-names>L.</given-names>
+                  </name>
+                  <name>
+                     <surname>Li</surname>
+                     <given-names>Z.</given-names>
+                  </name>
+                  <name>
+                     <surname>Wang</surname>
+                     <given-names>Z.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <article-title>Representing Time-Dynamic Geospatial Objects on Virtual Globes Using CZML-Part II: Impact, Comparison, and Future Developments</article-title>
+               <source>ISPRS International Journal of Geo-Information</source>
+               <volume>7</volume>
+               <issue>3</issue>
+               <fpage>102</fpage>
+               <lpage>102</lpage>
+               <pub-id pub-id-type="doi">10.3390/ijgi7030102</pub-id>
+            </element-citation>
+         </ref>
+      </ref-list>
+   </back>
+</article>
