@@ -42,6 +42,7 @@
                <xref ref-type="aff" rid="aff1">
                   <sup>1</sup>
                </xref>
+               <xref ref-type="corresp" rid="c1">*</xref>
             </contrib>
             <contrib contrib-type="author">
                <name>
@@ -53,6 +54,9 @@
                </xref>
             </contrib>
          </contrib-group>
+         <author-notes>
+            <corresp id="c1">E-mail address: <email>jcavazos@geociencias.unam.mx</email></corresp>
+         </author-notes>
          <aff id="aff1">
             <label>1</label>
             <institution content-type="original">Centro de Geociencias, Universidad Nacional Autónoma de México, Blvd. Juriquilla 3001, Campus UNAM-Juriquilla, Querétaro, 76230, México.</institution>
@@ -102,12 +106,12 @@
          <abstract>
             <sec>
               <title>Abstract</title>
-              <p>The Xáltipan ignimbrite (XI) records the largest single-eruption of the Trans-Mexican Volcanic Belt up to date (≥344 km3 uncompacted volume). As most large ignimbrites, the XI presents common challenges when mapping. These are abrupt welding variations, burial by younger units near other volcanic sources, and highly eroded deposits in active-water valleys. In this work, we deal with these issues by integrating classical cartographic techniques such as field measurements, geometric projections of energy lines and construction of geologic sections, with a GIS-based methodology that quantifies the eroded bulk. As a result, we obtained a map with the main XI features that is presented in an interactive format. Furthermore, we discuss the resources used for the map construction and how the results contributed to the interpretation of the eruptive history. These contributions include: 1) the energy lines point to a low-height pyroclastic density currents source, typical of caldera-forming, boiling-over eruptions; 2) the landscape of the XI, coupled with the geologic sections, indicate that in the proximal facies the ignimbrite filled a volcanic field, leaving a radially shaped distribution with a flat surface, while in the distal facies it channelized into a steep mountainous ground; and 3) the geologic sections in the valley areas, where the active rivers highly eroded the original XI deposits, revealed the preferential development of welded zones along channel centers.</p>
+              <p>The Xáltipan ignimbrite (XI) records the largest single-eruption of the Trans-Mexican Volcanic Belt up to date (≥344 km<sup>3</sup> uncompacted volume). As most large ignimbrites, the XI presents common challenges when mapping. These are abrupt welding variations, burial by younger units near other volcanic sources, and highly eroded deposits in active-water valleys. In this work, we deal with these issues by integrating classical cartographic techniques such as field measurements, geometric projections of energy lines and construction of geologic sections, with a GIS-based methodology that quantifies the eroded bulk. As a result, we obtained a map with the main XI features that is presented in an interactive format. Furthermore, we discuss the resources used for the map construction and how the results contributed to the interpretation of the eruptive history. These contributions include: 1) the energy lines point to a low-height pyroclastic density currents source, typical of caldera-forming, boiling-over eruptions; 2) the landscape of the XI, coupled with the geologic sections, indicate that in the proximal facies the ignimbrite filled a volcanic field, leaving a radially shaped distribution with a flat surface, while in the distal facies it channelized into a steep mountainous ground; and 3) the geologic sections in the valley areas, where the active rivers highly eroded the original XI deposits, revealed the preferential development of welded zones along channel centers.</p>
               <p><italic><bold>Keywords:</bold></italic> Los Humeros Volcanic Complex; PDC emplacement; energy line, ignimbrite mapping, geographic information systems, ignimbrite geometry.</p>
             </sec>
             <sec>
               <title>Resumen</title>
-              <p>La ignimbrita Xáltipan (IX) registra la erupción más grande del Cinturón Volcánico Trans-Mexicana reportado hasta la fecha (≥344 km3 volumen no compactado). La IX, como la mayoría de las ignimbritas de gran volumen, presenta problemas comunes al momento de mapearla. Estos obstáculos incluyen variaciones abruptas en el grado de soldamiento, sepultamiento por otras unidades volcánicas más recientes cerca de otras fuentes volcánicas, y depósitos altamente erosionados en zonas de valles activos. En este trabajo, estos problemas  son atendidos mediante la integración de técnicas cartográficas clásicas que incluyen mediciones de campo, proyecciones geométricas de líneas de energía y construcción de secciones geológicas con  una metodología basada en Sistemas de Información Geográfica (SIG) para la cuantificación de la masa erosionada. Como resultado, obtuvimos un mapa, que se presenta en un formato interactivo que contiene las principales características de esta ignimbrita. Además, describimos los recursos utilizados para la construcción del mapa y cómo los resultados contribuyeron a la interpretación de la historia eruptiva. Estas contribuciones incluyen: 1) las líneas de energía apuntan a un fuente somera de corrientes piroclasticas densas, lo cual es típico en erupciones tipo boiling-over asociadas a la formación de calderas; 2) el terreno formado por la IX, juntocon la información de las secciones geológicas, indican que en las facies proximales la ignimbrita rellenó por completo un campo volcánico, depositándose con una distribución en forma radial y con una superficie plana, mientras que en las facies distales se canalizó en un terreno montañoso; y 3) las secciones geológicas en las áreas del valle, donde los ríos activos han erosionado profundamente los depósitos de la IX, revelaron el desarrollo preferencial de zonas soldadas a lo largo de los centros de los canales.</p>
+              <p>La ignimbrita Xáltipan (IX) registra la erupción más grande del Cinturón Volcánico Trans-Mexicana reportado hasta la fecha (≥344 km<sup>3</sup> volumen no compactado). La IX, como la mayoría de las ignimbritas de gran volumen, presenta problemas comunes al momento de mapearla. Estos obstáculos incluyen variaciones abruptas en el grado de soldamiento, sepultamiento por otras unidades volcánicas más recientes cerca de otras fuentes volcánicas, y depósitos altamente erosionados en zonas de valles activos. En este trabajo, estos problemas  son atendidos mediante la integración de técnicas cartográficas clásicas que incluyen mediciones de campo, proyecciones geométricas de líneas de energía y construcción de secciones geológicas con  una metodología basada en Sistemas de Información Geográfica (SIG) para la cuantificación de la masa erosionada. Como resultado, obtuvimos un mapa, que se presenta en un formato interactivo que contiene las principales características de esta ignimbrita. Además, describimos los recursos utilizados para la construcción del mapa y cómo los resultados contribuyeron a la interpretación de la historia eruptiva. Estas contribuciones incluyen: 1) las líneas de energía apuntan a un fuente somera de corrientes piroclasticas densas, lo cual es típico en erupciones tipo boiling-over asociadas a la formación de calderas; 2) el terreno formado por la IX, juntocon la información de las secciones geológicas, indican que en las facies proximales la ignimbrita rellenó por completo un campo volcánico, depositándose con una distribución en forma radial y con una superficie plana, mientras que en las facies distales se canalizó en un terreno montañoso; y 3) las secciones geológicas en las áreas del valle, donde los ríos activos han erosionado profundamente los depósitos de la IX, revelaron el desarrollo preferencial de zonas soldadas a lo largo de los centros de los canales.</p>
               <p><italic><bold>Palabras clave:</bold> </italic> Complejo Volcánico de Los Humeros; emplazamiento de CPD; línea de energía; mapeo de ignimbritas; sistemas de información geográfica; geometría de ignimbritas.</p>
             </sec>
          </abstract>
@@ -148,7 +152,7 @@
    <body>
       <sec sec-type="intro">
          <title>1. Introduction</title>
-         <p>Caldera-forming eruptions are extremely violent events marked by the generation of massive pumice-rich, concentrated pyroclastic density currents (PDCs), called ignimbrites. Ignimbrite mapping is a key tool to interpret the eruptive history of their volcanic source and to assess the volcanic hazards. Because of this, many maps of large volume ignimbrites have been published focusing on different aspects, such as their internal architecture (<xref ref-type="bibr" rid="B2">Aldiss and Ghazali, 1984</xref>; <xref ref-type="bibr" rid="B12">Cook et al., 2016</xref>; <xref ref-type="bibr" rid="B24">Walker et al., 1980</xref>; <xref ref-type="bibr" rid="B25">Wilson et al., 1995</xref>), sedimentation processes (<xref ref-type="bibr" rid="B10">Cas et al., 2011</xref>; <xref ref-type="bibr" rid="B15">Giordano and Doronzo, 2017</xref>), and the interpretation of the eruptive evolution of large volcanic fields (<xref ref-type="bibr" rid="B1">Aguirre-Díaz, 1996</xref>; <xref ref-type="bibr" rid="B4">Brown and Branney, 2004</xref>; <xref ref-type="bibr" rid="B20">Self et al., 1984</xref>; <xref ref-type="bibr" rid="B22">Suñe-Puchol et al., 2018</xref>). Nevertheless, common challenges arise while mapping large ignimbrites. Three of the most common are: 1) they typically present lithofacies variations (texture, internal structures, componentry, and composition) that change their aspect drastically; 2) they are commonly buried by younger volcanic and epiclastic units near other volcanic sources; and 3) non-welded ignimbrites that deposited in active water-running valleys are rapidly eroded away. These three conditions occur in the Xáltipan ignimbrite (XI) at Los Humeros Volcanic Complex (LHVC), which is the largest ignimbrite in the Trans-Mexican Volcanic Belt (TMVB). This unit is characterized by being mostly buried under younger volcanic and epiclastic units from the LHVC and adjacent volcanic sources. In the areas where it is exposed, the deposits are highly eroded and present abrupt welding variations that range from rank I to V (<xref ref-type="bibr" rid="B19">Quane and Russell, 2005</xref>). This work describes the construction of the XI map by applying a GIS-based methodology. This methodology integrates conventional cartographic techniques such as field measurements, geometric projections of energy lines, construction of geologic sections, as well as an innovative method to estimate the eroded volumes in valley areas. Special attention is paid to how the mapping challenges were solved with this methodology and how the cartographic results contributed to interpreting the eruptive history.</p>
+         <p>Caldera-forming eruptions are extremely violent events generating massive pumice-rich, concentrated pyroclastic density currents (PDCs), called ignimbrites. Ignimbrite mapping is a key tool to interpret the eruptive history of their volcanic source and to assess the volcanic hazards. Because of this, many maps of large volume ignimbrites have been published focusing on different aspects, such as their internal architecture (<xref ref-type="bibr" rid="B2">Aldiss and Ghazali, 1984</xref>; <xref ref-type="bibr" rid="B12">Cook et al., 2016</xref>; <xref ref-type="bibr" rid="B24">Walker et al., 1980</xref>; <xref ref-type="bibr" rid="B25">Wilson et al., 1995</xref>), sedimentation processes (<xref ref-type="bibr" rid="B10">Cas et al., 2011</xref>; <xref ref-type="bibr" rid="B15">Giordano and Doronzo, 2017</xref>), and the interpretation of the eruptive evolution of large volcanic fields (<xref ref-type="bibr" rid="B1">Aguirre-Díaz, 1996</xref>; <xref ref-type="bibr" rid="B4">Brown and Branney, 2004</xref>; <xref ref-type="bibr" rid="B20">Self et al., 1984</xref>; <xref ref-type="bibr" rid="B22">Suñe-Puchol et al., 2018</xref>). Nevertheless, common challenges arise while mapping large ignimbrites. Three of the most common are: 1) they typically present lithofacies variations (texture, internal structures, componentry, and composition) that change their aspect drastically; 2) they are commonly buried by younger volcanic and epiclastic units near other volcanic sources; and 3) non-welded ignimbrites that deposited in active water-running valleys are rapidly eroded away. These three conditions occur in the Xáltipan ignimbrite (XI) at Los Humeros Volcanic Complex (LHVC), which is the largest ignimbrite in the Trans-Mexican Volcanic Belt (TMVB). This unit is characterized by being mostly buried under younger volcanic and epiclastic units from the LHVC and adjacent volcanic sources. In the areas where it is exposed, the deposits are highly eroded and present abrupt welding variations that range from rank I to V (<xref ref-type="bibr" rid="B19">Quane and Russell, 2005</xref>). This work describes the construction of the XI map by applying a GIS-based methodology. This methodology integrates conventional cartographic techniques such as field measurements, geometric projections of energy lines, construction of geologic sections, as well as an innovative method to estimate the eroded volumes in valley areas. Special attention is paid to how the mapping challenges were solved with this methodology and how the cartographic results contributed to interpreting the eruptive history.</p>
       </sec>
       <sec>
 			   <title>2. Geologic setting</title>
@@ -176,7 +180,7 @@
 			</sec>
       <sec sec-type="methods|cases">
          <title>3. Methods</title>
-         <p>The cartographic work to estimate a more precise distribution and volume of the XI is based on the integration of fieldwork campaigns, digital mapping, and image edition. During fieldwork, up to 216 checkpoints of the XI were located and described (<xref ref-type="table" rid="t1">Table 1, supplementary data</xref>). These checkpoints include both the exposed outcrops and information from the water wells where the XI was identified. Simultaneous to fieldwork, digital mapping and graphic edition were carried out with QGIS and CorelDraw software, respectively. This work allowed to present the following features: a) the observed deposits, where the XI is presently exposed; b) the inferred deposits which represent the XI original distribution before burial and erosion based on 12 sections where the Energy Line concept (<xref ref-type="bibr" rid="B17">Hsu, 1975</xref>) was applied; c) four geologic cross-sections, and d) the areas where the eroded bulk of the ignimbrite was calculated. The methodology to construct each feature is presented in the following section.</p>
+         <p>The cartographic work to estimate a more precise distribution and volume of the XI is based on the integration of fieldwork campaigns, digital mapping, and image edition. During fieldwork, up to 216 checkpoints of the XI were located and described (Table 1, supplementary material). These checkpoints include both the exposed outcrops and information from the water wells where the XI was identified. Simultaneous to fieldwork, digital mapping and graphic edition were carried out with QGIS and CorelDraw software, respectively. This work allowed to present the following features: a) the observed deposits, where the XI is presently exposed; b) the inferred deposits which represent the XI original distribution before burial and erosion based on 12 sections where the Energy Line concept (<xref ref-type="bibr" rid="B17">Hsu, 1975</xref>) was applied; c) four geologic cross-sections, and d) the areas where the eroded bulk of the ignimbrite was calculated. The methodology to construct each feature is presented in the following section.</p>
 
          <sec>
            <title>3.1. Observed deposits</title>
@@ -184,7 +188,7 @@
          </sec>
          <sec>
            <title>3.2. Inferred deposits</title>
-           <p>The inferred deposits area was delimited by using the Energy Line concept (<xref ref-type="bibr" rid="B17">Hsu, 1975</xref>). This is an effective method to determine the lateral extent of a gravity-driven rock-mass such as PDCs, where the topography and location of observed deposits are known. Another application of this method is that the intersection of the energy lines with the source provides an approximation of the height where the PDCs were generated (<xref ref-type="bibr" rid="B3">Beget and Limke, 1988</xref>). A total of 12 energy lines where constructed radially from the LHC by using the QGIS Profile tool (Table 2, supplementary data). The profiles with the location of the intersected observed deposits were exported to CorelDraw. In each profile, the energy line was projected from the furthest observed deposit to the LHC rim, which is inferred as the source of the ignimbrite. For each energy line, the slope and the height above the source were measured. Where topographic highs intersected the energy lines, these were interpreted as topographic barriers where the PDCs flowed around them.</p>
+           <p>The inferred deposits area was delimited by using the Energy Line concept (<xref ref-type="bibr" rid="B17">Hsu, 1975</xref>). This is an effective method to determine the lateral extent of a gravity-driven rock-mass such as PDCs, where the topography and location of observed deposits are known. Another application of this method is that the intersection of the energy lines with the source provides an approximation of the height where the PDCs were generated (<xref ref-type="bibr" rid="B3">Beget and Limke, 1988</xref>). A total of 12 energy lines where constructed radially from the LHC by using the QGIS Profile tool (Table 2, supplementary material). The profiles with the location of the intersected observed deposits were exported to CorelDraw. In each profile, the energy line was projected from the furthest observed deposit to the LHC rim, which is inferred as the source of the ignimbrite. For each energy line, the slope and the height above the source were measured. Where topographic highs intersected the energy lines, these were interpreted as topographic barriers where the PDCs flowed around them.</p>
          </sec>
          <sec>
            <title>3.3 Geologic cross-sections</title>
@@ -192,7 +196,7 @@
          </sec>
          <sec>
            <title>3.4. Eroded bulk</title>
-           <p>The eroded space from the observed deposits at the valley-pond sectors was calculated by using a methodology that consists of simple operations using QGIS tools and a worksheet, summarized here. A shapefile with the polygons of the observed deposits and a DEM raster file was loaded to the QGIS workspace. Because the volume of each polygon is calculated independently, the polygons were saved as individual shapefiles (<xref ref-type="fig" rid="f3">Figure 3a</xref>). The individual polygon was then converted to a point shapefile, where the points are along the contour of the original polygon. The altitude value from the DEM is assigned to each point and a plane approximating the original surface of the ignimbrite before erosion was obtained by the interpolation of the points (<xref ref-type="fig" rid="f3">Figure 3b</xref>). Subsequently, the present topographic values from the DEM were subtracted from the newly created surface, generating a raster file with height values that represent the eroded thickness. This raster image was converted to a vector layer, creating a pixel grid with an attribute table with the area and eroded height for each pixel (<xref ref-type="fig" rid="f3">Figure 3c</xref>). These values were exported and filtered into a worksheet where the volume for each pixel was calculated. The sum of the individual volumes is used to calculate the total eroded bulk (Table 3 supplementary material). A detailed explanation of this method is presented as part of the supplementary material.</p>
+           <p>The eroded space from the observed deposits at the valley-pond sectors was calculated by using a methodology that consists of simple operations using QGIS tools and a worksheet, summarized here. A shapefile with the polygons of the observed deposits and a DEM raster file was loaded to the QGIS workspace. Because the volume of each polygon is calculated independently, the polygons were saved as individual shapefiles (<xref ref-type="fig" rid="f3">Figure 3a</xref>). The individual polygon was then converted to a point shapefile, where the points are along the contour of the original polygon. The altitude value from the DEM is assigned to each point and a plane approximating the original surface of the ignimbrite before erosion was obtained by the interpolation of the points (<xref ref-type="fig" rid="f3">Figure 3b</xref>). Subsequently, the present topographic values from the DEM were subtracted from the newly created surface, generating a raster file with height values that represent the eroded thickness. This raster image was converted to a vector layer, creating a pixel grid with an attribute table with the area and eroded height for each pixel (<xref ref-type="fig" rid="f3">Figure 3c</xref>). These values were exported and filtered into a worksheet where the volume for each pixel was calculated. The sum of the individual volumes is used to calculate the total eroded bulk (Table 3, supplementary material). A detailed explanation of this method is presented as part of the supplementary material.</p>
 
            <fig id="f3">
                <label>Figure 3 / Figura 3</label>
@@ -222,7 +226,7 @@
 
         <sec>
 	        <title>4.1. Contributions to interpreting the XI eruption</title>
-	        	<p>PDC source and type of eruption. The projections from the energy lines pointed to a low-altitude PDC generation zone, which is typical in boiling-over, caldera-forming eruptions. This is supported by the consistent geometry with low slopes of the energy lines along the study area (<xref ref-type="table" rid="t2">Table 2, supplementary material</xref>). These values vary from 0.9 to 3.6º, with a shallow height of the PDC source that goes from 0 to 395 m, except for the three energy lines of the SE and E zone. Here, the energy lines present a higher slope (4 to 6.5º) and source height (1,900 to 3,500 m). Nevertheless, these atypical geometry can be explained by the topological aspect ratio concept (Giordano and Doronzo, 2017), where currents can change their emplacement conditions. In this case, the current passed from a forced condition to an inertia-driven current when entering steep terrains. This change is observed in profiles a-a’ and b-b’, where the PDC surmounted over 510 m of the Cerro Pizarro volcano flanks and later descended through a steep open ramp, reaching runout distances of &gt;40 km (<xref ref-type="fig" rid="f5">Figure 5a</xref>). This can be also observed in profile c-c’, where the PDC confined into the deep Las Minas valley, reducing the runout distance to &lt;30 km (<xref ref-type="fig" rid="f5">Figure 5b</xref>).</p>
+            <p>PDC source and type of eruption. The projections from the energy lines pointed to a low-altitude PDC generation zone, which is typical in boiling-over, caldera-forming eruptions. This is supported by the consistent geometry with low slopes of the energy lines along the study area (<xref ref-type="table" rid="t2">Table 2</xref>). These values vary from 0.9 to 3.6º, with a shallow height of the PDC source that goes from 0 to 395 m, except for the three energy lines of the SE and E zone. Here, the energy lines present a higher slope (4 to 6.5º) and source height (1,900 to 3,500 m). Nevertheless, these atypical geometry can be explained by the topological aspect ratio concept (Giordano and Doronzo, 2017), where currents can change their emplacement conditions. In this case, the current passed from a forced condition to an inertia-driven current when entering steep terrains. This change is observed in profiles a-a’ and b-b’, where the PDC surmounted over 510 m of the Cerro Pizarro volcano flanks and later descended through a steep open ramp, reaching runout distances of &gt;40 km (<xref ref-type="fig" rid="f5">Figure 5a</xref>). This can be also observed in profile c-c’, where the PDC confined into the deep Las Minas valley, reducing the runout distance to &lt;30 km (<xref ref-type="fig" rid="f5">Figure 5b</xref>).</p>
         </sec>
 	      <sec>
 	          <title>4.2. Changes in the landscape</title>
@@ -307,7 +311,7 @@
 	                     </tr>
 	                     <tr>
 	                     	<td align="center">Eroded bulk</td>
-	                     	<td align="center">15 polygons in the valley areas where the eroded bulk was calculated. The total eroded volume sums 14.6 km3. </td>
+                           <td align="center">15 polygons in the valley areas where the eroded bulk was calculated. The total eroded volume sums 14.6 km<sup>3</sup>. </td>
 	                     	<td align="center">- Figure of the geologic section</td>
 	                     </tr>
 	                     <tr>
@@ -456,18 +460,34 @@
 	          </table-wrap>
 	      </sec>
 	      <sec>
-	          <title>4.3. Application of the eroded bulk methodology in other ignimbrites</title>
+	          <title>4.3. Application of the eroded bulk methodology in other ignimbrite</title>
 	          <p>Ignimbrite volume calculations are based on the area, thickness, and density of its deposits. Nevertheless, these issues commonly present high uncertainties caused, among other processes, by erosion. Two recent works exemplify this situation. The first occurs in the Otowi Member at the Valles Caldera, where the erosion of the outflow sheet is estimated based on erosion rates of another unit, resulting in the most significant uncertainty of the total volume calculation (<xref ref-type="bibr" rid="B12">Cook et al. 2016</xref>). The second is observed in the Cerro Galán ignimbrites, where the erosion is calculated at different zones by using thickness observations in individual valley zones and corrected by using correction factors that range from 1 (non-eroded) to 2 (half-eroded) with a +/-0.25 uncertainty (<xref ref-type="bibr" rid="B14">Folkes et al., 2011</xref>).</p>
 	          <p>The methodology to calculate the eroded bulk presented in this work estimates the erosion effect with no uncertainty. This because the method requires only two data, the area where ignimbrite is exposed at surface and a DEM that covers such area. Therefore, the method has the potential to be easily applied in ignimbrites that have been already mapped, as the two examples previously mentioned.</p>
 	      </sec>
 	      <sec sec-type="conclusions">
          <title>4.4. Conclusions</title>
 	         <p>The XI exemplifies three common situations that complicate ignimbrite mapping. These includes lithofacies variations, burial by younger rocks, and high-rates of erosion. In these cases, the integration of conventional cartographic techniques, such as field mapping, energy lines, and geologic sections, with GIS tools, allowed to trace the original and present distribution of the deposits. These cartographic results revealed three essential features of the eruption and emplacement process: 1) The energy lines projections point to a low altitude PCDs source, typical in boiling-over, caldera-forming eruptions. 2) The inferred distribution area shows a combination of radial and valley-filling shapes that respond to the topography before the eruption. In the proximal facies, the radial shape forms due to the relatively flattened pre-caldera lava field, while in the distal southern area the PDC showed a higher fluidization surmounting topographic barriers such as the Cerro Pizarro volcano, and in the distal facies the PDCs channelized into the steep valleys of the pre-volcanic basement. 3) Geologic sections, parallel and perpendicular to the ignimbrite-filled valleys, reveal that the highly-welded facies of the XI focus within channel centers and that these facies are exposed due to erosion processes.</p>
-	         <p>Software: The map was constructed using the Quantum GIS (QGIS) V.2.8.4-Wien with SAGA plugins installed. Besides the default QGIS tools, the plugins used where: Profile tool and qgis2threejs. Figures were drawn with CorelDraw X7.</p>
-	         <p>Data: The map project is included as a.qgs file, accompanied by the digital data there included (raster and shapefiles).</p>
-	         <p>Acknowledgments: We acknowledge the financial support given by the Consortium GEMEX European Union-Mexico [No. 2015-04-268074] and by the Centro Mexicano de Inovación en Energía Geotérmica from the Fondo de Sustentabilidad Energética SENER-CONACyT [No. 2007032]. Also, special thanks to Francisco Fernández and Javier Hernández for their valuable help and discussions during fieldwork, to Mario Navarro for his technical assistance during the data processing in QGIS, and Javier Osorno Covarrubias for the design and implementation of the interactive map. We are also grateful to the Centro de Geociencias (UNAM), who provided vehicles and infrastructure to support this work. Finally, the first author, thanks CONACyT-Mexico, who provided financing in the form of doctoral grant No. 504993.</p>
-	         <p>Map design: The map was plotted over a 120x100 km surface in order to cover the aerial extent of the Xáltipan ignimbrite and to show the topographic features beyond the limits of the deposits. The base of the map consists of a 30 m resolution Digital Elevation Model (DEM) from the Shuttle Radar Topography Mission. To image were obtained and overlapped form the DEM, the first in the form a partially transparent colored format that overlays the second with a “hillshade” effect.</p>
         </sec>
+      </sec>
+      <sec>
+        <title>5. Software</title>
+          <p>
+            The map was constructed using the Quantum GIS (QGIS) V.2.8.4-Wien with SAGA plugins installed.
+            Besides the default QGIS tools, the plugins used where: Profile tool and qgis2threejs.
+            Figures were drawn with CorelDraw X7.
+          </p>
+      </sec>
+      <sec>
+        <title>6. Acknowledgments</title>
+          <p>
+            We acknowledge the financial support given by the Consortium GEMEX European Union-Mexico [No. 2015-04-268074]
+            and by the Centro Mexicano de Inovación en Energía Geotérmica from the Fondo de Sustentabilidad Energética SENER-CONACyT [No. 2007032].
+            Also, special thanks to Francisco Fernández and Javier Hernández for their valuable help and discussions during fieldwork,
+            to Mario Navarro for his technical assistance during the data processing in QGIS,
+            and Javier Osorno Covarrubias for the design and implementation of the interactive map.
+            We are also grateful to the Centro de Geociencias (UNAM), who provided vehicles and infrastructure to support this work.
+            Finally, the first author, thanks CONACyT-Mexico, who provided financing in the form of doctoral grant No. 504993.
+          </p>
       </sec>
       <sec sec-type="supplementary-material">
          <title>Visualizador</title>
@@ -516,8 +536,8 @@
                <year>1984</year>
                <article-title>The regional geology and evolution of the Toba volcano-tectonic depression, Indonesia</article-title>
                <source>J. Geol. Soc. London</source>
-               <volume>141</volume>
-               <issue></issue>
+               <volume>141(3)</volume>
+               <issue>3</issue>
                <fpage>487</fpage>
                <lpage>500</lpage>
                <pub-id pub-id-type="doi">44/gsjgs.141.3.0487</pub-id>
@@ -539,8 +559,8 @@
                <year>1988</year>
                <article-title>Two-dimensional kinematic and rheological modeling of the 1912 pyroclastic flow, Katmai, Alaska</article-title>
                <source>Bull. Volcanol</source>
-               <volume>50</volume>
-               <issue></issue>
+               <volume>50(3)</volume>
+               <issue>3</issue>
                <fpage>148</fpage>
                <lpage>160</lpage>
                <pub-id pub-id-type="doi">10.1007/BF01079679</pub-id>
@@ -562,8 +582,8 @@
                <year>2004</year>
                <article-title>Event-stratigraphy of a caldera-forming ignimbrite eruption on Tenerife: The 273 ka Poris Formation</article-title>
                <source>Bull. Volcanol</source>
-               <volume>66</volume>
-               <issue></issue>
+               <volume>66(5)</volume>
+               <issue>5</issue>
                <fpage>392</fpage>
                <lpage>416</lpage>
                <pub-id pub-id-type="doi">10.1007/s00445-003-0321-y</pub-id>
@@ -601,8 +621,8 @@
                <year>2018</year>
                <article-title>Reappraisal of Los Humeros Volcanic Complex by New U/Th Zircon and 40Ar/39Ar Dating: Implications for Greater Geothermal Potential</article-title>
                <source>Geochemistry, Geophys. Geosystems</source>
-               <volume>19</volume>
-               <issue></issue>
+               <volume>19(1)</volume>
+               <issue>1</issue>
                <fpage>132</fpage>
                <lpage>149</lpage>
                <pub-id pub-id-type="doi">10.1002/2017GC007044</pub-id>
@@ -741,8 +761,8 @@
                <year>2010</year>
                <article-title>Evolution and hazards of a long-quiescent compound shield-like volcano: Cofre de Perote, Eastern Trans-Mexican Volcanic Belt</article-title>
                <source>J. Volcanol. Geotherm. Res</source>
-               <volume>197</volume>
-               <issue></issue>
+               <volume>197(1)</volume>
+               <issue>1</issue>
                <fpage>209</fpage>
                <lpage>224</lpage>
                <pub-id pub-id-type="doi">10.1016/j.jvolgeores.2009.08.010</pub-id>
@@ -784,8 +804,8 @@
                <year>2011</year>
                <article-title>The flow dynamics of an extremely large volume pyroclastic flow, the 2.08-Ma Cerro Galán Ignimbrite, NW Argentina, and comparison with other flow types</article-title>
                <source>Bull. Volcanol</source>
-               <volume>73</volume>
-               <issue></issue>
+               <volume>73(10)</volume>
+               <issue>10</issue>
                <fpage>1583</fpage>
                <lpage>1609</lpage>
                <pub-id pub-id-type="doi">10.1007/s00445-011-0564-y</pub-id>
@@ -833,7 +853,7 @@
                <year>2016</year>
                <article-title>Estimating the eruptive volume of a large pyroclastic body: the Otowi Member of the Bandelier Tuff, Valles caldera, New Mexico</article-title>
                <source>Bull. Volcanol</source>
-               <volume>78</volume>
+               <volume>78(2)</volume>
                <fpage>1</fpage>
                <lpage>11</lpage>
                <pub-id pub-id-type="doi">10.1007/s00445-016-1000-0</pub-id>
@@ -855,8 +875,8 @@
                <year>1984</year>
                <article-title>Eruption rates and compositional trends at Los Humeros Caldera, Puebla, Mexico</article-title>
                <source>J. Geophys. Res. Solid Earth</source>
-               <volume>89</volume>
-               <issue></issue>
+               <volume>89(B10)</volume>
+               <issue>B10</issue>
                <fpage>8511</fpage>
                <lpage>8524</lpage>
                <pub-id pub-id-type="doi">10.1029/JB089iB10p08511</pub-id>
@@ -894,7 +914,7 @@
                <year>2011</year>
                <article-title>A re-appraisal of the stratigraphy and volcanology of the Cerro Galán volcanic system, NW Argentina</article-title>
                <source>Bull. Volcanol.</source>
-               <volume>73</volume>
+               <volume>73(10)</volume>
                <fpage>1427</fpage>
                <lpage>1454</lpage>
                <pub-id pub-id-type="doi">10.1007/s00445-011-0459-y</pub-id>
@@ -916,8 +936,8 @@
                <year>2017</year>
                <article-title>Sedimentation and mobility of PDCs: A reappraisal of ignimbrites’ aspect ratio</article-title>
                <source>Sci. Rep.</source>
-               <volume>7</volume>
-               <issue></issue>
+               <volume>7(1)</volume>
+               <issue>1</issue>
                <fpage>1</fpage>
                <lpage>7</lpage>
                <pub-id pub-id-type="doi">10.1038/s41598-017-04880-6</pub-id>
@@ -955,8 +975,8 @@
                <year>2003</year>
                <article-title>Temporal control of subduction magmatism in the eastern Trans-Mexican Volcanic Belt: Mantle sources, slab contributions, and crustal contamination</article-title>
                <source>Geochemistry, Geophys. Geosystems</source>
-               <volume>4</volume>
-               <issue></issue>
+               <volume>4(8)</volume>
+               <issue>8</issue>
                <fpage></fpage>
                <lpage></lpage>
                <pub-id pub-id-type="doi">10.1029/2003GC000524</pub-id>
@@ -1035,8 +1055,8 @@
                <year>2005</year>
                <article-title>Ranking welding intensity in pyroclastic deposits.</article-title>
                <source>Bull. Volcanol.</source>
-               <volume>67</volume>
-               <issue></issue>
+               <volume>67(2)</volume>
+               <issue>2</issue>
                <fpage>129</fpage>
                <lpage>143</lpage>
                <pub-id pub-id-type="doi">10.1007/s00445-004-0367-5</pub-id>
@@ -1066,7 +1086,7 @@
                <year>1984</year>
                <article-title>Volcanological study of the great Tambora eruption of 1815</article-title>
                <source>Geology</source>
-               <volume>12</volume>
+               <volume>12(11)</volume>
                <fpage>659</fpage>
                <lpage>663</lpage>
                <pub-id pub-id-type="doi">10.1130/0091-7613(1984)12&lt;659:VSOTGT&gt;2.0.CO;2</pub-id>
@@ -1200,7 +1220,7 @@
                <year>1980</year>
                <article-title>Low-aspect ratio ignimbrites</article-title>
                <source>Nature</source>
-               <volume>283</volume>
+               <volume>283(5744)</volume>
                <fpage>286</fpage>
                <lpage>287</lpage>
                <pub-id pub-id-type="doi">10.1038/283286a0</pub-id>
@@ -1230,7 +1250,7 @@
                <year>1995</year>
                <article-title>An exceptionally widespread ignimbrite with implications for pyroclastic flow emplacement</article-title>
                <source>Nature</source>
-               <volume>378</volume>
+               <volume>378(6557)</volume>
                <fpage>605</fpage>
                <lpage>607</lpage>
                <pub-id pub-id-type="doi">10.1038/378605a0</pub-id>
