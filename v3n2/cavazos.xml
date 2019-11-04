@@ -222,7 +222,7 @@
 
         <sec>
 	        <title>4.1. Contributions to interpreting the XI eruption</title>
-            <p>PDC source and type of eruption. The projections from the energy lines pointed to a low-altitude PDC generation zone, which is typical in boiling-over, caldera-forming eruptions. This is supported by the consistent geometry with low slopes of the energy lines along the study area (Table 2, supplementary material). These values vary from 0.9 to 3.6º, with a shallow height of the PDC source that goes from 0 to 395 m, except for the three energy lines of the SE and E zone. Here, the energy lines present a higher slope (4 to 6.5º) and source height (1,900 to 3,500 m). Nevertheless, these atypical geometry can be explained by the topological aspect ratio concept (Giordano and Doronzo, 2017), where currents can change their emplacement conditions. In this case, the current passed from a forced condition to an inertia-driven current when entering steep terrains. This change is observed in profiles a-a’ and b-b’, where the PDC surmounted over 510 m of the Cerro Pizarro volcano flanks and later descended through a steep open ramp, reaching runout distances of &gt;40 km (<xref ref-type="fig" rid="f5">Figure 5a</xref>). This can be also observed in profile c-c’, where the PDC confined into the deep Las Minas valley, reducing the runout distance to &lt;30 km (<xref ref-type="fig" rid="f5">Figure 5b</xref>).</p>
+            <p>PDC source and type of eruption. The projections from the energy lines pointed to a low-altitude PDC generation zone, which is typical in boiling-over, caldera-forming eruptions. This is supported by the consistent geometry with low slopes of the energy lines along the study area (<xref ref-type="table" rid="t2">Table 2</xref>). These values vary from 0.9 to 3.6º, with a shallow height of the PDC source that goes from 0 to 395 m, except for the three energy lines of the SE and E zone. Here, the energy lines present a higher slope (4 to 6.5º) and source height (1,900 to 3,500 m). Nevertheless, these atypical geometry can be explained by the topological aspect ratio concept (Giordano and Doronzo, 2017), where currents can change their emplacement conditions. In this case, the current passed from a forced condition to an inertia-driven current when entering steep terrains. This change is observed in profiles a-a’ and b-b’, where the PDC surmounted over 510 m of the Cerro Pizarro volcano flanks and later descended through a steep open ramp, reaching runout distances of &gt;40 km (<xref ref-type="fig" rid="f5">Figure 5a</xref>). This can be also observed in profile c-c’, where the PDC confined into the deep Las Minas valley, reducing the runout distance to &lt;30 km (<xref ref-type="fig" rid="f5">Figure 5b</xref>).</p>
         </sec>
 	      <sec>
 	          <title>4.2. Changes in the landscape</title>
@@ -456,18 +456,34 @@
 	          </table-wrap>
 	      </sec>
 	      <sec>
-	          <title>4.3. Application of the eroded bulk methodology in other ignimbrites</title>
+	          <title>4.3. Application of the eroded bulk methodology in other ignimbrite</title>
 	          <p>Ignimbrite volume calculations are based on the area, thickness, and density of its deposits. Nevertheless, these issues commonly present high uncertainties caused, among other processes, by erosion. Two recent works exemplify this situation. The first occurs in the Otowi Member at the Valles Caldera, where the erosion of the outflow sheet is estimated based on erosion rates of another unit, resulting in the most significant uncertainty of the total volume calculation (<xref ref-type="bibr" rid="B12">Cook et al. 2016</xref>). The second is observed in the Cerro Galán ignimbrites, where the erosion is calculated at different zones by using thickness observations in individual valley zones and corrected by using correction factors that range from 1 (non-eroded) to 2 (half-eroded) with a +/-0.25 uncertainty (<xref ref-type="bibr" rid="B14">Folkes et al., 2011</xref>).</p>
 	          <p>The methodology to calculate the eroded bulk presented in this work estimates the erosion effect with no uncertainty. This because the method requires only two data, the area where ignimbrite is exposed at surface and a DEM that covers such area. Therefore, the method has the potential to be easily applied in ignimbrites that have been already mapped, as the two examples previously mentioned.</p>
 	      </sec>
 	      <sec sec-type="conclusions">
          <title>4.4. Conclusions</title>
 	         <p>The XI exemplifies three common situations that complicate ignimbrite mapping. These includes lithofacies variations, burial by younger rocks, and high-rates of erosion. In these cases, the integration of conventional cartographic techniques, such as field mapping, energy lines, and geologic sections, with GIS tools, allowed to trace the original and present distribution of the deposits. These cartographic results revealed three essential features of the eruption and emplacement process: 1) The energy lines projections point to a low altitude PCDs source, typical in boiling-over, caldera-forming eruptions. 2) The inferred distribution area shows a combination of radial and valley-filling shapes that respond to the topography before the eruption. In the proximal facies, the radial shape forms due to the relatively flattened pre-caldera lava field, while in the distal southern area the PDC showed a higher fluidization surmounting topographic barriers such as the Cerro Pizarro volcano, and in the distal facies the PDCs channelized into the steep valleys of the pre-volcanic basement. 3) Geologic sections, parallel and perpendicular to the ignimbrite-filled valleys, reveal that the highly-welded facies of the XI focus within channel centers and that these facies are exposed due to erosion processes.</p>
-	         <p>Software: The map was constructed using the Quantum GIS (QGIS) V.2.8.4-Wien with SAGA plugins installed. Besides the default QGIS tools, the plugins used where: Profile tool and qgis2threejs. Figures were drawn with CorelDraw X7.</p>
-	         <p>Data: The map project is included as a.qgs file, accompanied by the digital data there included (raster and shapefiles).</p>
-	         <p>Acknowledgments: We acknowledge the financial support given by the Consortium GEMEX European Union-Mexico [No. 2015-04-268074] and by the Centro Mexicano de Inovación en Energía Geotérmica from the Fondo de Sustentabilidad Energética SENER-CONACyT [No. 2007032]. Also, special thanks to Francisco Fernández and Javier Hernández for their valuable help and discussions during fieldwork, to Mario Navarro for his technical assistance during the data processing in QGIS, and Javier Osorno Covarrubias for the design and implementation of the interactive map. We are also grateful to the Centro de Geociencias (UNAM), who provided vehicles and infrastructure to support this work. Finally, the first author, thanks CONACyT-Mexico, who provided financing in the form of doctoral grant No. 504993.</p>
-	         <p>Map design: The map was plotted over a 120x100 km surface in order to cover the aerial extent of the Xáltipan ignimbrite and to show the topographic features beyond the limits of the deposits. The base of the map consists of a 30 m resolution Digital Elevation Model (DEM) from the Shuttle Radar Topography Mission. To image were obtained and overlapped form the DEM, the first in the form a partially transparent colored format that overlays the second with a “hillshade” effect.</p>
         </sec>
+      </sec>
+      <sec>
+        <title>5. Software</title>
+          <p>
+            The map was constructed using the Quantum GIS (QGIS) V.2.8.4-Wien with SAGA plugins installed.
+            Besides the default QGIS tools, the plugins used where: Profile tool and qgis2threejs.
+            Figures were drawn with CorelDraw X7.
+          </p>
+      </sec>
+      <sec>
+        <title>6. Acknowledgments</title>
+          <p>
+            We acknowledge the financial support given by the Consortium GEMEX European Union-Mexico [No. 2015-04-268074]
+            and by the Centro Mexicano de Inovación en Energía Geotérmica from the Fondo de Sustentabilidad Energética SENER-CONACyT [No. 2007032].
+            Also, special thanks to Francisco Fernández and Javier Hernández for their valuable help and discussions during fieldwork,
+            to Mario Navarro for his technical assistance during the data processing in QGIS,
+            and Javier Osorno Covarrubias for the design and implementation of the interactive map.
+            We are also grateful to the Centro de Geociencias (UNAM), who provided vehicles and infrastructure to support this work.
+            Finally, the first author, thanks CONACyT-Mexico, who provided financing in the form of doctoral grant No. 504993.
+          </p>
       </sec>
       <sec sec-type="supplementary-material">
          <title>Visualizador</title>
