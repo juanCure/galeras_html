@@ -215,11 +215,11 @@
          <title>2. Trabajos relacionados:</title>
          <sec>
             <title>2.1. Visualización</title>
-            <p>El tema de la visualización de datos espacio temporales es un tópico de investigación activo y con amplia tradición. Una muestra de ello es el amplio estudio de (<xref ref-type="bibr" rid="B1">Aigner et al., 2011</xref>), quienes realizan una revisión sistemática de 113 técnicas de visualización espacio temporal, categorizándolas de acuerdo con seis criterios referentes al carácter de los datos -marco de referencia, número de variables, el manejo del tiempo -disposición y primitivas temporales, y la naturaleza de la visualización -dinamicidad y dimensionalidad. De este universo de técnicas<sup>1</sup> solo 15 incluyen las características de tener un marco de referencia espacial y tridimensional y solo una, descrita por (<xref ref-type="bibr" rid="B11">Kapler &amp; Wright, 2005</xref>) es dinámica. Esta técnica que se implementa en el sistema Geotime, permite mostrar ítems de datos (por ejemplo, objetos, eventos, transacciones, flujos) en su contexto espacial y temporal. El sistema provee una versión dinámica e interactiva del concepto de cubo-espacio tiempo, en el que un mapa plano ilustra el contexto espacial y el tiempo se mapea en la dirección vertical. Otras variantes, adaptadas a la representación de series de tiempo involucran el uso de tornillos, espirales y poliedros, bajo el concepto de <italic>“helix icons”</italic> (<xref ref-type="bibr" rid="B25">Tominski et al., 2005</xref>) y el uso de <italic>“data vases”</italic> para la representación de series múltiples (<xref ref-type="bibr" rid="B21">Thakur &amp; Hanson, 2010</xref>). </p>
+            <p>El tema de la visualización de datos espacio temporales es un tópico de investigación activo y con amplia tradición. Una muestra de ello es el amplio estudio de (<xref ref-type="bibr" rid="B1">Aigner et al., 2011</xref>), quienes realizan una revisión sistemática de 113 técnicas de visualización espacio temporal, categorizándolas de acuerdo con seis criterios referentes al carácter de los datos -marco de referencia, número de variables, el manejo del tiempo -disposición y primitivas temporales, y la naturaleza de la visualización -dinamicidad y dimensionalidad. De este universo de técnicas<sup><xref ref-type="bibr" rid="B29">1</xref></sup> solo 15 incluyen las características de tener un marco de referencia espacial y tridimensional y solo una, descrita por (<xref ref-type="bibr" rid="B11">Kapler &amp; Wright, 2005</xref>) es dinámica. Esta técnica que se implementa en el sistema Geotime, permite mostrar ítems de datos (por ejemplo, objetos, eventos, transacciones, flujos) en su contexto espacial y temporal. El sistema provee una versión dinámica e interactiva del concepto de cubo-espacio tiempo, en el que un mapa plano ilustra el contexto espacial y el tiempo se mapea en la dirección vertical. Otras variantes, adaptadas a la representación de series de tiempo involucran el uso de tornillos, espirales y poliedros, bajo el concepto de <italic>“helix icons”</italic> (<xref ref-type="bibr" rid="B25">Tominski et al., 2005</xref>) y el uso de <italic>“data vases”</italic> para la representación de series múltiples (<xref ref-type="bibr" rid="B21">Thakur &amp; Hanson, 2010</xref>). </p>
             <p>El cambio de enfoque del paradigma estrecho de la cartografía como el arte y técnica de hacer mapas en papel al de una cartografía digital y en línea conectada a infraestructuras de datos, lo aborda (<xref ref-type="bibr" rid="B3">Basaraner, 2016</xref>), quien revisa el rol y alcance de la cartografía a la luz de desarrollos recientes en los procesos de creación de información espacial, integración de bases de datos y la generación de información geográfica y mapas digitales en línea. Este enfoque resulta particularmente pertinente en nuestro caso de estudio, ya que se centra en la representación de datos masivos de movilidad.</p>
             <p>Otro aspecto central de nuestro estudio es la visualización de flujos origen-destino en condiciones en las que la trayectoria real seguida en cada instancia se desconoce o es irrelevante. Su visualización resulta problemática dado el apiñamiento visual que crece con el cuadrado del número de puntos de conexión. (<xref ref-type="bibr" rid="B7">Graser et al., 2019</xref>) proponen una técnica para la reducción del apiñamiento visual (<italic>“visual clutter”</italic>) en representaciones cartográficas bidimensionales, orientada a operar en software de escritorio. Nuestro enfoque aborda la misma problemática, pero desde la perspectiva de escenas tridimensionales interactivas. </p>
             <p>(<xref ref-type="bibr" rid="B18">Sandvik, 2008</xref>) y más recientemente (<xref ref-type="bibr" rid="B28">Zhu et al., 2018</xref>) abordan el problema de la representación dinámica de procesos espaciotemporales utilizando lenguajes de marcado (KML y CZML) para la visualización en línea a través de globos virtuales (Google Earth y Cesium, respectivamente). Este enfoque de visualización a través de lenguajes de marcado se ha visto frenado a raíz de que Google Earth descontinuó su plugin para los visualizadores web. Por su parte, la visualización científica bajo el paradigma de globo virtual basada en Cesium, también ha perdido ímpetu por las mismas razones. El paquete plotKML (<xref ref-type="bibr" rid="B9">Hengl et al., 2015</xref>) que depende de Google Earth, ofrece una alternativa interesante para generar archivos KML a partir de estructuras de datos disponibles en R. </p>
-            <p>(<xref ref-type="bibr" rid="B8">Harder y Brown, 2017</xref>) exploran el estado del arte en materia de visualización cartográfica interactiva en línea usando herramientas de software propietario para la edición de escenas tridimensionales interactivas (ArcGIS Desktop y ArcScene) y difusión en línea (ArcGIS Server), ofreciendo ejemplos de aplicaciones en una variedad de campos<sup>2</sup>.</p>
+            <p>(<xref ref-type="bibr" rid="B8">Harder y Brown, 2017</xref>) exploran el estado del arte en materia de visualización cartográfica interactiva en línea usando herramientas de software propietario para la edición de escenas tridimensionales interactivas (ArcGIS Desktop y ArcScene) y difusión en línea (ArcGIS Server), ofreciendo ejemplos de aplicaciones en una variedad de campos<sup><xref ref-type="bibr" rid="B30">2</xref></sup>.</p>
             <p>En el mapeo de resultados políticos es común usar cartogramas que distorsionan el tamaño de las circunscripciones para igualar la densidad y reflejar de manera más correcta la naturaleza de la distribución espacial de los votantes. Sin embargo, esta práctica dificulta la lectura e interpretación del mapa para el lector en general. (<xref ref-type="bibr" rid="B13">Ourednik, 2017</xref>) destaca la utilidad del mapeo interactivo en 3 dimensiones como un recurso que permite mantener el mapa topográfico base intacto, mientras se usa la tercera dimensión para expresar resultados electorales superpuestos sobre una superficie que refleja la densidad demográfica. Aunque el tema es muy diferente, este estudio tiene similitud con el nuestro por las herramientas de software que utiliza para la visualización interactiva 3D. También es similar en que usa la tercera dimensión para mapear atributos: en su caso la densidad es mapeada a una superficie ráster de elevación y los resultados electorales se superponen en ella. En nuestro caso usamos la altura, color, forma de rasgos tridimensionales para representar la intensidad de los atributos cartografiados. Otra diferencia fundamental es que nosotros añadimos mecanismos para la visualización dinámica de series de tiempo.</p>
          </sec>
          <sec>
@@ -391,7 +391,7 @@
             <fig id="f8">
               <label>Figura 8 / Figure 8</label>
               <caption>
-                <p><italic><bold>Figura 8. </bold></italic> a) Exploración interactiva de la <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa3D/hourly_dynamics/">dinámica horaria</ext-link> de las cicloestaciones durante el lunes 31 de julio de 2017. Se muestra el número de arribos (cilindros azules), retiros (conos rojos) y la capacidad (columnas cuadrangulares) de cada ciclo estación. En  b y c se muestran los retiros y arribos en el intervalo de 8 a 9. En c y d arribos y retiros durante el intervalo de 18 a 19. Nótese que si el |(arribos – retiros)|  = capacidad, entonces la estación se vacía (o llena). El acarreo de bicis en camiones desde las estaciones llanas a las vacías y viceversa, permite mantener un nivel de arribos o retiros superior a la capacidad de la estación.</p>
+                <p><italic><bold>Figura 8. </bold></italic> a) Exploración interactiva de la <ext-link xlink:show="new" ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa3D/hourly_dynamics/">dinámica horaria</ext-link> de las cicloestaciones durante el lunes 31 de julio de 2017. Se muestra el número de arribos (cilindros azules), retiros (conos rojos) y la capacidad (columnas cuadrangulares) de cada ciclo estación. En  b y c se muestran los retiros y arribos en el intervalo de 8 a 9. En c y d arribos y retiros durante el intervalo de 18 a 19. Nótese que si el |(arribos – retiros)|  = capacidad, entonces la estación se vacía (o llena). El acarreo de bicis en camiones desde las estaciones llanas a las vacías y viceversa, permite mantener un nivel de arribos o retiros superior a la capacidad de la estación.</p>
                 <p><italic><bold>Figure 8. </bold></italic> Interactive viewer of the bike station <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero6/osorno/mapa3D/hourly_dynamics/">hourly dynamics</ext-link> during July 31, 2017. b) arrivals (blue cylinders), number of trip starts (red cones) and capacity for each station are shown. In b) and c) arrivals and trip starts are shown for the 8 to 9 am interval. In d) and e) are shown for the 6 to 7 pm interval. Notice that if, for an interval |(arribos – retiros)|  = capacidad then the station is full or empties. Bike trawling from full stations to empty ones allow to sustain a flow higher than the capacity of the station.</p>
               </caption>
               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura8.png"/>
@@ -452,8 +452,8 @@
                <fig id="f13">
                 <label>Figura 13 / Figure 13</label>
                 <caption>
-                  <p><italic><bold>Figura 13. </bold></italic> Arrastres y conexiones origen-destino dominantes. Se muestran promedios diarios para arrastres de salida (conos rojos), arrastres de entrada (cilindros azules) y arrastres entre cicloestaciones específicas (las parábolas dirigidas que conectan cicloestaciones específicas). La altura es proporcional al número.</p>
-                  <p><italic><bold>Figure 13. </bold></italic> Bike trawl and dominant origin-destination connections. Daily averages are shown for exit trawls (red cones), entry trawls (blue cylinders) and trawls between specific stations. Height is proportional to numbers of trawls.</p>
+                  <p><italic><bold>Figura 13. </bold></italic> Arrastres y conexiones origen-destino dominantes. Se muestran promedios diarios para arrastres de salida (conos rojos), arrastres de entrada (cilindros azules) y arrastres entre cicloestaciones (parábolas clasificadas según el número de arrastres). La altura es proporcional al número. Se omiten todas las conexiones dirigidas con un promedio diario menor menor a menor a 2.</p>
+                  <p><italic><bold>Figure 13. </bold></italic> Daily averages are shown for exit trawls (red cones), entry trawls (blue cylinders) and trawls between specific stations (classified parabolas, according to the number of trawls). Height is proportional to the number. All the directed connections with a daily average of less than 2 are omitted.</p>
                 </caption>
                 <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/osorno/figura13.png"/>
                </fig>
@@ -607,8 +607,8 @@
                <table-wrap id="t3">
                  <label>Tabla 3 / Table 3</label>
                  <caption>
-                  <p><italic><bold>Tabla 3. </bold></italic>Diez estaciones que presentan mayor reto logístico considerando su nivel de desbalance (arribos-retiros).</p>
-                  <p><italic><bold>Table 3. </bold></italic>Ten stations that present the greatest logistical challenge considering their level of imbalance.</p>
+                  <p><italic><bold>Tabla 3. </bold></italic> Diez estaciones con mayor desbalance considerando el promedio mensual de arribos y retiros</p>
+                  <p><italic><bold>Table 3. </bold></italic> Ten most imbalanced stations considering its monthly average of arrivals vs. withdraws</p>
                  </caption>
                  <table frame="box" rules="all" border="1">
                    <thead>
@@ -641,7 +641,7 @@
                        <td align="center">AV. JESÚS GARCÍA-CARLOS J. MENESES</td>
                      </tr>
                      <tr>
-                       <td align="center">idEst</td>
+                       <td align="center">id_estación</td>
                        <td align="center">21</td>
                        <td align="center">211</td>
                        <td align="center">271</td>
@@ -654,7 +654,7 @@
                        <td align="center">266</td>
                      </tr>
                      <tr>
-                       <td align="center">balance(arribos – retiros)</td>
+                       <td align="center">balance (arribos - retiros) (arrivals - withdraws)</td>
                        <td align="center">-1,034</td>
                        <td align="center">-875</td>
                        <td align="center">-634</td>
@@ -665,6 +665,11 @@
                        <td align="center">768</td>
                        <td align="center">2,523</td>
                        <td align="center">2,674</td>
+                     </tr>
+                     <tr>
+                        <td></td>
+                        <td colspan="5" align="center">estaciones “sumidero” (sink stations)</td>
+                        <td colspan="5" align="center">estaciones “surtidor” (pump stations)</td>
                      </tr>
                    </tbody>
                  </table>
@@ -819,9 +824,9 @@
             </sec>
          </sec>
          <sec>
-            <title>4.5. Balance mensual de arribos y retiros</title>
+            <title>4.5. Balance y promedio diario de arrastres en cada cicloestación</title>
             <bold> </bold>
-            <p>Un factor determinante para la operación eficiente del SBC durante las horas de demanda pico, es la estrategia de arrastrar bicicletas de las estaciones que se llenan con rapidez a las estaciones que se vacían, con objeto de satisfacer la demanda de bicis en estas últimas y lugares de anclaje en las primeras. Dado que mover las bicis de un lado a otro, cuesta, se plantea un problema de optimización interesante que consiste en maximizar el flujo en la red minimizando el número de arrastres y la distancia recorrida. En la <xref ref-type="fig" rid="f13">Figura 13a</xref>, se muestra un camión con capacidad para transportar 50 bicicletas. Ecobici cuenta también con camiones para 16 bicicletas a los que se adjuntan remolques con capacidad para arrastrar 16 bicis más. </p>
+            <p>Un factor determinante para la operación eficiente del SBC durante las horas de demanda pico, es la estrategia de arrastrar bicicletas de las estaciones que se llenan con rapidez a las estaciones que se vacían, con objeto de satisfacer la demanda de bicis en estas últimas y lugares de anclaje en las primeras (ver <xref ref-type="table" rid="t3">tabla 3</xref>). Dado el costo que representa mover las bicis de un lado a otro, se plantea un problema de optimización interesante que consiste en maximizar el flujo en la red minimizando el número de arrastres y la distancia recorrida. En la <xref ref-type="fig" rid="f13">Figura 13a</xref>, se muestra un camión con capacidad para transportar 50 bicicletas. Ecobici cuenta también con camiones para 16 bicicletas a los que se adjuntan remolques con capacidad para arrastrar 16 bicis más. </p>
             <p>Dada la tabla de viajes (<xref ref-type="fig" rid="f2">Figura 2</xref>), es posible obtener de manera indirecta, información sobre los arrastres que sufre cada bicicleta de la siguiente manera: para cada viaje <italic>i</italic> de la bici <italic>b (<sub>b</sub>V<sub>i</sub>)</italic> las tuplas ordenadas por bici, fechaRetiro, horaRetiro, permiten establecer la siguiente secuencia de cambios de posición de esa bici, de una estación a la siguiente:</p>
 
             <disp-quote>
@@ -877,11 +882,6 @@
                </list-item>
             </list>
          </p>
-      </sec>
-      <sec>
-         <title>Notas al pie</title>
-         <p><sup>1.</sup> La página web del libro de Aigner, tiene este <ext-link ext-link-type="uri" xlink:href="http://www.timeviz.net/">explorador interactivo</ext-link> de las técnicas descritas</p>
-         <p><sup>2.</sup> El <ext-link ext-link-type="uri" xlink:href="https://learn.arcgis.com/en/arcgis-book/?adumkts=branding&amp;aduc=web&amp;adum=general&amp;aduSF=vanity&amp;utm_Source=other&amp;aduca=m17the_arcgis_book_interactive_pdf&amp;aduco=thearcgisbook&amp;aducp=smartcommunities#home-overview">libro interactivo</ext-link> con vínculos a los mapas Web puede verse aquí. </p>
       </sec>
       <sec sec-type="supplementary-material">
          <title>Visualizador</title>
@@ -939,7 +939,7 @@
                <year>2013</year>
                <article-title>Visual analytics of movement: An overview of methods, tools and procedures</article-title>
                <source>Information Visualization</source>
-               <volume>12</volume>
+               <volume>12(1)</volume>
                <issue>1</issue>
                <fpage>3</fpage>
                <lpage>24</lpage>
@@ -958,7 +958,7 @@
                <year>2016</year>
                <article-title>Revisiting cartography: towards identifying and developing a modern and comprehensive framework</article-title>
                <source>Geocarto International</source>
-               <volume>31</volume>
+               <volume>31(1)</volume>
                <issue>1</issue>
                <fpage>71</fpage>
                <lpage>91</lpage>
@@ -977,7 +977,7 @@
                <year>2013</year>
                <article-title>Big data, smart cities and city planning</article-title>
                <source>Dialogues in Human Geography</source>
-               <volume>3</volume>
+               <volume>3(3)</volume>
                <issue>3</issue>
                <fpage>274</fpage>
                <lpage>279</lpage>
@@ -1012,7 +1012,7 @@
                <year>2013</year>
                <article-title>Visual exploration of big spatio-temporal urban data: A study of new york city taxi trips</article-title>
                <source>IEEE transactions on visualization and computer graphics</source>
-               <volume>19</volume>
+               <volume>19(12)</volume>
                <issue>12</issue>
                <fpage>2149</fpage>
                <lpage>2158</lpage>
@@ -1057,7 +1057,7 @@
                <year>2019</year>
                <article-title>Untangling origin-destination flows in geographic information systems</article-title>
                <source>Information Visualization</source>
-               <volume>18</volume>
+               <volume>18(1)</volume>
                <issue>1</issue>
                <fpage>153</fpage>
                <lpage>172</lpage>
@@ -1108,7 +1108,7 @@
                <year>2015</year>
                <article-title>plotKML: Scientific visualization of spatio-temporal data</article-title>
                <source>Journal of Statistical Software</source>
-               <volume>63</volume>
+               <volume>63(5)</volume>
                <issue>5</issue>
                <fpage>1</fpage>
                <lpage>25</lpage>
@@ -1142,7 +1142,7 @@
                <year>2005</year>
                <article-title>Geotime information visualization</article-title>
                <source>Information Visualization</source>
-               <volume>4</volume>
+               <volume>4(2)</volume>
                <issue>2</issue>
                <fpage>136</fpage>
                <lpage>146</lpage>
@@ -1200,7 +1200,7 @@
                <year>2017</year>
                <article-title>The third dimension of political mapping: exploiting map interactivity for a better understanding of election and referendum results</article-title>
                <source>Cartography and Geographic Information Science </source>
-               <volume>44</volume>
+               <volume>44(4)</volume>
                <issue>4</issue>
                <fpage>284</fpage>
                <lpage>295</lpage>
@@ -1261,7 +1261,7 @@
                <year>2014</year>
                <article-title>Visual analytics towards big data</article-title>
                <source>Ruan Jian Xue Bao/Journal of Software</source>
-               <volume>25</volume>
+               <volume>25(9)</volume>
                <issue>9</issue>
                <fpage>1909</fpage>
                <lpage>1936</lpage>
@@ -1292,7 +1292,7 @@
                <year>2016</year>
                <article-title>Big data and cycling</article-title>
                <source>Transport Reviews</source>
-               <volume>36</volume>
+               <volume>36(1)</volume>
                <issue>1</issue>
                <fpage>114</fpage>
                <lpage>133</lpage>
@@ -1323,7 +1323,7 @@
                <year>2018</year>
                <article-title>The pulse of the cycling city: visualising Madrid bike share system GPS routes and cycling flow</article-title>
                <source>Journal of Maps</source>
-               <volume>14</volume>
+               <volume>14(1)</volume>
                <issue>1</issue>
                <fpage>34</fpage>
                <lpage>43</lpage>
@@ -1364,7 +1364,7 @@
                <year>2005</year>
                <article-title>Sustainable transportation and quality of life</article-title>
                <source>Journal of Transport Geography</source>
-               <volume>13</volume>
+               <volume>13(1)</volume>
                <issue>1</issue>
                <fpage>59</fpage>
                <lpage>69</lpage>
@@ -1542,7 +1542,7 @@
                <year>2012</year>
                <article-title>Stacking-based visualization of trajectory attribute data</article-title>
                <source>IEEE transactions on visualization and computer graphics</source>
-               <volume>18</volume>
+               <volume>18(12)</volume>
                <issue>12</issue>
                <fpage>2565</fpage>
                <lpage>2574</lpage>
@@ -1583,11 +1583,37 @@
                <year>2018</year>
                <article-title>Representing Time-Dynamic Geospatial Objects on Virtual Globes Using CZML-Part II: Impact, Comparison, and Future Developments</article-title>
                <source>ISPRS International Journal of Geo-Information</source>
-               <volume>7</volume>
+               <volume>7(3)</volume>
                <issue>3</issue>
                <fpage>102</fpage>
                <lpage>102</lpage>
                <pub-id pub-id-type="doi">10.3390/ijgi7030102</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B29">
+            <mixed-citation>La página web del libro de Aigner, tiene este <ext-link ext-link-type="uri" xlink:href="http://www.timeviz.net/">explorador interactivo</ext-link> de las técnicas descritas</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname></surname>
+                     <given-names></given-names>
+                  </name>
+               </person-group>
+               <year></year>
+               <article-title>La página web del libro de Aigner, tiene este <ext-link ext-link-type="uri" xlink:href="http://www.timeviz.net/">explorador interactivo</ext-link> de las técnicas descritas</article-title>
+            </element-citation>
+         </ref>
+         <ref id="B30">
+            <mixed-citation>La página web del libro de Aigner, tiene este <ext-link ext-link-type="uri" xlink:href="http://www.timeviz.net/">explorador interactivo</ext-link> de las técnicas descritas</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname></surname>
+                     <given-names></given-names>
+                  </name>
+               </person-group>
+               <year></year>
+               <article-title>El <ext-link ext-link-type="uri" xlink:href="https://learn.arcgis.com/en/arcgis-book/?adumkts=branding&amp;aduc=web&amp;adum=general&amp;aduSF=vanity&amp;utm_Source=other&amp;aduca=m17the_arcgis_book_interactive_pdf&amp;aduco=thearcgisbook&amp;aducp=smartcommunities#home-overview">libro interactivo</ext-link> con vínculos a los mapas Web puede verse aquí.</article-title>
             </element-citation>
          </ref>
       </ref-list>
