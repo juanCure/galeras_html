@@ -28,7 +28,7 @@
             </subj-group>
          </article-categories>
          <title-group>
-            <article-title>Effective mapping of large ignimbrites by using a GIS-based methodology; case of the Xaltipan ignimbrite from Los Humeros caldera, Mexico / Mapeo efectivo de grandes ignimbritas utilizando una metodología basada en SIG; caso de la ignimbrita Xaltipan en la caldera de Los Humeros, Mexico</article-title>
+            <article-title>Effective mapping of large ignimbrites by using a GIS-based methodology; case of the Xáltipan ignimbrite from Los Humeros caldera, Mexico / Mapeo efectivo de grandes ignimbritas utilizando una metodología basada en SIG; caso de la ignimbrita Xáltipan en la caldera de Los Humeros, Mexico</article-title>
             <trans-title-group xml:lang="en">
                <trans-title>Effective mapping of large ignimbrites by using a GIS-based methodology; case of the Xaltipan ignimbrite from Los Humeros caldera, Mexico</trans-title>
             </trans-title-group>
@@ -106,19 +106,18 @@
          <abstract>
             <sec>
               <title>Abstract</title>
-              <p>The Xáltipan ignimbrite (XI) records the largest single-eruption of the Trans-Mexican Volcanic Belt up to date (≥344 km<sup>3</sup> uncompacted volume). As most large ignimbrites, the XI presents common challenges when mapping. These are abrupt welding variations, burial by younger units near other volcanic sources, and highly eroded deposits in active-water valleys. In this work, we deal with these issues by integrating classical cartographic techniques such as field measurements, geometric projections of energy lines and construction of geologic sections, with a GIS-based methodology that quantifies the eroded bulk. As a result, we obtained a map with the main XI features that is presented in an interactive format. Furthermore, we discuss the resources used for the map construction and how the results contributed to the interpretation of the eruptive history. These contributions include: 1) the energy lines point to a low-height pyroclastic density currents source, typical of caldera-forming, boiling-over eruptions; 2) the landscape of the XI, coupled with the geologic sections, indicate that in the proximal facies the ignimbrite filled a volcanic field, leaving a radially shaped distribution with a flat surface, while in the distal facies it channelized into a steep mountainous ground; and 3) the geologic sections in the valley areas, where the active rivers highly eroded the original XI deposits, revealed the preferential development of welded zones along channel centers.</p>
+              <p>The Xáltipan ignimbrite (XI) records the largest single-eruption of the Trans-Mexican Volcanic Belt up to date (≥344 km<sup>3</sup> uncompacted volume). As most large ignimbrites, this ignimbrite presents common challenges when mapping. These are abrupt welding variations, burial by younger units near other volcanic sources, and highly eroded deposits in active-water valleys. In this work, we deal with these issues by integrating classical cartographic techniques such as field measurements, geometric projections of energy lines and construction of geologic sections, with a GIS-based methodology that quantifies the eroded bulk. As a result, we obtained a map with the main XI features that is presented in an interactive format. Furthermore, we describe the resources used for the map construction and how the results contributed to the interpretation of the eruptive history. These contributions include: 1) the energy lines point to a low-height pyroclastic density currents source, typical of caldera-forming, boiling-over eruptions; 2) the landscape formed by the ignimbrite, coupled with the geologic sections, indicate that in the proximal facies the ignimbrite filled a volcanic field, leaving a radially shaped distribution with a flat surface, while in the distal facies it channelized into a steep mountainous ground; and 3) the geologic sections in the valley areas, where the active rivers highly eroded the original deposits, revealed the preferential development of welded zones along channel centers.</p>
               <p><italic><bold>Keywords:</bold></italic> Los Humeros Volcanic Complex; PDC emplacement; energy line, ignimbrite mapping, geographic information systems, ignimbrite geometry.</p>
             </sec>
             <sec>
               <title>Resumen</title>
-              <p>La ignimbrita Xáltipan (IX) registra la erupción más grande del Cinturón Volcánico Trans-Mexicana reportado hasta la fecha (≥344 km<sup>3</sup> volumen no compactado). La IX, como la mayoría de las ignimbritas de gran volumen, presenta problemas comunes al momento de mapearla. Estos obstáculos incluyen variaciones abruptas en el grado de soldamiento, sepultamiento por otras unidades volcánicas más recientes cerca de otras fuentes volcánicas, y depósitos altamente erosionados en zonas de valles activos. En este trabajo, estos problemas  son atendidos mediante la integración de técnicas cartográficas clásicas que incluyen mediciones de campo, proyecciones geométricas de líneas de energía y construcción de secciones geológicas con  una metodología basada en Sistemas de Información Geográfica (SIG) para la cuantificación de la masa erosionada. Como resultado, obtuvimos un mapa, que se presenta en un formato interactivo que contiene las principales características de esta ignimbrita. Además, describimos los recursos utilizados para la construcción del mapa y cómo los resultados contribuyeron a la interpretación de la historia eruptiva. Estas contribuciones incluyen: 1) las líneas de energía apuntan a un fuente somera de corrientes piroclasticas densas, lo cual es típico en erupciones tipo boiling-over asociadas a la formación de calderas; 2) el terreno formado por la IX, juntocon la información de las secciones geológicas, indican que en las facies proximales la ignimbrita rellenó por completo un campo volcánico, depositándose con una distribución en forma radial y con una superficie plana, mientras que en las facies distales se canalizó en un terreno montañoso; y 3) las secciones geológicas en las áreas del valle, donde los ríos activos han erosionado profundamente los depósitos de la IX, revelaron el desarrollo preferencial de zonas soldadas a lo largo de los centros de los canales.</p>
+              <p>La ignimbrita Xáltipan registra la erupción más grande del Cinturón Volcánico Trans-Mexicana reportado hasta la fecha (≥344 km<sup>3</sup> volumen no compactado). Esta ignimbrita, como la mayoría de las ignimbritas de gran volumen, presenta problemas comunes al momento de mapearla. Estos obstáculos incluyen variaciones abruptas en el grado de soldamiento, sepultamiento por otras unidades volcánicas más recientes cerca de otras fuentes volcánicas, y depósitos altamente erosionados en zonas de valles activos. En este trabajo, estos problemas  son atendidos mediante la integración de técnicas cartográficas clásicas que incluyen mediciones de campo, proyecciones geométricas de líneas de energía y construcción de secciones geológicas con  una metodología basada en Sistemas de Información Geográfica (SIG) para la cuantificación de la masa erosionada. Como resultado, obtuvimos un mapa, que se presenta en un formato interactivo que contiene las principales características de esta ignimbrita. Además, describimos los recursos utilizados para la construcción del mapa y cómo los resultados contribuyeron a la interpretación de la historia eruptiva. Estas contribuciones incluyen: 1) las líneas de energía apuntan a un fuente somera de corrientes piroclasticas densas, lo cual es típico en erupciones tipo boiling-over asociadas a la formación de calderas; 2) el terreno formado por la ignimbrita, juntocon la información de las secciones geológicas, indican que en las facies proximales la ignimbrita rellenó por completo un campo volcánico, depositándose con una distribución en forma radial y con una superficie plana, mientras que en las facies distales se canalizó en un terreno montañoso; y 3) las secciones geológicas en las áreas del valle, donde los ríos activos han erosionado profundamente los depósitos originales, revelan el desarrollo preferencial de zonas soldadas a lo largo de los centros de los canales.</p>
               <p><italic><bold>Palabras clave:</bold> </italic> Complejo Volcánico de Los Humeros; emplazamiento de CPD; línea de energía; mapeo de ignimbritas; sistemas de información geográfica; geometría de ignimbritas.</p>
             </sec>
          </abstract>
          <trans-abstract xml:lang="en">
             <title>Abstract</title>
-            <bold> </bold>
-            <p>The Xáltipan ignimbrite (XI) records the largest single-eruption of the Trans-Mexican Volcanic Belt up to date (≥344 km3 uncompacted volume). As most large ignimbrites, the XI presents common challenges when mapping. These are abrupt welding variations, burial by younger units near other volcanic sources, and highly eroded deposits in active-water valleys. In this work, we deal with these issues by integrating classical cartographic techniques such as field measurements, geometric projections of energy lines and construction of geologic sections, with a GIS-based methodology that quantifies the eroded bulk. As a result, we obtained a map with the main XI features that is presented in an interactive format. Furthermore, we discuss the resources used for the map construction and how the results contributed to the interpretation of the eruptive history. These contributions include: 1) the energy lines point to a low-height pyroclastic density currents source, typical of caldera-forming, boiling-over eruptions; 2) the landscape of the XI, coupled with the geologic sections, indicate that in the proximal facies the ignimbrite filled a volcanic field, leaving a radially shaped distribution with a flat surface, while in the distal facies it channelized into a steep mountainous ground; and 3) the geologic sections in the valley areas, where the active rivers highly eroded the original XI deposits, revealed the preferential development of welded zones along channel centers.</p>
+            <p>The Xáltipan ignimbrite (XI) records the largest single-eruption of the Trans-Mexican Volcanic Belt up to date (≥344 km<sup>3</sup> uncompacted volume). As most large ignimbrites, this ignimbrite presents common challenges when mapping. These are abrupt welding variations, burial by younger units near other volcanic sources, and highly eroded deposits in active-water valleys. In this work, we deal with these issues by integrating classical cartographic techniques such as field measurements, geometric projections of energy lines and construction of geologic sections, with a GIS-based methodology that quantifies the eroded bulk. As a result, we obtained a map with the main XI features that is presented in an interactive format. Furthermore, we describe the resources used for the map construction and how the results contributed to the interpretation of the eruptive history. These contributions include: 1) the energy lines point to a low-height pyroclastic density currents source, typical of caldera-forming, boiling-over eruptions; 2) the landscape formed by the ignimbrite, coupled with the geologic sections, indicate that in the proximal facies the ignimbrite filled a volcanic field, leaving a radially shaped distribution with a flat surface, while in the distal facies it channelized into a steep mountainous ground; and 3) the geologic sections in the valley areas, where the active rivers highly eroded the original deposits, revealed the preferential development of welded zones along channel centers.</p>
          </trans-abstract>
          <kwd-group xml:lang="es">
             <title>Palabras clave:</title>
@@ -152,7 +151,7 @@
    <body>
       <sec sec-type="intro">
          <title>1. Introduction</title>
-         <p>Caldera-forming eruptions are extremely violent events generating massive pumice-rich, concentrated pyroclastic density currents (PDCs), called ignimbrites. Ignimbrite mapping is a key tool to interpret the eruptive history of their volcanic source and to assess the volcanic hazards. Because of this, many maps of large volume ignimbrites have been published focusing on different aspects, such as their internal architecture (<xref ref-type="bibr" rid="B2">Aldiss and Ghazali, 1984</xref>; <xref ref-type="bibr" rid="B12">Cook et al., 2016</xref>; <xref ref-type="bibr" rid="B24">Walker et al., 1980</xref>; <xref ref-type="bibr" rid="B25">Wilson et al., 1995</xref>), sedimentation processes (<xref ref-type="bibr" rid="B10">Cas et al., 2011</xref>; <xref ref-type="bibr" rid="B15">Giordano and Doronzo, 2017</xref>), and the interpretation of the eruptive evolution of large volcanic fields (<xref ref-type="bibr" rid="B1">Aguirre-Díaz, 1996</xref>; <xref ref-type="bibr" rid="B4">Brown and Branney, 2004</xref>; <xref ref-type="bibr" rid="B20">Self et al., 1984</xref>; <xref ref-type="bibr" rid="B22">Suñe-Puchol et al., 2018</xref>). Nevertheless, common challenges arise while mapping large ignimbrites. Three of the most common are: 1) they typically present lithofacies variations (texture, internal structures, componentry, and composition) that change their aspect drastically; 2) they are commonly buried by younger volcanic and epiclastic units near other volcanic sources; and 3) non-welded ignimbrites that deposited in active water-running valleys are rapidly eroded away. These three conditions occur in the Xáltipan ignimbrite (XI) at Los Humeros Volcanic Complex (LHVC), which is the largest ignimbrite in the Trans-Mexican Volcanic Belt (TMVB). This unit is characterized by being mostly buried under younger volcanic and epiclastic units from the LHVC and adjacent volcanic sources. In the areas where it is exposed, the deposits are highly eroded and present abrupt welding variations that range from rank I to V (<xref ref-type="bibr" rid="B19">Quane and Russell, 2005</xref>). This work describes the construction of the XI map by applying a GIS-based methodology. This methodology integrates conventional cartographic techniques such as field measurements, geometric projections of energy lines, construction of geologic sections, as well as an innovative method to estimate the eroded volumes in valley areas. Special attention is paid to how the mapping challenges were solved with this methodology and how the cartographic results contributed to interpreting the eruptive history.</p>
+         <p>Caldera-forming eruptions are extremely violent events generates massive pumice-rich, concentrated pyroclastic density currents (PDCs), called ignimbrites. Ignimbrite mapping is a key tool to interpret the eruptive history of their volcanic source and to assess the volcanic hazards. Because of this, many maps of large volume ignimbrites have been published focusing on different aspects, such as their internal architecture (<xref ref-type="bibr" rid="B2">Aldiss and Ghazali, 1984</xref>; <xref ref-type="bibr" rid="B12">Cook et al., 2016</xref>; <xref ref-type="bibr" rid="B24">Walker et al., 1980</xref>; <xref ref-type="bibr" rid="B25">Wilson et al., 1995</xref>), sedimentation processes (<xref ref-type="bibr" rid="B10">Cas et al., 2011</xref>; <xref ref-type="bibr" rid="B15">Giordano and Doronzo, 2017</xref>), and the interpretation of the eruptive evolution of large volcanic fields (<xref ref-type="bibr" rid="B1">Aguirre-Díaz, 1996</xref>; <xref ref-type="bibr" rid="B4">Brown and Branney, 2004</xref>; <xref ref-type="bibr" rid="B20">Self et al., 1984</xref>; <xref ref-type="bibr" rid="B22">Suñe-Puchol et al., 2018</xref>). Nevertheless, common challenges arise while mapping large ignimbrites. Three of the most common are: 1) they typically present lithofacies variations (texture, internal structures, componentry, and composition) that change their aspect drastically; 2) they are commonly buried by younger volcanic and epiclastic units near other volcanic sources; and 3) non-welded ignimbrites that deposited in active water-running valleys are rapidly eroded away. These three conditions occur in the Xáltipan ignimbrite (XI) at Los Humeros Volcanic Complex (LHVC), which is the largest ignimbrite in the Trans-Mexican Volcanic Belt (TMVB). This unit is characterized by being mostly buried under younger volcanic and epiclastic units from the LHVC and adjacent volcanic sources. In the areas where it is exposed, the deposits are highly eroded and present abrupt welding variations that range from rank I to V (<xref ref-type="bibr" rid="B19">Quane and Russell, 2005</xref>). This work describes the construction of the XI map by applying a GIS-based methodology. This methodology integrates conventional cartographic techniques such as field measurements, geometric projections of energy lines, construction of geologic sections, as well as an innovative method to estimate the eroded volumes in valley areas. Special attention is paid to how the mapping challenges were solved with this methodology and how the cartographic results contributed to interpreting the eruptive history.</p>
       </sec>
       <sec>
 			   <title>2. Geologic setting</title>
@@ -166,328 +165,318 @@
 			       </caption>
 			       <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig1.png"/>
 			    </fig>
-			    <p>The first distribution map of the XI was made by (<xref ref-type="bibr" rid="B13">Ferriz and Mahood 1984</xref>), who estimated a volume of 115 km<sup>3</sup> Dense Rock Equivalent (DRE) over a 3,500 km<sup>2</sup> area (<xref ref-type="fig" rid="f2">Figure 2a</xref>). However, a detailed insight of this map reveals that in some places the inferred area contour is inconsistent with the topography. This is evident mainly in mountainous terrains, where the proposed ignimbrite distribution suggests that the PDCs passed undisturbed over rough ground, instead of channelizing through the topographic depressions (<xref ref-type="fig" rid="f2">Figure 2b</xref>).</p>
-	         <p>As part of a current detailed stratigraphic and volumetric analysis of the XI (<xref ref-type="bibr" rid="B11">Cavazos and Carrasco-Núñez, in press</xref>), an updated map was constructed. The main result from this work pointed to a single, multi-phase, boiling-over type eruption with two flow-units, bounded by a basal and an intercalated pumice fallout layer. As a result of this work we have estimated a significative larger uncompacted volume of 344 km<sup>3</sup> (291 km<sup>3</sup> - DRE) and coverage area of 291 km<sup>2</sup> over a 4,620 km<sup>2</sup>. These results were obtained by the re-mapping of the XI, which is based on extensive fieldwork and GIS analyses described in this work.</p>
+			    <p>The first distribution map of the XI was made by (<xref ref-type="bibr" rid="B13">Ferriz and Mahood 1984</xref>), who estimated a volume of 115 km<sup>3</sup> Dense Rock Equivalent (DRE) over a 3,500 km<sup>2</sup> area (<xref ref-type="fig" rid="f2">Figure 2a</xref>). However, a detailed insight of this map reveals that in some places the inferred area contour is inconsistent with the topography. This is most evident in mountainous terrains, where the proposed ignimbrite distribution suggests that the PDCs passed undisturbed over rough ground, instead of channelizing through the topographic depressions (<xref ref-type="fig" rid="f2">Figure 2b</xref>).</p>
+	         <p>As part of a current detailed stratigraphic and volumetric analysis of the XI (<xref ref-type="bibr" rid="B11">Cavazos and Carrasco-Núñez, in press</xref>), an updated map was constructed. The main result from this work pointed to a single, multi-phase, boiling-over type eruption with two flow-units, bounded by a basal and an intercalated pumice fallout layer. As a result of this work we have estimated a significative larger uncompacted volume of 344 km<sup>3</sup> (291 km<sup>3</sup> - DRE) over a 4,620 km<sup>2</sup> coverage area. These results were obtained by the re-mapping of the XI, which is based on extensive fieldwork and GIS analyses described in this work.</p>
 
 	         <fig id="f2">
 	             <label>Figure 2 / Figura 2</label>
 	             <caption>
-	                <p><italic><bold>Figure 2. </bold></italic> a) Distribution map of the Xáltipan ignimbrite (XI) as proposed by <xref ref-type="bibr" rid="B13">Ferriz and Mahood (1984)</xref>. The inset box is showing the location of the Las Minas valley. b) 3D projection of the XI deposits over Las Minas valley as proposed by <xref ref-type="bibr" rid="B13">Ferriz and Mahood, (1984)</xref>. Note the disparity between the XI trace and the topographic setting. Vertical exaggeration of 1.5</p>
-	                <p><italic><bold>Figura 2. </bold></italic> a) Mapa de distribución de la ignimbrita Xáltipan (IX) propuesto por (<xref ref-type="bibr" rid="B13">Ferriz y Mahood 1984</xref>). El recuadro muestra la ubicación del valle Las Minas. b) Proyección 3D de los depósitos de la IX sobre el valle de Las Minas propuesto por (<xref ref-type="bibr" rid="B13">Ferriz y Mahood 1984</xref>). Nótese la disparidad entre la traza de la IX y la topografía. Exageración vertical de 1.5</p>
+	                <p><italic><bold>Figure 2. </bold></italic> a) Distribution map of the Xáltipan ignimbrite (XI) as proposed by <xref ref-type="bibr" rid="B13">Ferriz and Mahood (1984)</xref>. The inset box shows the location of the Las Minas valley. b) 3D projection of the XI over Las Minas valley as proposed by <xref ref-type="bibr" rid="B13">Ferriz and Mahood, (1984)</xref>. Note the disparity between the XI trace and the topography. Vertical exaggeration of 1.5</p>
+	                <p><italic><bold>Figura 2. </bold></italic> a) Mapa de distribución de la ignimbrita Xáltipan (IX) propuesto por (<xref ref-type="bibr" rid="B13">Ferriz y Mahood 1984</xref>). El recuadro muestra la ubicación del valle Las Minas. b) Proyección 3D de la IX sobre el valle de Las Minas propuesto por (<xref ref-type="bibr" rid="B13">Ferriz y Mahood 1984</xref>). Nótese la disparidad entre la traza de la IX y la topografía. Exageración vertical de 1.5</p>
 	             </caption>
 	             <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig2.png"/>
 	          </fig>
 			</sec>
       <sec sec-type="methods|cases">
-         <title>3. Methods</title>
-         <p>The cartographic work to estimate a more precise distribution and volume of the XI is based on the integration of fieldwork campaigns, digital mapping, and image edition. During fieldwork, up to 216 checkpoints of the XI were located and described (Table 1, supplementary material). These checkpoints include both the exposed outcrops and information from the water wells where the XI was identified. Simultaneous to fieldwork, digital mapping and graphic edition were carried out with QGIS and CorelDraw software, respectively. This work allowed to present the following features: a) the observed deposits, where the XI is presently exposed; b) the inferred deposits which represent the XI original distribution before burial and erosion based on 12 sections where the Energy Line concept (<xref ref-type="bibr" rid="B17">Hsu, 1975</xref>) was applied; c) four geologic cross-sections, and d) the areas where the eroded bulk of the ignimbrite was calculated. The methodology to construct each feature is presented in the following section.</p>
-
-         <sec>
-           <title>3.1. Observed deposits</title>
-           <p>The observed deposits represent the areas where the XI is presently exposed at the surface based on the location of the checkpoints where the presence of the ignimbrite was confirmed, and coordinates and altitude were recorded. At those sites, the contour of the observed deposits polygon was traced by using the highest checkpoints as the reference of the maximum height. In the case of areas with scarce checkpoints, the polygon was traced following a decreasing altitude away from the source.</p>
+        <title>3. Methods</title>
+        <p>The cartographic work is based on the integration of fieldwork campaigns, digital mapping, and image edition. During fieldwork, up to 216 checkpoints of the XI were located and described (Table 1, supplementary material). These checkpoints include both the exposed outcrops and water wells where the XI was identified. Simultaneous to fieldwork, digital mapping and graphic edition were carried out with QGIS and CorelDraw software, respectively. This work allowed to present the following features: a) the observed deposits, where the XI is presently exposed; b) the inferred deposits which represent the XI original distribution before burial and erosion based on 12 sections where the Energy Line concept (<xref ref-type="bibr" rid="B17">Hsu, 1975</xref>) was applied; c) four geologic cross-sections, and d) the areas where the eroded bulk of the ignimbrite was calculated. The methodology to construct each feature is presented in the following section.</p>
+        <sec>
+          <title>3.1. Observed deposits</title>
+          <p>The observed deposits represent the areas where the XI is presently exposed at the surface. These areas are based on the location of the checkpoints where the presence of the ignimbrite was confirmed. At those sites, the contour of the observed deposits was traced by using the highest checkpoints as the reference of the maximum height. In the case of areas with scarce checkpoints, the contour was traced following a decreasing altitude away from the source.</p>
+        </sec>
+        <sec>
+          <title>3.2. Inferred deposits</title>
+          <p>The inferred deposits area was delimited by using the Energy Line concept (<xref ref-type="bibr" rid="B17">Hsu, 1975</xref>). This is an effective method to determine the lateral extent of a gravity-driven rock-mass such as PDCs, where the topography and location of observed deposits are known. Another application of this method is that the intersection of the energy lines with the source provides an approximation of the height where the PDCs were generated (<xref ref-type="bibr" rid="B3">Beget and Limke, 1988</xref>). A total of 12 energy lines where constructed radially from the LHC by using the QGIS Profile tool (Table 2, supplementary material). The profiles with the location of the observed deposits were exported to CorelDraw. In each profile, the energy line was projected from the furthest observed deposit to the LHC rim, which is inferred as the source of the ignimbrite. For each energy line, the slope and the height above the source were measured. In the case where the topographic highs were intersected by the energy lines, these were interpreted as barriers not surmounted by the PDCs.</p>
          </sec>
          <sec>
-           <title>3.2. Inferred deposits</title>
-           <p>The inferred deposits area was delimited by using the Energy Line concept (<xref ref-type="bibr" rid="B17">Hsu, 1975</xref>). This is an effective method to determine the lateral extent of a gravity-driven rock-mass such as PDCs, where the topography and location of observed deposits are known. Another application of this method is that the intersection of the energy lines with the source provides an approximation of the height where the PDCs were generated (<xref ref-type="bibr" rid="B3">Beget and Limke, 1988</xref>). A total of 12 energy lines where constructed radially from the LHC by using the QGIS Profile tool (Table 2, supplementary material). The profiles with the location of the intersected observed deposits were exported to CorelDraw. In each profile, the energy line was projected from the furthest observed deposit to the LHC rim, which is inferred as the source of the ignimbrite. For each energy line, the slope and the height above the source were measured. Where topographic highs intersected the energy lines, these were interpreted as topographic barriers where the PDCs flowed around them.</p>
+          <title>3.3 Geologic cross-sections</title>
+          <p>Seven geologic sections were constructed by using the Profile tool in QGIS (Table 2 supplementary material) and later edited in CorelDraw X7. Four of them were traced from the LHC rim to the distal areas, while three were constructed perpendicular to the valleys in the distal area to show a cross-view of the filled channels with the XI. The sections integrate surficial and subsurface lithological information of the most updated geologic map from of the LHVC (<xref ref-type="bibr" rid="B7">Carrasco-Núñez et al., 2017a</xref>), and show the location of the welded zones along the channel centers.</p>
          </sec>
          <sec>
-           <title>3.3 Geologic cross-sections</title>
-           <p>Seven geologic sections were constructed by using the Profile tool in QGIS (Table 2 supplementary material) and later edited in CorelDraw X7. Four of them were traced from the LHC rim to the distal areas, while three were constructed perpendicular to the valleys in the distal area to show a cross-view of the filled channels with the XI. The sections integrate surficial and subsurface lithological information of the most updated geologic map from of the LHVC (<xref ref-type="bibr" rid="B7">Carrasco-Núñez et al., 2017a</xref>), and the location of the welded zones.</p>
-         </sec>
-         <sec>
-           <title>3.4. Eroded bulk</title>
-           <p>The eroded space from the observed deposits at the valley-pond sectors was calculated by using a methodology that consists of simple operations using QGIS tools and a worksheet, summarized here. A shapefile with the polygons of the observed deposits and a DEM raster file was loaded to the QGIS workspace. Because the volume of each polygon is calculated independently, the polygons were saved as individual shapefiles (<xref ref-type="fig" rid="f3">Figure 3a</xref>). The individual polygon was then converted to a point shapefile, where the points are along the contour of the original polygon. The altitude value from the DEM is assigned to each point and a plane approximating the original surface of the ignimbrite before erosion was obtained by the interpolation of the points (<xref ref-type="fig" rid="f3">Figure 3b</xref>). Subsequently, the present topographic values from the DEM were subtracted from the newly created surface, generating a raster file with height values that represent the eroded thickness. This raster image was converted to a vector layer, creating a pixel grid with an attribute table with the area and eroded height for each pixel (<xref ref-type="fig" rid="f3">Figure 3c</xref>). These values were exported and filtered into a worksheet where the volume for each pixel was calculated. The sum of the individual volumes is used to calculate the total eroded bulk (Table 3, supplementary material). A detailed explanation of this method is presented as part of the supplementary material.</p>
-
-           <fig id="f3">
-               <label>Figure 3 / Figura 3</label>
-               <caption>
-                  <p><italic><bold>Figure 3. </bold></italic> Sketch showing the methodology to calculate the eroded bulk in a valley area: a) plotting of the observed deposits polygon over a Digital Elevation Model (DEM) based on the checkpoints identified in the field, b) interpolation of the surface that resembles the deposit prior to eruption, and c) the construction of a pixel grid where with individual eroded thicknesses</p>
-                  <p><italic><bold>Figura 3. </bold></italic> Esquema que muestra la metodología para calcular el volumen erosionado en una area de valle: a) trazo de un polígono de depósitos observados sobre el modelo digital de elevación basado en los puntos de control identificados en campo, b) superficie interpolada que semeja el depósito previo a la erosión, y c) construcción de un mallado de pixeles con el espesor erosionado en cada uno</p>
-               </caption>
-               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig3.png"/>
-            </fig>
+          <title>3.4. Eroded bulk</title>
+          <p>The eroded space from the observed deposits at the valley-pond sectors was calculated by using a methodology that consists of simple operations using QGIS tools and a worksheet, summarized here. A shapefile with the polygons of the observed deposits and a DEM raster file was loaded to the QGIS workspace. Because the volume of each polygon is calculated independently, the polygons were saved as individual shapefiles (<xref ref-type="fig" rid="f3">Figure 3a</xref>). The individual polygon was then converted to a point shapefile, where the points are along the contour of the original polygon. The altitude value from the DEM is assigned to each point. By interpolating these points a plane approximating the original surface of the ignimbrite before erosion was constructed (<xref ref-type="fig" rid="f3">Figure 3b</xref>). Subsequently, the present altitude values from the DEM were subtracted from the newly created surface, generating a raster file with height values that represent the eroded thickness. This raster image was converted to a vector layer in the form of a pixel grid that contain information of the area and eroded height for each pixel (<xref ref-type="fig" rid="f3">Figure 3c</xref>). These values were exported and filtered into a worksheet where the volume for each pixel was calculated. The sum of the individual volumes represent the total eroded bulk (Table 3, supplementary material). A detailed explanation of this method is presented as part of the supplementary material.</p>
          </sec>
       </sec>
       <sec>
         <title>4. Results</title>
-        <p>The XI map is plotted at a 30 m resolution, using a 120 x 100 km DEM, and projected in UTM (WGS84) coordinates (<xref ref-type="fig" rid="f8">Plate 1</xref>). The features included in the map are checkpoints, observed and inferred deposits areas, energy lines and geologic sections, photographs of the outcrops, and the areas where the eroded bulk was calculated. Every feature includes additional information (<xref ref-type="table" rid="t1">Table 1</xref>) that can be consulted on the interactive map available at the journal website.</p>
-        <p>The challenges while mapping the XI were satisfactorily solved with the QGIS-based methodology described in the previous section that integrates field observations, the use of the energy line concept, geologic sections, and a simple but effective technique to calculate the eroded bulk in the valley areas.</p>
+        <p>The XI map is plotted at a 30 m resolution, using a 120 x 100 km DEM, and projected in UTM (WGS84) coordinates (<xref ref-type="fig" rid="f8">Plate 1</xref>). The features included in the map are checkpoints, observed and inferred deposits areas, energy lines and geologic sections, photographs of the outcrops, and the areas where the eroded bulk was calculated. Every feature includes additional information (<xref ref-type="table" rid="t1">Table 1</xref>) that can be consulted on the interactive map available at the journal website, and served to solve the mapping challenges of the XI.</p>
         <p>The highly-welded zones were traced by using the checkpoints where these lithofacies were identified and the longitudinal and perpendicular geologic sections along the valleys. The geologic sections show that welding preferentially developed in the valleys’ centers, and that is absent near the contact with the valley slopes (<xref ref-type="fig" rid="f4">Figure 4</xref>).</p>
-        <p>In the proximal area, the thickness of partially buried deposits was obtained by direct observation and water wells information. Here, these deposits were plotted in the geologic sections with a tabular shape.</p>
+        <p>In the proximal area, the thickness of the partially buried deposits was obtained by direct observation and water wells information. Here, these deposits were plotted in the geologic sections with a tabular shape.</p>
         <p>The eroded volume was adequately calculated in the valley areas by integrating the information of the observed deposits with the present topography showed in the DEM. This calculation provides, with high accuracy, the eroded ignimbrite volume in this type of environment. Nevertheless, the resulting volume by using this method should be considered as a minimum value because it is based on the observed deposits of a highly eroded ignimbrite, instead of the inferred deposits.</p>
-        <fig id="f8">
+      </sec>
+      <sec>
+        <title>5. Contributions to interpreting the XI eruption</title>
+        <sec>
+          <title>5.1 PDC source and type of eruption</title>
+          <p>The projections from the energy lines pointed to a low-altitude PDC generation zone, which is typical in boiling-over, caldera-forming eruptions. This is supported by the consistent geometry with low slopes of the energy lines along the study area (<xref ref-type="table" rid="t2">Table 2</xref>). These values vary from 0.9 to 3.6º, with a shallow height of the PDC source that goes from 0 to 395 m, except for the three energy lines of the SE and E zone. Here, the energy lines present a higher slope (4 to 6.5º) and source height (1,900 to 3,500 m). Nevertheless, these atypical geometries can be explained by the topological aspect ratio concept (Giordano and Doronzo, 2017), where currents can change their emplacement conditions. In this case, the current passed from a forced condition to an inertia-driven current when entering steep terrains. This change is observed in profiles a-a’ and b-b’, where the PDC surmounted the 510 m high Cerro Pizarro volcano flanks and later descended through a steep open ramp, reaching runout distances of &gt;40 km (<xref ref-type="fig" rid="f5">Figure 5a</xref>). This can be also observed in profile c-c’, where the PDC confined into the deep Las Minas valley, reducing the runout distance to &lt;30 km (<xref ref-type="fig" rid="f5">Figure 5b</xref>).</p>
+        </sec>
+        <sec>
+          <title>5.2. Changes in the landscape</title>
+          <p>Although in the proximal area the XI is poorly exposed, the evidence provided by the water wells indicates a 151 m thickness for the ignimbrite sheet. In this proximal area, the geologic sections show that the XI filled the pre-caldera volcanic field with a radial shape and flat surface. Further, in the distal facies to the southeas, thickness decreased where the PDC entered to open terrain and surmounted the Cofre de Perote topographic high. In this southern area, even if no outcrops of the XI where identified, the occurrence of consolidated fragments of the XI into the phreatomagmatic sequence from the younger Quechulac tuff ring, and into the collapse breccia deposits from the Cerro Pizarro dome (location in <xref ref-type="fig" rid="f6">Figure 6</xref>), point to the presence of the XI, covered by a thick sequence of volcanic, phreatomagmatic, and epiclastic rocks from the Serdán Oriental Basin. Nevertheless, the subsurface position and thickness of the deposits in this area are unknown.</p>
+          <p>In the distal facies, particularly in the northern sector of the map, the paleotopographic features are more evident. Here, the XI flowed and deposited over the highly-deformed Mesozoic basement. Even where the XI filled this zone, the drainage system rapidly eroded the deposits exposing the welded ignimbrite on steep walls (<xref ref-type="fig" rid="f7">Figure 7</xref>). The total eroded bulk in these areas reaches 14.6 km<sup>3</sup>.</p>
+        </sec>
+         <sec>
+          <title>5.3. Application of the eroded bulk methodology in other ignimbrites</title>
+          <p>Ignimbrite volume calculations are based on the area, thickness, and density of its deposits. Nevertheless, these issues commonly present high uncertainties caused, among other processes, by erosion. Two recent works exemplify this situation. The first occurs in the Otowi Member at the Valles Caldera, where the erosion of the outflow sheet is estimated based on erosion rates of another unit, resulting in the most significant uncertainty of the total volume calculation (<xref ref-type="bibr" rid="B12">Cook et al. 2016</xref>). The second is observed in the Cerro Galán ignimbrites, where the erosion is calculated at different zones by using thickness observations in individual valley zones and corrected by using correction factors that range from 1 (non-eroded) to 2 (half-eroded) with a +/-0.25 uncertainty (<xref ref-type="bibr" rid="B14">Folkes et al., 2011</xref>).</p>
+          <p>The methodology to calculate the eroded bulk presented in this work estimates the erosion effect with no uncertainty. This because the method requires only two data, the area where ignimbrite is exposed at surface and a DEM that covers such area. Therefore, the method has the potential to be easily applied in ignimbrites that have been already mapped, as the two examples previously mentioned.</p>
+        </sec>
+      </sec>
+      <sec sec-type="conclusions">
+        <title>Conclusions</title>
+        <p>The XI exemplifies three common situations that complicate ignimbrite mapping. These includes lithofacies variations, burial by younger rocks, and high-rates of erosion. In these cases, the integration of conventional cartographic techniques, such as field mapping, energy lines, and geologic sections, with GIS tools, allowed to trace the original and present distribution of the deposits. These cartographic results revealed three essential features of the eruption and emplacement process: 1) The energy lines projections point to a low altitude PCDs source, typical in boiling-over, caldera-forming eruptions. 2) The inferred distribution area shows a combination of radial and valley-filling shapes that respond to the topography before the eruption. In the proximal facies, the radial shape forms due to the relatively flattened pre-caldera lava field, while in the distal southern area the PDC showed a higher fluidization surmounting topographic barriers such as the Cerro Pizarro volcano, and in the distal facies the PDCs channelized into the steep valleys of the pre-volcanic basement. 3) Geologic sections, parallel and perpendicular to the ignimbrite-filled valleys, reveal that the highly-welded facies of the XI focus within channel centers and that these facies are exposed due to erosion processes.</p>
+
+        <p> Software: The map was constructed using the Quantum GIS (QGIS) V.2.8.4-Wien with SAGA plugins installed. Besides the default QGIS tools, the plugins used where: Profile tool and qgis2threejs. Figures were drawn with CorelDraw X7.
+        </p>
+
+        <p> Data: The map project is included as a.qgs file, accompanied by the digital data there included (raster and shapefiles).</p>
+
+        <p>
+          Acknowledgments: We acknowledge the financial support given by the Consortium GEMEX European Union-Mexico [No. 2015-04-268074] and by the Centro Mexicano de Inovación en Energía Geotérmica from the Fondo de Sustentabilidad Energética SENER-CONACyT [No. 2007032], and to CONACyT-Mexico, who provided financing to the first author in the form of doctoral grant [No. 504993]. We are grateful to Francisco Fernández and Javier Hernández for their valuable help and discussions during fieldwork, to Mario Navarro for his technical assistance during the data processing in QGIS, and Javier Osorno Covarrubias for the design and implementation of the interactive map. Special thanks to Penélope López Quiroz, who greatly enhanced this work with cartographic advices and editorial support. We also thank the valuable comments of two anonymous reviewers. Finally, we thank the Centro de Geociencias (UNAM), who provided vehicles and infrastructure to support this work.
+        </p>
+
+        <fig id="f3">
+           <label>Figure 3 / Figura 3</label>
+           <caption>
+              <p><italic><bold>Figure 3. </bold></italic> Sketch showing the methodology to calculate the eroded bulk in a valley area: a) Plotting of the observed deposits polygon over a Digital Elevation Model (DEM) based on the checkpoints identified in the field, b) Interpolation of the surface that resembles the deposit prior to eruption, and c) Construction of a pixel grid with individual eroded thicknesses</p>
+              <p><italic><bold>Figura 3. </bold></italic> Esquema que muestra la metodología para calcular el volumen erosionado en una area de valle: a) Trazo de un polígono de depósitos observados sobre el modelo digital de elevación basado en los puntos de control identificados en campo, b) Superficie interpolada que semeja el depósito previo a la erosión, c) Construcción de un mallado de pixeles con el espesor erosionado en cada uno</p>
+           </caption>
+           <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig3.png"/>
+          </fig>
+
+          <fig id="f4">
+            <label>Figure 4 / Figura 4</label>
+            <caption>
+               <p><italic><bold>Figure 4. </bold></italic> Perpendicular cross-sections in the valley areas showing the welding zones in the center of the valleys and non-welded zones where the ignimbrite is in contact with the basement rocks and where is not ponded. The location of the sections is indicated in <xref ref-type="fig" rid="f8">Plate 1</xref></p>
+               <p><italic><bold>Figura 4. </bold></italic> Secciones perpendiculares a los valles mostando el desarrollo de zonas de soldamiento en la parte central de los valles y las zonas no soldadas cerca del contacto de la ignimbrita con las rocas del basamento y en donde no se depositó en forma de relleno de valle. La ubicación de las secciones está indicada en la <xref ref-type="fig" rid="f8">Lámina 1</xref></p>
+            </caption>
+            <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig7.png"/>
+          </fig>
+
+          <fig id="f5">
+            <label>Figure 5 / Figura 5</label>
+            <caption>
+               <p><italic><bold>Figure 5. </bold></italic> Selected geologic sections showing the inferred XI architecture over the pre-eruption topography. a) a-a’ profile showing the location of the water wells and the surmounting of the XI over the Cofre de Perote lava flows. b) c-c’ profile showing the Las Minas valley. c) g-g’ profile showing the distal Zapotitlán valley. d) profile i-i’ showing the distal Apulco valley. The location of the sections is indicated in <xref ref-type="fig" rid="f8">Plate 1</xref></p>
+               <p><italic><bold>Figura 5. </bold></italic> Secciones geológicas que muestran la arquitectura inferida de la IX sobre la topografía pre-eruptiva. a) Perfíl a-a’ mostrando la ubicación de los pozos de agua y el remontamiento de la IX sobre los flujos de lava del Cofre de Perote. b) Perfil c-c’ mostrando el valle de Las Minas. c) Perfil g-g’ mostrando el valle distal de Zapotitlán. d) Perfil i-i’ mostrando el valle distal de Apulco. La ubicación de las secciones está indicada en la <xref ref-type="fig" rid="f8">Lámina 1</xref></p>
+            </caption>
+            <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig6.png"/>
+          </fig>
+
+          <fig id="f6">
+            <label>Figure 6 / Figura 6</label>
+            <caption>
+               <p><italic><bold>Figure 6. </bold></italic> Profiles with the energy lines. Each profile shows the slope of the projected line, the intersection height with the Los Humeros caldera rim (CR), and the position of the observed deposits (yellow line) where the furthest is indicated (FOD). The location of the profiles is indicated in <xref ref-type="fig" rid="f8">Plate 1</xref></p>
+               <p><italic><bold>Figura 6. </bold></italic> Perfiles de las líneas de energía. Cada perfil muestra la pendiente de la línea proyectada, la altura de intersección con el borde la caldera Los Humeros (CR), y la posición de los depósitos observados (línea amarilla) en donde el más lejano está indicado (FOD). La ubicación del perfil está indicada en la <xref ref-type="fig" rid="f8">Lámina 1</xref></p>
+            </caption>
+            <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig5.png"/>
+          </fig>
+
+          <fig id="f7">
+            <label>Figure 7 / Figura 7</label>
+            <caption>
+               <p><italic><bold>Figure 7. </bold></italic> a) North view of the Las Minas valley showing the eroded space and the approximate position of the XI in the different welding facies that changes from highly-welded in the base to non-to-moderately welded through the top. Inset box in red square shows, b) a >110 m thick wall of the XI in highly-welded facies with spectacular columnar jointing development</p>
+               <p><italic><bold>Figura 7. </bold></italic> a) Vista al norte del valle de Las Minas mostrando el espacio erosionado y la ubicación aproximada de la IX en las diferentes facies de soldamiento que va de altamente soldada en la base a no a moderadamente soldada hacia la cima. El recuadro en rojo muestra, b) una pared de &gt;110 m compuesta por la IX en facies altamente soldadas y mostrando un desarrollo espectacular de columnas de enfriamiento.</p>
+            </caption>
+            <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig8.png"/>
+          </fig>
+
+          <fig id="f8">
            <label>Plate 1 / Lámina 1</label>
            <caption>
-              <p><italic><bold>Plate 1. </bold></italic> Map showing the inferred and observed (non-to-moderately and highly-welded facies) deposits of the Xáltipan ignimbrite. The map is plotted over a color graded and shaded 30-m resolution DEM. The location of the checkpoints and profiles used for the energy lines and geologic sections are indicated (green circles). Location of the main volcanoes are shown in red triangles (LDD – Las Derrumbadas; Qch – Quechulac tuff ring; CPV – Cerro Pizarro volcano; PV – Perote volcano; LHV – Los Humeros caldera). Main towns and cities in white circles (Per – Perote; Tez – Teziutlán; Xal – Xalapa; Zac – Zacatlán; MTo – Martínez de la Torre)</p>
-              <p><italic><bold>Lámina 1. </bold></italic> Mapa que muestra los depósitos inferidos y observados (facies no a moderadamente y altamente soldadas) de la ignimbrita Xáltipan. El mapa está trazado sobre un modelo digital de elevación de 30 m de resolución. La ubicación de los puntos de control y perfiles usados para las líneas de energía y secciones geológicas están señalados (círculos verdes). La ubicación de los principales volcanes están mostrados en triángulos rojos</p>
+              <p><italic><bold>Plate 1. </bold></italic> Map showing the inferred and observed (non-to-moderately and highly-welded facies) deposits of the Xáltipan ignimbrite. The map is plotted over a color graded and shaded 30-m resolution DEM. The location of the checkpoints (green circles) and profiles used for the energy lines (solid and dashed lines) and geologic sections (dashed lines) are indicated. Location of the main volcanoes are shown in red triangles (LDD – Las Derrumbadas; Qch – Quechulac tuff ring; CPV – Cerro Pizarro volcano; PV – Perote volcano; LHV – Los Humeros caldera). Main towns and cities in gray areas (Per – Perote; Tez – Teziutlán; Xal – Xalapa; Zac – Zacatlán; MTo – Martínez de la Torre)</p>
+              <p><italic><bold>Lámina 1. </bold></italic> Mapa que muestra los depósitos inferidos y observados (facies no a moderadamente y altamente soldadas) de la ignimbrita Xáltipan. El mapa está trazado sobre un modelo digital de elevación de 30 m de resolución. La ubicación de los puntos de control (círculos verdes) y perfiles usados para las líneas de energía (lineas sólidas y punteadas) y secciones geológicas (líneas punteadas) están señalados. La ubicación de los principales volcanes están mostrados en triángulos rojos. Principales ciudades y pueblos en áreas grises</p>
            </caption>
            <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/plate1.png"/>
-        </fig>
+          </fig>
 
-        <sec>
-	        <title>4.1. Contributions to interpreting the XI eruption</title>
-            <p>PDC source and type of eruption. The projections from the energy lines pointed to a low-altitude PDC generation zone, which is typical in boiling-over, caldera-forming eruptions. This is supported by the consistent geometry with low slopes of the energy lines along the study area (<xref ref-type="table" rid="t2">Table 2</xref>). These values vary from 0.9 to 3.6º, with a shallow height of the PDC source that goes from 0 to 395 m, except for the three energy lines of the SE and E zone. Here, the energy lines present a higher slope (4 to 6.5º) and source height (1,900 to 3,500 m). Nevertheless, these atypical geometry can be explained by the topological aspect ratio concept (Giordano and Doronzo, 2017), where currents can change their emplacement conditions. In this case, the current passed from a forced condition to an inertia-driven current when entering steep terrains. This change is observed in profiles a-a’ and b-b’, where the PDC surmounted over 510 m of the Cerro Pizarro volcano flanks and later descended through a steep open ramp, reaching runout distances of &gt;40 km (<xref ref-type="fig" rid="f5">Figure 5a</xref>). This can be also observed in profile c-c’, where the PDC confined into the deep Las Minas valley, reducing the runout distance to &lt;30 km (<xref ref-type="fig" rid="f5">Figure 5b</xref>).</p>
-        </sec>
-	      <sec>
-	          <title>4.2. Changes in the landscape</title>
-	          <p>Although in the proximal area the XI is poorly exposed, the evidence provided by the water wells indicates a 151 m thickness for the ignimbrite sheet. In this proximal area, the geologic sections show that the XI filled the pre-caldera volcanic field with a radial shape and flat surface. Further, in the distal facies to the southeas, thickness decreased where the PDC entered to open terrain and surmounted the Cofre de Perote topographic high. In this southern area, even if no outcrops of the XI where identified, the occurrence of consolidated fragments of the XI into the phreatomagmatic sequence from the younger Quechulac tuff ring, and into the collapse breccia deposits from the Cerro Pizarro dome (location in <xref ref-type="fig" rid="f6">Figure 6</xref>), point to the presence of the XI, covered by a thick sequence of volcanic, phreatomagmatic, and epiclastic rocks from the Serdán Oriental Basin. Nevertheless, the subsurface position and thickness of the deposits in this area are unknown.</p>
-	          <p>In the distal facies, particularly in the northern sector of the map, the paleotopographic features are more evident. Here, the XI flowed and deposited over the highly-deformed Mesozoic basement. Even where the XI filled this zone, the drainage system rapidly eroded the deposits exposing the welded ignimbrite on steep walls (<xref ref-type="fig" rid="f7">Figure 7</xref>). The total eroded bulk in these areas reaches 14.6 km<sup>3</sup>.</p>
+          <table-wrap id="t1">
+            <label>Table 1 / Tabla 1</label>
+            <caption>
+               <p><bold>Table 1: </bold> Features in the Xaltipan ignimbrite map</p>
+               <p><bold>Tabla 1: </bold> Rasgos del mapa de la ignimbrita Xaltipan</p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th align="center" colspan="1" rowspan="1">Features</th>
+                     <th align="center" colspan="1" rowspan="1">Description</th>
+                     <th align="center" colspan="1" rowspan="1">Included data</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="center">Checkpoints</td>
+                     <td align="center">Locations where the XI was located and described. Includes the location of five water wells where the ignimbrite was logged. </td>
+                     <td align="center">-Checkpoint number -Coordinates -Welding facies </td>
+                  </tr>
+                  <tr>
+                     <td align="center">Observed deposits</td>
+                     <td align="center">Areas where the XI is exposed. It is subdivided into non- to moderately and highly-welded facies.</td>
+                     <td align="center">- Area of the polygon</td>
+                  </tr>
+                  <tr>
+                     <td align="center">Inferred deposits</td>
+                     <td align="center">The area originally covered by the ignimbrite prior to burial and erosion, with a coverage of ca. 4,600 km<sup>2</sup>.</td>
+                     <td align="center">- Area of the polygon</td>
+                  </tr>
+                  <tr>
+                     <td align="center">Energy lines</td>
+                     <td align="center">12 topographic sections traced radially from the Los Humeros caldera, covering all the studied area. These sections, coupled with the observed deposits information are the base to trace the <i>inferred deposits</i> polygon.</td>
+                     <td align="center">- Figure of the section</td>
+                  </tr>
+                  <tr>
+                     <td align="center">Geologic sections</td>
+                     <td align="center">Seven geologic sections that integrate surficial and subsurface lithological information of the most updated geologic map from of the LHVC. From these, four are traced from the Los Humeros caldera rim to the distal areas, and three perpendicular to the valleys in the distal area. </td>
+                     <td align="center">- Figure of the geologic section</td>
+                  </tr>
+                  <tr>
+                     <td align="center">Eroded bulk</td>
+                     <td align="center">15 polygons in the valley areas where the eroded bulk was calculated. The total eroded volume sums 14.6 km<sup>3</sup>. </td>
+                     <td align="center">- Figure of the geologic section</td>
+                  </tr>
+                  <tr>
+                     <td align="center">Photographs</td>
+                     <td align="center">207 photographs of the outcrops and panoramic views of the Xáltipan ignimbrite and related deposits.</td>
+                     <td align="center">- Photo name - Coordinates and altitude - Direction view (azimuth) - Brief description of the photo</td>
+                  </tr>
+               </tbody>
+            </table>
+          </table-wrap>
 
-	          <fig id="f4">
-	             <label>Figure 4 / Figura 4</label>
-	             <caption>
-	                <p><italic><bold>Figure 4. </bold></italic> Perpendicular cross-sections in the valley areas showing the welding zones in the center of the valleys and non-welded zones where the ignimbrite is in contact with the basement rocks and where is not ponded. The location of the sections is indicated in <xref ref-type="fig" rid="f8">Plate 1</xref></p>
-	                <p><italic><bold>Figura 4. </bold></italic> Secciones perpendiculares a los valles mostando el desarrollo de zonas de soldamiento en la parte central de los valles y las zonas no soldadas cerca del contacto de la ignimbrita con las rocas del basamento y en donde no se depositó en forma de relleno de valle. La ubicación de las secciones está indicada en la <xref ref-type="fig" rid="f8">Lámina 1</xref></p>
-	             </caption>
-	             <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig7.png"/>
-	          </fig>
-
-	          <fig id="f5">
-	             <label>Figure 5 / Figura 5</label>
-	             <caption>
-	                <p><italic><bold>Figure 5. </bold></italic> Selected geologic sections showing the inferred XI architecture over the pre-eruption topography. a) a-a’ profile showing the location of the water wells and the surmounting of the XI over the Cofre de Perote lava flows. b) c-c’ profile showing the Las Minas valley. c) g-g’ profile showing the distal Zapotitlán valley. d) profile i-i’ showing the distal Apulco valley. The location of the sections is indicated in <xref ref-type="fig" rid="f8">Plate 1</xref></p>
-	                <p><italic><bold>Figura 5. </bold></italic> Secciones geológicas que muestran la arquitectura inferida de la IX sobre la topografía pre-eruptiva. a) Perfíl a-a’ mostrando la ubicación de los pozos de agua y el remontamiento de la IX sobre los flujos de lava del Cofre de Perote. b) Perfil c-c’ mostrando el valle de Las Minas. c) Perfil g-g’ mostrando el valle distal de Zapotitlán. d) Perfil i-i’ mostrando el valle distal de Apulco. La ubicación de las secciones está indicada en la <xref ref-type="fig" rid="f8">Lámina 1</xref></p>
-	             </caption>
-	             <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig6.png"/>
-	          </fig>
-
-	          <fig id="f6">
-	             <label>Figure 6 / Figura 6</label>
-	             <caption>
-	                <p><italic><bold>Figure 6. </bold></italic> Profiles with the energy lines. Each profile shows the slope of the projected line, the intersection height with the Los Humeros caldera rim (CR), and the position of the observed deposits (yellow line) where the furthest is indicated (FOD). The location of the profiles is indicated in <xref ref-type="fig" rid="f8">Plate 1</xref></p>
-	                <p><italic><bold>Figura 6. </bold></italic> Perfiles de las líneas de energía. Cada perfil muestra la pendiente de la línea proyectada, la altura de intersección con el borde la caldera Los Humeros (CR), y la posición de los depósitos observados (línea amarilla) en donde el más lejano está indicado (FOD). La ubicación del perfil está indicada en la <xref ref-type="fig" rid="f8">Lámina 1</xref></p>
-	             </caption>
-	             <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig5.png"/>
-	          </fig>
-
-	          <fig id="f7">
-	             <label>Figure 7 / Figura 7</label>
-	             <caption>
-	                <p><italic><bold>Figure 7. </bold></italic> a) North view of the Las Minas valley showing the eroded space and the approximate position of the XI in the different welding facies that changes from highly-welded in the base to non-to-moderately welded through the top. Inset box in red square shows, b) a >110 m thick wall of the XI in highly-welded facies with spectacular columnar jointing development</p>
-	                <p><italic><bold>Figura 7. </bold></italic> a) Vista al norte del valle de Las Minas mostrando el espacio erosionado y la ubicación aproximada de la IX en las diferentes facies de soldamiento que va de altamente soldada en la base a no a moderadamente soldada hacia la cima. El recuadro en rojo muestra, b) una pared de &gt;110 m compuesta por la IX en facies altamente soldadas y mostrando un desarrollo espectacular de columnas de enfriamiento.</p>
-	             </caption>
-	             <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/cavazos/fig8.png"/>
-	          </fig>
-
-	          <table-wrap id="t1">
-	               <label>Table 1 / Tabla 1</label>
-	               <caption>
-	                  <p><bold>Table 1: </bold> Features in the Xaltipan ignimbrite map</p>
-	                  <p><bold>Tabla 1: </bold> Rasgos del mapa de la ignimbrita Xaltipan</p>
-	               </caption>
-	               <table>
-	                  <thead>
-	                     <tr>
-	                        <th align="center" colspan="1" rowspan="1">Features</th>
-	                        <th align="center" colspan="1" rowspan="1">Description</th>
-	                        <th align="center" colspan="1" rowspan="1">Included data</th>
-	                     </tr>
-	                  </thead>
-	                  <tbody>
-	                     <tr>
-	                        <td align="center">Checkpoints</td>
-	                        <td align="center">Locations where the XI was located and described. Includes the location of five water wells where the ignimbrite was logged. </td>
-	                        <td align="center">-Checkpoint number -Coordinates -Welding facies </td>
-	                     </tr>
-	                     <tr>
-	                     	<td align="center">Observed deposits</td>
-	                     	<td align="center">Areas where the XI is exposed. It is subdivided into non- to moderately and highly-welded facies.</td>
-	                     	<td align="center">- Area of the polygon</td>
-	                     </tr>
-	                     <tr>
-	                     	<td align="center">Inferred deposits</td>
-	                     	<td align="center">The area originally covered by the ignimbrite prior to burial and erosion, with a coverage of ca. 4,600 km<sup>2</sup>.</td>
-	                     	<td align="center">- Area of the polygon</td>
-	                     </tr>
-	                     <tr>
-	                     	<td align="center">Energy lines</td>
-	                     	<td align="center">12 topographic sections traced radially from the Los Humeros caldera, covering all the studied area. These sections, coupled with the observed deposits information are the base to trace the <i>inferred deposits</i> polygon.</td>
-	                     	<td align="center">- Figure of the section</td>
-	                     </tr>
-	                     <tr>
-	                     	<td align="center">Geologic sections</td>
-	                     	<td align="center">Seven geologic sections that integrate surficial and subsurface lithological information of the most updated geologic map from of the LHVC. From these, four are traced from the Los Humeros caldera rim to the distal areas, and three perpendicular to the valleys in the distal area. </td>
-	                     	<td align="center">- Figure of the geologic section</td>
-	                     </tr>
-	                     <tr>
-	                     	<td align="center">Eroded bulk</td>
-                           <td align="center">15 polygons in the valley areas where the eroded bulk was calculated. The total eroded volume sums 14.6 km<sup>3</sup>. </td>
-	                     	<td align="center">- Figure of the geologic section</td>
-	                     </tr>
-	                     <tr>
-	                     	<td align="center">Photographs</td>
-	                     	<td align="center">207 photographs of the outcrops and panoramic views of the Xáltipan ignimbrite and related deposits.</td>
-	                     	<td align="center">- Photo name - Coordinates and altitude - Direction view (azimuth) - Brief description of the photo</td>
-	                     </tr>
-	                  </tbody>
-	               </table>
-	          </table-wrap>
-
-	          <table-wrap id="t2">
-	               <label>Table 2 / Tabla 2</label>
-	               <caption>
-	                  <p><bold>Table 2: </bold> Energy lines information. </p>
-	                  <p><bold>Tabla 2: </bold> Información de las líneas de energía</p>
-	               </caption>
-	               <table>
-	                  <thead>
-	                     <tr>
-	                        <th align="center" colspan="1" rowspan="1">Profile</th>
-	                        <th align="center" colspan="1" rowspan="1">Direction (azimuth)</th>
-	                        <th align="center" colspan="1" rowspan="1">Height (H) (m)</th>
-	                        <th align="center" colspan="1" rowspan="1">Lenght (L) (m)</th>
-	                        <th align="center" colspan="1" rowspan="1">H/L</th>
-	                        <th align="center" colspan="1" rowspan="1">Slope (º)</th>
-	                        <th align="center" colspan="1" rowspan="1">Intersection height (m)</th>
-	                        <th align="center" colspan="1" rowspan="1">Zone</th>
-	                     </tr>
-	                  </thead>
-	                  <tbody>
-	                     <tr>
-	                        <td align="center">a-a'</td>
-	                        <td align="center">135</td>
-	                        <td align="center">5,000</td>
-	                        <td align="center">48,037</td>
-	                        <td align="center">0.1041</td>
-	                        <td align="center">5.9</td>
-	                        <td align="center">3,530</td>
-	                        <td rowspan="3" align="center">E-SE</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">b-b'</td>
-	                        <td align="center">110</td>
-	                        <td align="center">3,300</td>
-	                        <td align="center">46,150</td>
-	                        <td align="center">0.0715</td>
-	                        <td align="center">4.1</td>
-	                        <td align="center">1,930</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">c-c'</td>
-	                        <td align="center">90</td>
-	                        <td align="center">3,274</td>
-	                        <td align="center">27,560</td>
-	                        <td align="center">0.1188</td>
-	                        <td align="center">6.8</td>
-	                        <td align="center">1,900</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">d-d'</td>
-	                        <td align="center">30</td>
-	                        <td align="center">2,380</td>
-	                        <td align="center">35,600</td>
-	                        <td align="center">0.0669</td>
-	                        <td align="center">3.8</td>
-	                        <td align="center">93</td>
-	                        <td rowspan="4" align="center">NE-N-NW</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">e-e'</td>
-	                        <td align="center">15</td>
-	                        <td align="center">2,332</td>
-	                        <td align="center">40,400</td>
-	                        <td align="center">0.0577</td>
-	                        <td align="center">3.3</td>
-	                        <td align="center">50</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">f-f'</td>
-	                        <td align="center">348</td>
-	                        <td align="center">1,490</td>
-	                        <td align="center">22,800</td>
-	                        <td align="center">0.0654</td>
-	                        <td align="center">3.7</td>
-	                        <td align="center">0</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">g.g'</td>
-	                        <td align="center">318</td>
-	                        <td align="center">2,280</td>
-	                        <td align="center">39,030</td>
-	                        <td align="center">0.0584</td>
-	                        <td align="center">3.3</td>
-	                        <td align="center">395</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">h-h'</td>
-	                        <td align="center">270</td>
-	                        <td align="center">495</td>
-	                        <td align="center">51,000</td>
-	                        <td align="center">0.0097</td>
-	                        <td align="center">0.6</td>
-	                        <td align="center">0</td>
-	                        <td rowspan="3" align="center">W</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">i-i'</td>
-	                        <td align="center">270</td>
-	                        <td align="center">685</td>
-	                        <td align="center">41,400</td>
-	                        <td align="center">0.0165</td>
-	                        <td align="center">0.9</td>
-	                        <td align="center">161</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">j-j'</td>
-	                        <td align="center">235</td>
-	                        <td align="center">504</td>
-	                        <td align="center">32,450</td>
-	                        <td align="center">0.0155</td>
-	                        <td align="center">0.9</td>
-	                        <td align="center">0</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">k-k'</td>
-	                        <td align="center">215</td>
-	                        <td align="center">560</td>
-	                        <td align="center">34,900</td>
-	                        <td align="center">0.0160</td>
-	                        <td align="center">0.9</td>
-	                        <td align="center">0</td>
-	                        <td rowspan="2" align="center">SW-S</td>
-	                     </tr>
-	                     <tr>
-	                        <td align="center">l-l'</td>
-	                        <td align="center">180</td>
-	                        <td align="center">471</td>
-	                        <td align="center">27,500</td>
-	                        <td align="center">0.0171</td>
-	                        <td align="center">1.0</td>
-	                        <td align="center">0</td>
-	                     </tr>
-	                  </tbody>
-	               </table>
-	          </table-wrap>
-	      </sec>
-	      <sec>
-	          <title>4.3. Application of the eroded bulk methodology in other ignimbrite</title>
-	          <p>Ignimbrite volume calculations are based on the area, thickness, and density of its deposits. Nevertheless, these issues commonly present high uncertainties caused, among other processes, by erosion. Two recent works exemplify this situation. The first occurs in the Otowi Member at the Valles Caldera, where the erosion of the outflow sheet is estimated based on erosion rates of another unit, resulting in the most significant uncertainty of the total volume calculation (<xref ref-type="bibr" rid="B12">Cook et al. 2016</xref>). The second is observed in the Cerro Galán ignimbrites, where the erosion is calculated at different zones by using thickness observations in individual valley zones and corrected by using correction factors that range from 1 (non-eroded) to 2 (half-eroded) with a +/-0.25 uncertainty (<xref ref-type="bibr" rid="B14">Folkes et al., 2011</xref>).</p>
-	          <p>The methodology to calculate the eroded bulk presented in this work estimates the erosion effect with no uncertainty. This because the method requires only two data, the area where ignimbrite is exposed at surface and a DEM that covers such area. Therefore, the method has the potential to be easily applied in ignimbrites that have been already mapped, as the two examples previously mentioned.</p>
-	      </sec>
-	      <sec sec-type="conclusions">
-         <title>4.4. Conclusions</title>
-	         <p>The XI exemplifies three common situations that complicate ignimbrite mapping. These includes lithofacies variations, burial by younger rocks, and high-rates of erosion. In these cases, the integration of conventional cartographic techniques, such as field mapping, energy lines, and geologic sections, with GIS tools, allowed to trace the original and present distribution of the deposits. These cartographic results revealed three essential features of the eruption and emplacement process: 1) The energy lines projections point to a low altitude PCDs source, typical in boiling-over, caldera-forming eruptions. 2) The inferred distribution area shows a combination of radial and valley-filling shapes that respond to the topography before the eruption. In the proximal facies, the radial shape forms due to the relatively flattened pre-caldera lava field, while in the distal southern area the PDC showed a higher fluidization surmounting topographic barriers such as the Cerro Pizarro volcano, and in the distal facies the PDCs channelized into the steep valleys of the pre-volcanic basement. 3) Geologic sections, parallel and perpendicular to the ignimbrite-filled valleys, reveal that the highly-welded facies of the XI focus within channel centers and that these facies are exposed due to erosion processes.</p>
-        </sec>
-      </sec>
-      <sec>
-        <title>5. Software</title>
-          <p>
-            The map was constructed using the Quantum GIS (QGIS) V.2.8.4-Wien with SAGA plugins installed.
-            Besides the default QGIS tools, the plugins used where: Profile tool and qgis2threejs.
-            Figures were drawn with CorelDraw X7.
-          </p>
-      </sec>
-      <sec>
-        <title>6. Acknowledgments</title>
-          <p>
-            We acknowledge the financial support given by the Consortium GEMEX European Union-Mexico [No. 2015-04-268074]
-            and by the Centro Mexicano de Inovación en Energía Geotérmica from the Fondo de Sustentabilidad Energética SENER-CONACyT [No. 2007032].
-            Also, special thanks to Francisco Fernández and Javier Hernández for their valuable help and discussions during fieldwork,
-            to Mario Navarro for his technical assistance during the data processing in QGIS,
-            and Javier Osorno Covarrubias for the design and implementation of the interactive map.
-            We are also grateful to the Centro de Geociencias (UNAM), who provided vehicles and infrastructure to support this work.
-            Finally, the first author, thanks CONACyT-Mexico, who provided financing in the form of doctoral grant No. 504993.
-          </p>
+          <table-wrap id="t2">
+            <label>Table 2 / Tabla 2</label>
+            <caption>
+               <p><bold>Table 2: </bold> Energy lines information. </p>
+               <p><bold>Tabla 2: </bold> Información de las líneas de energía</p>
+            </caption>
+            <table>
+               <thead>
+                  <tr>
+                     <th align="center" colspan="1" rowspan="1">Profile</th>
+                     <th align="center" colspan="1" rowspan="1">Direction (azimuth)</th>
+                     <th align="center" colspan="1" rowspan="1">Height (H) (m)</th>
+                     <th align="center" colspan="1" rowspan="1">Lenght (L) (m)</th>
+                     <th align="center" colspan="1" rowspan="1">H/L</th>
+                     <th align="center" colspan="1" rowspan="1">Slope (º)</th>
+                     <th align="center" colspan="1" rowspan="1">Intersection height (m)</th>
+                     <th align="center" colspan="1" rowspan="1">Zone</th>
+                  </tr>
+               </thead>
+               <tbody>
+                  <tr>
+                     <td align="center">a-a'</td>
+                     <td align="center">135</td>
+                     <td align="center">5,000</td>
+                     <td align="center">48,037</td>
+                     <td align="center">0.1041</td>
+                     <td align="center">5.9</td>
+                     <td align="center">3,530</td>
+                     <td rowspan="3" align="center">E-SE</td>
+                  </tr>
+                  <tr>
+                     <td align="center">b-b'</td>
+                     <td align="center">110</td>
+                     <td align="center">3,300</td>
+                     <td align="center">46,150</td>
+                     <td align="center">0.0715</td>
+                     <td align="center">4.1</td>
+                     <td align="center">1,930</td>
+                  </tr>
+                  <tr>
+                     <td align="center">c-c'</td>
+                     <td align="center">90</td>
+                     <td align="center">3,274</td>
+                     <td align="center">27,560</td>
+                     <td align="center">0.1188</td>
+                     <td align="center">6.8</td>
+                     <td align="center">1,900</td>
+                  </tr>
+                  <tr>
+                     <td align="center">d-d'</td>
+                     <td align="center">30</td>
+                     <td align="center">2,380</td>
+                     <td align="center">35,600</td>
+                     <td align="center">0.0669</td>
+                     <td align="center">3.8</td>
+                     <td align="center">93</td>
+                     <td rowspan="4" align="center">NE-N-NW</td>
+                  </tr>
+                  <tr>
+                     <td align="center">e-e'</td>
+                     <td align="center">15</td>
+                     <td align="center">2,332</td>
+                     <td align="center">40,400</td>
+                     <td align="center">0.0577</td>
+                     <td align="center">3.3</td>
+                     <td align="center">50</td>
+                  </tr>
+                  <tr>
+                     <td align="center">f-f'</td>
+                     <td align="center">348</td>
+                     <td align="center">1,490</td>
+                     <td align="center">22,800</td>
+                     <td align="center">0.0654</td>
+                     <td align="center">3.7</td>
+                     <td align="center">0</td>
+                  </tr>
+                  <tr>
+                     <td align="center">g.g'</td>
+                     <td align="center">318</td>
+                     <td align="center">2,280</td>
+                     <td align="center">39,030</td>
+                     <td align="center">0.0584</td>
+                     <td align="center">3.3</td>
+                     <td align="center">395</td>
+                  </tr>
+                  <tr>
+                     <td align="center">h-h'</td>
+                     <td align="center">270</td>
+                     <td align="center">495</td>
+                     <td align="center">51,000</td>
+                     <td align="center">0.0097</td>
+                     <td align="center">0.6</td>
+                     <td align="center">0</td>
+                     <td rowspan="3" align="center">W</td>
+                  </tr>
+                  <tr>
+                     <td align="center">i-i'</td>
+                     <td align="center">270</td>
+                     <td align="center">685</td>
+                     <td align="center">41,400</td>
+                     <td align="center">0.0165</td>
+                     <td align="center">0.9</td>
+                     <td align="center">161</td>
+                  </tr>
+                  <tr>
+                     <td align="center">j-j'</td>
+                     <td align="center">235</td>
+                     <td align="center">504</td>
+                     <td align="center">32,450</td>
+                     <td align="center">0.0155</td>
+                     <td align="center">0.9</td>
+                     <td align="center">0</td>
+                  </tr>
+                  <tr>
+                     <td align="center">k-k'</td>
+                     <td align="center">215</td>
+                     <td align="center">560</td>
+                     <td align="center">34,900</td>
+                     <td align="center">0.0160</td>
+                     <td align="center">0.9</td>
+                     <td align="center">0</td>
+                     <td rowspan="2" align="center">SW-S</td>
+                  </tr>
+                  <tr>
+                     <td align="center">l-l'</td>
+                     <td align="center">180</td>
+                     <td align="center">471</td>
+                     <td align="center">27,500</td>
+                     <td align="center">0.0171</td>
+                     <td align="center">1.0</td>
+                     <td align="center">0</td>
+                  </tr>
+               </tbody>
+            </table>
+          </table-wrap>
       </sec>
       <sec sec-type="supplementary-material">
          <title>Visualizador</title>
@@ -514,7 +503,7 @@
                <year>1996</year>
                <article-title>Volcanic stratigraphy of the Amealco caldera and vicinity, central Mexican Volcanic Belt</article-title>
                <source>Rev. Mex. Ciencias Geol</source>
-               <vol>13</vol>
+               <volume>13</volume>
                <fpage>10</fpage>
                <lpage>51</lpage>
                <pub-id pub-id-type="doi"></pub-id>
