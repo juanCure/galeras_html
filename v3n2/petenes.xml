@@ -41,6 +41,7 @@
                <xref ref-type="aff" rid="aff1">
                   <sup>1</sup>
                </xref>
+               <xref ref-type="corresp" rid="c1">*</xref>
             </contrib>
             <contrib contrib-type="author">
                <name>
@@ -114,6 +115,9 @@
             </addr-line>
             <country country="MX">México</country>
          </aff>
+         <corresp id="c1">
+            <email>iliana.perez.espinosa@gmail.com</email>;
+         </corresp>
          <pub-date pub-type="epub">
             <day>31</day>
             <month>10</month>
@@ -1550,11 +1554,11 @@
                   </name>
                </person-group>
                <year>2012</year>
-               <source>Tesis de Maestría</source>
+               <source>Tesis de Maestría, Universidad Nacional Autónoma de México. UNAM, pp. 120</source>
                <publisher-name>Universidad Nacional Autónoma de México. UNAM</publisher-name>
                <comment content-type="degree">Percepción Remota y sus aplicaciones a la evaluación de la calidad del agua</comment>
-               <fpage>120</fpage>
-               <lpage>120</lpage>
+               <fpage></fpage>
+               <lpage></lpage>
             </element-citation>
          </ref>
          <ref id="B2">
@@ -1564,7 +1568,8 @@
                   <collab>Biosonics Inc</collab>
                </person-group>
                <year>2008</year>
-               <source>Guía de uso de EcoSAV Software, Seattle, WA, USA.</source>
+               <article-title>Guía de uso de EcoSAV Software</article-title>
+               <source>Seattle, WA, USA.</source>
             </element-citation>
          </ref>
          <ref id="B3">
@@ -1584,7 +1589,7 @@
                <year>1997</year>
                <article-title>Geographic information systems (GIS) and remote sensing in aquatic botany: methodological aspects</article-title>
                <source>Aquatic botany</source>
-               <volume>58</volume>
+               <volume>58(3)</volume>
                <issue>3</issue>
                <fpage>209</fpage>
                <lpage>228</lpage>
@@ -1762,9 +1767,8 @@
                   </name>
                </person-group>
                <year>2002</year>
-               <source>Teledetección ambiental: la observación de la tierra desde el espacio. <italic>Ariel Ciencia</italic>. 1ª Edición. Barcelona, España</source>
-               <fpage>586</fpage>
-               <lpage>586</lpage>
+               <article-title>Teledetección ambiental: la observación de la tierra desde el espacio</article-title>
+               <source><italic>Ariel Ciencia</italic>. 1ª Edición. Barcelona, España pp. 586</source>
             </element-citation>
          </ref>
          <ref id="B8">
@@ -1785,14 +1789,16 @@
                   </name>
                </person-group>
                <year>2018</year>
-               <article-title>Multivariate analysis of water quality and benthic macrophyte communities in Florida Bay, USA reveals hurricane effects and susceptibility to seagrass die-off. Frontiers in plant science</article-title>
+               <article-title>Multivariate analysis of water quality and benthic macrophyte communities in Florida Bay, USA reveals hurricane effects and susceptibility to seagrass die-off</article-title>
+               <source>Frontiers in plant science</source>
+               <volume>9</volume>
                <fpage>1</fpage>
                <lpage>16</lpage>
                <pub-id pub-id-type="doi">10.3389/fpls.2018.00630</pub-id>
             </element-citation>
          </ref>
          <ref id="B9">
-            <mixed-citation>Congedo, L. (2016). Semi-automatic classification plugin documentation. Release, 4 (0.1), https://doi.org/10.13140/RG.2.2.29474.02242/1</mixed-citation>
+            <mixed-citation>Congedo, L. (2016). Semi-automatic classification plugin documentation. Release 6.0.1.1, https://doi.org/10.13140/RG.2.2.29474.02242/1</mixed-citation>
             <element-citation publication-type="book">
                <person-group person-group-type="author">
                   <name>
@@ -1801,7 +1807,8 @@
                   </name>
                </person-group>
                <year>2016</year>
-               <article-title>Semi-automatic classification plugin documentation. Release, 4</article-title>
+               <article-title>Semi-automatic classification plugin documentation. Release 6.0.1.1</article-title>
+               <source>Tech. rep</source>
                <pub-id pub-id-type="doi">10.13140/RG.2.2.29474.02242/1</pub-id>
             </element-citation>
          </ref>
@@ -1817,7 +1824,7 @@
                <year>1996</year>
                <article-title>Distribution of seagrasses in the Yucatan Peninsula, Mexico</article-title>
                <source>Bulletin of marine science</source>
-               <volume>59</volume>
+               <volume>59(2)</volume>
                <issue>2</issue>
                <fpage>449</fpage>
                <lpage>454</lpage>
@@ -1837,8 +1844,8 @@
                   </name>
                </person-group>
                <year>2004</year>
-               <article-title>Whatcom County submerged aquatic vegetation survey methods. Fairbanks Environmental Services. Inc Marine Resources Consultants. <italic>Report National Oceanic and Atmospheric Administration</italic>
-               </article-title>
+               <article-title>Whatcom County submerged aquatic vegetation survey methods. Fairbanks Environmental Services. Inc Marine Resources Consultants</article-title>
+               <source>Report National Oceanic and Atmospheric Administration</source>
                <fpage>1</fpage>
                <lpage>9</lpage>
             </element-citation>
@@ -1876,7 +1883,7 @@
                <article-title>Mapping Posidonia oceanica from IKONOS</article-title>
                <source>ISPRS <italic>Journal of Photogrammetry and Remote Sensing</italic>
                </source>
-               <volume>60</volume>
+               <volume>60(5)</volume>
                <issue>5</issue>
                <fpage>315</fpage>
                <lpage>322</lpage>
@@ -1911,7 +1918,7 @@
                <year>2003</year>
                <article-title>Forecasting responses of seagrass distributions to changing water quality using monitoring data</article-title>
                <source>Ecological Applications</source>
-               <volume>13</volume>
+               <volume>13(2)</volume>
                <issue>2</issue>
                <fpage>474</fpage>
                <lpage>489</lpage>
@@ -1966,10 +1973,10 @@
                <year>2012</year>
                <article-title>Seagrass ecosystems as a globally significant carbon stock</article-title>
                <source>Nature geoscience</source>
-               <volume>5</volume>
+               <volume>5(7)</volume>
                <issue>7</issue>
                <fpage>505</fpage>
-               <lpage>505</lpage>
+               <lpage>509</lpage>
                <pub-id pub-id-type="doi">10.1038/ngeo1477</pub-id>
             </element-citation>
          </ref>
@@ -2034,9 +2041,9 @@
                </person-group>
                <year>2019</year>
                <article-title>Estado de salud, conservación y vulnerabilidad de los ecosistemas de pastos marinos del litoral del Golfo de México. Consorcio de investigación del Golfo de México, Informe segunda etapa febrero de 2019</article-title>
-               <source>Consejo Nacional de Ciencia y Tecnología y Universidad Autónoma Metropolitana</source>
-               <fpage>158</fpage>
-               <lpage>158</lpage>
+               <source>Consejo Nacional de Ciencia y Tecnología y Universidad Autónoma Metropolitana, Pp. 158</source>
+               <fpage></fpage>
+               <lpage></lpage>
             </element-citation>
          </ref>
          <ref id="B17">
@@ -2072,7 +2079,7 @@
                <article-title>An assessment of the acoustic survey technique, RoxAnn, as a means of mapping seabed habitat</article-title>
                <source>ICES <italic>Journal of Marine Science</italic>
                </source>
-               <volume>54</volume>
+               <volume>54(5)</volume>
                <issue>5</issue>
                <fpage>939</fpage>
                <lpage>959</lpage>
@@ -2103,7 +2110,7 @@
                <year>2004</year>
                <article-title>Changes in the distribution of seagrass species along Florida's Central Gulf Coast: Iverson and Bittaker revisited</article-title>
                <source>Estuaries</source>
-               <volume>27</volume>
+               <volume>27(1)</volume>
                <issue>1</issue>
                <fpage>36</fpage>
                <lpage>36</lpage>
@@ -2126,9 +2133,9 @@
                <year>2000</year>
                <article-title>Seagrass Ecology</article-title>
                <publisher-name>Cambridge University Press</publisher-name>
-               <publisher-loc>New York</publisher-loc>
-               <fpage>298</fpage>
-               <lpage>298</lpage>
+               <publisher-loc>New York, Pp. 298</publisher-loc>
+               <fpage></fpage>
+               <lpage></lpage>
                <pub-id pub-id-type="doi">10.1017/CBO9780511525551</pub-id>
             </element-citation>
          </ref>
@@ -2166,9 +2173,9 @@
                <year>2007</year>
                <article-title>The biology of mangroves and seagrasses</article-title>
                <publisher-name>Oxford</publisher-name>
-               <publisher-loc>New York</publisher-loc>
-               <fpage>304</fpage>
-               <lpage>304</lpage>
+               <publisher-loc>New York, Pp. 304</publisher-loc>
+               <fpage></fpage>
+               <lpage></lpage>
             </element-citation>
          </ref>
          <ref id="B22">
@@ -2270,7 +2277,7 @@
                      <given-names>C.M.</given-names>
                   </name>
                </person-group>
-               <source>Seagrasses: Biology, Ecology and Conservation</source>
+               <source>Seagrasses: Biology, Ecology and Conservation. Springer</source>
                <publisher-name>Springer</publisher-name>
                <fpage>51</fpage>
                <lpage>87</lpage>
@@ -2396,7 +2403,7 @@
                <year>2009</year>
                <article-title>Modelling the spatial distribution of plaice (Pleuronectes platessa), sole (Solea solea) and thornback ray (Raja clavata) in UK waters for marine management and planning</article-title>
                <source>Journal of Sea Research</source>
-               <volume>61</volume>
+               <volume>61(4)</volume>
                <issue>4</issue>
                <fpage>258</fpage>
                <lpage>267</lpage>
@@ -2439,7 +2446,7 @@
                      <given-names>C.</given-names>
                   </name>
                </person-group>
-               <source>In: F. Short, R. Coles y C. Short, ed. Global Seagrass Research Methods</source>
+               <source>In: F. Short, R. Coles y C. Short, ed. Global Seagrass Research Methods, 1st ed. Amsterdam, The Netherlands</source>
                <publisher-loc>Amsterdam, The Netherlands</publisher-loc>
                <comment> 
                   <ext-link ext-link-type="uri"
@@ -2476,7 +2483,7 @@
                <year>1997</year>
                <article-title>Estimating basal area coverage of subtidal seagrass beds using underwater videography</article-title>
                <source>Aquatic Botany</source>
-               <volume>58</volume>
+               <volume>58(3-4)</volume>
                <issue>3-4</issue>
                <fpage>269</fpage>
                <lpage>287</lpage>
@@ -2501,9 +2508,9 @@
                </person-group>
                <year>2007</year>
                <article-title>Eelgrass Mapping Along the Elwha Nearshore</article-title>
-               <source>In Proceedings of the 2007 Georgia Basin/Puget Sound Research Conference</source>
-               <fpage>10</fpage>
-               <lpage>10</lpage>
+               <source>In Proceedings of the 2007 Georgia Basin/Puget Sound Research Conference. Pp. 10</source>
+               <fpage></fpage>
+               <lpage></lpage>
                <comment> 
                   <ext-link ext-link-type="uri"
                             xlink:href="https://www.clallamcountymrc.org/media/18562/norris-fraser-2006-eelgrass-mapping-along-the-elwha-nearshore.pdf">https://www.clallamcountymrc.org/media/18562/norris-fraser-2006-eelgrass-mapping-along-the-elwha-nearshore.pdf</ext-link>
@@ -2597,7 +2604,7 @@
                <year>2017</year>
                <article-title>Seagrass blue carbon spatial patterns at the meadow-scale</article-title>
                <source>PloS one</source>
-               <volume>12</volume>
+               <volume>12(4)</volume>
                <issue>4</issue>
                <fpage>1</fpage>
                <lpage>18</lpage>
@@ -2617,7 +2624,6 @@
                <source>Tesis de maestría</source>
                <comment content-type="degree">Análisis de la productividad de <italic>Thalassia testudinum</italic> Banks ex Kôenig y su relación con los factores ambientales de la Reserva de la Biósfera los Petenes, Campeche</comment>
                <publisher-name>Universidad Autónoma Metropolitana</publisher-name>
-               <publisher-loc>Iztapala, México</publisher-loc>
                <publisher-loc>Iztapala, México</publisher-loc>
             </element-citation>
          </ref>
@@ -2724,7 +2730,7 @@
                      <given-names>F.T.</given-names>
                   </name>
                </person-group>
-               <source>World Atlas of Seagrasses</source>
+               <source>World Atlas of Seagrasses. University of California Press</source>
                <publisher-name>University of California Press</publisher-name>
                <fpage>5</fpage>
                <lpage>26</lpage>
@@ -2773,7 +2779,7 @@
                <year>2005</year>
                <article-title>Evaluation of alternative interpolation techniques for the mapping of remotely-sensed submersed vegetation abundance</article-title>
                <source>Aquatic botany</source>
-               <volume>81</volume>
+               <volume>81(1)</volume>
                <issue>1</issue>
                <fpage>13</fpage>
                <lpage>25</lpage>
@@ -2821,7 +2827,7 @@
                      <given-names>C.M.</given-names>
                   </name>
                </person-group>
-               <source>Seagrasses: <italic>Biology, Ecology and Conservation</italic>
+               <source>Seagrasses: <italic>Biology, Ecology and Conservation. Springer</italic>
                </source>
                <publisher-name>Springer</publisher-name>
                <fpage>409</fpage>
@@ -2853,9 +2859,9 @@
                <year>2010</year>
                <article-title>A guide to the tropical seagrasses of the Western Atlantic</article-title>
                <publisher-name>UNAM</publisher-name>
-               <publisher-loc>México</publisher-loc>
-               <fpage>75</fpage>
-               <lpage>75</lpage>
+               <publisher-loc>México. Pp. 75</publisher-loc>
+               <fpage></fpage>
+               <lpage></lpage>
             </element-citation>
          </ref>
          <ref id="B41">
@@ -2878,7 +2884,7 @@
                <year>2007</year>
                <article-title>Seasonal variability in the abundance of Arctic charr (Salvelinus alpinus (L.) recorded using hydroacoustics in Windermere, UK and its implications for survey design</article-title>
                <source>Ecology of Freshwater Fish</source>
-               <volume>16</volume>
+               <volume>16(1)</volume>
                <issue>1</issue>
                <fpage>64</fpage>
                <lpage>69</lpage>
@@ -2917,7 +2923,7 @@
                <year>2007</year>
                <article-title>Quantification of Historical Changes of Submerged Aquatic Vegetation Cover in Two Bays of Lake Ontario with Three Complementary Methods</article-title>
                <source>Journal of Great Lakes Research</source>
-               <volume>33</volume>
+               <volume>33(1)</volume>
                <issue>1</issue>
                <fpage>122</fpage>
                <lpage>135</lpage>
