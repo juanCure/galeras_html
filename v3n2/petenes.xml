@@ -82,7 +82,7 @@
          </contrib-group>
          <aff id="aff1">
             <label>1 </label>
-            <institution content-type="original">Laboratorio de Manejo de Recursos Naturales, Universidad Autónoma Metropolitana, Unidad Iztapalapa (UAM-I), San Rafael Atlixco 186, Col. Vicentina, 09340, Ciudad de México. biologa.ilianape@gmail.com</institution>
+            <institution content-type="original">Laboratorio de Manejo de Recursos Naturales, Universidad Autónoma Metropolitana, Unidad Iztapalapa (UAM-I), San Rafael Atlixco 186, Col. Vicentina, 09340, Ciudad de México</institution>
             <institution content-type="normalized">Universidad Autónoma Metropolitana</institution>
             <institution content-type="orgdiv1">Laboratorio de Manejo de Recursos Naturales</institution>
             <institution content-type="orgname">Universidad Autónoma Metropolitana, Unidad Iztapalapa (UAM-I)</institution>
@@ -90,12 +90,12 @@
                <postal-code>09340</postal-code>
                <city>Ciudad de México</city>
             </addr-line>
-            <country country="MX">Mexico</country>
+            <country country="MX">México</country>
             <email>biologa.ilianape@gmail.com</email>
          </aff>
          <aff id="aff2">
             <label>2</label>
-            <institution content-type="original">  Laboratorio de Pastos Marinos, UAM-I, Ciudad de México.</institution>
+            <institution content-type="original"> Laboratorio de Pastos Marinos, UAM-I, Ciudad de México</institution>
             <institution content-type="normalized">Universidad Autónoma Metropolitana</institution>
             <institution content-type="orgdiv1">Laboratorio de Pastos Marinos</institution>
             <institution content-type="orgname">UAM-I</institution>
@@ -106,7 +106,7 @@
          </aff>
          <aff id="aff3">
             <label>3 </label>
-            <institution content-type="original"> Dirección General de Geomática, Comisión Nacional para el Uso y Conocimiento de la Biodiversidad (CONABIO), Av. Liga Periférico-Insurgentes Sur 4903, Parques del Pedregal, Tlalpan, 14010, México, Ciudad de México. </institution>
+            <institution content-type="original"> Dirección General de Geomática, Comisión Nacional para el Uso y Conocimiento de la Biodiversidad (CONABIO), Av. Liga Periférico-Insurgentes Sur 4903, Parques del Pedregal, Tlalpan, 14010, México, Ciudad de México</institution>
             <institution content-type="orgdiv1">Dirección General de Geomática</institution>
             <institution content-type="orgname">Comisión Nacional para el Uso y Conocimiento de la Biodiversidad (CONABIO)</institution>
             <addr-line>
@@ -146,7 +146,7 @@
             </date>
          </history>
          <permissions>
-            <copyright-statement>&#169; 2019, Iliana Pérez Espinosa, Margarita E. Gallegos Martínez, Rainer A. Ressl &amp; Luis H. Valderrama Landeros. Published by Terra Digitalis.
+            <copyright-statement>&#169; 2019, Iliana Pérez Espinosa, Margarita E. Gallegos Martínez, Rainer A. Ressl, Luis H. Valderrama Landeros &amp; Gilberto Hernández Cárdenas. Published by Terra Digitalis.
             </copyright-statement>
             <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
                <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
@@ -161,7 +161,7 @@
           <sec>
             <title>Abstract</title>
             <p>Seagrasses and Submerged aquatic vegetation (SAV) provide multiple ecological services. They have gained special attention due to the ability to sequester significant amounts of atmospheric carbon in roots and rhizomes, making them relevant ecosystems for climate change mitigation. Despite of its importance, to date, the cartography on the extension and floristic composition of seagrasses and SAV in Mexico is very scarce. In this context, the objective of this research was to map the extension and floristic composition of seagrasses and SAV in the Biosphere Reserve of Los Petenes (BRLP), state of Campeche. The resulting map may serve as baseline information for further studies to promote the management, protection and conservation of the area. Between 2011 and 2017, 38 perpendicular to the coast transects and 10 parallel transects, up to 21 km and up to 60 km length, respectively, were sampled applying hydroacoustic remote sensing. In addition, a Sentinel 2A satellite image of March 29, 2017 was used in combination with hydroacoustic information to derive 5 main classes of seagrasses and SAV occupying 1,512 km<sup>2</sup>, corresponding to 83% of the BRLP. The scale of the derived SAV map is 1:100,000, with overall map accuracy of 78% and Kappa coefficient of 71%. The methodology applied represents a valuable exploration in determining the distribution of seagrass and SAV in shallow areas of the Gulf of Mexico, considered difficult to survey, because of the nature of its waters, comparatively more turbid than those of the Caribbean Sea.</p>
-            <p><italic>Keywords: </italic> Seagrasses; Submerged aquatic vegetation; macro algae; remote sensing; spatial distribution map;Biosphere Reserve of Los Petenes</p>
+            <p><italic>Keywords: </italic> Seagrasses; Submerged aquatic vegetation; macro algae; remote sensing; spatial distribution map; Biosphere Reserve of Los Petenes</p>
           </sec>
          </abstract>
          <trans-abstract xml:lang="en">
@@ -210,44 +210,42 @@
          <title>2. Métodos</title>
         <sec>
           <title>2.1 Trabajo de campo</title>
-         <p>. La Reserva de la Biosfera los Petenes se ubica entre las coordenadas extremas: (x min, y min) = (90º 49’49.08”, 19º 51’42.12”) y (x max, y max) = (90º 27’6.48”, 20º 38’8.16”). La zona marina abarca una extensión de 1,817.64 km<sup>2</sup>. La estrategia de mapeo consistió en registrar los pastos marinos y la VAS con una ecosonda hidroacústica modelo Biosonics DT-X que incluye un GPS, la cual se instaló en una embarcación de mediana altura de 12 metros de eslora, con motor fuera de borda y capacidad de 60 caballos de fuerza. La ecosonda trabaja a una frecuencia de 430 kHz con 6.4 x 6.4 grados de apertura (<xref ref-type="bibr" rid="B35">Sabol, 2003</xref>). Los intervalos de registro varían de 2 a 5 m, en función de la velocidad con la que avanza la embarcación por las condiciones de oleaje y viento. </p>
-         <p>Se definió una malla de registro en forma de una red regular (<xref ref-type="bibr" rid="B3">Caloz y Collet, 1997</xref>). Se utilizaron 38 transectos perpendiculares a la costa (PE), de hasta 21 km de distancia de la misma, en donde la vegetación era escasa o ausente. Adicionalmente, se usaron 10 transectos paralelos (PA) a la costa, con una longitud de hasta 60 km de largo, medidos desde el extremo sur al extremo norte de la reserva; con una distancia entre ellos de 2 a 3 km aproximadamente. Los transectos fueron realizados en distintas fechas, desde el año 2011 al 2017 (<xref ref-type="fig" rid="f1">Figura 1</xref>), cubriendo aproximadamente 1,300 km lineales, lo que representa la extensión de la zona marina de la RBLP. (<xref ref-type="table" rid="t1">Tabla 1</xref>). La señal de la ecosonda no diferencia entre géneros o especies, sólo puntualiza la presencia o ausencia (p/a) de plantas (<xref ref-type="bibr" rid="B11">Fairbanks y Norris, 2004</xref>). Para resolver esta limitante se usó una cámara submarina (SeaViewer) que registraba en forma continua la vegetación, al mismo tiempo que la ecosonda generaba los ecogramas de cobertura, altura de las plantas y profundidad (<xref ref-type="bibr" rid="B28">Norris <italic>et al</italic>., 1997</xref>; <xref ref-type="bibr" rid="B29">Norris <italic>et al</italic>., 2007</xref>). Los videos se sincronizaron con los transectos de la ecosonda y se efectuaron verificaciones con equipo de buceo autónomo cada 3-5 km; cuando no era posible identificar la composición florística a través del video, o bien, cuando el patrón del ecograma mostraba diferencias. Paralelamente, se efectuaron 70 buceos, en los que se realizaron 10 mediciones del porcentaje (%) de cobertura de las especies presentes, en un cuadrante de 0.5m x 0.5m, por el método de Braun-Blanquet; identificando la composición florística (<xref ref-type="bibr" rid="B13">Fourqurean <italic>et al</italic>., 2003</xref>). Estos datos fueron complementados con 73 waypoints adicionales de presencia de las especies, incorporando así una base de datos de 143 puntos, que fueron utilizados para evaluar la exactitud de las clases de pastos marinos y de VAS, detectadas con la imagen satelital Sentinel 2A. </p>
+         <p>La Reserva de la Biosfera los Petenes se ubica entre las coordenadas extremas: (x min, y min) = (90º 49’49.08”, 19º 51’42.12”) y (x max, y max) = (90º 27’6.48”, 20º 38’8.16”). La zona marina abarca una extensión de 1,817.64 km<sup>2</sup>. La estrategia de mapeo consistió en registrar los pastos marinos y la VAS con una ecosonda hidroacústica modelo Biosonics DT-X que incluye un GPS, la cual se instaló en una embarcación de mediana altura de 12 metros de eslora, con motor fuera de borda y capacidad de 60 caballos de fuerza. La ecosonda trabaja a una frecuencia de 430 kHz con 6.4 x 6.4 grados de apertura (<xref ref-type="bibr" rid="B35">Sabol, 2003</xref>). Los intervalos de registro varían de 2 a 5 m, en función de la velocidad con la que avanza la embarcación por las condiciones de oleaje y viento. </p>
+         <p>Se definió una malla de registro en forma de una red regular (<xref ref-type="bibr" rid="B3">Caloz y Collet, 1997</xref>). Se utilizaron 38 transectos perpendiculares a la costa (PE), de hasta 21 km de distancia de la misma, en donde la vegetación era escasa o ausente. Adicionalmente, se usaron 10 transectos paralelos (PA) a la costa, con una longitud de hasta 60 km de largo, medidos desde el extremo sur al extremo norte de la reserva; con una distancia entre ellos de 2 a 3 km aproximadamente. Los transectos fueron realizados en distintas fechas, desde el año 2011 al 2017 (<xref ref-type="fig" rid="f1">Figura 1</xref>), cubriendo aproximadamente 1,300 km lineales, lo que representa la extensión de la zona marina de la RBLP (<xref ref-type="table" rid="t1">Tabla 1</xref>). La señal de la ecosonda no diferencia entre géneros o especies, sólo puntualiza la presencia o ausencia (p/a) de plantas (<xref ref-type="bibr" rid="B11">Fairbanks y Norris, 2004</xref>). Para resolver esta limitante se usó una cámara submarina (SeaViewer) que registraba en forma continua la vegetación, al mismo tiempo que la ecosonda generaba los ecogramas de cobertura, altura de las plantas y profundidad (<xref ref-type="bibr" rid="B28">Norris <italic>et al</italic>., 1997</xref>; <xref ref-type="bibr" rid="B29">Norris <italic>et al</italic>., 2007</xref>). Los videos se sincronizaron con los transectos de la ecosonda y se efectuaron verificaciones con equipo de buceo autónomo cada 3-5 km; cuando no era posible identificar la composición florística a través del video, o bien, cuando el patrón del ecograma mostraba diferencias. Paralelamente, se efectuaron 70 buceos, en los que se realizaron 10 mediciones del porcentaje (%) de cobertura de las especies presentes, en un cuadrante de 0.5m x 0.5m, por el método de Braun-Blanquet; identificando la composición florística (<xref ref-type="bibr" rid="B13">Fourqurean <italic>et al</italic>., 2003</xref>). Estos datos fueron complementados con 73 waypoints adicionales de presencia de las especies, incorporando así una base de datos de 143 puntos, que fueron utilizados para evaluar la exactitud de las clases de pastos marinos y de VAS, detectadas con la imagen satelital Sentinel 2A. </p>
 
-         <!--<p>-->
-            <fig id="f1">
-               <label>Figura 1 / Figure 1</label>
-               <caption>
-                  <p><italic><bold>Figura 1. </bold></italic>Registros de los pastos marinos y la VAS colectados con la ecosonda mediante transectos perpendiculares (PE) y paralelos (PA) a la costa (“red regular”) y elaborados entre los años 2011 al 2017.</p>
-                  <p><italic><bold>Figure 1. </bold></italic>Seagrasses and SAV registries collected using perpendicular (PE) and parallel (PA) transects (“regular grid”) from 2011 to 2017</p>
-               </caption>
-               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37001.png"/>
-            </fig>
-         <!--</p>-->
+         <fig id="f1">
+           <label>Figura 1 / Figure 1</label>
+           <caption>
+              <p><italic><bold>Figura 1. </bold></italic> Registros de los pastos marinos y la VAS colectados con la ecosonda mediante transectos perpendiculares (PE) y paralelos (PA) a la costa (“red regular”) y elaborados entre los años 2011 al 2017</p>
+              <p><italic><bold>Figure 1. </bold></italic> Seagrasses and SAV registries collected using perpendicular (PE) and parallel (PA) transects (“regular grid”) from 2011 to 2017</p>
+           </caption>
+           <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37001.png"/>
+         </fig>
+
          <p>Con la información hidroacústica también fue posible construir la batimetría del fondo marino y recuperar las alturas de los pastos marinos y VAS de la Reserva de la Biosfera Los Petenes, Campeche, México. Para conseguirlo, se utilizó la herramienta <italic>Geostatistical Analyst de ARCGIS 9.1, </italic>que permite representar el gradiente de la información hidroacústica, referente a la variable profundidad, en la RBLP. Como primer paso, se eligió el Kriging Ordinario como método de interpolación; el cual ha sido ampliamente utilizado en geoestadística para representar variables espaciales, requiriendo datos independientes que permitan la definición de patrones (<xref ref-type="bibr" rid="B26">Maxwell et al., 2009</xref>). A continuación, se obtuvo una superficie (mapa raster), el cual fue categorizado en intervalos equivalentes (cada 0.5 metros). Se determinó la dependencia espacial mediante un semivariograma, el cual describe la continuidad espacial de los datos para estimar valores de los puntos no muestreados (<xref ref-type="bibr" rid="B38">Valley et al., 2005</xref>). También, se eligió un modelo esférico, ya que presentó menor error en las mediciones con el ángulo de tolerancia y amplitud de la banda (<xref ref-type="bibr" rid="B17">Greenstreet et al., 1997</xref>), así como el número de intervalos de distancia (10 <italic>lags</italic>). Asimismo, se utilizó una función polinómica de segundo grado o cuadrática, ya que es la que mejor resultados arroja en superficies que presentan un relieve variado. Se eligió el número de vecinos (10 puntos) a tomar en cuenta en la interpolación; los cuales tuvieron más peso en la asignación del nuevo valor. El mapa fue vectorizado para derivar isolineas que posteriormente fueron reinterpoladas. Con el propósito de “suavizar” la superficie construida, a partir del vector resultante, se construyeron nuevos valores por medio del método TIN (Triangular Interpolation Network), para generar el modelo digital de elevación con intervalos cada 0.5 metros y la misma resolución espacial que la imagen satelital Sentinel 2A (<xref ref-type="fig" rid="f2">Figura 2</xref>, <xref ref-type="fig" rid="f3">3</xref> y <xref ref-type="fig" rid="f4">4</xref>). </p>
-         <p>
-            <fig id="f2">
-               <label>Figura 2 / Figure 2</label>
-               <caption>
-                <p><italic><bold>Figura 2. </bold></italic>Diagrama de flujo con los métodos aplicados para la construcción de la batimetría del fondo marino y las alturas de la planta en la reserva de la biosfera los Petenes, Campeche.</p>
-                <p><italic><bold>Figure 2. </bold></italic>Diagram of the applied methods to obtain bathymetry and the vegetation heights in the BRLP.</p>
-               </caption>
-               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37002.png"/>
-            </fig>
-         </p>
+
+         <fig id="f2">
+           <label>Figura 2 / Figure 2</label>
+           <caption>
+            <p><italic><bold>Figura 2. </bold></italic> Diagrama de flujo con los métodos aplicados para la construcción de la batimetría del fondo marino y las alturas de la planta en la reserva de la biosfera los Petenes, Campeche</p>
+            <p><italic><bold>Figure 2. </bold></italic> Diagram of the applied methods to obtain bathymetry and the vegetation heights in the BRLP</p>
+           </caption>
+           <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37002.png"/>
+         </fig>
          </sec>
          <sec>
            <title>2.2 Trabajo de gabinete</title>
            <p>Se descargó una imagen satelital Sentinel 2A (S-2A), con fecha del 29 de marzo del 2017, del portal <italic>Copernicus </italic>de la Agencia Espacial Europea (ESA). Se utilizaron las 7 primeras bandas de la imagen, aplicando un pre-procesamiento con el procesador Sen2cor, descrito por (<xref ref-type="bibr" rid="B25">Louis <italic>et al</italic>. 2016</xref>). Este pre-procesamiento permite reducir los efectos de la atmósfera y mejorar la identificación de objetos. La imagen fue elegida por ser una de las pocas que estaban disponibles para la zona de estudio, por su calidad radiométrica y por encontrarse libre de nubes. Se definieron áreas de entrenamiento, a partir de una selección aleatoria de 10% de los registros provenientes de los video-transectos y la ecosonda (364,030 registros), distribuidos uniformemente en toda la imagen.</p>
-           <p>
-              <fig id="f3">
-                 <label>Figura 3 / Figure 3</label>
-                 <caption>
-                  <p><italic><bold>Figura 3. </bold></italic>Mapa de batimetría (m) del fondo marino en la RBLP.</p>
-                  <p><italic><bold>Figure 3. </bold></italic>Map of the bathymetry (m) of the BRLP.</p>
-                 </caption>
-                 <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37003.png"/>
-              </fig>
-           </p>
+
+           <fig id="f3">
+             <label>Figura 3 / Figure 3</label>
+             <caption>
+              <p><italic><bold>Figura 3. </bold></italic>Mapa de batimetría (m) del fondo marino en la RBLP.</p>
+              <p><italic><bold>Figure 3. </bold></italic>Map of the bathymetry (m) of the BRLP.</p>
+             </caption>
+             <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37003.png"/>
+           </fig>
+
            <p>Se determinaron las características espectrales de las áreas de entrenamiento y, de acuerdo a ello, se les asignó una clase de pasto marino y/o VAS. Las clases identificadas por medio de reflectancias capturadas por el satélite Sentinel 2A, se decidieron con base en la separabilidad de las firmas espectrales (<xref ref-type="fig" rid="f5">Figura 5</xref>) y en función de la composición florística observada durante los registros.  Las clases resultantes de pastos marinos y VAS son:</p>
 
            <list list-type="bullet">
@@ -272,50 +270,49 @@
              <p>Con las clases de pastos marinos y VAS definidas, se generó una matriz de confusión que comprende las verificaciones efectuadas, mediante buceos, en los puntos de muestreo, a lo largo de los transectos (143 puntos), y el producto resultante de la clasificación supervisada (<xref ref-type="table" rid="t3">Tabla 3</xref>). A partir de la matriz de confusión, se estimó la exactitud global del mapa y el grado de exactitud y confusión por clase (<xref ref-type="bibr" rid="B12">Fornes <italic>et al</italic>., 2006</xref>). </p>
              <p>La fiabilidad de la clasificación digital de pastos marinos y de VAS de la RBLP fue de 78% con +/- 2.96 de intervalo de confianza y con un valor de coeficiente Kappa de 71% (<xref ref-type="table" rid="t3">Tabla 3</xref>). Así, el 29% de la clasificación es incierta y puede ocurrir por cuestiones de casualidad (<xref ref-type="bibr" rid="B7">Chuvieco, 2002</xref>). </p>
              <p>Se calcularon las superficies correspondientes a cada clase definida como pastos marinos y VAS, en total ocupan el 83% de la reserva mientras que el 17% no fue clasificado por falta de información de campo (<xref ref-type="fig" rid="f4">Figura 4</xref>). Las dos primeras clases muestran las superficies de las especies de pastos marinos, <italic>Thalassia testudinum (Tt) </italic>y <italic>Syringodium filiforme (Sf</italic>). Las superficies mono específicas de estas especies, suman en conjunto 28% del área en la RBLP. La clase 3 es una asociación de VAS mixta de <italic>Tt y </italic>de macroalgas cubriendo 13% del área. La vegetación mixta de <italic>Tt</italic> y/o <italic>Sf</italic> y/o<italic> Halodule wrightii (Hw)</italic> con macroalgas, corresponde al 25% de la superficie cubierta (clase 4). La clase mixta que engloba a todas las especies de pasto marino, cubre 17% del área (clase 5). Por último, un 17% del total del área marina de la RBLP no fue clasificado como vegetación, debido a la calidad de la imagen y carencia de datos (clase 6; <xref ref-type="fig" rid="f6">Figura 6</xref> ; <xref ref-type="table" rid="t4">Tabla 4</xref>).</p>
-             <p>
-                <fig id="f4">
-                   <label>Figura 4 / Figure 4</label>
-                   <caption>
-                    <p><italic><bold>Figura 4. </bold></italic>Mapa de la altura (cm) de los pastos marinos y la vegetación acuática sumergida en la RBLP.</p>
-                    <p><italic><bold>Figure 4. </bold></italic>Map of the heights (cm) of the vegetation of the BRLP.</p>
-                   </caption>
-                   <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37004.png"/>
-                </fig>
-             </p>
+             
+             <fig id="f4">
+               <label>Figura 4 / Figure 4</label>
+               <caption>
+                <p><italic><bold>Figura 4. </bold></italic>Mapa de la altura (cm) de los pastos marinos y la vegetación acuática sumergida en la RBLP.</p>
+                <p><italic><bold>Figure 4. </bold></italic>Map of the heights (cm) of the vegetation of the BRLP.</p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37004.png"/>
+             </fig>
+             
              <p>En el sitio de estudio también se registraron combinaciones de <italic>Tt-Hw,</italic> y manchones mono-específicos de <italic>Hw</italic> en forma muy escasa. Por limitaciones de diferenciación espectral de estas composiciones de pastos marinos, fueron agrupadas en la clase MxPP (Clase 5).</p>
-             <p>
-                <fig id="f5">
-                   <label>Figura 5 / Figure 5</label>
-                   <caption>
-                    <p><italic><bold>Figura 5. </bold></italic>Porcentaje de reflectancia de los promedios de las firmas espectrales de las Clases de pastos marinos y la VAS detectadas con S-2A en las diferentes bandas del espectro electromagnético. Clase 1: <italic>Thalassia testudinum </italic>(<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: Tt y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf </italic>y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP).</p>
-                    <p><italic><bold>Figure 5. </bold></italic>Mean reflectancy percentajes of the spectral signatures of the seagrasses and SAV classes detected by S-2A.</p>
-                   </caption>
-                   <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37005.png"/>
-                </fig>
-             </p>
-             <p>
-                <fig id="f6">
-                   <label>Figura 6 / Figure 6</label>
-                   <caption>
-                    <p><italic><bold>Figura 6. </bold></italic>Superficies calculadas (Km<sup>2</sup>) de las clases de pastos marinos y la VAS en la RBLP</p>
-                    <p><italic><bold>Figure 6. </bold></italic>Surface occupancy (Km<sup>2</sup>) of seagrasses and SAV  in the BRLP.</p>
-                   </caption>
-                   <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37006.png"/>
-                </fig>
-             </p>
+             
+             <fig id="f5">
+               <label>Figura 5 / Figure 5</label>
+               <caption>
+                <p><italic><bold>Figura 5. </bold></italic>Porcentaje de reflectancia de los promedios de las firmas espectrales de las Clases de pastos marinos y la VAS detectadas con S-2A en las diferentes bandas del espectro electromagnético. Clase 1: <italic>Thalassia testudinum </italic>(<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: Tt y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf </italic>y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP) *Fuente de las imágenes de los pastos y la VAS: <ext-link ext-link-type="uri" xlink:href="https://ian.umces.edu/symbols/">ian.umces.edu/symbols/</ext-link></p>
+                <p><italic><bold>Figure 5. </bold></italic>Mean reflectancy percentajes of the spectral signatures of the seagrasses and SAV classes detected by S-2A.</p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37005.png"/>
+             </fig>
+             
+             <fig id="f6">
+               <label>Figura 6 / Figure 6</label>
+               <caption>
+                <p><italic><bold>Figura 6. </bold></italic>Superficies calculadas (Km<sup>2</sup>) de las clases de pastos marinos y la VAS en la RBLP *Fuente de las imágenes de los pastos y la VAS: <ext-link ext-link-type="uri" xlink:href="https://ian.umces.edu/symbols/">ian.umces.edu/symbols/</ext-link></p>
+                <p><italic><bold>Figure 6. </bold></italic>Surface occupancy (Km<sup>2</sup>) of seagrasses and SAV  in the BRLP.</p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37006.png"/>
+             </fig>
+             
              <p>Finalmente se efectuó un análisis de frecuencias con la información referente a la variable cobertura obtenida con la ecosonda, encontrando que las mayores frecuencias de cobertura están en un rango de 55 a 100%, para todas las clases e identificando que la cobertura es casi continua. No obstante, las clases 1 y 3 mostraron también frecuencias entre 10 y 55%, indicando la presencia de espacios sin vegetación o de arena (<xref ref-type="fig" rid="f7">Figura 7</xref>). </p>
-             <p>
-                <fig id="f7">
-                   <label>
-                      <italic>Figura 7 / Figure 7</italic>
-                   </label>
-                   <caption>
-                    <p><italic><bold>Figura 7. </bold></italic>Porcentaje de cobertura encontrada en cada clase de pastos marinos y la VAS, según frecuencias observadas (F). Clase 1: <italic>Thalassia testudinum</italic> (<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: <italic>Tt</italic> y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP).</p>
-                    <p><italic><bold>Figure 7. </bold></italic>Coverage percentage detected in every class of seagrasses and SAV, according to observed frequencies.</p>
-                   </caption>
-                   <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37007.png"/>
-                </fig>
-             </p>
+             
+             <fig id="f7">
+               <label>
+                  <italic>Figura 7 / Figure 7</italic>
+               </label>
+               <caption>
+                <p><italic><bold>Figura 7. </bold></italic>Porcentaje de cobertura encontrada en cada clase de pastos marinos y la VAS, según frecuencias observadas (F). Clase 1: <italic>Thalassia testudinum</italic> (<italic>Tt</italic>), Clase 2: <italic>Syringodium filiforme</italic> (<italic>Sf</italic>), Clase 3: <italic>Tt</italic> y macroalgas (Mx<italic>Tt</italic>A), Clase 4: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Halodule wrightii</italic> (<italic>Hw</italic>) y macroalgas (MxPA) y Clase 5: <italic>Tt</italic> y <italic>Sf</italic> y/o <italic>Hw</italic> (MxPP) *Fuente de las imágenes de los pastos y la VAS: <ext-link ext-link-type="uri" xlink:href="https://ian.umces.edu/symbols/">ian.umces.edu/symbols/</ext-link>.</p>
+                <p><italic><bold>Figure 7. </bold></italic>Coverage percentage detected in every class of seagrasses and SAV, according to observed frequencies.</p>
+               </caption>
+               <graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero6/petenes/a1-1-37007.png"/>
+             </fig>
+             
            </sec>
          </sec>
       </sec>
@@ -328,8 +325,8 @@
          <p>Las metodologías aplicadas permitieron generar la clasificación de los pastos marinos y VAS en zonas someras del Golfo de México, consideradas difíciles de mapear, por la naturaleza de sus aguas, comparativamente más turbias que las del mar caribe, y por las grandes extensiones que ocupan espacialmente las distintas especies que la conforman. </p>
        </sec>
        <sec>
-         <title>4. Software</title>
-         <p> Se utilizó el software de captura de datos <italic>Visual Adquisition</italic> Vers.1.0, el cual nos muestra en tiempo real un ecograma, que es una representación gráfica del perfil marino y provee información sobre la presencia y ausencia de vegetación. <italic>EcoSAV 1.0</italic> es el software de pos-procesamiento y calcula los parámetros de altura de la planta, cobertura, profundidad al fondo, basados en las características de la señal del eco (<xref ref-type="bibr" rid="B42">Zhu et al., 2007</xref>, <xref ref-type="bibr" rid="B41">Winfield et al., 2007</xref>, <xref ref-type="bibr" rid="B2">Biosonics, 2008</xref>). Para el pre-procesamiento de la imagen satelital Sentinel 2A, se utilizó <italic>SNAP desktop, con el procesador Sen2cor, </italic>diseñado por la ESA. Para la clasificación y la estimación de las áreas de cada clase, se empleó el complemento <italic>Semi-Automatic classification plugin </italic>del software de licencia abierta <italic>QGIS Vers. 2.18.15</italic>. Para el diseño de los mapas se empleó el Software <italic>ArcGis 10.3 </italic>de ESRI.</p>
+         <title>4. Software y mapas</title>
+         <p> Se utilizó el software de captura de datos <italic>Visual Adquisition</italic> Vers.1.0, el cual nos muestra en tiempo real un ecograma, que es una representación gráfica del perfil marino y provee información sobre la presencia y ausencia de vegetación. <italic>EcoSAV 1.0</italic> es el software de pos-procesamiento y calcula los parámetros de altura de la planta, cobertura, profundidad al fondo, basados en las características de la señal del eco (<xref ref-type="bibr" rid="B42">Zhu et al., 2007</xref>, <xref ref-type="bibr" rid="B41">Winfield et al., 2007</xref>, <xref ref-type="bibr" rid="B2">Biosonics, 2008</xref>). Para el pre-procesamiento de la imagen satelital Sentinel 2A, se utilizó <italic>SNAP desktop, con el procesador Sen2cor, </italic>diseñado por la ESA. Para la clasificación y la estimación de las áreas de cada clase, se empleó el complemento <italic>Semi-Automatic classification plugin </italic>del software de licencia abierta <italic>QGIS Vers. 2.18.15</italic>. Para el diseño de los mapas se empleó el Software <italic>ArcGis 10.3 </italic>de ESRI. En las figuras <xref ref-type="fig" rid="f3">3</xref> y <xref ref-type="fig" rid="f4">4</xref>, la capa que corresponde a Los Petenes fue tomada de <xref ref-type="bibr" rid="B44">CONABIO (2016)</xref>.</p>
        </sec>
        <sec>
          <title>Agradecimientos</title>
@@ -1554,7 +1551,7 @@
                   </name>
                </person-group>
                <year>2012</year>
-               <source>Tesis de Maestría, Universidad Nacional Autónoma de México. UNAM, pp. 120</source>
+               <source>Tesis de Maestría, Universidad Nacional Autónoma de México, Ciudad de México, México, pp. 120</source>
                <publisher-name>Universidad Nacional Autónoma de México. UNAM</publisher-name>
                <comment content-type="degree">Percepción Remota y sus aplicaciones a la evaluación de la calidad del agua</comment>
                <fpage></fpage>
@@ -1797,6 +1794,20 @@
                <pub-id pub-id-type="doi">10.3389/fpls.2018.00630</pub-id>
             </element-citation>
          </ref>
+         <ref id="B44">
+            <mixed-citation>CONABIO, 2016. Distribución de los manglares en México en 2015. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. Sistema de Monitoreo de los Manglares de México (SMMM). Ciudad de México, México, México, escala: 1:50000. edición: 1</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <collab>CONABIO</collab>
+               </person-group>
+               <year>2016</year>
+               <article-title>Distribución de los manglares en México en 2015. Comisión Nacional para el Conocimiento y Uso de la Biodiversidad. Sistema de Monitoreo de los Manglares de México (SMMM). Ciudad de México, México, México, escala: 1:50000. edición: 1</article-title>
+               <source></source>
+               <volume></volume>
+               <fpage></fpage>
+               <lpage></lpage>
+            </element-citation>
+         </ref>
          <ref id="B9">
             <mixed-citation>Congedo, L. (2016). Semi-automatic classification plugin documentation. Release 6.0.1.1, https://doi.org/10.13140/RG.2.2.29474.02242/1</mixed-citation>
             <element-citation publication-type="book">
@@ -1844,8 +1855,8 @@
                   </name>
                </person-group>
                <year>2004</year>
-               <article-title>Whatcom County submerged aquatic vegetation survey methods. Fairbanks Environmental Services. Inc Marine Resources Consultants</article-title>
-               <source>Report National Oceanic and Atmospheric Administration</source>
+               <article-title>Whatcom County submerged aquatic vegetation survey methods</article-title>
+               <source>Fairbanks Environmental Services. Inc Marine Resources Consultants. Report National Oceanic and Atmospheric Administration</source>
                <fpage>1</fpage>
                <lpage>9</lpage>
             </element-citation>
@@ -2040,8 +2051,8 @@
                   </name>
                </person-group>
                <year>2019</year>
-               <article-title>Estado de salud, conservación y vulnerabilidad de los ecosistemas de pastos marinos del litoral del Golfo de México. Consorcio de investigación del Golfo de México, Informe segunda etapa febrero de 2019</article-title>
-               <source>Consejo Nacional de Ciencia y Tecnología y Universidad Autónoma Metropolitana, Pp. 158</source>
+               <article-title>Estado de salud, conservación y vulnerabilidad de los ecosistemas de pastos marinos del litoral del Golfo de México</article-title>
+               <source>Consorcio de investigación del Golfo de México, Informe segunda etapa febrero de 2019. Consejo Nacional de Ciencia y Tecnología y Universidad Autónoma Metropolitana, Pp. 158</source>
                <fpage></fpage>
                <lpage></lpage>
             </element-citation>
@@ -2139,28 +2150,7 @@
                <pub-id pub-id-type="doi">10.1017/CBO9780511525551</pub-id>
             </element-citation>
          </ref>
-         <ref id="B20">
-            <mixed-citation>Molina-Hernández, A. L., y van Tussenbroek, B. I. (2014). Patch dynamics and species shifts in seagrass communities under moderate and high grazing pressure by green sea turtles. <italic>Marine Ecology Progress Series</italic>, 517, 143-157. https://doi.org/10.3354/meps11068</mixed-citation>
-            <element-citation publication-type="journal">
-               <person-group person-group-type="author">
-                  <name>
-                     <surname>Molina-Hernández</surname>
-                     <given-names>A. L.</given-names>
-                  </name>
-                  <name>
-                     <surname>van Tussenbroek</surname>
-                     <given-names>B. I.</given-names>
-                  </name>
-               </person-group>
-               <year>2014</year>
-               <article-title>Patch dynamics and species shifts in seagrass communities under moderate and high grazing pressure by green sea turtles</article-title>
-               <source>Marine Ecology Progress Series</source>
-               <volume>517</volume>
-               <fpage>143</fpage>
-               <lpage>157</lpage>
-               <pub-id pub-id-type="doi">10.3354/meps11068</pub-id>
-            </element-citation>
-         </ref>
+         
          <ref id="B21">
             <mixed-citation>Hogarth, P. (2007). The biology of mangroves and seagrasses. Oxford. New York. Pp. 304.</mixed-citation>
             <element-citation publication-type="book">
@@ -2248,42 +2238,7 @@
                <issue>4</issue>
             </element-citation>
          </ref>
-         <ref id="B23">
-            <mixed-citation>Kuo, J. y den Hartog, C. (2006). Seagrass Morphology, Anatomy, and Ultrastructure. In: Larkum, A.W.D.; R.J. Orth and C.M. Duarte (Eds.). Seagrasses: Biology, Ecology and Conservation. <italic>Springer</italic>. Pp. 51-87. https://doi.org/10.1007/978-1-4020-2983-7_3</mixed-citation>
-            <element-citation publication-type="book">
-               <person-group person-group-type="author">
-                  <name>
-                     <surname>Kuo</surname>
-                     <given-names>J.</given-names>
-                  </name>
-                  <name>
-                     <surname>den Hartog</surname>
-                     <given-names>C.</given-names>
-                  </name>
-               </person-group>
-               <year>2006</year>
-               <article-title>Seagrass Morphology, Anatomy, and Ultrastructure</article-title>
-               <person-group person-group-type="editor">
-                  <name>
-                     <surname>Larkum</surname>
-                     <given-names>A.W.D.</given-names>
-                  </name>
-                  <name>
-                     <surname>Orth</surname>
-                     <given-names>R.J.</given-names>
-                  </name>
-                  <name>
-                     <surname>Duarte</surname>
-                     <given-names>C.M.</given-names>
-                  </name>
-               </person-group>
-               <source>Seagrasses: Biology, Ecology and Conservation. Springer</source>
-               <publisher-name>Springer</publisher-name>
-               <fpage>51</fpage>
-               <lpage>87</lpage>
-               <pub-id pub-id-type="doi">10.1007/978-1-4020-2983-7_3</pub-id>
-            </element-citation>
-         </ref>
+         
          <ref id="B24">
             <mixed-citation>Kilminster, K., McMahon, K., Waycott, M., Kendrick, G. A., Scanes, P., McKenzie, L., y Glasby, T. (2015). Unravelling complexity in seagrass systems for management: Australia as a microcosm. <italic>Science of the Total Environment</italic>, 534, Pp. 97-109. https://doi.org/10.1016/j.scitotenv.2015.04.061</mixed-citation>
             <element-citation publication-type="journal">
@@ -2324,6 +2279,42 @@
                <fpage>97</fpage>
                <lpage>109</lpage>
                <pub-id pub-id-type="doi">10.1016/j.scitotenv.2015.04.061</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B23">
+            <mixed-citation>Kuo, J. y den Hartog, C. (2006). Seagrass Morphology, Anatomy, and Ultrastructure. In: Larkum, A.W.D.; R.J. Orth and C.M. Duarte (Eds.). Seagrasses: Biology, Ecology and Conservation. <italic>Springer</italic>. Pp. 51-87. https://doi.org/10.1007/978-1-4020-2983-7_3</mixed-citation>
+            <element-citation publication-type="book">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Kuo</surname>
+                     <given-names>J.</given-names>
+                  </name>
+                  <name>
+                     <surname>den Hartog</surname>
+                     <given-names>C.</given-names>
+                  </name>
+               </person-group>
+               <year>2006</year>
+               <article-title>Seagrass Morphology, Anatomy, and Ultrastructure</article-title>
+               <person-group person-group-type="editor">
+                  <name>
+                     <surname>Larkum</surname>
+                     <given-names>A.W.D.</given-names>
+                  </name>
+                  <name>
+                     <surname>Orth</surname>
+                     <given-names>R.J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Duarte</surname>
+                     <given-names>C.M.</given-names>
+                  </name>
+               </person-group>
+               <source>In Seagrasses: Biology, Ecology and Conservation. Springer</source>
+               <publisher-name>Springer</publisher-name>
+               <fpage>51</fpage>
+               <lpage>87</lpage>
+               <pub-id pub-id-type="doi">10.1007/978-1-4020-2983-7_3</pub-id>
             </element-citation>
          </ref>
          <ref id="B25">
@@ -2455,6 +2446,44 @@
                <date-in-citation content-type="access-date" iso-8601-date="2019-10-09">9-10-2019</date-in-citation>
             </element-citation>
          </ref>
+         <ref id="B32">
+            <mixed-citation>Mijangos, H. I. A. (2018). Análisis de la productividad de <italic>Thalassia testudinum</italic> Banks ex Kôenig y su relación con los factores ambientales de la Reserva de la Biósfera los Petenes, Campeche. Tesis de maestría: Universidad Autónoma Metropolitana Iztapala, México. </mixed-citation>
+            <element-citation publication-type="thesis">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Mijangos</surname>
+                     <given-names>H. I. A.</given-names>
+                  </name>
+               </person-group>
+               <year>2018</year>
+               <source>Tesis de maestría</source>
+               <comment content-type="degree">Análisis de la productividad de <italic>Thalassia testudinum</italic> Banks ex Kôenig y su relación con los factores ambientales de la Reserva de la Biósfera los Petenes, Campeche</comment>
+               <publisher-name>Universidad Autónoma Metropolitana</publisher-name>
+               <publisher-loc>Iztapala, México</publisher-loc>
+            </element-citation>
+         </ref>
+         <ref id="B20">
+            <mixed-citation>Molina-Hernández, A. L., y van Tussenbroek, B. I. (2014). Patch dynamics and species shifts in seagrass communities under moderate and high grazing pressure by green sea turtles. <italic>Marine Ecology Progress Series</italic>, 517, 143-157. https://doi.org/10.3354/meps11068</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Molina-Hernández</surname>
+                     <given-names>A. L.</given-names>
+                  </name>
+                  <name>
+                     <surname>van Tussenbroek</surname>
+                     <given-names>B. I.</given-names>
+                  </name>
+               </person-group>
+               <year>2014</year>
+               <article-title>Patch dynamics and species shifts in seagrass communities under moderate and high grazing pressure by green sea turtles</article-title>
+               <source>Marine Ecology Progress Series</source>
+               <volume>517</volume>
+               <fpage>143</fpage>
+               <lpage>157</lpage>
+               <pub-id pub-id-type="doi">10.3354/meps11068</pub-id>
+            </element-citation>
+         </ref>
          <ref id="B28">
             <mixed-citation>Norris, J. G., Wyllie-Echeverria, S., Mumford, T., Bailey, A., y Turner, T. (1997). Estimating basal area coverage of subtidal seagrass beds using underwater videography. <italic>Aquatic Botany</italic>, 58 (3-4), Pp. 269-287. https://doi.org/10.1016/S0304-3770(97)00040-5</mixed-citation>
             <element-citation publication-type="journal">
@@ -2516,6 +2545,101 @@
                             xlink:href="https://www.clallamcountymrc.org/media/18562/norris-fraser-2006-eelgrass-mapping-along-the-elwha-nearshore.pdf">https://www.clallamcountymrc.org/media/18562/norris-fraser-2006-eelgrass-mapping-along-the-elwha-nearshore.pdf</ext-link>
                </comment>
                <date-in-citation content-type="access-date" iso-8601-date="2019-10-09">9-10-2019</date-in-citation>
+            </element-citation>
+         </ref>
+         
+         <ref id="B31">
+            <mixed-citation>Oreska, M. P., McGlathery, K. J., y Porter, J. H. (2017). Seagrass blue carbon spatial patterns at the meadow-scale. <italic>PloS one</italic>, 12 (4), Pp. 1-18. https://doi.org/10.1371/journal.pone.0176630</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Oreska</surname>
+                     <given-names>M. P.</given-names>
+                  </name>
+                  <name>
+                     <surname>McGlathery</surname>
+                     <given-names>K. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Porter</surname>
+                     <given-names>J. H.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Seagrass blue carbon spatial patterns at the meadow-scale</article-title>
+               <source>PloS one</source>
+               <volume>12(4)</volume>
+               <issue>4</issue>
+               <fpage>1</fpage>
+               <lpage>18</lpage>
+               <pub-id pub-id-type="doi">10.1371/journal.pone.0176630</pub-id>
+            </element-citation>
+         </ref>
+         
+         <ref id="B33">
+            <mixed-citation>Palafox-Juárez, E. B., y Liceaga-Correa, M. A. (2017). Spatial diversity of a coastal seascape: Characterization, analysis and application for conservation. <italic>Ocean &amp; coastal management</italic>, 136, Pp. 185-195. https://doi.org/10.1016/j.ocecoaman.2016.12.002</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Palafox-Juárez</surname>
+                     <given-names>E. B.</given-names>
+                  </name>
+                  <name>
+                     <surname>Liceaga-Correa</surname>
+                     <given-names>M. A.</given-names>
+                  </name>
+               </person-group>
+               <year>2017</year>
+               <article-title>Spatial diversity of a coastal seascape: Characterization, analysis and application for conservation</article-title>
+               <source>Ocean &amp; coastal management</source>
+               <volume>136</volume>
+               <fpage>185</fpage>
+               <lpage>195</lpage>
+               <pub-id pub-id-type="doi">10.1016/j.ocecoaman.2016.12.002</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B34">
+            <mixed-citation>Rahnemoonfar, M., Rahman, A. F., Kline, R. J., &amp; Greene, A. (2019). Automatic Seagrass Disturbance Pattern Identification on Sonar Images. <italic>IEEE Journal of Oceanic Engineering</italic>, 99, Pp. 1-10. https://doi.org/10.1109/JOE.2017.2780707</mixed-citation>
+            <element-citation publication-type="journal">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Rahnemoonfar</surname>
+                     <given-names>M.</given-names>
+                  </name>
+                  <name>
+                     <surname>Rahman</surname>
+                     <given-names>A. F.</given-names>
+                  </name>
+                  <name>
+                     <surname>Kline</surname>
+                     <given-names>R. J.</given-names>
+                  </name>
+                  <name>
+                     <surname>Greene</surname>
+                     <given-names>A.</given-names>
+                  </name>
+               </person-group>
+               <year>2019</year>
+               <article-title>Automatic Seagrass Disturbance Pattern Identification on Sonar Images</article-title>
+               <source>IEEE Journal of Oceanic Engineering</source>
+               <volume>99</volume>
+               <fpage>1</fpage>
+               <lpage>10</lpage>
+               <pub-id pub-id-type="doi">10.1109/JOE.2017.2780707</pub-id>
+            </element-citation>
+         </ref>
+         <ref id="B35">
+            <mixed-citation>Sabol, B. (2003). Operating instructions manual for the acoustic-based submersed aquatic plant mapping system. <italic>US Army Engineer Research and Development Center</italic>.</mixed-citation>
+            <element-citation publication-type="report">
+               <person-group person-group-type="author">
+                  <name>
+                     <surname>Sabol</surname>
+                     <given-names>B.</given-names>
+                  </name>
+               </person-group>
+               <year>2003</year>
+               <article-title>Operating instructions manual for the acoustic-based submersed aquatic plant mapping system</article-title>
+               <source>US Army Engineer Research and Development Center</source>
             </element-citation>
          </ref>
          <ref id="B30">
@@ -2582,115 +2706,6 @@
                <fpage>1</fpage>
                <lpage>16</lpage>
                <pub-id pub-id-type="doi">10.2112/SI71-001.1</pub-id>
-            </element-citation>
-         </ref>
-         <ref id="B31">
-            <mixed-citation>Oreska, M. P., McGlathery, K. J., y Porter, J. H. (2017). Seagrass blue carbon spatial patterns at the meadow-scale. <italic>PloS one</italic>, 12 (4), Pp. 1-18. https://doi.org/10.1371/journal.pone.0176630</mixed-citation>
-            <element-citation publication-type="journal">
-               <person-group person-group-type="author">
-                  <name>
-                     <surname>Oreska</surname>
-                     <given-names>M. P.</given-names>
-                  </name>
-                  <name>
-                     <surname>McGlathery</surname>
-                     <given-names>K. J.</given-names>
-                  </name>
-                  <name>
-                     <surname>Porter</surname>
-                     <given-names>J. H.</given-names>
-                  </name>
-               </person-group>
-               <year>2017</year>
-               <article-title>Seagrass blue carbon spatial patterns at the meadow-scale</article-title>
-               <source>PloS one</source>
-               <volume>12(4)</volume>
-               <issue>4</issue>
-               <fpage>1</fpage>
-               <lpage>18</lpage>
-               <pub-id pub-id-type="doi">10.1371/journal.pone.0176630</pub-id>
-            </element-citation>
-         </ref>
-         <ref id="B32">
-            <mixed-citation>Mijangos, H. I. A. (2018). Análisis de la productividad de <italic>Thalassia testudinum</italic> Banks ex Kôenig y su relación con los factores ambientales de la Reserva de la Biósfera los Petenes, Campeche. Tesis de maestría: Universidad Autónoma Metropolitana Iztapala, México. </mixed-citation>
-            <element-citation publication-type="thesis">
-               <person-group person-group-type="author">
-                  <name>
-                     <surname>Mijangos</surname>
-                     <given-names>H. I. A.</given-names>
-                  </name>
-               </person-group>
-               <year>2018</year>
-               <source>Tesis de maestría</source>
-               <comment content-type="degree">Análisis de la productividad de <italic>Thalassia testudinum</italic> Banks ex Kôenig y su relación con los factores ambientales de la Reserva de la Biósfera los Petenes, Campeche</comment>
-               <publisher-name>Universidad Autónoma Metropolitana</publisher-name>
-               <publisher-loc>Iztapala, México</publisher-loc>
-            </element-citation>
-         </ref>
-         <ref id="B33">
-            <mixed-citation>Palafox-Juárez, E. B., y Liceaga-Correa, M. A. (2017). Spatial diversity of a coastal seascape: Characterization, analysis and application for conservation. <italic>Ocean &amp; coastal management</italic>, 136, Pp. 185-195. https://doi.org/10.1016/j.ocecoaman.2016.12.002</mixed-citation>
-            <element-citation publication-type="journal">
-               <person-group person-group-type="author">
-                  <name>
-                     <surname>Palafox-Juárez</surname>
-                     <given-names>E. B.</given-names>
-                  </name>
-                  <name>
-                     <surname>Liceaga-Correa</surname>
-                     <given-names>M. A.</given-names>
-                  </name>
-               </person-group>
-               <year>2017</year>
-               <article-title>Spatial diversity of a coastal seascape: Characterization, analysis and application for conservation</article-title>
-               <source>Ocean &amp; coastal management</source>
-               <volume>136</volume>
-               <fpage>185</fpage>
-               <lpage>195</lpage>
-               <pub-id pub-id-type="doi">10.1016/j.ocecoaman.2016.12.002</pub-id>
-            </element-citation>
-         </ref>
-         <ref id="B34">
-            <mixed-citation>Rahnemoonfar, M., Rahman, A. F., Kline, R. J., &amp; Greene, A. (2019). Automatic Seagrass Disturbance Pattern Identification on Sonar Images. <italic>IEEE Journal of Oceanic Engineering</italic>, 99, Pp. 1-10. https://doi.org/10.1109/JOE.2017.2780707</mixed-citation>
-            <element-citation publication-type="journal">
-               <person-group person-group-type="author">
-                  <name>
-                     <surname>Rahnemoonfar</surname>
-                     <given-names>M.</given-names>
-                  </name>
-                  <name>
-                     <surname>Rahman</surname>
-                     <given-names>A. F.</given-names>
-                  </name>
-                  <name>
-                     <surname>Kline</surname>
-                     <given-names>R. J.</given-names>
-                  </name>
-                  <name>
-                     <surname>Greene</surname>
-                     <given-names>A.</given-names>
-                  </name>
-               </person-group>
-               <year>2019</year>
-               <article-title>Automatic Seagrass Disturbance Pattern Identification on Sonar Images</article-title>
-               <source>IEEE Journal of Oceanic Engineering</source>
-               <volume>99</volume>
-               <fpage>1</fpage>
-               <lpage>10</lpage>
-               <pub-id pub-id-type="doi">10.1109/JOE.2017.2780707</pub-id>
-            </element-citation>
-         </ref>
-         <ref id="B35">
-            <mixed-citation>Sabol, B. (2003). Operating instructions manual for the acoustic-based submersed aquatic plant mapping system. <italic>US Army Engineer Research and Development Center</italic>.</mixed-citation>
-            <element-citation publication-type="report">
-               <person-group person-group-type="author">
-                  <name>
-                     <surname>Sabol</surname>
-                     <given-names>B.</given-names>
-                  </name>
-               </person-group>
-               <year>2003</year>
-               <article-title>Operating instructions manual for the acoustic-based submersed aquatic plant mapping system</article-title>
-               <source>US Army Engineer Research and Development Center</source>
             </element-citation>
          </ref>
          <ref id="B36">
@@ -2827,7 +2842,7 @@
                      <given-names>C.M.</given-names>
                   </name>
                </person-group>
-               <source>Seagrasses: <italic>Biology, Ecology and Conservation. Springer</italic>
+               <source>In Seagrasses: <italic>Biology, Ecology and Conservation. Springer</italic>
                </source>
                <publisher-name>Springer</publisher-name>
                <fpage>409</fpage>
