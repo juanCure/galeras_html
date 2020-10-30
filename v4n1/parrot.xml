@@ -1,0 +1,960 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+			<journal-title-group>
+				<journal-title>Terra Digitalis</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">TD</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2594-0694</issn>
+			<publisher>
+				<publisher-name>Terra Digitalis</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.22201/igg.25940694.2020.1.68.150</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research Article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Parámetros morfológicos de la cuenca del río Magdalena (Cuenca de México) a partir de modelos digitales de superficie y terreno provenientes de LiDAR / Morphological parameters of the Magdalena River basin (Mexico Basin) defined from LiDAR digital surface and terrain models.</article-title>
+				<trans-title-group xml:lang="en">
+					<trans-title>Morphological parameters of the Magdalena River basin (Mexico Basin) defined from LiDAR digital surface and terrain models.</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Parrot</surname>
+						<given-names>Jean-François</given-names>
+					</name>
+					<xref ref-type="corresp" rid="c1">*</xref>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ramírez Núñez</surname>
+						<given-names>Carolina</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>1</sup></xref>
+				</contrib>
+				<aff id="aff1">
+					<institution content-type="original">Instituto de Geografía Universidad Nacional Autónoma de México (UNAM), Circuito Exterior, Ciudad Universitaria, Coyoacán, 04510, Ciudad de México, CDMX.</institution>
+					<institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+					<institution content-type="orgdiv1">Instituto de Geografía</institution>
+					<institution content-type="orgname">Universidad Nacional Autónoma de México (UNAM)</institution>
+					<addr-line>
+						<city>Coyoacán</city>
+						<postal-code>04510</postal-code>
+						<state>Ciudad de México</state>
+					</addr-line>
+					<country country="MX">Mexico</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1"><email>parrot@igg.unam.mx</email></corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<day>30</day>
+				<month>04</month>
+				<year>2020</year>
+			</pub-date>
+			<volume>4</volume>
+			<issue>1</issue>
+			<fpage>42</fpage>
+			<lpage>62</lpage>
+			<history>
+				<date date-type="received">
+					<day>31</day>
+					<month>01</month>
+					<year>2020</year>
+				</date>
+				<date date-type="accepted">
+					<day>24</day>
+					<month>04</month>
+					<year>2020</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>&#169; 2020, Jean-François Parrot &amp; Carolina Ramírez Núñez. Published by Terra Digitalis.
+	            </copyright-statement>
+	            <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+	               <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+	            </license>
+			</permissions>
+			<abstract>
+				<sec>
+					<title>Resumen</title>
+					<p>Independientemente de criterios socioeconómicos, la determinación del valor ambiental de un espacio, los servicios ecosistémicos del ambiente y la belleza escénica del relieve requieren la caracterización y cuantificación previa de los atributos de la superficie terrestre. El uso de modelos digitales de superficie y terreno generados a partir de datos vectoriales, como los provenientes de la técnica de percepción remota LiDAR, permite la extracción de atributos primarios y secundarios. En este artículo se presentan los atributos morfológicos de superficie tridimensional, visibilidad general y desde varios puntos de observación, radiación solar y densidad de vegetación de la cuenca del río Magdalena, obtenidos a partir de los modelos digitales de Terreno (MDT), Superficie (MDS) y del Dosel (MDD). Los atributos morfológicos se integran en un análisis multidimensional para determinar la belleza escénica de la cuenca del río Magdalena. En esta cuenca, el 80% de la superficie presenta un alto valor escénico, por lo que su manejo y conservación son primordiales para el turismo y la recreación. </p>	
+					<p><italic>Palabras clave: </italic>Modelo Digital de Superficie (MDS); Modelo Digital de Terreno (MDT); Modelo Digital del Dosel (MDD); cuenca del río Magdalena; morfología; atributos primarios; atributos secundarios</p>
+				</sec>
+				<sec>
+					<title>Abstract</title>
+					<p>Regardless of socioeconomic criteria, the determination of spatial environmental value, ecosystem services and scenic beauty of the relief, requires a prior characterization and quantification of the surface’s attributes. The use of Digital Surface and Terrain Models generated from vector data, such as those from LiDAR remote sensing technique, allows extracting primary and secondary attributes. This article presents the morphological attributes of three-dimensional surface, general visibility and from various observation points, solar radiation and vegetation density of the Magdalena river basin obtained from digital models: terrain (DTM), surface (DSM) and canopy (CHM). Morphological attributes are integrated into a multidimensional analysis to determine the scenic beauty of the Magdalena River basin. 80% of its surface presents a high scenic value, so its management and conservation are essential for tourism and recreational activities.</p>
+					<p><italic>Palabras clave: </italic>Digital Surface Model (DSM); Digital Terrain Model (DTM); Canopy Height Model (CHM); Magdalena River; morphology; primary attributes; secondary attributes</p>
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract</title>
+				<p>Regardless of socioeconomic criteria, the determination of spatial environmental value, ecosystem services and scenic beauty of the relief, requires a prior characterization and quantification of the surface’s attributes. The use of Digital Surface and Terrain Models generated from vector data, such as those from LiDAR remote sensing technique, allows extracting primary and secondary attributes. This article presents the morphological attributes of three-dimensional surface, general visibility and from various observation points, solar radiation and vegetation density of the Magdalena river basin obtained from digital models: terrain (DTM), surface (DSM) and canopy (CHM). Morphological attributes are integrated into a multidimensional analysis to determine the scenic beauty of the Magdalena River basin. 80% of its surface presents a high scenic value, so its management and conservation are essential for tourism and recreational activities.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title><italic>Keywords:</italic></title>
+				<kwd>Digital Surface Model (DSM)</kwd>
+				<kwd>Digital Terrain Model (DTM)</kwd>
+				<kwd>Canopy Height Model (CHM)</kwd>
+				<kwd>Magdalena River</kwd>
+				<kwd>morphology</kwd>
+				<kwd>primary attributes</kwd>
+				<kwd>secondary attributes</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title><italic>Palabras clave:</italic></title>
+				<kwd>Modelo Digital de Superficie (MDS)</kwd>
+				<kwd>Modelo Digital de Terreno (MDT)</kwd>
+				<kwd>Modelo Digital del Dosel (MDD)</kwd>
+				<kwd>cuenca del río Magdalena</kwd>
+				<kwd>morfología</kwd>
+				<kwd>atributos primarios</kwd>
+				<kwd>atributos secundarios</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="13"/>
+				<table-count count="2"/>
+				<equation-count count="0"/>
+				<ref-count count="20"/>
+				<page-count count="21"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>1. Introducción</title>
+			<p>Los datos provenientes de la técnica de percepción remota LiDAR (<italic>Light Detection And Ranging</italic>) corresponden a la representación vectorial de los objetos de la superficie terrestre en una nube de puntos. Del tratamiento de estos datos vectoriales, se derivan el Modelo Digital de Superficie (MDS) y el Modelo Digital de Terreno (MDT); de la diferencia ponderada entre los dos modelos se obtiene el Modelo Digital del Dosel (MDD). Es a partir de estos datos que se extraen atributos primarios (pendiente, aspecto, forma de superficie, etc.) y atributos secundarios de la superficie terrestre (erosión, humedad del suelo, radiación solar, etc., ver <xref ref-type="bibr" rid="B20">Wilson y Gallant, 2000</xref>; <xref ref-type="bibr" rid="B4">Florinsky, 2016</xref>), los cuales corresponden a criterios objetivos para definir servicios ecosistémicos, entre ellos, los servicios de provisión (cantidad o volúmenes de madera, agua dulce, productos no maderables), regulación (control de erosión y mantenimiento del suelo, control de inundaciones y remoción en masa, purificación del aire a través de la captura y almacenamiento de carbono atmosférico) y cultural (belleza escénica). </p>
+			<p>Cuando se obtiene la representación de los objetos en formato raster, ya sea como superficie o terreno, la cuantificación debe analizarse con cuidado puesto que se deben discriminar los efectos de la superficie o del terreno efectivo evaluado. Con el propósito de ilustrar esta problemática, se ejemplifican, en la cuenca del río Magdalena: 1) el cálculo de la superficie tridimensional, 2) la visibilidad, 3) la insolación y 4) la densidad de vegetación. Posteriormente, a partir de la clasificación multidimensional de tres de estos parámetros se propone cuantificar la belleza escénica de la cuenca.</p>
+		</sec>
+		<sec>
+			<title>2. Descripción de la zona de studio</title>
+			<p>La cuenca del río Magdalena se encuentra al suroeste de la Ciudad de México repartida entre las alcaldías de Álvaro Obregón, Cuajimalpa y Magdalena Contreras. En la cuenca, las rocas corresponden a depósitos piroclásticos, tobas, pómez, y lavas de composición andesítica a dacítica que van desde el Plioceno tardío hasta el Pleistoceno temprano. A estas rocas sobreyacen la Formación Chichinautzin y los depósitos aluviales y lacustres del Cuaternario (<xref ref-type="bibr" rid="B19">SGM, 2002</xref>). La morfología de la región depende estrechamente de la litología y de la tectónica (<xref ref-type="bibr" rid="B6">Lugo, 1984</xref>). </p>
+			<p>El río Magdalena es considerado como una fuente importante de agua superficial para la Ciudad de México (<xref ref-type="bibr" rid="B7">Mazari-Hiriart <italic>et al</italic>., 2014</xref>). De acuerdo con estimaciones de <xref ref-type="bibr" rid="B1">Almeida-Leñero <italic>et al</italic>., (2007) </xref>, esta cuenca provee alrededor de 20 millones de m<sup>3</sup> al año. En términos de vegetación, se identifica un gradiente altitudinal forestal desde los 2600 msnm hasta los 3850 msnm con tres tipos de bosque: mixto en la parte baja de la cuenca, de <italic>Abies religiosa</italic> en la zona media, y de <italic>Pinus hartwegii</italic> en la parte superior (<xref ref-type="bibr" rid="B9">Nava, 2003</xref>). La cuenca tiene una alta biodiversidad a nivel local y nacional, así como especies endémicas (<xref ref-type="bibr" rid="B2">Ávila-Akerberg <italic>et al</italic>., 2008</xref>; <xref ref-type="bibr" rid="B3">Cantoral <italic>et al</italic>., 2009</xref>). </p>
+			<p>El Suelo de Conservación de la Ciudad de México es una zona prioritaria para la preservación de la biodiversidad y de los servicios ecosistémicos; el 70% de esta superficie es propiedad de ejidos y comunidades (<xref ref-type="bibr" rid="B18">SEDEMA, 2016</xref>). La cuenca del río Magdalena es reconocida como un Área Comunitaria de Conservación Ecológica. La comunidad agraria Magdalena Atlitic posee, desde 1535, la mayoría de los títulos de propiedad de la cuenca y en ella se ejerce principalmente el uso de suelo forestal (<xref ref-type="bibr" rid="B17">Ramos, 2008</xref>). En la zona alta de la cuenca existen actividades pecuarias, agrícolas (para la subsistencia local), recreativas y turísticas (en el parque nacional de “Los Dínamos”). En la cuenca baja, se ubica el uso de suelo urbano.</p>
+			<p>Dadas las características del relieve, vegetación e hidrología de esta cuenca, su uso turístico, la presencia de comunidades agrarias y una fuerte presión para el uso de suelo urbano, es preciso proveer variables de la superficie y del terreno que demuestren el valor ambiental de los servicios ecosistémicos y el valor de la belleza escénica a conservar. Para esbozar un modelo que permita realizar dicha evaluación, se realizó a título de ejemplo un tratamiento estadístico que utiliza las variables anteriormente descritas. </p>
+		</sec>
+		<sec sec-type="methods">
+			<title>3. Metodología</title>
+			<p>A continuación, se presentan los tratamientos realizados para la zona de estudio del río Magdalena, a partir de los Modelos Digitales de Terreno (MDT) y de Superficie (MDS) provenientes de LiDAR.</p>
+			<sec>
+				<title>3.1 Datos utilizados</title>
+				<p>Los MDT y MDS propuestos por el <xref ref-type="bibr" rid="B5">INEGI (2007)</xref> tienen una resolución espacial de 5 m y una precisión hipsométrica en centímetros. El software <bold>Select_Slices</bold> (<xref ref-type="bibr" rid="B12">Parrot, 2018</xref>) genera, a partir de la diferencia ponderada entre ambos modelos digitales, un Modelo Digital del Dosel para el estudio de la vegetación. </p>
+			</sec>
+			<sec>
+				<title>3.2 Atributos calculados</title>
+				<p>Los atributos primarios son parámetros que se calculan directamente a partir del MDT y se utilizan para describir la morfometría de la superficie terrestre; por su parte, los atributos secundarios resultan de la combinación de atributos primarios y bases de datos de procesos físicos para analizar el paisaje; a partir de estos es posible generar índices tales como la vulnerabilidad de erosión, la humedad de suelos y la radiación, entre otros (<xref ref-type="bibr" rid="B20">Wilson y Gallant, 2000</xref>). En este trabajo se ejemplifican los atributos de superficie tridimensional, visibilidad y radiación solar.</p>
+				<sec>
+					<title><italic>3.2.1 Superficie tridimensional</italic></title>
+					<p>El cálculo de la superficie tridimensional a partir de un MDT, propuesto por <xref ref-type="bibr" rid="B10">Parrot (2007</xref>), se realiza de la siguiente manera: cada píxel se divide en ocho triángulos rectángulos que convergen en el centro del píxel; la <xref ref-type="fig" rid="f1">figura 1</xref> ilustra el arreglo. Usando el valor de altitud del píxel estudiado y los valores de elevación de los cuatro vecinos diagonales se calcula el valor de la diferencia; luego, esta diferencia se divide entre 2 y se reporta el resultado sobre las esquinas <italic>A1</italic>, <italic>A3</italic>, <italic>A5</italic> y <italic>A7,</italic> en relación con la posición de los píxeles vecinos; el valor del centro de cada lado (<italic>A2</italic>, <italic>A4</italic>, <italic>A6</italic> y <italic>A8</italic>) se calcula de la misma manera tomando en cuenta los vecinos cardinales.</p>
+					<p>
+						<fig id="f1">
+							<label><italic>Figura 1 / Figure 1</italic></label>
+							<caption>
+								<p><italic><bold>Figura 1.</bold></italic>Cálculo de la superficie “tridimensional” al interior de un píxel (en <xref ref-type="bibr" rid="B10">Parrot, 2007</xref>).</p>
+								<p><italic><bold>Figure 1.</bold></italic> Calculation of the “three-dimensional” surface in a pixel (in <xref ref-type="bibr" rid="B10">Parrot, 2007</xref>).</p>
+							</caption>
+							<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_1.png"/>
+						</fig>
+					</p>
+					<p>A partir de esta división se mide la longitud de los lados <italic>base</italic> y <italic>bside</italic> de cada triángulo. Estas medidas son respectivamente iguales a: <disp-formula id="e1"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq1.png"/></disp-formula> y <disp-formula id="e2"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq2.png"/></disp-formula>donde <italic>hps</italic> corresponde a la mitad del valor del lado del píxel, <italic>hd=hps</italic> &#183; &#8730; 2 y A es el valor de altitud de los puntos A1, A2, A3, … A8.</p>
+					<p>Por otra parte, los valores a1, a2, a3, … a8, corresponden a la diferencia entre los valores de los puntos A entre los cuales se encuentran; estos valores permiten calcular la longitud del tercer lado <italic>aside</italic> del triángulo rectángulo, aplicando la ecuación <disp-formula id="e3"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq3.png"/></disp-formula> </p>
+					<p>En esta etapa y tomando en cuenta los resultados anteriores, con la fórmula de Herón se calcula la superficie S de cada triángulo:</p>
+					<p><disp-formula id="e4"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq4.png"/></disp-formula> donde: <disp-formula id="e5"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq5.png"/></disp-formula></p>
+					<p>Finalmente, la superficie tridimensional S<sub>
+ <italic>3D</italic>
+</sub> del píxel corresponde a la suma de la superficie de cada uno de los 8 triángulos de acuerdo con la ecuación: </p>
+					<p><disp-formula id="e6"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq6.png"/></disp-formula></p>
+					<p>La <xref ref-type="fig" rid="f2">figura 2</xref> ilustra el resultado mostrando cómo es posible representar el relieve virtual del píxel en estudio. La superficie tridimensional S<sub>
+ <italic>3D</italic>
+</sub> corresponde a la suma de la superficie de los ocho triángulos cuando los píxeles son de superficie; cuando se trata de un píxel de perímetro se suman únicamente los triángulos que corresponden a las configuraciones presentadas en <xref ref-type="bibr" rid="B10">Parrot (2007)</xref>. </p>
+					<p>
+						<fig id="f2">
+							<label><italic>Figura 2 / Figure 2</italic></label>
+							<caption>
+								<p><italic><bold>Figura 2.</bold></italic> Cálculo de la superficie tridimensional de un píxel. A. Configuración original. B. Visión tridimensional del resultado.</p>
+								<p><italic><bold>Figure 2.</bold></italic> Calculation of the three-dimensional surface of a pixel. A. Original configuration. B. Three-dimensional view of the result.</p>
+							</caption>
+							<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_2A_2B.png"/>
+						</fig>
+					</p>
+				</sec>
+				<sec>
+					<title><italic>3.2.2 Visibilidad</italic></title>
+					<p>La visibilidad medida a partir de un Modelo Digital de Elevación, corresponde al campo de visión desde un punto fijo; es la distancia a la que un objeto deja de ser visible para el observador debido a la presencia de obstáculos que pueden ser árboles, edificios, montañas, etc. Las condiciones atmosféricas también pueden atenuar esta percepción; sin embargo, en este caso sólo se considera el MDT como superficie de evaluación. La medida de la visibilidad se calcula de la siguiente forma.</p>
+					<p>A partir de cada píxel de un MDT, se calcula la distancia y la diferencia de altitud, entre este píxel y cada uno de los píxeles de la imagen. En cada sección, se define el valor del intervalo que permite pasar, píxel por píxel, del punto inicial al punto final. Siguiendo la línea recta que une estos puntos puede resultar 1) que el punto final de la línea se vea desde el punto inicial (<xref ref-type="fig" rid="f3">Fig. 3A </xref>) o bien, 2) que se encuentre un valor de altitud mayor que el valor resultante de la aplicación del intervalo (la visibilidad no llega al punto final de la línea, <xref ref-type="fig" rid="f3">Figura 3B</xref>). En la matriz donde se consignan los resultados con valores reales, la celda correspondiente a la posición del punto inicial se incrementa. </p>
+					<p>
+						<fig id="f3">
+							<label><italic>Figura 3 / Figure 3</italic></label>
+							<caption>
+								<p><italic><bold>Figura 3.</bold></italic> A.- Visibilidad. B.- Ausencia de visibilidad. Nota: en negro, la progresión regular de la altitud entre el punto inicial y el punto terminal; en rojo, las altitudes de los píxeles del MDT original que constituyen la línea recta.</p>
+								<p><italic><bold>Figura 3.</bold></italic> A.- Visibility. B.- Lack of visibility. Note: in black, the regular progression of the altitude between the starting point and the ending point; in red, altitudes of the original DTM pixel following the same straight line.</p>
+							</caption>
+							<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_3A_3B.png">/</graphic>
+						</fig>
+					</p>
+					<p>Terminado el tratamiento, se transforma la matriz con valores reales en una imagen en tono de gris, aplicando la fórmula siguiente:</p>
+					<p><disp-formula id="e7"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq7.png"/></disp-formula></p>
+					<p>donde <italic>i</italic>i y <italic>j</italic> son las coordenadas de un punto, <italic>P</italic> el valor en tono de gris, <italic>V</italic> el valor resultado del incremento de las celdas de la matriz y <italic>Nbp</italic> el número total de píxeles en la imagen o bien, de manera precisa, el número total de píxeles incluidos en un círculo cuyo radio corresponde a la distancia máxima de visibilidad. Así, sobre la imagen en tono de gris, los píxeles corresponden a un porcentaje de visibilidad.</p>
+				</sec>
+				<sec>
+					<title><italic>3.2.3 Radiación solar</italic></title>
+					<p>La iluminación de un Modelo Digital de Elevación (MDE) revela información sobre su textura, orientación y forma. Existen diversos modelos para el cálculo de la radiación solar más o menos complejos, pero a menudo, un modelo mínimo es suficiente. </p>
+					<p>La intensidad reflejada I<sub>
+ <italic>r</italic>
+</sub> por una superficie se asocia con la reflexión especular del material K<sub>
+ <italic>m</italic>
+</sub> , la intensidad del rayo incidente I<sub>
+ <italic>i</italic>
+</sub> , y el ángulo α de incidencia: <italic>I<sub>r</sub> = I<sub>i</sub></italic> · <italic>K<sub>m</sub></italic> · cos<sup>n</sup>α. En esta ecuación, el exponente n es un coeficiente de brillo que se relaciona con el material (cuanto mayor sea n, más brillante será la superficie) y α es el ángulo entre el rayo reflejado y la dirección de la visión. El valor V en tonos de gris corresponde a la relación entre I<sub>
+ <italic>r</italic>
+</sub> e I<sub>
+ <italic>i</italic>
+</sub> : <disp-formula id="e8"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq8.png"/></disp-formula>. </p>
+					<p>La insolación depende de varios factores, entre otros, la declinación solar δ. La declinación no corresponde exactamente a una función sinusoidal, pero es posible utilizar la siguiente aproximación:</p>
+					<p><disp-formula id="e9"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq9.png"/></disp-formula></p>
+					<p>o bien:</p>
+					<p><disp-formula id="e10"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq10.png"/></disp-formula></p>
+					<p>donde j es el rango del día en el año (1 para el 1° de enero).</p>
+					<p>Por otro lado, la duración del día es igual a:<disp-formula id="e11"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq11.png"/></disp-formula> la cual se expresa en horas y λ corresponde a la latitud del lugar.</p>
+					<p>El cálculo del azimut propuesto por Monroy (1995, citado en<xref ref-type="bibr" rid="B8">Rovira, 2012</xref>) se realiza con la formula siguiente: <disp-formula id="e12"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq12.png"/></disp-formula>donde <disp-formula id="e13"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq13.png"/></disp-formula>Por otro lado, los valores de  <italic>rad</italic> y  <italic>w</italic> son iguales a: </p>
+					<p><disp-formula id="e14"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq14.png"/></disp-formula></p>
+					<p>Por su parte, la elevación del sol sobre el horizonte que propone Monroy (1995, citado en <xref ref-type="bibr" rid="B8">Rovira, 2012</xref>) es igual a: <disp-formula id="e15"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq15.png"/></disp-formula> donde γ y ζ son respectivamente iguales a: <disp-formula id="e16"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq16.png"/></disp-formula> </p>
+					<p>Así se obtiene para cada hora la posición del Sol durante el día en relación con la fecha y la latitud, por ejemplo, el 1° de febrero (día 32 del año) a la latitud 19.20° (ver <xref ref-type="table" rid="t1">Tabla 1</xref>).</p>
+					<p>
+						<table-wrap id="t1">
+							<label><italic>Tabla 1 / Table 1</italic></label>
+							<caption>
+								<p><bold>Tabla 1: </bold> Elevación y azimut el primero de febrero.</p>
+								<p><bold>Table 1: </bold> Elevation and azimuth on February 1st.</p>
+							</caption>
+							<table>
+								<thead>
+									<tr><th align="center">Hora</th>
+									<th align="center">Elevación</th>
+									<th align="center">Azimut</th></tr>
+								</thead>
+								<tbody>
+									<tr>
+										<td align="center">7</td>
+										<td align="center">11.85</td>
+										<td align="center">114.38</td>
+									</tr>
+									<tr>
+										<td align="center">8</td>
+										<td align="center">23.37</td>
+										<td align="center">120.84</td>
+									</tr>
+									<tr>
+										<td align="center">9</td>
+										<td align="center">34.13</td>
+										<td align="center">129.61</td>
+									</tr>
+									<tr>
+										<td align="center">10</td>
+										<td align="center">43.40</td>
+										<td align="center">141.89</td>
+									</tr>
+									<tr>
+										<td align="center">11</td>
+										<td align="center">50.03</td>
+										<td align="center">158.89</td>
+									</tr>
+									<tr>
+										<td align="center">12</td>
+										<td align="center">52.50</td>
+										<td align="center">180.00</td>
+									</tr>
+									<tr>
+										<td align="center">13</td>
+										<td align="center">50.03</td>
+										<td align="center">201.11</td>
+									</tr>
+									<tr>
+										<td align="center">14</td>
+										<td align="center">43.40</td>
+										<td align="center">218.11</td>
+									</tr>
+									<tr>
+										<td align="center">15</td>
+										<td align="center">34.13</td>
+										<td align="center">230.39</td>
+									</tr>
+									<tr>
+										<td align="center">16</td>
+										<td align="center">23.37</td>
+										<td align="center">239.16</td>
+									</tr>
+									<tr>
+										<td align="center">17</td>
+										<td align="center">11.85</td>
+										<td align="center">245.62</td>
+									</tr>
+								</tbody>
+							</table>
+						</table-wrap>
+					</p>
+					<p>La medida de la insolación diurna se realiza en tres etapas. La primera concierne al cálculo de la iluminación del MDE. La segunda es la generación de sombras proyectadas en relación con el relieve. Y la última corresponde, para cada punto del MDE, a la suma ponderada del número de horas por día.</p>
+					<p>La iluminación rad en un pixel i,j (i para las líneas y j para la columnas) es igual a:</p>
+					<p><disp-formula id="e17"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq17.png"/></disp-formula></p>
+					<p>donde <italic>res</italic> corresponde al tamaño del píxel, d<sub>
+ <italic>2</italic>
+</sub> a la diferencia de altitud entre el píxel i+1,j y el píxel i,j y d<sub>
+ <italic>3</italic>
+</sub> a la diferencia de altitud entre el pixel i,j+1 y el píxel i,j. </p>
+					<p>A menudo se confunde la obtención de un modelo sombreado con el cálculo de las sombras proyectadas. El modelo sombreado consiste en simular la respuesta radiométrica del suelo en relación con un flujo luminoso (<xref ref-type="fig" rid="f4">Fig. 4A</xref>). En cambio, las sombras proyectadas (<xref ref-type="fig" rid="f4">Fig. 4B</xref>) corresponden a las zonas iluminadas que el relieve oculta (<xref ref-type="bibr" rid="B14">Parrot et al., 1993</xref>). Además, la difusión de la radiación solar introduce la noción de atenuación de las sombras proyectadas, es decir, la reducción del valor de la sombra proyectada en relación con esta difusión (<xref ref-type="fig" rid="f4">Fig. 4C</xref>). Esta variable se calculó tomando en cuenta el MDT y el MDS, mostrando como la radiación solar disminuye drásticamente en presencia de bosques. </p>
+					<p>
+						<fig id="f4">
+							<label><italic>Figura 4 / Figure 4</italic></label>
+							<caption>
+								<p><italic><bold>Figura 4.</bold></italic> Ejemplo de tratamiento. A. Iluminación del MDE. B. Sombra “proyectada”. C. Atenuación de la sombra proyectada.</p>
+								<p><italic><bold>Figura 4.</bold></italic> Example of treatment. A. Lighting of the Digital Elevation Model. B. Cast shadow. C. Local attenuation of the cast shadow</p>
+							</caption>
+							<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_4.png"/>
+						</fig>
+					</p>
+				</sec>
+				<sec>
+					<title><italic>3.2.4 Densidad de vegetación</italic></title>
+					<p>El Modelo Digital del Dosel (MDD) se obtiene a partir de una diferencia ponderada entre el MDS y el MDT y representa (una vez eliminado el ruido y otras respuestas asociadas por ejemplo a la presencia de aves) la altura máxima encontrada dentro de la columna de puntos que se ubica sobre la superficie de cada píxel del archivo raster. En relación con la diferencia operada entre los dos modelos digitales que reportan estos datos en un plano horizontal, la altura máxima de un píxel del MDD corresponde, de hecho, al primer retorno encontrado en la columna, el cual toma en cuenta la suma de los objetos que se encuentran en la superficie terrestre, árboles y edificios, por ejemplo. </p>
+					<p>En el caso de la cuenca del río Magdalena que cubre una superficie de 30.95 km<sup>2</sup>, los asentamientos humanos ubicados río abajo representan 2.26 km<sup>2</sup>, es decir 7.3 % de la zona de estudio. Con el uso de una máscara se eliminó la zona urbanizada para estudiar dentro la cuenca la repartición de la vegetación en función de su altura. Se debe aclarar que no se trata de la nube de puntos, lo que nos hubiese permitido estudiar la vegetación desde el suelo hasta los árboles emergentes, pasando por los diversos estratos del sotobosque. Por esta razón, en las figuras que se relacionan con la vegetación, los valores corresponden únicamente a la altura máxima del dosel registrada en cada píxel y las capas de altura solamente toman en cuenta dichos valores. A pesar de esto, los tratamientos realizados muestran cual es el promedio de la repartición de la vegetación en relación con la altura localmente alcanzada. Se presentan dos acercamientos: el primero toma en cuenta los estratos en relación con el crecimiento del rango de la altura, el segundo utiliza estratos de altura. En este último caso, el mini-software <bold>Density_V2</bold> (<xref ref-type="bibr" rid="B11">Parrot, 2014</xref>) calcula la densidad de la vegetación, midiendo dentro de un kernel de n × n píxeles el número de píxeles que pertenecen a un tema. Globalmente, las zonas con suelos desnudos o vegetación con poca altura se encuentran principalmente en las zonas más altas de la cuenca, zonas donde se practica una actividad de ganadería y los árboles de mayor altura se ubican en la zona más estrecha del barranco asociada con la presencia de escarpes agudos.</p>
+				</sec>
+			</sec>
+		</sec>
+		<sec sec-type="results">
+			<title>4. Resultados</title>
+			<p>En esta sección se presentan los resultados de los atributos de la superficie y terreno descritos anteriormente. La superficie tridimensional (<xref ref-type="fig" rid="f5">Fig. 5</xref>) indica que las zonas de mayor rugosidad corresponden a los escarpes de falla en la zona centro de la cuenca, en cambio, los conos volcánicos y la planicie en la salida de la cuenca corresponden a las zonas de menor rugosidad en el paisaje. Este atributo describe cuantitativamente el contexto tectónico que presidió en la formación de esta zona con rasgos morfológicos específicos. </p>
+			<p>
+				<fig id="f5">
+					<label><italic>Figura 5 / Figure 5</italic></label>
+					<caption>
+						<p><italic><bold>Figura 5.</bold></italic> Rugosidad en función de la superficie tridimensional en la cuenca del río Magdalena. (Click en el <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/ojs3/index.php/terra_digitalis/article/view/68/152">hipervínculo para ver la versión 3D interactiva del mapa</ext-link>)</p>
+						<p><italic><bold>Figura 5.</bold></italic> Roughness as a function of the three-dimensional surface in the Magdalena River basin. (Click on the <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/ojs3/index.php/terra_digitalis/article/view/68/152">link to see the 3D interactive version of the map</ext-link>).</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_5.png"/>
+				</fig>
+			</p>
+			<p>El programa <bold>surf_2D_3D_JFP</bold> (<xref ref-type="bibr" rid="B13">Parrot, 2019</xref>) calcula, en una zona definida por una máscara, la superficie bidimensional S<sub>
+ <italic>2D</italic>
+</sub> y tridimensional S<sub>
+ <italic>3D</italic>
+</sub> . La superficie bidimensional calculada en número de píxeles multiplicado por el tamaño del píxel es de: 30.95 km<sup>2</sup> (3095.04 ha), pero esta superficie se define de manera más precisa utilizando la fórmula de <xref ref-type="bibr" rid="B16">Pratt (1978)</xref> o de <xref ref-type="bibr" rid="B10">Parrot (2007)</xref>, las cuales dan como resultado 30.86 km<sup>2</sup> (3086.51 ha). Por otro lado, la superficie tridimensional (<xref ref-type="bibr" rid="B13">Parrot, 2019</xref>) es de 34.82 km<sup>2</sup> (3482.024 ha). La relación <disp-formula id="e18"><graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/ecuaciones/eq18.png"/></disp-formula> traduce la rugosidad de la zona en estudio; cuanto más grande el índice, más rugosa será la superficie terrestre. En el caso del río Magdalena este índice es igual a 12.81, lo que refiere una alta rugosidad; a título de comparación, hemos calculado de la misma manera y a partir de los mismos datos LiDAR, la rugosidad del relieve de la futura cuarta sección del bosque de Chapultepec; el índice de rugosidad de esta área, más suave, es de 2.60. </p>
+			<p>La visibilidad en la cuenca del río Magdalena corresponde a un elemento importante para caracterizar el interés turístico de la zona. Si, al nivel de la cuenca solamente las zonas altas registran una fuerte visibilidad (<xref ref-type="fig" rid="f6">Fig. 6A</xref>), el lecho del río, con una fuerte disección fluvial, permite observar solo los flancos de la montaña y las fachadas de los acantilados. Sin embargo, con el fin de valorar la belleza del paisaje es particularmente importante simular el panorama que se puede tener mientras se sigue la carretera en el valle, (<xref ref-type="fig" rid="f7">Fig. 6 B</xref>). Este camino presenta varios puntos de amplia observación con espectacularidad turística.</p>
+			<p>
+				<fig id="f6">
+					<label><italic>Figura 6A / Figure 6A</italic></label>
+					<caption>
+						<p><italic><bold>Figura 6A.</bold></italic> Cálculo de la visibilidad general.</p>
+						<p><italic><bold>Figura 6A.</bold></italic> General visibility calculation.</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_6A.png"/>
+				</fig>
+			</p>
+			<p>
+				<fig id="f7">
+					<label><italic>Figura 6B / Figure 6B</italic></label>
+					<caption>
+						<p><italic><bold>Figura 6B.</bold></italic> Cálculo de la visibilidad en puntos de observación en el Camino a los Dinamos (Avenida Emiliano Carranza) en la cuenca del río Magdalena.</p>
+						<p><italic><bold>Figura 6B.</bold></italic> Visibility calculation at different observation points following the “Camino a los Dinamos” (Emiliano Carranza Avenue) in the Magdalena River basin.</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_6B.png"/>
+				</fig>
+			</p>
+			<p>La evolución de la iluminación durante el año (<xref ref-type="fig" rid="f8">Fig. 7A</xref>) define la cantidad de horas que una superficie permanece iluminada durante el mes, en este caso, se utilizaron los modelos de superficie y terreno para discriminar la variación de dicho cálculo al utilizar uno u otro modelo (<xref ref-type="fig" rid="f9">Fig. 7B</xref> y <xref ref-type="fig" rid="f10">7C</xref>). </p>
+			<p>
+				<fig id="f8">
+					<label><italic>Figura 7A / Figure 7A</italic></label>
+					<caption>
+						<p><italic><bold>Figura 7A.</bold></italic> Evolución de la insolación durante el año. Cálculos a partir del Modelo de Terreno y del Modelo de Superficie.</p>
+						<p><italic><bold>Figura 7A.</bold></italic> Evolution of insolation during the year. Calculations from the Terrain Model and the Surface Model.</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_7A.png"/>
+				</fig>
+			</p>
+			<p>El cálculo de la radiación solar potencial a partir del Modelo de Superficie muestra cómo la presencia de vegetación densa atenúa la insolación (<xref ref-type="fig" rid="f9">Fig. 7B</xref>). Esta fuerte disminución de la insolación, que tiene la ventaja de crear espacios cubiertos favorables a la instalación de equipamientos de diversión, se relaciona con la distribución de la vegetación que se muestra en las <xref ref-type="fig" rid="f11">figuras 8</xref> y <xref ref-type="fig" rid="f12">9</xref>. Como se mencionó anteriormente, existen por lo menos tres tipos de bosque asociados al gradiente altitudinal cuyas especies alcanzan los 35 m de altura. Por el contrario, se observa que cuando se utiliza el Modelo Digital de Terreno, para el cálculo de la radiación solar potencial, en zonas de vegetación densa, el atributo presenta una sobreestimación. </p>
+			<p>
+				<fig id="f9">
+					<label><italic>Figura 7B / Figure 7B</italic></label>
+					<caption>
+						<p><italic><bold>Figura 7B.</bold></italic> Cálculo de la iluminación mensual en la cuenca del río Magdalena a partir del MDS.</p>
+						<p><italic><bold>Figura 7B.</bold></italic> Calculation of the monthly solar radiation in the Magdalena River basin using the Digital Surface Model.</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_7B.png"/>
+				</fig>
+			</p>
+			<p>
+				<fig id="f10">
+					<label><italic>Figura 7C / Figure 7C</italic></label>
+					<caption>
+						<p><italic><bold>Figura 7C.</bold></italic> Cálculo de la iluminación mensual en la cuenca del río Magdalena a partir del MDT</p>
+						<p><italic><bold>Figure 7C.</bold></italic> Calculation of monthly solar radiation in the Magdalena River basin using the Digital Terrain Model.</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_7C.png"/>
+				</fig>
+			</p>
+			<p>
+				<fig id="f11">
+					<label><italic>Figura 8 / Figure 8</italic></label>
+					<caption>
+						<p><italic><bold>Figura 8.</bold></italic> Características de la vegetación por capas de altura. (Click en el <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero7/parrot/mapa_interactivo/">hipervínculo para ver la versión 2D interactiva del mapa</ext-link>)</p>
+						<p><italic><bold>Figure 8.</bold></italic> Characteristics of vegetation according to the tree height. (Click on the <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero7/parrot/mapa_interactivo/">link to see the 2D interactive version of the map</ext-link>)</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_8.png"/>
+				</fig>
+			</p>
+			<p>
+				<fig id="f12">
+					<label><italic>Figura 9 / Figure 9</italic></label>
+					<caption>
+						<p><italic><bold>Figura 9.</bold></italic> Densidad de vegetación por capas altitudinales.</p>
+						<p><italic><bold>Figura 9.</bold></italic> Vegetation density of different height layers.</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_9.png"/>
+				</fig>
+			</p>
+		</sec>
+		<sec sec-type="conclusions">
+			<title>5. Conclusiones</title>
+			<p>Los atributos del terreno y de la superficie provenientes del tratamiento de datos LiDAR aportan información cuantitativa para definir, por ejemplo, de manera objetiva, las zonas de valor ambiental, los servicios ecosistémicos y la belleza escénica. Entre otros, el análisis multidimensional (<xref ref-type="bibr" rid="B15">Parrot y Ramírez-Núñez, 2013</xref>) permite definir el peso relativo de los atributos que componen el paisaje. En el presente ejemplo, la clasificación tridimensional aplicada (<xref ref-type="bibr" rid="B15">Parrot y Ramírez-Núñez, 2013</xref>) toma en cuenta las imágenes binarias de 3 parámetros: visibilidad entre 20 y 43%, rugosidad superior a 10% y densidad vegetal superior a 50%. La visibilidad corresponde a 1.79 km<sup>2</sup>, la rugosidad a 0.153 km<sup>2</sup> y la densidad vegetal a 3.45 km<sup>2</sup> (Ver <xref ref-type="fig" rid="f13">Figura 10</xref>). La <xref ref-type="table" rid="t2">tabla 2</xref> muestra que la suma de estos tres temas corresponde al 80.41% de la superficie de la cuenca, lo que implica que la belleza escénica cuantificada en función de los parámetros de visibilidad general, rugosidad y densidad de vegetación forestal es de alto valor ambiental y que por ende, su manejo y conservación es primordial en las actividades pecuarias, agrícolas, turísticas y de recreación.</p>
+			<p>
+				<fig id="f13">
+					<label><italic>Figura 10 / Figure 10</italic></label>
+					<caption>
+						<p><italic><bold>Figura 10.</bold></italic> Clasificación multidimensional considerando la vegetación (V), rugosidad (R) y la densidad de vegetación (DV).</p>
+						<p><italic><bold>Figure 10.</bold></italic> Multidimensional classification considering the vegetation (V), the roughness (R) and the density of vegetation (DV).</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/parrot/Figura_10.png"/>
+				</fig>
+			</p>
+			<p>La cuenca del río Magdalena es un ejemplo dentro de todos los barrancos que abundan al poniente de la Ciudad de Mexico. La caracterización y cuantificación previa de los atributos de la superficie terrestre permitiría llegar a la definición del potencial ambiental de cada una de las zonas de interés a partir de un modelo aplicable en todos los casos. Se recomienda el monitoreo periódico con datos de alta resolución para definir y comparar los parámetros del relieve y superficie ejemplificados y obtener un modelo en cuatro dimensiones asegurando el manejo en el tiempo de dichas zonas.</p>
+			<p>
+				<table-wrap id="t2">
+					<label><italic>Tabla 2 / Table 2</italic></label>
+					<caption>
+						<p><italic><bold>Tabla 2.</bold></italic> Resultado de la clasificación multidimensional.</p>
+						<p><italic><bold>Table 2.</bold></italic> Result of the multidimensional classification.</p>
+					</caption>
+					<table>
+						<thead>
+							<tr>
+								<th align="left">Códigos</th>
+								<th align="left">Visibilidad</th>
+								<th align="left">Rugosidad</th>
+								<th align="left">Vegetación</th>
+								<th align="left">Píxeles</th>
+								<th align="left">Porcentaje de la cuenca</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="left">10</td>
+								<td align="left">+</td>
+								<td align="left">-</td>
+								<td align="left">-</td>
+								<td align="left">585</td>
+								<td align="left">0.05</td>
+							</tr>
+							<tr>
+								<td align="left">13</td>
+								<td align="left">+</td>
+								<td align="left">+</td>
+								<td align="left">-</td>
+								<td align="left">142329</td>
+								<td align="left">11.50</td>
+							</tr>
+							<tr>
+								<td align="left">11</td>
+								<td align="left">+</td>
+								<td align="left">-</td>
+								<td align="left">+</td>
+								<td align="left">24183</td>
+								<td align="left">1.95</td>
+							</tr>
+							<tr>
+								<td align="left">14</td>
+								<td align="left">+</td>
+								<td align="left">+</td>
+								<td align="left">+</td>
+								<td align="left">995523</td>
+								<td align="left">80.41</td>
+							</tr>
+							<tr>
+								<td align="left">4</td>
+								<td align="left">-</td>
+								<td align="left">+</td>
+								<td align="left">-</td>
+								<td align="left">3762</td>
+								<td align="left">0.30</td>
+							</tr>
+							<tr>
+								<td align="left">5</td>
+								<td align="left">-</td>
+								<td align="left">+</td>
+								<td align="left">+</td>
+								<td align="left">70495</td>
+								<td align="left">5.69</td>
+							</tr>
+							<tr>
+								<td align="left">2</td>
+								<td align="left">-</td>
+								<td align="left">-</td>
+								<td align="left">+</td>
+								<td align="left">1142</td>
+								<td align="left">0.03</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			</p>
+		</sec>
+		<sec sec-type="acknowledge">
+      	<title>Agradecimientos</title>
+        <p> Los autores agradecen al Mtro. Javier Osorno Covarrubias por su motivación para la publicación de este trabajo así como su valiosa ayuda en la cibercartografía; los resultados tampoco hubieran sido posibles sin el apoyo de Luis Felipe Ruiz Castañeda. Este proyecto fue realizado como investigación apoyada por el Instituto de Geografía.
+        </p>
+        </sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>Referencias</title>
+			<ref id="B1">
+				<mixed-citation>Almeida-Leñero L., Nava M., Ramos A., Espinosa M., Ordoñez M.J., Jujnovsky J. (2007). Servicios ecosistémicos en la cuenca del río Magdalena, Distrito Federal, México. Gaceta Ecológica, 84-85, julio-diciembre, 53-64, Secretaría de Medio Ambiente y Recursos Naturales, Distrito Federal, México.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Almeida-Leñero</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Nava</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ramos</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Espinosa</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ordoñez</surname>
+							<given-names>M.J.</given-names>
+						</name>
+						<name>
+							<surname>Jujnovsky</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Servicios ecosistémicos en la cuenca del río Magdalena, Distrito Federal, México</article-title>
+					<source>Gaceta Ecológica</source>
+					<volume>84-85</volume>
+					<fpage>53</fpage>
+					<lpage>64</lpage>
+					<publisher-name>Secretaría de Medio Ambiente y Recursos Naturales</publisher-name>
+					<publisher-loc>Distrito Federal, México</publisher-loc>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Ávila-Akerberg V., González-Hidalgo B., Nava-López M., Almeida-Leñero L. (2008). Refugio de fitodiversidad en la Ciudad de México, el caso de la cuenca del río Magdalena. Journal of the Botanical Research Institute of Texas, 2, 605-619.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ávila-Akerberg</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>González-Hidalgo</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Nava-López</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Almeida-Leñero</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Refugio de fitodiversidad en la Ciudad de México, el caso de la cuenca del río Magdalena</article-title>
+					<source>Journal of the Botanical Research Institute of Texas</source>
+					<volume>2</volume>
+					<fpage>605</fpage>
+					<lpage>619</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Cantoral E., Almeida-Leñero L., Cifuentes J., León L., A. Martínez, Nieto A., Mendoza P., Villarruel J., Aguilar V., Ávila-Akerberg V., Olguín H., Puebla F. (2009). La biodiversidad de una cuenca en la Ciudad de México. Ciencias, 94, 28-33. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cantoral</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Almeida-Leñero</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Cifuentes</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>León</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Martínez</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Nieto</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Mendoza</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Villarruel</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Aguilar</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Ávila-Akerberg</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Olguín</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Puebla</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>La biodiversidad de una cuenca en la Ciudad de México</article-title>
+					<source>Ciencias</source>
+					<volume>94</volume>
+					<fpage>28</fpage>
+					<lpage>33</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>Florinsky I.V. (2016). Digital Terrain Analysis in Soil Science and Geology. 2<sup>a</sup> ed. Elsevier / Academic Press, Amsterdam, 486 p.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Florinsky</surname>
+							<given-names>I.V.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Digital Terrain Analysis in Soil Science and Geology. 2a ed.</article-title>
+					<source>Elsevier / Academic Press, Amsterdam, 486 pp.</source>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>Instituto Nacional de Estadística y Geografía (INEGI) (2007) Modelo Digital de Terreno y Superficie de alta resolución LiDAR de la zona E14A39.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>Instituto Nacional de Estadística y Geografía (INEGI)</collab>
+					</person-group>
+					<year>2007</year>
+					<article-title>Modelo Digital de Terreno y Superficie de alta resolución LiDAR de la zona E14A39</article-title>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Lugo J. (1984). Geomorfología del sur de la cuenca de México. Serie Varia, tomo1, número 8, Instituto de Geografía UNAM, 95 p.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Lugo</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>1984</year>
+					<article-title>Geomorfología del sur de la cuenca de México</article-title>
+					<volume>Serie Varia, tomo1, no. 8, 95 pp.</volume>
+					<issue>8</issue>
+					<source>Instituto de Geografía UNAM</source>
+					</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Mazari-Hiriart M., Pérez-Ortiz G., Orta-Ledesma M.T., Armas-Vargas F., Tapia M.A., Solano-Ortiz R., Silva M., Yañez-Noguez I., López-Vidal Y., Díaz-Ávalos C. (2014). Final Opportunity to rehabilitate an urban river as a water source for Mexico City. PLOS ONE, 9(7): e102081, 1-17. https://doi.org/10.1371/journal.pone.0102081</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mazari-Hiriart</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Pérez-Ortiz</surname>
+							<given-names>G.</given-names>
+						</name>
+						<name>
+							<surname>Orta-Ledesma</surname>
+							<given-names>M.T.</given-names>
+						</name>
+						<name>
+							<surname>Armas-Vargas</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Tapia</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Solano-Ortiz</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Silva</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Yañez-Noguez</surname>
+							<given-names>I.</given-names>
+						</name>
+						<name>
+							<surname>López-Vidal</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Díaz-Ávalos</surname>
+							<given-names>C</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Final Opportunity to rehabilitate an urban river as a water source for Mexico City</article-title>
+					<source>PLOS ONE</source>
+					<volume>9(7), e102081</volume>
+					<issue>7</issue>
+					<fpage>1</fpage>
+					<lpage>17</lpage>
+					<pub-id pub-id-type="doi">10.1371/journal.pone.0102081</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Nava M. (2003). Los bosques de la cuenca alta del río Magdalena, D.F., México. Un estudio de vegetación y fitodiversidad. Tesis de Licenciatura en Biología, Facultad de Ciencias, UNAM, México, 66 p.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nava</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2003</year>
+					<article-title>Los bosques de la cuenca alta del río Magdalena, D.F., México, Un estudio de vegetación y fitodiversidad</article-title>
+         			<source> Tesis de Licenciatura en Biología, Facultad de Ciencias, UNAM, México, 66 pp.</source>
+					</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Parrot, J.-F. (2007). Tri-dimensional parameterisation: an automated treatment to study the evolution of volcanic cones. Géomorphologie : relief, processus, environnement, 13(3), 247-257. https://doi.org/10.4000/geomorphologie.2723</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parrot</surname>
+							<given-names>J.-F.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Tri-dimensional parameterisation: an automated treatment to study the evolution of volcanic cones</article-title>
+					<source>Géomorphologie : relief, processus, environnement</source>
+					<volume>13(3)</volume>
+					<issue>3</issue>
+					<fpage>247</fpage>
+					<lpage>257</lpage>
+					<pub-id pub-id-type="doi">10.4000/geomorphologie.2723</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Parrot J.-F. (2014). Software Density_V2. Número de registro del certificado público de Derecho de Autor: 03-2014-022712222200-01 .</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parrot</surname>
+							<given-names>J.-F.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Software Density_V2</article-title>
+					<source>Número de registro del certificado público de Derecho de Autor: 03-2014-022712222200-01</source>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Parrot, J.-F. (2018). Software Select Slices. Número de registro del certificado público de Derecho de Autor: 03-2018-011109492800-01. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parrot</surname>
+							<given-names>J.-F.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Software Select Slices</article-title> 
+					<source>Número de registro del certificado público de Derecho de Autor: 03-2018-011109492800-01</source>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Parrot, J.-F. (2019). Programa Surf_2D_3D_JFP. Módulo Inédito.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parrot</surname>
+							<given-names>J.-F.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Programa Surf_2D_3D_JFP</article-title>
+					<source>Módulo Inédito</source>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Parrot J.-F., Lyberis N., Lefauconnier B., Manby G. (1993). SPOT multispectral data and digital terrain model for the analysis of ice-snow fields on arctic glaciers. Int. J. Rem. Sens., 14(3), 425-440. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parrot</surname>
+							<given-names>J.-F.</given-names>
+						</name>
+						<name>
+							<surname>Lyberis</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Lefauconnier</surname>
+							<given-names>B.</given-names>
+						</name>
+						<name>
+							<surname>Manby</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<year>1993</year>
+					<article-title>SPOT multispectral data and digital terrain model for the analysis of ice-snow fields on arctic glaciers</article-title>
+					<source>Int. J. Rem. Sens.</source>
+					<volume>14(3)</volume>
+					<issue>3</issue>
+					<fpage>425</fpage>
+					<lpage>440</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Parrot J.-F., Ramírez-Núñez C. (2013). Software MULTIDIM_V2. Número de registro del certificado público de Derecho de Autor: 03-2013-032113464200-01.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Parrot</surname>
+							<given-names>J.-F.</given-names>
+						</name>
+						<name>
+							<surname>Ramírez-Núñez</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Software MULTIDIM_V2</article-title>
+					<source>Número de registro del certificado público de Derecho de Autor: 03-2013-032113464200-01</source>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Pratt, W.K. (1978). Digital image processing. Ed. Wiley, New York, 750 p.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pratt</surname>
+							<given-names>W.K.</given-names>
+						</name>
+					</person-group>
+					<year>1978</year>
+					<article-title>Digital image processing</article-title>
+					<source>Ed. Wiley, New York, 750 pp.</source>
+					</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>Ramos A. (2008). Propuesta de reclasificación y zonificación participativa de la Zona Protectora Forestal Cañada de Contreras, Distrito Federal, México. Tesis de Maestría, Facultad de Ciencias, UNAM, México, 99 pp.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Ramos</surname>
+							<given-names>A.</given-names>
+						</name>
+					</person-group>
+					<year>2008</year>
+					<article-title>Propuesta de reclasificación y zonificación participativa de la Zona Protectora Forestal Cañada de Contreras, Distrito Federal, México</article-title>
+					<source> Tesis de Maestría, Facultad de Ciencias, UNAM, México, 99pp.</source>
+					</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Rovira, M. (2012) Solar thermal energy installation for student tutorial: Implementation of hot water load, acquisition and measurements, software interface for supervision. Master thesis, Universidad Politécnica de Cataluña, 44 p.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Rovira</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Solar thermal energy installation for student tutorial: Implementation of hot water load, acquisition and measurements, software interface for supervision</article-title>
+					<source>Master thesis, Universidad Politécnica de Cataluña, 44 pp.</source>
+					</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Secretaría del Medio Ambiente (SEDEMA) y Ciudad de México (2016). Suelo de Conservación del Distrito Federal. Primera edición, Ciudad de México, 157 p.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>Secretaría del Medio Ambiente (SEDEMA)</collab>
+					</person-group>
+					<year>2016</year>
+					<article-title>Suelo de Conservación del Distrito Federal</article-title>
+					<source>Primera edición, Ciudad de México, 157 pp.</source>
+					</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Servicio Geológico Mexicano (SGM) (2002). Carta geológico-minera Ciudad de México E14-2. Edo. De Méx., Tlax., D.F., Pue., Hgo. Y Mor. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>Servicio Geológico Mexicano (SGM)</collab>
+					</person-group>
+					<year>2002</year>
+					<article-title>Carta geológico-minera Ciudad de México E14-2</article-title>
+					</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Wilson J.P., Gallant J.C. (2000). Terrain Analysis: Principles and Applications. John Willey &amp; Sons, New York, 479 p.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wilson</surname>
+							<given-names>J.P.</given-names>
+						</name>
+						<name>
+							<surname>Gallant</surname>
+							<given-names>J.C.</given-names>
+						</name>
+					</person-group>
+					<year>2000</year>
+					<article-title>Terrain Analysis: Principles and Applications</article-title>
+					<source>John Willey &amp; Sons, New York, 479 pp.</source>
+					</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

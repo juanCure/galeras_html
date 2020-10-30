@@ -1,0 +1,807 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.8" xml:lang="es" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+			<journal-title-group>
+				<journal-title>Terra Digitalis</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">TD</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2594-0694</issn>
+			<publisher>
+				<publisher-name>Terra Digitalis</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.22201/igg.25940694.2020.1.67.146</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Un mapa de México en 100,000 millones de pixeles - generación de un mosaico nacional con imágenes RapidEye / A map of Mexico in 100,000 million pixels - generation of a national mosaic with RapidEye images</article-title>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Hruby</surname>
+						<given-names>Florian</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"/>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ascención Merino</surname>
+						<given-names>Margarita</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"/>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Ressl</surname>
+						<given-names>Rainer</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"/>
+				</contrib>
+				<aff id="aff1">
+					<institution content-type="original">Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), Insurgentes Sur 4903, Parques del Pedregal, Alcaldía de Tlalpan, Ciudad de México. C.P. 14010, México </institution>
+					<institution content-type="orgname">Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO)</institution>
+					<country country="MX">Mexico</country>
+				</aff>
+			</contrib-group>
+			<author-notes>
+				<corresp id="c1">
+					<email>florian.hruby@conabio.gob.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<day>30</day>
+				<month>04</month>
+				<year>2020</year>
+			</pub-date>
+			<volume>4</volume>
+			<issue>1</issue>
+			<fpage>1</fpage>
+			<lpage>23</lpage>
+			<history>
+				<date date-type="received">
+					<day>15</day>
+					<month>11</month>
+					<year>2019</year>
+				</date>
+				<date date-type="accepted">
+					<day>26</day>
+					<month>02</month>
+					<year>2020</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>&#169; 2020, Florian Hruby, Margarita Ascención Merino &amp; Rainer Ressl. Published by Terra Digitalis.
+	            </copyright-statement>
+	            <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+	               <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+	            </license>
+			</permissions>
+			<abstract>
+				<sec>
+					<title>Resumen</title>
+					<p> El presente artículo resume los pasos seguidos para la generación del primer mosaico nacional sin nubes y de alta resolución (5m). Se presentan tanto las dificultades de la producción de mosaicos en términos generales, como la metodología que hemos seguido para finalizar este proyecto con éxito. Los principales pasos son la preselección de datos de un acervo total de 50,000 imágenes RapidEye, la optimización de histogramas y de divisiones entre imágenes adyacentes y la fusión de 4,500 escenas para generar un mapa satelital del país entero. Discutimos también el pos-procesamiento para eliminar nubes y desaturar particularmente las regiones desérticas, lo cual constituye una diferencia respecto de propuestas alternativas. Adicionalmente, incluimos detalles acerca de la disponibilidad de los datos. Finalmente, cerramos el texto con posibles aplicaciones de una imagen satelital de México de aproximadamente 100,000 millones de pixeles. </p>
+					<p><italic>Palabras clave: </italic>mosaico; geovisualización; imágenes satelitales; percepción remota; big data</p>	
+				</sec>
+				<sec>
+					<title>Abstract</title>
+					<p> The present paper presents a workflow for the generation of a 5m spatial resolution, completely seamless and cloud-free mosaic of Mexico. After a brief discussion of the challenges of imagery-based mosaicking in general terms, we will detail the methodology applied to complete this project. Main steps include the pre-selection of suitable imagery (from an archive of 50,000 RapidEye images, captured over Mexico, between 2011 and 2014), histogram and seamline optimization and image blending of 4,500 scenes to create a country-wide satellite map. Considered a distinctive feature of our workflow, emphasis is also placed on tasks at the post-processing level, including cloud elimination and exposure correction. Information on operational availability of the final mosaic is provided. Finally, the application spectrum of a 100,000 million pixel satellite mosaic of Mexico is discussed.</p>
+					<p><italic>Keywords: </italic>mosaicking; geovisualization; satellite imagery; remote sensing; big data</p>	
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="en">
+				<title>Abstract:</title>
+				<p>The present paper presents a workflow for the generation of a 5m spatial resolution, completely seamless and cloud-free mosaic of Mexico. After a brief discussion of the challenges of imagery-based mosaicking in general terms, we will detail the methodology applied to complete this project. Main steps include the pre-selection of suitable imagery (from an archive of 50,000 RapidEye images, captured over Mexico, between 2011 and 2014), histogram and seamline optimization and image blending of 4,500 scenes to create a country-wide satellite map. Considered a distinctive feature of our workflow, emphasis is also placed on tasks at the post-processing level, including cloud elimination and exposure correction. Information on operational availability of the final mosaic is provided. Finally, the application spectrum of a 100,000 million pixel satellite mosaic of Mexico is discussed.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="es">
+				<title>Palabras clave:</title>
+				<kwd>mosaico</kwd>
+				<kwd>geovisualización</kwd>
+				<kwd>imágenes satelitales</kwd>
+				<kwd>percepción remota</kwd>
+				<kwd>big data</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="en">
+				<title>Keywords:</title>
+				<kwd>mosaicking</kwd>
+				<kwd>geovisualization</kwd>
+				<kwd>satellite imagery</kwd>
+				<kwd>remote sensing</kwd>
+				<kwd>big data</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="5"/>
+				<table-count count="0"/>
+				<equation-count count="0"/>
+				<ref-count count="24"/>
+				<page-count count="24"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>1. Introducción</title>
+			<sec>
+				<title>1.1 Contexto y trasfondo</title>
+				<p>Desde la <italic>Carta general de la República Mexicana</italic> (publicada por Antonio García Cubas, poco después de la guerra perdida contra los EUA, entre 1846-1848), gran parte de la producción cartográfica del país se puede entender como una labor parecida a la producción de un mosaico. Desde la mitad del siglo 19 se busca crear series de mapas homogéneos, que representen al país entero sin inconsistencias ni errores. </p>
+				<p>Ejemplos tempranos de este deseo de una cartografía actual, detallada y completa del territorio nacional y sus límites son los levantamientos de la <italic>Comisión de Límites de México</italic> entre 1849 y 1857 y de la <italic>Comisión Geográfico-Exploradora</italic> entre 1878 y 1911. Y aunque un mapa topográfico a escala 1:50000 existe desde la segunda mitad del siglo XX, el proceso de completar el mosaico cartográfico nacional continúa. Todavía en el año 1985, Miguel de la Madrid propone el proyecto de un catastro rural para solucionar las incongruencias entre los registros disponibles y la realidad existente en el terreno. Dichas incongruencias existen en muchos ejidos hasta el día de hoy (<xref ref-type="bibr" rid="B8">Craib, 2004</xref>). </p>
+				<p>Actualmente las cuestiones de levantamientos cartográficos ya no son un asunto limitado por las fronteras nacionales. Existen varias constelaciones de satélites que captan la superficie terrestre global con resoluciones espaciales y temporales cada vez mayores (<xref ref-type="bibr" rid="B10">Fugate et al., 2010</xref>). Dado que la resolución espacial de una imagen es inversamente proporcional a su extensión espacial, el terreno grabado en una escena de mayor resolución es cada vez más pequeño, lo que hace necesario juntar varias escenas para cubrir una región de interés más grande, o un país entero (<xref ref-type="bibr" rid="B12">Li X. et al., 2015</xref>, <xref ref-type="bibr" rid="B13">Li L. et al., 2016</xref>). En publicaciones recientes se etiqueta esta fusión de escenas contiguas con el término inglés de “mosaicking” (<xref ref-type="bibr" rid="B15">Kerschner, 2001</xref>). </p>
+				<p>Cabe mencionar que en México se han elaborado varios conjuntos de cubrimientos nacionales de imágenes satelitales. Por ejemplo, el Servicio de Información Agroalimentaria y Pesquera (SIAP) publica, a base de datos SPOT 5, 6 y 7, un mosaico de alta resolución (<xref ref-type="bibr" rid="B22">SIAP, 2016</xref>); aunque dicho producto no ofrece una visualización homogénea ni está libre de nubes. Por otro lado, la Comisión Nacional para el Conocimiento y Uso de la Biodiversidad (CONABIO), publicó mosaicos nacionales con imágenes MODIS (<xref ref-type="bibr" rid="B5">CONABIO, 2003</xref>) y AVHRR (<xref ref-type="bibr" rid="B4">CONABIO, 2001</xref>), como productos perfectamente homogenizados y libres de nubes, pero con la baja resolución espacial que caracteriza a ambos sensores. A diferencia de las propuestas mencionadas, el presente artículo resume, en las siguientes secciones, los pasos para la generación del primer mosaico nacional sin nubes y de alta resolución. </p>
+			</sec>
+			<sec>
+				<title>1.2 Datos y área de estudio</title>
+				<p>El objetivo principal del proyecto presentado en este texto es la generación de un mosaico de México sin nubes y rupturas visibles, a base de imágenes RapidEye, ortorectificadas, con una resolución de 5m. Como cada escena RapidEye cubre un área de 5km x 5km, se necesitan aproximadamente 4,500 imágenes para cubrir la superficie terrestre de México. Traduciendo estas cifras a pixeles, podemos calcular un número de 2,500,000 pixeles por cada escena, lo que equivale a 100,000 millones de pixeles para todo el país.</p>
+				<p>Sin embargo, obtener un mosaico del país entero no solo presenta un reto por sus extensiones; México está entre los cinco países de mayor biodiversidad del mundo, mostrando también una gran variedad de coberturas de suelo (<xref ref-type="bibr" rid="B16">Llamas <italic>et al.</italic>, 2015</xref>). Hablando en términos de la percepción remota, esta gran diversidad implica un rango amplio de diferentes perfiles radiométricos, desde áreas desérticas con mucho brillo en el norte hasta regiones más oscuras con vegetación densa y efectos atmosféricos (como nubes o neblina) en el sureste de México. </p>
+			</sec>
+			<sec>
+				<title>1.3 Hardware y Software</title>
+				<p>Para poder procesar y almacenar un volumen de datos de aproximadamente 100 TB (incluidos todos los productos intermedios), nos apoyamos de un clúster de ordenadores instalados en la CONABIO. Para la generación del mosaico se usaron dos servidores de las siguientes características: Dell R720 con 2 procesadores Intel XEON, 10 núcleos a 2.5 GHz, 128 GB RAM; CentOS 6.5, Linux 2.6.32-431. </p>
+				<p>Se instaló el GeoImaging Accelerator (GXL) de PCI Geomatics en el clúster para realizar los diferentes pasos necesarios para el procesamiento de los datos y la generación del mosaico. Correcciones locales se hicieron con Geomatica de PCI Geomatics. </p>
+			</sec>
+		</sec>
+		<sec>
+			<title>2. Generación automatizada del proto-mosaico</title>
+			<p>Son varias las razones que pueden convertir la generación de un mosaico en una labor compleja. En resumen, podemos distinguir entre factores de corto plazo, p. ej., diferentes ángulos de observación en el momento de la toma o cambios atmosféricos entre imágenes vecinas (incluyendo nubosidad), y cambios con plazos más largos, p. ej., en la infraestructura urbana o la vegetación (<xref ref-type="bibr" rid="B15">Kerschner, 2001</xref>; <xref ref-type="bibr" rid="B11">Helmer &amp; Ruefenacht, 2005</xref>). </p>
+			<p>Para ajustar las diferencias entre escenas vecinas, resultado de los factores mencionados, se aplica comúnmente una estrategia de tres fases: (1) El balanceado de colores, (2) una optimización de las divisiones y (3) la fusión de imágenes. Existen varios métodos para realizar cada uno de estos pasos (<xref ref-type="bibr" rid="B12">Li X. et al., 2015</xref>). Sin embargo, estos métodos se han aplicado generalmente solo a cantidades pequeñas de escenas, en el marco de estudios de factibilidad. Las pruebas con mosaicos grandes, de resolución alta y sin nubes, para fusionar cientos de imágenes, aún son raras (<xref ref-type="bibr" rid="B2">Bielski et al., 2007</xref>; <xref ref-type="bibr" rid="B23">Syrris et al., 2018</xref>). </p>
+			<p>El texto presente sostiene que las tres fases mencionadas son insuficientes para describir un diseño operativo para mosaicos grandes. Por ello se propone ampliar el enfoque tradicional con métodos de pre-selección y pos-edición para definir un flujo de trabajo funcional para mosaicos que involucran el procesamiento de <italic>big data</italic>. </p>
+			<sec>
+				<title>2.1 Preselección de imágenes</title>
+				<p>Se necesitan aproximadamente 4,500 escenas RapidEye para cubrir la superficie terrestre de México. Teniendo disponibles coberturas semestrales para los años 2011-2014 (un total de aproximadamente 50,000 imágenes), escogimos las mejores 4,500 escenas, bajo los criterios de homogeneidad temporal, ángulo máximo de observación de 16° a 20°, error máximo de desplazamiento de un pixel (5 m) y nubosidad mínima (<xref ref-type="bibr" rid="B21">Schramm, 2012</xref>). </p>
+				<p>En un primer paso, eliminamos imágenes tomadas durante la temporada de lluvia, entre Mayo y Septiembre, debido a la mayor probabilidad de formaciones de nubes durante estos meses. </p>
+				<p>De las aproximadamente 24500 escenas restantes, filtramos las 4500 imágenes necesarias para cubrir el país mediante un proceso automatizado en Python. Este proceso se ejecuta sobre los metadatos disponibles de cada escena, definiendo así, para cada cuadrante del país (<italic>tile-ID</italic>), la imagen con menor porcentaje de nubosidad disponible (<xref ref-type="fig" rid="f1">Figura 1</xref>). </p>
+				<p>Finalmente, se reproyectaron las escenas seleccionadas, de seis diferentes zonas UTM de México al Sistema Geodésico Mundial 1984 (WGS84), para obtener el mosaico final en coordenadas geográficas, proyección común en aplicaciones de cartografía en línea (<xref ref-type="bibr" rid="B1">Battersby et al., 2014</xref>).</p>
+			</sec>
+			<sec>
+				<title>2.2 Balanceado de colores</title>
+				<p>Las diferencias radiométricas se pueden observar incluso entre escenas vecinas tomadas el mismo día. Por lo tanto, el despliegue de las mejores escenas seleccionadas anteriormente aún presenta efectos de parches y bordes dentro del mosaico. </p>
+				<p>Por ello es necesario ajustar los histogramas de imágenes individuales con métodos de balanceado de colores para obtener un compuesto homogéneo. El requisito para correr algoritmos de balanceado con el software seleccionado es un traslape entre escenas adyacentes, el cual consiste, en el caso de la constelación de imágenes RapidEye, en una franja de 100 px (500m) alrededor de cada escena.</p>
+				<p>Dado el gran volumen de datos involucrados en la generación de un mosaico para todo México, se aplicó una estrategia de balanceado de dos fases. Primero se ajustó cada imagen con un método de <italic>histogram matching</italic> (<xref ref-type="bibr" rid="B17">PCI Geomatics, 2019a</xref>), para mejorar la homogeneidad del mosaico, sin perder la apariencia natural de los colores. </p>
+				<p>Después se minimizaron las diferencias restantes, entre imágenes vecinas, con un algoritmo de sobreexposición, llamado <italic>dodging</italic> (<xref ref-type="bibr" rid="B18">PCI Geomatics, 2019b</xref>; ver sección 3.1); calculándose nuevos valores de brillo y contraste para cada uno de los cuatro márgenes de cada escena RapidEye. En resumen, el primer paso consiste en un balanceado global, mientras que el segundo paso optimiza el balanceado local entre escenas adyacentes. </p>
+				<!--<p>-->
+					<fig id="f1">
+						<label>Figura 1 / Figure 1</label>
+						<caption>
+							<p><italic><bold>Figura 1.</bold></italic> Fases de trabajo para la generación de un mosaico nacional con imágenes RapidEye</p>
+							<p><italic><bold>Figure 1.</bold></italic> Countrywide mosaicking workflow with RapidEye imagery</p>
+						</caption>
+						<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/hruby/2007-5308-mcp-4-01-1-gf1.png"/>
+					</fig>
+				<!--</p>-->
+			</sec>
+			<sec>
+				<title>2.3 Optimización de divisiones</title>
+				<p>El balanceado de colores mejora la calidad del mosaico de manera considerable. Sin embargo, modificar solamente las tonalidades de las imágenes en ocasiones no es suficiente para desaparecer visualmente el borde entre escenas individuales dentro del mosaico, sobre todo si escenas vecinas son capturadas en fechas diferentes. </p>
+				<p>Para reducir visualmente los bordes, en la literatura podemos diferenciar entre los enfoques basados en información a nivel de pixeles (<xref ref-type="bibr" rid="B15">Kerschner, 2001</xref>; <xref ref-type="bibr" rid="B2">Bielski <italic>et al.</italic>, 2007</xref>) y los enfoques semánticos, que consideran también categorías espaciales agregadas, por ejemplo, campos de agricultura (<xref ref-type="bibr" rid="B20">Saito <italic>et al.</italic>, 2015</xref>) o elementos lineales, como por ejemplo, carreteras (<xref ref-type="bibr" rid="B24">Wan <italic>et al.</italic>, 2013</xref>).</p>
+				<p>En este caso, adaptamos los márgenes de escenas, que son originalmente líneas rectas, a elementos de la topografía real (p. ej., límites entre diferentes usos de suelo), en el traslape de 500m entre dos imágenes, con el objeto de conseguir la homogeneidad óptima que pretendemos del mosaico. </p>
+			</sec>
+		</sec>
+		<sec>
+			<title>3. Edición interactiva del proto-mosaico</title>
+			<sec>
+				<title>3.1 Balanceado manual</title>
+				<p>El método que se usó para el balanceado automatizado de colores consiste de dos pasos, basándose el segundo de los mismos en un algoritmo de sobreexposición (Ver sección 2.2). </p>
+				<p>Técnicamente hablando este algoritmo genera una línea de sobreexposición en el traslape de dos escenas vecinas. Usando la herramienta <italic>dodging tool</italic> de Geomatica (<xref ref-type="bibr" rid="B18">PCI Geomatics, 2019b</xref>) se pueden definir manualmente puntos adicionales de dodging, sobre la línea de sobreexposición, en los sitios donde la transición entre dos imágenes vecinas sigue siendo visible aún después de la generación automatizada (Ver sección 2). Lo anterior ocurre frecuentemente cuando las divisiones entre dos imágenes se ubican dentro de cuerpos de agua. </p>
+				<p>Como se ve en el ejemplo de la <xref ref-type="fig" rid="f2">figura 2</xref>, se necesitan varios puntos para equilibrar divisiones heterogéneas. Tales divisiones heterogéneas ocurren también cuando el mes de captura de dos escenas adyacentes difiere mucho, observándose cambios en el vigor de la vegetación; por ejemplo, cuando una imagen, tomada poco después de la estación lluviosa, muestra una vegetación abundante, mientras que la escena contigua, refleja vegetación correspondiente a la plena temporada seca. </p>
+				<!--<p>-->
+					<fig id="f2">
+						<label>Figura 2 / Figure 2</label>
+						<caption>
+							<p><italic><bold>Figura 2.</bold></italic> Detalle de la Presa Vicente Guerrero, antes (izquierda) y después (derecha) del balanceado manual. Los puntos de dodging se muestran en color rojo</p>
+							<p><italic><bold>Figure 2.</bold></italic> Detail of Vicente Guerrero Dam, before (left) and after (right) manual dodging; dodging points as circles</p>
+						</caption>
+						<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/hruby/2007-5308-mcp-4-01-1-gf2.jpg"/>
+					</fig>
+				<!--</p>-->
+			</sec>
+			<sec>
+				<title>3.2 Fusión de imágenes</title>
+				<p>Para finalizar la homogenización y optimización de divisiones, se hizo una fusión entre escenas vecinas para conseguir una transición más suave (<xref ref-type="bibr" rid="B12">Li X. et al., 2015</xref>). Fusión significa también, que las escenas originales se pierden en este paso como elementos individuales, para obtener ya un mosaico en términos de una sola imagen de todo el país. Por cuestiones de rendimiento y pos-procesamiento, esta imagen se recortó en 24 bloques de 100,000 x 100,000 pixeles (como máximo) al final del proceso de la fusión. </p>
+			</sec>
+			<sec>
+				<title>3.3 Eliminación de nubes</title>
+				<p>A pesar de haber seleccionado las mejores imágenes, al principio del proyecto, bajo el criterio de una nubosidad mínima (Ver sección 2.1), se encontró una cantidad considerable de nubes en el mosaico, aún después de la fusión de imágenes. Lo anterior se debe principalmente a que existen varias regiones tropicales en el país donde la nubosidad es, por cuestiones climáticas, un fenómeno permanente; en estas regiones, hasta las mejores (bajo el criterio de nubosidad) imágenes disponibles, entre 2011 y 2014, muestran cierto porcentaje de nubes. Por otro lado, es importante mencionar que se pueden observar ambigüedades en los metadatos, por los cuales se asigna, en algunas ocasiones, un porcentaje alto de nubosidad a escenas que en realidad son despejadas. Este problema se da en México sobre todo en áreas desérticas, con una alta reflectividad, que puede ser confundida con las características radiométricas de nubes (<xref ref-type="bibr" rid="B3">Braaten et al., 2015</xref>). </p>
+				<p>Para eliminar las nubes aún presentes en el mosaico utilizamos la herramienta <italic>smart geofill</italic> de Geomatica (<xref ref-type="bibr" rid="B19">PCI Geomatics, 2019c</xref>). Esta herramienta permite reemplazar áreas con nubes y sombras de nubes con áreas despejadas de otras escenas del mismo sitio. La <xref ref-type="fig" rid="f3">Figura 3</xref> muestra la función de la herramienta mediante un ejemplo de Chiapas. </p>
+				<!--<p>-->
+					<fig id="f3">
+						<label>Figura 3 / Figure 3</label>
+						<caption>
+							<p><italic><bold>Figura 3.</bold></italic> Detalle de Chiapas, antes (izquierda) y después (derecha) del reemplazo de nubes. Las áreas trabajadas con la herramienta <italic>smart geofill</italic> se muestran con polígonos azules</p>
+							<p><italic><bold>Figure 3.</bold></italic> Detail from the state of Chiapas, before (left) and after (right) cloud stamping</p>
+						</caption>
+						<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/hruby/2007-5308-mcp-4-01-1-gf3.jpg"/>
+					</fig>
+				<!--</p>-->
+				<p>En este caso, primero definimos manualmente el área afectada por nubes (A<sup>N</sup>), después buscamos entre las demás imágenes una escena alternativa que muestre la misma área en condiciones despejadas (A<sup>D</sup>), finalmente copiamos A<sup>D</sup> para pegarlo encima de las nubes de A<sup>N</sup>.</p>
+				<p>Este procedimiento de carácter copiar-pegar se realizó con ajustes flexibles, que permiten pegar el área despejada de forma balanceada. Los histogramas de la nueva información se fusionan automáticamente con el resto del mosaico, de manera que no es posible notar el reemplazo por parte del usuario. Por ello, el reemplazo de nubes se puede entender también como un proceso de generación semiautomática de micro-mosaicos a nivel local, dentro del macro-mosaico generado automáticamente. Como se puede observar en la <xref ref-type="fig" rid="f3">figura 3</xref>, la aplicación sistemática de la herramienta <italic>smart geofill</italic> permite una mejora significativa del proto-mosaico. El resultado es una visualización prácticamente libre de nubes, incluso en las regiones tropicales del país, superando así los mosaicos usados en aplicaciones comerciales (p.ej. Google Maps o ESRI). </p>
+			</sec>
+		</sec>
+		<sec>
+			<title>4. Pos-procesamiento</title>
+			<sec>
+				<title>4.1 Desaturación</title>
+				<p> “[A] radiometric sensor is considered saturated when the input signal [… ] exceeds the maximum measurable signal of the detector” (<xref ref-type="bibr" rid="B14">Karnieli <italic>et al.</italic>, 2004</xref>, p. 220). En términos prácticos, la saturación radiométrica implica una pérdida de información, sobre todo en las regiones desérticas en el norte del país y en la península de Baja California. </p>
+				<p>Para resolver este problema se aplicó un proceso de desaturación selectiva, con un algoritmo que busca primero áreas saturadas grandes, para aplicar después la desaturación solo sobre estas áreas, sin afectar los pixeles alrededor (Ver <xref ref-type="fig" rid="f4">Figura 4</xref>). </p>
+			</sec>
+			<sec>
+				<title>4.2 Optimizar lookup-tables</title>
+				<p>La meta principal del presente proyecto era la generación de un mosaico visualmente atractivo, para ser publicado en los canales R-G-B (4-3-2) y usarse como mapa base y mapa de referencia en una serie de aplicaciones (Ver sección 5).</p>
+				<!--<p>-->
+					<fig id="f4">
+						<label>Figura 4 / Figure 4</label>
+						<caption>
+							<p><italic><bold>Figura 4. </bold></italic> Detalle de la Reserva de la biosfera El Pinacate y Gran Desierto de Altar (Sonora), antes (izquierda) y después (derecha) de los procesos de desaturación y optimización de las <italic>lookup tables</italic> (LUT)</p>
+							<p><italic><bold>Figura 4. </bold></italic> Detail from El Pinacate y Gran Desierto de Altar Biosphere Reserve before (left) and after (right) exposure correction</p>
+						</caption>
+						<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/hruby/2007-5308-mcp-4-01-1-gf4.png"/>
+					</fig>
+				<!--</p>-->
+				<p>Por ello se adaptaron los canales R-G-B bajo el criterio subjetivo de los autores, con el objetivo de generar una visualización homogénea, buscando un compromiso que pueda corresponder tanto a los estados áridos del norte del país como a las regiones húmedas en el sur y sureste. Estos cambios de los canales R-G-B se grabaron de manera permanente en los pixeles del mosaico final, terminando así el proceso de la generación del mosaico descrito en este artículo (Ver <xref ref-type="fig" rid="f4">Figuras 4</xref> y <xref ref-type="fig" rid="f5">5</xref>).</p>
+			</sec>
+		</sec>
+		<sec>
+			<title>5. Publicación, licencias de uso y aplicaciones</title>
+			<sec>
+				<title>5.1 Publicación y licencias de uso del mosaico</title>
+				<p>El mosaico final se generó en formato GeoTIFF, en 24 bloques, con un tamaño total de más de 1 TB. Cabe mencionar, que el producto final cuenta con la misma resolución de 5m que las escenas originales de RapidEye.</p>
+				<p>Para hacer esta gran cantidad de datos accesible y manejable para los diferentes tipos de usuarios, se publicó el mosaico como Web Map Service (WMS), en formato .ecw, en un servidor basado en ERDAS APOLLO, el cual se puede consultar en el sitio: <ext-link ext-link-type="uri" xlink:href="http://ssig.conabio.gob.mx/apollo/">http://ssig.conabio.gob.mx/apollo/</ext-link>. La <xref ref-type="fig" rid="f5">figura 5</xref> muestra la apariencia del sitio y del mosaico final. </p>
+				<p>El mosaico también se puede visualizar en diferentes Sistemas de Información Geográfica (SIG) como WMS. Las instrucciones para configurar el WMS se pueden consultar en el material suplementario asociado a este artículo (<xref ref-type="bibr" rid="B7">CONABIO, 2020</xref>). </p>
+				<p>Adicionalmente, el público interesado puede solicitar a la CONABIO el mosaico a nivel estatal o nacional, en formato .tif, mediante un oficio de licencia, en el que se compromete a otorgar crédito también a Planet Labs/BITS, como proveedor oficial de datos RapidEye para México.</p>
+				<!--<p>-->
+					<fig id="f5">
+						<label>Figura 5 / Figure 5</label>
+						<caption>
+							<p><italic><bold>Figura 5. </bold></italic> Vista del mosaico nacional, generado a base de aproximadamente 4,500 imágenes RapidEye, publicado en línea: <ext-link ext-link-type="uri" xlink:href="http://ssig.conabio.gob.mx/apollo/">http://ssig.conabio.gob.mx/apollo/</ext-link></p>
+							<p><italic><bold>Figure 5. </bold></italic> The final mosaic published online (screenshot)</p>
+						</caption>
+						<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/hruby/2007-5308-mcp-4-01-1-gf5.png"/>
+					</fig>
+				<!--</p>-->
+			</sec>
+			<sec>
+				<title>5.2 Aplicaciones</title>
+				<p>Las aplicaciones para un mosaico nacional de imágenes satelitales de alta resolución son varias.</p>
+				<p>En forma impresa se puede usar como mapa base en libros de texto, o también en formato grande como mapa mural, como ya se ha hecho con la versión anterior de este producto; un mosaico basado en datos MODIS, de 250m de resolución, elaborado y publicado también por la CONABIO. </p>
+				<p>En forma digital, el mosaico ya se publicó en formato WMS, para ser usado como mapa base en los diferentes productos de cartografía en línea de la CONABIO; por ejemplo, dentro del Geoportal y en el <italic>Atlas de Naturaleza y Sociedad</italic>, donde observamos, sobre todo en escalas mayores a 1:100000, una mejora significativa en comparación con productos de Google o ESRI, particularmente en regiones rurales. </p>
+				<p>Tomando en cuenta su homogeneidad, tanto en términos espaciales como temporales, el mosaico se puede usar como información base para levantamientos cartográficos a escala nacional. </p>
+				<p>Una aplicación reciente de este proyecto es el cálculo de la longitud de la línea de costa de la República Mexicana. Usando el mosaico (entre otras fuentes) como mapa de referencia, se logró una mejora ostensible de la delimitación del territorio de México. A una escala de 1:25,000 hemos medido 12,018 kilómetros de costas (<xref ref-type="bibr" rid="B6">CONABIO, 2018</xref>), que contrastan con los 11,122 km manejados actualmente como dato oficial (<xref ref-type="bibr" rid="B9">DOF, 2018</xref>). </p>
+				<p>Adicionalmente, un producto nacional de esta resolución sirve para generar una base de datos de una red de cuadrículas de referencia, para el co-registro automatizado de imágenes (<italic>chip database</italic>). México tiene un acervo grande de imágenes SPOT-5, las cuales muestran sobre todo en áreas montañosas, desplazamientos de hasta 200m. Como se mencionó, a diferencia de estos datos, las imágenes RapidEye se compraron en su momento con especificaciones estrictas de calidad, incluyendo un ángulo máximo de observación de 16° a 20° y un error máximo de desplazamiento de un pixel (5 m). Por lo que, la exactitud geométrica del mosaico es muy alta y apta para corregir los desplazamientos mencionados en los datos SPOT-5.</p>
+				<p>El producto generado también ofrece una referencia para estudios futuros de detección de cambios, ya que será una instantánea fiel del pasado. Finalmente se planea usar el mosaico como textura para visualizaciones 3D y 4D dentro de ambientes de realidad virtual. </p>
+				<p>AGRADECIMIENTOS</p>
+				<p>Este proyecto fue cofinanciado por el Consejo Nacional de Ciencia y Tecnología (Conacyt) y la Agencia Espacial Mexicana (AEM), en el marco del “Fondo Sectorial de Investigación, Desarrollo Tecnológico e Innovación en Actividades Espaciales, CONACYT-AEM” (No. 262997).</p>
+			</sec>
+			<!--<table-wrap id="t1" position="float">
+			</table-wrap>-->
+		</sec>
+		<sec sec-type="supplementary-material">
+		 <title>Visualizador</title>
+		 <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+		   xlink:title="local_file" xlink:href="http://ssig.conabio.gob.mx/apollo/">
+		   <label>Colección de Datos</label>
+		     <media mime-subtype="php" mimetype="application" xlink:href="http://ssig.conabio.gob.mx/apollo/"/>
+		   </supplementary-material>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<ref id="B1">
+				<mixed-citation>Battersby, S. E., Finn, M. P., Usery, E. L., Yamamoto, K. H., 2014, Implications of web Mercator and its use in online mapping. Cartographica: The International Journal for Geographic Information and Geovisualization, 49(2), 85-101. 10.3138/carto.49.2.2313 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Battersby</surname>
+							<given-names>S. E.</given-names>
+						</name>
+						<name>
+							<surname>Finn</surname>
+							<given-names>M. P.</given-names>
+						</name>
+						<name>
+							<surname>Usery</surname>
+							<given-names>E. L.</given-names>
+						</name>
+						<name>
+							<surname>Yamamoto</surname>
+							<given-names>K. H.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Implications of web Mercator and its use in online mapping</article-title>
+					<source>Cartographica: The International Journal for Geographic Information and Geovisualization</source>
+					<volume>49(2)</volume>
+					<issue>2</issue>
+					<fpage>85</fpage>
+					<lpage>101</lpage>
+					<pub-id pub-id-type="doi">10.3138/carto.49.2.2313</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Bielski, C., Grazzini, J., Soille, P., 2007, Automated morphological image composition for mosaicing large image data sets: Geoscience and Remote Sensing Symposium, IEEE International, 4068-4071. 10.1109/IGARSS.2007.4423743 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Bielski</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Grazzini</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Soille</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>Automated morphological image composition for mosaicing large image data sets</article-title>
+					<source>Geoscience and Remote Sensing Symposium, IEEE International</source>
+					<fpage>4068</fpage>
+					<lpage>4071</lpage>
+					<pub-id pub-id-type="doi">10.1109/IGARSS.2007.4423743</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Braaten, J. D., Cohen, W. B., Yang, Z., 2015, Automated cloud and cloud shadow identification in Landsat MSS imagery for temperate ecosystems: Remote Sensing of Environment, 169, 128-138. 10.1016/j.rse.2015.08.006 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Braaten</surname>
+							<given-names>J. D.</given-names>
+						</name>
+						<name>
+							<surname>Cohen</surname>
+							<given-names>W. B.</given-names>
+						</name>
+						<name>
+							<surname>Yang</surname>
+							<given-names>Z.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Automated cloud and cloud shadow identification in Landsat MSS imagery for temperate ecosystems</article-title>
+					<source>Remote Sensing of Environment</source>
+					<volume>169</volume>
+					<fpage>128</fpage>
+					<lpage>138</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.rse.2015.08.006</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>CONABIO, 2001, México: indice de vegetación de enero 2000. [Online]. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.conabio.gob.mx/informacion/geo_espanol/doctos/imagenmedia_enero2000.html">http://www.conabio.gob.mx/informacion/geo_espanol/doctos/imagenmedia_enero2000.html</ext-link>
+					</comment> (accessed 3.20.2020). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>CONABIO</collab>
+					</person-group>
+					<year>2001</year>
+				<article-title><ext-link ext-link-type="uri" xlink:href="http://www.conabio.gob.mx/informacion/geo_espanol/doctos/imagenmedia_enero2000.html">México: indice de vegetación de enero 2000</ext-link></article-title>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-03-20">3.20.2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>CONABIO, 2003, México: Imagen desde el espacio. [Online]. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://www.conabio.gob.mx/informacion/geo_espanol/doctos/imagenalta_febrero2003.html">http://www.conabio.gob.mx/informacion/geo_espanol/doctos/imagenalta_febrero2003.html</ext-link>
+					</comment> (accessed 3.20.2020). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>CONABIO</collab>
+					</person-group>
+					<year>2003</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="http://www.conabio.gob.mx/informacion/geo_espanol/doctos/imagenalta_febrero2003.html">México: Imagen desde el espacio</ext-link></article-title>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-03-20">3.20.2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>CONABIO, 2018, Línea de costa de la República Mexicana (2011 -2014), escala: 1: 25000. edición: 1 <ext-link ext-link-type="uri" xlink:href="http://geoportal.conabio.gob"> http://geoportal.conabio.gob </ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>CONABIO</collab>
+					</person-group>
+					<year>2018</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="http://geoportal.conabio.gob.mx/metadatos/doc/html/lc2018gw.html">Línea de costa de la República Mexicana (2011 -2014), escala: 1: 25000. edición: 1</ext-link></article-title>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>CONABIO, 2020, Manual para agregar el mosaico nacional de imágenes RapidEye como servicio Web Map (WMS) a QGIS y ArcGIS. [online]. <ext-link ext-link-type="uri" xlink:href="https://www.biodiversidad.gob.mx/region/descargas/manual_mosaico_conabio.pdf">https://www.biodiversidad.gob.mx/region/descargas/manual_mosaico_conabio.pdf</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>CONABIO</collab>
+					</person-group>
+					<year>2020</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://www.biodiversidad.gob.mx/region/descargas/manual_mosaico_conabio.pdf">Manual para agregar el mosaico nacional de imágenes RapidEye como servicio Web Map (WMS) a QGIS y ArcGIS</ext-link></article-title>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Craib, R. B., 2004, Cartographic Mexico: a history of state fixations and fugitive landscapes, Duke University Press, Durham, 328 pp.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Craib</surname>
+							<given-names>R. B</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Cartographic Mexico: a history of state fixations and fugitive landscapes</article-title>
+					<source>Duke University Press, Durham</source>
+					<fpage>328</fpage>
+					<lpage>328</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Diario Oficial de la Federación (DOF), 2018, ACUERDO mediante el cual se expide la Política Nacional de Mares y Costas de México <comment>Diario Oficial de la Federación (DOF), 2018, ACUERDO mediante el cual se expide la Política Nacional de Mares y Costas de México <ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_detalle.php?codigo=5545511&amp;fecha=30/11/2018"></ext-link>
+					</comment>. Accesado 3.20.2020 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>Diario Oficial de la Federación (DOF)</collab>
+					</person-group>
+					<year>2018</year>
+				<article-title><ext-link ext-link-type="uri" xlink:href="https://dof.gob.mx/nota_detalle.php?codigo=5545511&amp;fecha=30/11/2018">ACUERDO mediante el cual se expide la Política Nacional de Mares y Costas de México</ext-link></article-title>
+				<date-in-citation content-type="access-date" iso-8601-date="2020-03-20">3.20.2020 </date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Fugate, D., Tarnavsky, E., Stow, D., 2010, A survey of the evolution of remote sensing imaging systems and urban remote sensing applications, in Rashed, T., Jürgens, C. (eds.), Remote sensing of urban and suburban areas: Berlin, New York, Springer, 119-139. https://doi.org/10.1007/978-1-4020-4385-7_7 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Fugate</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Tarnavsky</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Stow</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2010</year>
+					<article-title>A survey of the evolution of remote sensing imaging systems and urban remote sensing applications</article-title>
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Rashed</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Jürgens</surname>
+							<given-names>C.</given-names>
+						</name>
+					</person-group>
+					<source>Remote sensing of urban and suburban areas. Remote Sensing and Digital Image Processing, 10</source>
+					<publisher-loc>New York</publisher-loc>
+					<publisher-name>Springer</publisher-name>
+					<fpage>119</fpage>
+					<lpage>139</lpage>
+					<pub-id pub-id-type="doi">10.1007/978-1-4020-4385-7_7</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>Helmer, E. H., Ruefenacht, B., 2005, Cloud-free satellite image mosaics with regression trees and histogram matching: Photogrammetric Engineering &amp; Remote Sensing, 71(9), 1079-1089., 10.14358/PERS.71.9.1079 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Helmer</surname>
+							<given-names>E. H.</given-names>
+						</name>
+						<name>
+							<surname>Ruefenacht</surname>
+							<given-names>B.</given-names>
+						</name>
+					</person-group>
+					<year>2005</year>
+					<article-title>Cloud-free satellite image mosaics with regression trees and histogram matching</article-title>
+					<source>Photogrammetric Engineering &amp; Remote Sensing</source>
+					<volume>71(9)</volume>
+					<issue>9</issue>
+					<fpage>1079</fpage>
+					<lpage>1089</lpage>
+					<pub-id pub-id-type="doi">10.14358/PERS.71.9.1079</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>Karnieli, A., Ben-Dor, E., Bayarjargal, Y., Lugasi, R., 2004, Radiometric saturation of Landsat-7 ETM+ data over the Negev Desert (Israel): problems and solutions: International Journal of Applied Earth Observation and Geoinformation, 5(3), 219-237. 10.1016/j.jag.2004.04.001 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Karnieli</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Ben-Dor</surname>
+							<given-names>E.</given-names>
+						</name>
+						<name>
+							<surname>Bayarjargal</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Lugasi</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2004</year>
+					<article-title>Radiometric saturation of Landsat-7 ETM+ data over the Negev Desert (Israel): problems and solutions</article-title>
+					<source>International Journal of Applied Earth Observation and Geoinformation</source>
+					<volume>5(3)</volume>
+					<issue>3</issue>
+					<fpage>219</fpage>
+					<lpage>237</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.jag.2004.04.001</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>Kerschner, M., 2001, Seamline detection in colour orthoimage mosaicking by use of twin snakes: ISPRS Journal of Photogrammetry and Remote Sensing, 56, 53-64. 10.1016/S0924-2716(01)00033-8 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Kerschner</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2001</year>
+					<article-title>Seamline detection in colour orthoimage mosaicking by use of twin snakes</article-title>
+					<source>ISPRS Journal of Photogrammetry and Remote Sensing</source>
+					<volume>56</volume>
+					<fpage>53</fpage>
+					<lpage>64</lpage>
+					<pub-id pub-id-type="doi">10.1016/S0924-2716(01)00033-8</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>Li, L., Yao, J., Lu, X., Tu, J., Shan, J., 2016, Optimal seamline detection for multiple image mosaicking via graph cuts: ISPRS Journal of Photogrammetry and Remote Sensing, 113, 1-16. 10.1016/j.isprsjprs.2015.12.007 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Yao</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Lu</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Tu</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Shan</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Optimal seamline detection for multiple image mosaicking via graph cuts</article-title>
+					<source>ISPRS Journal of Photogrammetry and Remote Sensing</source>
+					<volume>113</volume>
+					<fpage>1</fpage>
+					<lpage>16</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.isprsjprs.2015.12.007</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Li, X., Hui, N., Shen, H., Fu, Y., Zhang, L., 2015, A robust mosaicking procedure for high spatial resolution remote sensing images: ISPRS Journal of Photogrammetry and Remote Sensing, 109, 108-125. 10.1016/j.isprsjprs.2015.09.009 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Li</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Hui</surname>
+							<given-names>N.</given-names>
+						</name>
+						<name>
+							<surname>Shen</surname>
+							<given-names>H.</given-names>
+						</name>
+						<name>
+							<surname>Fu</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Zhang</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>A robust mosaicking procedure for high spatial resolution remote sensing images</article-title>
+					<source>ISPRS Journal of Photogrammetry and Remote Sensing</source>
+					<volume>109</volume>
+					<fpage>108</fpage>
+					<lpage>125</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.isprsjprs.2015.09.009</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Llamas Barba, R., Colditz, R., López Saldaña, F., Hruby, F., 2015, Diversidad de la cobertura de suelo en México: CONABIO Biodiversitas, 120, 2-7.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Llamas Barba</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Colditz</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>López Saldaña</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Hruby</surname>
+							<given-names>F.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Diversidad de la cobertura de suelo en México</article-title>
+					<source>CONABIO Biodiversitas</source>
+					<volume>120</volume>
+					<fpage>2</fpage>
+					<lpage>7</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>PCI Geomatics, 2019a, Histogram Matching LUT [Online]. <ext-link ext-link-type="uri" xlink:href="https://www.pcigeomatics.com/geomatica-help/references/pciFunction_r/easi/E_match.html">https://www.pcigeomatics.com/geomatica-help/references/pciFunction_r/easi/E_match.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>PCI Geomatics</collab>
+					</person-group>
+					<year>2019a</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://www.pcigeomatics.com/geomatica-help/references/pciFunction_r/easi/E_match.html">Histogram Matching LUT</ext-link></article-title>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>PCI Geomatics, 2019b, Understanding color balancing [Online]. <ext-link ext-link-type="uri" xlink:href="https://www.pcigeomatics.com/geomatica-help/concepts/mosTool_c/mos_about_colorBalance_standalone.html">https://www.pcigeomatics.com/geomatica-help/concepts/mosTool_c/mos_about_colorBalance_standalone.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>PCI Geomatics</collab>
+					</person-group>
+					<year>2019b</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://www.pcigeomatics.com/geomatica-help/concepts/mosTool_c/mos_about_colorBalance_standalone.html">Understanding color balancing</ext-link></article-title>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>PCI Geomatics, 2019c, Smart GeoFill. [Online] <ext-link ext-link-type="uri" xlink:href="https://www.pcigeomatics.com/geomatica-help/concepts/focus_c/SmrtGeoFill_About.html">https://www.pcigeomatics.com/geomatica-help/concepts/focus_c/SmrtGeoFill_About.html</ext-link>
+				</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>PCI Geomatics</collab>
+					</person-group>
+					<year>2019c</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://www.pcigeomatics.com/geomatica-help/concepts/focus_c/SmrtGeoFill_About.html">Smart GeoFill</ext-link></article-title>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Saito, S., Arai, R., Aoki, Y., 2015, Seamline Determination Based on Semantic Segmentation for Aerial Image Mosaicking: IEEE Access, 3, 2847-2856. https://doi.org/10.1109/ACCESS.2015.2508921 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Saito</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Arai</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Aoki</surname>
+							<given-names>Y.</given-names>
+						</name>
+					</person-group>
+					<year>2015</year>
+					<article-title>Seamline Determination Based on Semantic Segmentation for Aerial Image Mosaicking</article-title>
+					<source>IEEE Access</source>
+					<volume>3</volume>
+					<fpage>2847</fpage>
+					<lpage>2856</lpage>
+					<pub-id pub-id-type="doi">10.1109/ACCESS.2015.2508921</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Schramm, M., 2012, Accuracy assessment of a Mexican wall-to-wall coverage of RapidEye satellite data, Reporte técnico, Proyecto ‘Fortalecimiento REDD+ y cooperación Sur-Sur’, México D.F., México.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Schramm</surname>
+							<given-names>M.</given-names>
+						</name>
+					</person-group>
+					<year>2012</year>
+					<article-title>Accuracy assessment of a Mexican wall-to-wall coverage of RapidEye satellite data, Reporte técnico</article-title>
+					<source>Proyecto ‘Fortalecimiento REDD+ y cooperación Sur-Sur’, México D.F., México</source>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>SIAP, 2016, Mosaico Nacional de Imágenes Satelitales [Online]. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://cmgs.gob.mx:31/mosaicoNacional/">https://cmgs.gob.mx:31/mosaicoNacional/</ext-link>
+					</comment> (accessed 3.20.2020). </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>SIAP</collab>
+					</person-group>
+					<year>2016</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://cmgs.gob.mx:31/mosaicoNacional/">Mosaico Nacional de Imágenes Satelitales</ext-link></article-title>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-03-20">3.20.2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>Syrris, V., Corbane, C., Pesaresi, M., Soille, P., 2018, Mosaicking Copernicus Sentinel-1 Data at Global Scale: IEEE Transactions on Big Data (early access). https://doi.org/10.1109/TBDATA.2018.2846265 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Syrris</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Corbane</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Pesaresi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Soille</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Mosaicking Copernicus Sentinel-1 Data at Global Scale</article-title>
+					<source>IEEE Transactions on Big Data</source>
+					<pub-id pub-id-type="doi">10.1109/TBDATA.2018.2846265</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Wan, Y., Wang, D., Xiao, J., Lai, X., Xu, J., 2013, Automatic determination of seamlines for aerial image mosaicking based on vector roads alone: ISPRS Journal of Photogrammetry and Remote Sensing, 76, 1-10. https://doi.org/10.1016/j.isprsjprs.2012.11.002 </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Wan</surname>
+							<given-names>Y.</given-names>
+						</name>
+						<name>
+							<surname>Wang</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Xiao</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Lai</surname>
+							<given-names>X.</given-names>
+						</name>
+						<name>
+							<surname>Xu</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2013</year>
+					<article-title>Automatic determination of seamlines for aerial image mosaicking based on vector roads alone</article-title>
+					<source>ISPRS Journal of Photogrammetry and Remote Sensing</source>
+					<volume>76</volume>
+					<fpage>1</fpage>
+					<lpage>10</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.isprsjprs.2012.11.002</pub-id>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>

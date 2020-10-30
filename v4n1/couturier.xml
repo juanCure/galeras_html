@@ -1,0 +1,1195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE article
+  PUBLIC "-//NLM//DTD JATS (Z39.96) Journal Publishing DTD v1.1 20151215//EN" "https://jats.nlm.nih.gov/publishing/1.1/JATS-journalpublishing1.dtd">
+<article article-type="research-article" dtd-version="1.1" specific-use="sps-1.8" xml:lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<front>
+		<journal-meta>
+			<journal-id journal-id-type="publisher-id">Terra Digitalis</journal-id>
+			<journal-title-group>
+				<journal-title>Terra Digitalis</journal-title>
+				<abbrev-journal-title abbrev-type="publisher">TD</abbrev-journal-title>
+			</journal-title-group>
+			<issn pub-type="epub">2594-0694</issn>
+			<publisher>
+				<publisher-name>Terra Digitalis</publisher-name>
+			</publisher>
+		</journal-meta>
+		<article-meta>
+			<article-id pub-id-type="doi">10.22201/igg.25940694.2020.1.70.154</article-id>
+			<article-categories>
+				<subj-group subj-group-type="heading">
+					<subject>Research article</subject>
+				</subj-group>
+			</article-categories>
+			<title-group>
+				<article-title>Monitoring the land consumption rate of urban growth from the Urban Footprint of Mexico, an online national cartographic platform / Monitoreo del consumo de tierras para la expansión urbana a partir de la Huella Urbana de México, una plataforma cartográfica nacional en línea</article-title>
+				<trans-title-group xml:lang="es">
+					<trans-title>Monitoreo del consumo de tierras para la expansión urbana a partir de la Huella Urbana de México, una plataforma cartográfica nacional en línea</trans-title>
+				</trans-title-group>
+			</title-group>
+			<contrib-group>
+				<contrib contrib-type="author" corresp="yes">
+					<name>
+						<surname>Couturier</surname>
+						<given-names>Stéphane</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+					<xref ref-type="aff" rid="aff2"><sup>b</sup></xref>
+					<xref ref-type="aff" rid="aff3"><sup>c</sup></xref>
+					<xref ref-type="corresp" rid="c1">*</xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Huerta Luna</surname>
+						<given-names>Roberto</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Osorno Covarrubias</surname>
+						<given-names>Javier</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+					<xref ref-type="aff" rid="aff3"><sup>c</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Flores Rangel</surname>
+						<given-names>Jorge Adrián</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff4"><sup>d</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Kuffer</surname>
+						<given-names>Monika</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>b</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Sliuzas</surname>
+						<given-names>Richard</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff2"><sup>b</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>Camacho Cervantes</surname>
+						<given-names>Fernando Manuel</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+				</contrib>
+				<contrib contrib-type="author">
+					<name>
+						<surname>López Martínez</surname>
+						<given-names>Ricardo</given-names>
+					</name>
+					<xref ref-type="aff" rid="aff1"><sup>a</sup></xref>
+				</contrib>
+			</contrib-group>
+			<aff id="aff1">
+				<label>a</label>
+				<institution content-type="original">Laboratorio de Análisis Geo-Espacial (LAGE), Instituto de Geografía, Universidad Nacional Autónoma de México (UNAM), Circuito Exterior, Ciudad Universitaria, Coyoacán, Apdo Postal 20850, CP 04510, Mexico City, Mexico.</institution>
+				<institution content-type="normalized">Universidad Nacional Autónoma de México</institution>
+				<institution content-type="orgdiv1">Laboratorio de Análisis Geo-Espacial (LAGE), Instituto de Geografía</institution>
+				<institution content-type="orgname">Universidad Nacional Autónoma de México (UNAM)</institution>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff2">
+				<label>b</label>
+				<institution content-type="original">Department of Urban and Regional Planning and Geo-Information Management (PGM), Faculty of Geo-Information Science and Earth Observation (ITC), University of Twente, Hengelosestraat 99, 7514 AE Enschede, P.O. Box 217, The Netherlands.</institution>
+				<institution content-type="normalized">University of Twente</institution>
+				<institution content-type="orgdiv2">Department of Urban and Regional Planning and Geo-Information Management (PGM)</institution>
+				<institution content-type="orgdiv1">Faculty of Geo-Information Science and Earth Observation (ITC)</institution>
+				<institution content-type="orgname">University of Twente</institution>
+				<country country="NL">Netherlands</country>
+			</aff>
+			<aff id="aff3">
+				<label>c</label>
+				<institution content-type="original">Research Center for Complexity Science (Centro de Ciencias de la Complejidad, C3), UNAM, Mexico City, Mexico.</institution>
+				<institution content-type="normalized"> Universidad Nacional Autónoma de México </institution>
+				<institution content-type="orgdiv1">Research Center for Complexity Science (Centro de Ciencias de la Complejidad, C3)</institution>
+				<institution content-type="orgname">UNAM</institution>
+				<country country="MX">Mexico</country>
+			</aff>
+			<aff id="aff4">
+				<label>d</label>
+				<institution content-type="original">Facultad de Estudios Globales, Universidad Anáhuac México, Av. Universidad Anáhuac 46, Col. Lomas Anáhuac, Huixquilucan, Estado de México, Mexico.</institution>
+				<institution content-type="normalized">Universidad Anahuac</institution>
+				<institution content-type="orgdiv1">Facultad de Estudios Globales</institution>
+				<institution content-type="orgname">Universidad Anáhuac México</institution>
+				<country country="MX">Mexico</country>
+			</aff>
+			<author-notes>
+				<corresp id="c1">
+					<email>andres@igg.unam.mx</email>
+				</corresp>
+			</author-notes>
+			<pub-date pub-type="epub">
+				<day>30</day>
+				<month>04</month>
+				<year>2020</year>
+			</pub-date>
+			<volume>4</volume>
+			<issue>1</issue>
+			<fpage>24</fpage>
+			<lpage>41</lpage>
+			<history>
+				<date date-type="received">
+					<day>11</day>
+					<month>12</month>
+					<year>2019</year>
+				</date>
+				<!-- <date date-type="rev-recd">
+					<day>24</day>
+					<month>04</month>
+					<year>2020</year>
+				</date> -->
+				<date date-type="accepted">
+					<day>05</day>
+					<month>04</month>
+					<year>2020</year>
+				</date>
+			</history>
+			<permissions>
+				<copyright-statement>&#169; 2020, Stéphane Couturier, Roberto Huerta Luna, Javier Osorno Covarrubias, Jorge Adrián Flores Rangel, Monika Kuffer, Richard Sliuzas, Fernando Manuel Camacho Cervantes &amp; Ricardo López Martínez. Published by Terra Digitalis.
+	            </copyright-statement>
+	            <license xmlns:xlink="http://www.w3.org/1999/xlink" license-type="open-access" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+	               <license-p>This is an Open Access article distributed under the terms of the Creative Commons Attribution License (<ext-link xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="https://creativecommons.org/licenses/by-nc-sa/4.0/" ext-link-type="uri" xlink:type="simple">https://creativecommons.org/licenses/by-nc-sa/4.0/</ext-link>), which permits non-commencial sharing of the work and adaptions, provided the original work is properly cited and the new creations are licensed under identical terms</license-p>
+	            </license>
+			</permissions>
+			<abstract>
+				<sec>
+					<title>Abstract</title>
+					<p>The spatial monitoring of the urban expansion and related population growth is useful for urban planning assessment of cities in the Global South. Although market driven public programs for peri-urban low-income housing in Mexico have received much attention over the past twenty-five years, a spatially explicit database of the consequent urban footprint together with the population census information is not publicly available online. In this research, we build a geoscientific data collection consisting of three layers: a) the built-up surface in 2000 and 2010 of the 10 major metropolitan areas of the Mexico Central Altiplano Region; b) the built-up surface in 2000 for 14 other metropolitan zones of the Mexican Urban System; c) the 2000-2010 land consumption index at county (“municipio”) level in the Mexico Central Altiplano Region. The Urban Footprint of Mexico is the first online national cartographic repository incorporating built-up and demographic expansion. </p>
+					<p><italic>Keywords: </italic>Urban sprawl; impervious surface; population density; land consumption rate; Mexico megalopolis; National Urban System; Landsat imagery</p>	
+				</sec>
+				<sec>
+					<title>Resumen</title>
+					<p>El monitoreo espacial de la expansión urbana y del crecimiento poblacional asociado es útil para la evaluación de los planes urbanos de las (mega) ciudades en el Sur Global. A pesar del auge de los programas periurbanos de viviendas de interés social desde hace veinticinco años en México, no hay información espacialmente explícita disponible para el público sobre la huella urbana asociada. Presentamos una colección de datos geocientíficos que incluye: a) una capa de espacio construido en 2000 en 14 otras zonas metropolitanas prominentes del país fuera de la Corona Regional Centro; b) una capa de espacio construido en 2000 en las 14 zonas metropolitanas más prominentes del país fuera de la Corona Regional Centro; c) un índice de consumo de tierras para expansión urbana a nivel municipal en la Corona Regional Centro. La Huella Urbana de México es el primer repositorio cartográfico nacional en línea incorporando la expansión demográfica y del espacio construido.</p>
+					<p><italic>Palabras clave: </italic>Expansión urbana; superficie sellada; densidad poblacional; tasa de consumo de tierras; Megalopolis Centro; Sistema Urbano Nacional; imagen Landsat</p>
+				</sec>
+			</abstract>
+			<trans-abstract xml:lang="es">
+				<title>Resumen</title>
+				<p>El monitoreo espacial de la expansión urbana y del crecimiento poblacional asociado es útil para la evaluación de los planes urbanos de las (mega) ciudades en el Sur Global. A pesar del auge de los programas periurbanos de viviendas de interés social desde hace veinticinco años en México, no hay información espacialmente explícita disponible para el público sobre la huella urbana asociada. Presentamos una colección de datos geocientíficos que incluye: a) una capa de espacio construido en 2000 y 2010 en las 10 zonas metropolitanas más importantes de la Corona Regional Centro; b) una capa de espacio construido en 2000 en las 14 zonas metropolitanas más prominentes del país fuera de la Corona Regional Centro; c) un índice de consumo de tierras para expansión urbana a nivel municipal en la Corona Regional Centro. La Huella Urbana de México es el primer repositorio cartográfico nacional en línea incorporando la expansión demográfica y del espacio construido.</p>
+			</trans-abstract>
+			<kwd-group xml:lang="en">
+				<title><italic>Keywords</italic></title>
+				<kwd>Urban sprawl</kwd>
+				<kwd>impervious surface</kwd>
+				<kwd>population density</kwd>
+				<kwd>land consumption rate</kwd>
+				<kwd>Mexico megalopolis</kwd>
+				<kwd>National Urban System</kwd>
+				<kwd>Landsat imagery</kwd>
+			</kwd-group>
+			<kwd-group xml:lang="es">
+				<title><italic>Palabras clave</italic></title>
+				<kwd>Expansión urbana</kwd>
+				<kwd>superficie sellada</kwd>
+				<kwd>densidad poblacional</kwd>
+				<kwd>tasa de consumo de tierras</kwd>
+				<kwd>Megalopolis Centro</kwd>
+				<kwd>Sistema Urbano Nacional</kwd>
+				<kwd>imagen Landsat</kwd>
+			</kwd-group>
+			<counts>
+				<fig-count count="1"/>
+				<table-count count="2"/>
+				<equation-count count="0"/>
+				<ref-count count="26"/>
+				<page-count count="17"/>
+			</counts>
+		</article-meta>
+	</front>
+	<body>
+		<sec sec-type="intro">
+			<title>1. Introduction:</title>
+			<p>Urban population growth and the migration of rural populations to urban environments in the Global South have been major factors for the expansion of cities over the past century. With the accumulation of real estate projects in central places of megacities over the past 25 years, the increasing value of land and redevelopment processes induced low-income inhabitants to move to the periphery (<xref ref-type="bibr" rid="B17">King et al., 2017</xref>; <xref ref-type="bibr" rid="B2">Bredenoord et al., 2014</xref>). At the same time, housing programmes have emerged and aimed at relocating the low-income population in peripheral housing compounds, reshaping paradigms of city life for a significant proportion of the urban citizenship (<xref ref-type="bibr" rid="B3">Buckley et al., 2016</xref>; <xref ref-type="bibr" rid="B16">Janoschka and Salinas, 2017</xref>; <xref ref-type="bibr" rid="B10">Flores Rangel, 2019</xref>).</p>
+			<p>In this context, readily available and spatially explicit information on the peripheral expansion of cities and associated population growth is deemed useful for quantitative urban planning assessments. In particular, an indicator of land consumption of urban growth is suggested by UN-Habitat as a guideline for the Sustainable Development Goals (SDG) for 2030 (“Make cities inclusive, safe, resilient and sustainable”), and compares the rate of land consumption (the rate at which urban land use expands) with respect to population growth (SDG indicator 11.3.1: <xref ref-type="bibr" rid="B26">UN-Habitat, 2019</xref>). This indicator is stated to contribute to characterize the social and environmental impacts of highly populated urban regions. </p>
+			<p>To comply with the calculations of the 11.3.1 indicator, a robust multi-temporal estimate of urban land use in the periphery of cities is needed but not straightforward (<xref ref-type="bibr" rid="B19">Nicolau et al., 2019</xref>). In Mexico, urban land use derived from official national cartography still largely relates to geostatistical units designed for population census (<xref ref-type="bibr" rid="B14">INEGI, 2019</xref>), rather than impervious surface or built-up area (<xref ref-type="bibr" rid="B7">Couturier et al., 2016</xref>). In fact, the demographic census data, although available on demand (<xref ref-type="bibr" rid="B23">SCINCE, 2019</xref>) or online (<xref ref-type="bibr" rid="B5">CONAPO, 2019</xref>), cannot be readily visualized by the public together with other relevant layers of information, such as the built-up growth, nor can it be readily visualized as an evolution in time, because the geometry of these data often varies over time. Other institutional efforts have led to nationwide high resolution land cover maps that can be visualized online, however, these maps exhibit highly variable and poorly documented accuracy for specific classes; for example, it is specified on the Biodiversity National Commission (CONABIO) website that for this reason, maps are still to be utilized with much caution by users (e.g. <xref ref-type="bibr" rid="B4">CONABIO, 2019</xref>: <ext-link ext-link-type="uri" xlink:href="">https://madmex.conabio. gob.mx/</ext-link>; <xref ref-type="bibr" rid="B18">Mas et al., 2016</xref>). On the other hand, several online global platforms provide layers on the distribution of human settlements, relating either to the concept of built-up area or to the concept of impervious surface. One of them, the Global Human Settlement Layer (GHSL) (<xref ref-type="bibr" rid="B20">Pesaresi et al., 2016</xref>) is a Landsat derived product, therefore enabling the comparison of urban land use over a time scale of several decades. Although GHSL and the other global products are derived from robust methodologies, their level of accuracy has been reported as geographically dependent (<xref ref-type="bibr" rid="B21">Sabo et al., 2018</xref>). Estimates of urban land use were established in the frame of regional scale studies in Mexico (<xref ref-type="bibr" rid="B24">Suárez and Delgado, 2007</xref>; <xref ref-type="bibr" rid="B25">Torres-Vera et al., 2009</xref>; <xref ref-type="bibr" rid="B6">Couturier et al., 2011</xref>; <xref ref-type="bibr" rid="B22">Cano Salinas et al., 2017</xref>). <xref ref-type="bibr" rid="B6">Couturier et al. (2011)</xref> extracted the impervious surface distribution and documented its accuracy for a vast peri-urban environment including the Toluca metropolitan zone within the Mexico Central Altiplano Region (MCAR).</p>
+			<p>Considering the above, the first objective of this study is to establish the Urban Footprint of Mexico online platform, an explicit geospatial data collection combining urban land use and demographic data at “Área GeoEstadística Básica” (AGEB: neighbourhood) and municipio (county) levels. We argue that such an explicit online platform is important for a better understanding and as support for an effective public debate on the forms of expansion of the urban thread throughout the national urban system of Mexico. The second objective of this study is to measure the land consumption of urban growth and propose a preliminary analysis of the impact of low-income housing programmes upon the efficiency of this land consumption. The hypothesis we wish to test in this study is: “a higher number of low-income housing estates means more effective urban land use, i.e., less land consumption per capita”.</p>
+			<p>In line with these objectives, we first propose an online cartography of the impervious surface based on the mapping strategy documented in <xref ref-type="bibr" rid="B6">Couturier et al. (2011</xref>), covering a representative set of metropolitan zones of the Mexican National Urban System (NUS) in the year 2000. Second, we calculate the UN Land Consumption Index (UNLCI), standing for the 11.3.1 indicator (<xref ref-type="bibr" rid="B26">UN-Habitat, 2019</xref>). This calculation is done at county level between 2000 and 2010, for the metropolitan zones comprising 10 cities in the Mexico Central Altiplano Region (MCAR). Third, we analyze the frequency of the existing low-income housing estates in 2010 in counties characterized by low land consumption versus counties characterized by high land consumption in the Mexico City Metropolitan Zone (the majority of housing estates in MCAR was constructed in the Mexico City Metropolitan Zone - MCMZ). We finally propose a preliminary assessment of the impact of low-income housing estates on the consumption of land. </p>
+		</sec>
+		<sec sec-type="methods">
+			<title>2. Methods</title>
+			<sec>
+				<title>2.1 Construction of the impervious surface layers</title>
+				<p>Taking advantage of the intensive remote sensing capacity building in the Geospatial Analysis Laboratory (LAGE) of the Geography Institute, UNAM, during previous regional urban studies (e.g. <xref ref-type="bibr" rid="B9">Delgado Campos et al., 2014</xref>), the extraction of impervious surface was based on the methodology described in <xref ref-type="bibr" rid="B6">Couturier et al. (2011</xref>), which achieved 70.1% accuracy for the built-up class in the low density peri-urban environment of Toluca, a reasonably high accuracy with respect to other studies (<xref ref-type="bibr" rid="B7">Couturier et al., 2016</xref>). Accordingly, a decision tree was developed, comprising four steps (see below). The rationale for such a classification strategy is based on efficiently constraining the spectral dynamics for each urban setting in order to adapt to the very high heterogeneity of the environmental context from city to city in Mexico. This rationale is further detailed in <xref ref-type="bibr" rid="B6">Couturier et al. (2011)</xref>. </p>
+				<p>The impervious surface for years 2000 and 2010 was extracted in each of the 10 Metropolitan Zones of the MCAR : Mexico City, Toluca (capital city of Mexico State), Tula (Mexico State), Querétaro (capital city of Querétaro State), Pachuca (capital city of Hidalgo State), Tulancingo (Hidalgo State), Puebla (capital city of Puebla State), Tlaxcala (capital city of Tlaxcala State), Cuernavaca (capital city of Morelos State), and Cuautla (Morelos State).</p>
+				<p>The impervious surface was also extracted for year 2000 in each of the 14 Metropolitan Zones of the following cities of the NUS (in alphabetical order): Aguascalientes, Cancún, Guadalajara, León, Mexicali, Mérida, Monterrey, Moroleón-Uriangato, Piedras Negras, Puerto Vallarta, Tijuana, Tuxtla Gutiérrez, Villahermosa, Zamora. The national set of metropolitan zones (24 in total) considered in this study is about a third of the 74 most populated motropolitan zones in Mexico (<xref ref-type="bibr" rid="B27">CONAPO, 2018</xref>). This national set includes the 8 most populated cities in the country, a representation of middle-sized cities in all ecoregions of the country, and a representation of prominent cities in the Southeastern biodiverse ecoregions otherwise sub-represented because less populated. </p>
+				<p>A set of ETM+ Landsat images was acquired for the dry period of years 2000 and 2010, which covered the set of 10 Metropolitan Zones in the Mexico Central Altiplano Region (MCAR). Likewise, a coverage of ETM+ Landsat images was acquired for the dry period of the year 2000 for 16 other cities of the NUS, including the 14 major cities mentioned above, outside of the MCAR. All images were geo-referenced, with less than 1 pixel RMS interpolation error, to the 1:50,000 INEGI topographic maps (<xref ref-type="bibr" rid="B15">INEGI, 2020</xref>) using a polynomial interpolator and were radiometrically converted to sensor reflectance values using the standard irradiance calibration parameters. Both the original Landsat bands (all except thermal and panchromatic bands) and the three first components of the Tasseled Cap transformed (<xref ref-type="bibr" rid="B8">Crist &amp; Cicone, 1984</xref>) image were used in the classification approach which comprised the four following steps:</p>
+				<p>
+					<list list-type="order">
+						<list-item>
+							<p>1. Stratification of the area into a high population density zone (HDZ) and a low population density zone (LDZ) according to regional scale (1:250,000) land cover cartography (<xref ref-type="bibr" rid="B13">INEGI, 2017</xref>); </p>
+						</list-item>
+						<list-item>
+							<p>2. Application of the ISODATA classifier to each zone, using a variable interval of clusters (within the interval 15 - 80), depending on the heterogeneity of the land cover context; </p>
+						</list-item>
+						<list-item>
+							<p>3. Visual labeling of unambiguous and ambiguous clusters; </p>
+						</list-item>
+						<list-item>
+							<p>4. Application of the Maximum Likelihood (ML) supervised algorithm to the Tasseled Cap Transform (TCT) image for ambiguous clusters. </p>
+						</list-item>
+					</list>
+				</p>
+				<p>The classified binary (impervious - non impervious) raster images were finally incorporated into a single raster layer in the online platform. </p>
+			</sec>
+			<sec>
+				<title>2.2 Construction of the population density layers</title>
+				<p>Population numbers at "Área Geoestadística Básica" (&quot;AGEB&quot;) level (later referred to as “neighbourhood level”) were downloaded from two official census sources for all urban localities in the Mexican territory: </p>
+				<p>
+					<list list-type="bullet">
+						<list-item>
+							<p>The INEGI Census Browser System (<xref ref-type="bibr" rid="B23">SCINCE, 2019</xref>) for year 2010; </p>
+						</list-item>
+						<list-item>
+							<p>The Margination index layer 2000 (accessible online: <xref ref-type="bibr" rid="B5">CONAPO, 2019</xref>) for years 2000, 2005 and 2010.</p>
+						</list-item>
+					</list>
+				</p>
+				<p>Gross population density (inhab/ha) was then calculated at neighbourhood level using the CONAPO layer for the year 2000 and the INEGI layer for the year 2010. </p>
+			</sec>
+			<sec>
+				<title>2.3 Construction of the index on land consumption of urban growth</title>
+				<p>Based on the variables from previous sections aggregated at county level, we calculated the Ratio of Land Consumption Rate to Population Growth Rate or UNLCI:</p>
+
+				<p><italic>UNLCI = (Land Consumption Rate) / (Population Growth Rate)      (1)</italic></p>
+				<p>With:</p>
+				<p><italic>Land Consumption Rate = ln( Impervious Surface 2010 / Impervious Surface 2000) / 10      (2)</italic></p>
+				<p><italic>Population Growth Rate = ln( Population Number 2010 / Population Number 2000 ) / 10      (3)</italic></p>
+
+				<p>Next, a thorough identification of low-income housing estates in MCMZ was carried out for 2010, based on an official list of housing estate projects approved in 2000 - 2010 (<xref ref-type="bibr" rid="B12">Gobierno del Estado de México, 2019</xref>). The validation and georeferenciation of them in 2010 was then achieved via GoogleMaps and GoogleEarth. The frequency of these estates was registered at county level. An analysis of UNLCI was finally conducted for the MCMZ, which contained almost 75% of MCAR’s total population in 2010.</p>
+			</sec>
+		</sec>
+		<sec sec-type="results">
+			<title>3. Results</title>
+			<p>The Urban Footprint of Mexico online geoscientific data collection consists of a Spatial Data Infrastructure (SDI), accessible at <ext-link ext-link-type="uri" xlink:href="http://132.248.26.6/">http://132.248.26.6/</ext-link>, and an interactive map, accessible at <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero7/couturier/mapa_interactivo/">http://terradigitalis.igg.unam.mx/html/mapas/numero7/couturier/mapa_interactivo/</ext-link> (see <xref ref-type="fig" rid="f1">figure 1</xref>). </p>
+			<!--<p>-->
+				<fig id="f1">
+					<label>Figure 1 / Figura 1</label>
+					<caption>
+						<p><italic><bold>Figure 1.</bold></italic> Interactive map of the Urban Footprint of Mexico geoscientific data collection.</p>
+						<p><italic><bold>Figura 1.</bold></italic> Mapa interactivo de la colección de datos geocientíficos "Huella Urbana de México".</p>
+					</caption>
+					<graphic xlink:href="http://terradigitalis.igg.unam.mx/html/images_articles/numero7/couturier/figure1.png"/>
+				</fig>
+			<!--</p>-->
+			<p>The SDI includes the following main features:</p>
+			<p>
+				<list list-type="order">
+					<list-item>
+						<p>1. Impervious surface (30m resolution) of the 10 major metropolitan zones in the Mexico Central Altiplano Region (MCAR) for years 2000 and 2010 (with views to make an update for year 2020).</p>
+					</list-item>
+					<list-item>
+						<p>2. Impervious surface (30m resolution) of the metropolitan zones of 14 cities outside MCAR in the National Urban System (NUS) for year 2000. </p>
+					</list-item>
+					<list-item>
+						<p>3. Population density at neighbourhood (AGEB) level for the urban localities of the entire Mexican territory (2000 and 2010).</p>
+					</list-item>
+					<list-item>
+						<p>4. Land consumption rate (UNLCI) of urban growth at county level in the MCAR for the 2000 - 2010 period.</p>
+					</list-item>
+				</list>
+			</p>
+			<p>The GHSL at 30m resolution (2000 and 2014) is also included in the SDI for comparison purposes. Our impervious surface distribution for the Metropolitan Zones of the NUS had much similarity with the distribution shown in the GHSL; however, our representation tends to include more dispersed settlements than GHSL in the near periphery of metropolitan zones, although it also tends to underrepresent impervious surface in the far periphery. Further, the direct comparison of impervious surface layers is possible on our online platform, as well as the selection or editing of an impervious surface layer for the improvement of the derived indices.</p>
+			<p>In principle, the demographic census data are freely distributed by INEGI, the institution in charge of the census, upon demand. However, many difficulties arose in the process of building a consistent GIS database from the delivered data, including abundant redundancy of features, topological errors, interstate projection inconsistencies, and missing data. The CONAPO data was affected by systematic geometric inaccuracies of the geostatistical spatial framework from year to year. In this sense, the Urban Footprint of Mexico offers the first consistent online spatial platform for demographic studies in Mexico, otherwise not readily available. </p>
+			<p>Derived from our spatial analysis, the evolution 2000 - 2010 of land consumption and population growth is reported at county level over the MCAR (see <xref ref-type="table" rid="t1">table 1</xref>).</p>
+			<!--<p>-->
+				<table-wrap id="t1">
+					<label>Table 1 / Tabla 1</label>
+					<caption>
+						<p><bold>Table 1: </bold> Land consumption rate and population growth in the metropolitan zones of the Mexico Central Altiplano Region (MCAR). Population numbers are according to the national demographic census 2000 and 2010. The impervious surface is according to our Urban Footprint of Mexico layers and derived from Landsat imagery using the classification methodology in <xref ref-type="bibr" rid="B6">Couturier et al. (2011)</xref>.</p>
+						<p><bold>Tabla 1: </bold> Tasa de consumo de tierras y crecimiento poblacional en las zonas metropolitanas de la Corona Regional Centro. Los números de habitantes son acorde con el censo demográfico nacional en 2000 y 2010. El espacio construido es acorde con nuestras capas de superficie construida en la Huella Urbana de México, y derivado de las imágenes Landsat utilizando la metodología en <xref ref-type="bibr" rid="B6">Couturier et al. (2011)</xref></p>
+					</caption>
+					<table>
+						<thead>
+							<tr>
+								<th align="center" rowspan="2">City of the MCAR:</th>
+								<th align="center" colspan="3">Population numbers </th>
+								<th align="center" colspan="3">Impervious surface (ha) </th>
+							</tr>
+							<tr>
+								<th align="center">2000</th>
+								<th align="center">2010</th>
+								<th align="center">% growth</th>
+								<th align="center">2000</th>
+								<th align="center">2010</th>
+								<th align="center">% growth</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="justify">Cuautla</td>
+								<td align="right">298,700</td>
+								<td align="right">337,900</td>
+								<td align="right">13.1</td>
+								<td align="right">2,620</td>
+								<td align="right">7,320</td>
+								<td align="right">178.9</td>
+							</tr>
+							<tr>
+								<td align="justify">Cuernavaca</td>
+								<td align="right">699,000</td>
+								<td align="right">835,900</td>
+								<td align="right">19.6</td>
+								<td align="right">6,040</td>
+								<td align="right">15,240</td>
+								<td align="right">152.4</td>
+							</tr>
+							<tr>
+								<td align="justify">Pachuca</td>
+								<td align="right">307,700</td>
+								<td align="right">438,400</td>
+								<td align="right">42.4</td>
+								<td align="right">4,590</td>
+								<td align="right">9,960</td>
+								<td align="right">116.8</td>
+							</tr>
+							<tr>
+								<td align="justify">Puebla</td>
+								<td align="right">2,165,200</td>
+								<td align="right">2,591,800</td>
+								<td align="right">19.7</td>
+								<td align="right">18,890</td>
+								<td align="right">28,480</td>
+								<td align="right">50.8</td>
+							</tr>
+							<tr>
+								<td align="justify">Querétaro</td>
+								<td align="right">688,500</td>
+								<td align="right">920,300</td>
+								<td align="right">33.7</td>
+								<td align="right">9,330</td>
+								<td align="right">19,320</td>
+								<td align="right">107.1</td>
+							</tr>
+							<tr>
+								<td align="justify">Tlaxcala</td>
+								<td align="right">354,600</td>
+								<td align="right">439,800</td>
+								<td align="right">24.0</td>
+								<td align="right">2,450</td>
+								<td align="right">5,210</td>
+								<td align="right">112.6</td>
+							</tr>
+							<tr>
+								<td align="justify">Toluca</td>
+								<td align="right">1,237,600</td>
+								<td align="right">1,536,100</td>
+								<td align="right">24.1</td>
+								<td align="right">10,800</td>
+								<td align="right">17,510</td>
+								<td align="right">62.2</td>
+							</tr>
+							<tr>
+								<td align="justify">Tula</td>
+								<td align="right">124,500</td>
+								<td align="right">154,700</td>
+								<td align="right">24.3</td>
+								<td align="right">2,420</td>
+								<td align="right">5,540</td>
+								<td align="right">129.2</td>
+							</tr>
+							<tr>
+								<td align="justify">Tulancingo</td>
+								<td align="right">145,000</td>
+								<td align="right">181,400</td>
+								<td align="right">25.1</td>
+								<td align="right">1,920</td>
+								<td align="right">2,760</td>
+								<td align="right">43.6</td>
+							</tr>
+							<tr>
+								<td align="justify">Mexico City</td>
+								<td align="right">18,016,600</td>
+								<td align="right">19,546,000</td>
+								<td align="right">8.5</td>
+								<td align="right">122,890</td>
+								<td align="right">160,880</td>
+								<td align="right">30.9</td>
+							</tr>
+							<tr>
+								<td align="justify">TOTAL MCAR</td>
+								<td align="right">24,037,400</td>
+								<td align="right">26,982,200</td>
+								<td align="right">12.2</td>
+								<td align="right">181,950</td>
+								<td align="right">272,220</td>
+								<td align="right">49.6</td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			<!--</p>-->
+			<p>To reflect the simultaneous tendencies of built-up increase versus population increase, the UN Land Consumption Index (UNLCI) is shown at county level. An analysis of the UNLCI distribution according to the frequency of existing low-income housing estates in 2010 is also shown (see <xref ref-type="table" rid="t2">table 2</xref>). </p>
+			<p>Negative values of UNLCI are reported in 9 mostly central counties. A decrease in population occurred in these counties, generally as a result of a displacement of population to other less central counties, with more affordable settlement conditions, between 2000 and 2010.</p>
+			<p>Values of UNLCI between 0 and 1 (which means low land consumption, i.e. high efficiency of urban land use) are reported in 13 counties, mostly in the near periphery of the metropolitan area and usually with a sharp population increase between 2000 and 2010 (among the highest in MCAR). Four of these counties (Chicoloapan, Huixquilucan, Naucalpan de Juárez, and Ixtapaluca, about a third of the total) correspond to a high number of low-income housing estates built in 2010 (5 compounds or more, see <xref ref-type="table" rid="t2">table 2</xref>). </p>
+			<p>By contrast, values above 5 (very low efficiency of urban use) are reported in 15 municipios. A majority is situated in the far periphery (this tendency also holds for the rest of MCAR); these municipios are usually characterized by a relatively low population increase, and much self-construction, related to popular urbanization. Only 3 municipios (Ecatepec de Morelos, Texcoco and Tultepec, a fifth of the total), have received a high number of low-income housing estates (5 compounds or more). </p>
+			<p>
+				<table-wrap id="t2">
+					<label>Table 2:</label>
+					<caption>
+						<p><bold>Table 2: </bold>UN Land Consumption Index (UNLCI) distribution in the counties (Municipios) of the Mexico City Metropolitan Zone (MCMZ). The calculations in this table are derived from the UNLCI layer available in the Urban Footprint of Mexico interactive map published with this article. * A number superior to the mean frequency of housing estates built in 2010 per county (Municipio) (2010 MFHE), was considered a high number of housing estates. The 2010 MFHE was estimated as 4.91 for MCMZ.</p>
+						<p><bold>Tabla 2: </bold>Distribución del índice de consumo de tierras de la ONU (ICT_ONU) por municipio de la Zona Metropolitana de la Ciudad de México (ZMCM). Los cálculos presentados en esta tabla son derivados de la capa UNLCI disponible en el mapa interactivo Huella Urbana de México publicada con este artículo. Un número superior a la frecuencia promedia de conjuntos habitacionales de interés social construidos en 2010 por municipio (FPCH 2010), fue considerado un número alto de conjuntos habitacionales. El FPCH 2010 fue estimado en 4.91 para la ZMCM.</p>
+					</caption>
+					<table>
+						<thead>
+							<tr>
+								<th align="center">UNLCI value intervals:</th>
+								<th align="center">Number of MCMZ counties (Municipios) within the Interval:</th>
+								<th align="center">Number of counties (Municipios) with presence of housing estates :</th>
+								<th align="center">Number of counties (Municipios) with high number of housing estates* :</th>
+								<th align="center">Name of counties (Municipios) with high number of housing estates :</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr>
+								<td align="left">Negative</td>
+								<td align="right">9</td>
+								<td align="right">3</td>
+								<td align="right">0</td>
+								<td align="left"> </td>
+							</tr>
+							<tr>
+								<td align="left">0 - 1</td>
+								<td align="right">13</td>
+								<td align="right">8</td>
+								<td align="right">4</td>
+								<td align="left">Chicoloapan (26), Huixquilucan (8), Naucalpan de Juárez (7), Ixtapaluca (5)</td>
+							</tr>
+							<tr>
+								<td align="left">1 - 5</td>
+								<td align="right">38</td>
+								<td align="right">15</td>
+								<td align="right">12</td>
+								<td align="left">Tecámac (73), Tultitlán (32), Huehuetoca (31), Zumpango (23), Cuautitlán (23), Coacalco de Berriozábal (21), Chalco (18), Tizayuca (15), Cuautitlán Izcalli (11), Nicolás Romero (10), Atizapán de Zaragoza (6), Tepotzotlán (5)</td>
+							</tr>
+							<tr>
+								<td align="left">&gt; 5</td>
+								<td align="right">15</td>
+								<td align="right">3</td>
+								<td align="right">3</td>
+								<td align="left">Ecatepec de Morelos (15), Texcoco (10), Tultepec (8)</td>
+							</tr>
+							<tr>
+								<td align="left">Total</td>
+								<td align="right">75</td>
+								<td align="right">29</td>
+								<td align="right">19</td>
+								<td align="left"> </td>
+							</tr>
+						</tbody>
+					</table>
+				</table-wrap>
+			</p>
+			<p>The above calculation of the county’s proportions in categories of land consumption [0 - 1] versus [&gt;5] suggests that the hypothesis “a higher number of projects means more effective urban land use, i.e., less land consumption per capita” is confirmed as true. </p>
+		</sec>
+		<sec sec-type="conclusions|discussion">
+			<title>4. Discussion and conclusion</title>
+			<p>We present the Urban Footprint of Mexico online cartographic platform (<ext-link ext-link-type="uri" xlink:href="http://132.248.26.6/">http://132.248.26.6/</ext-link>), the first “home made” spatially explicit geoscientific data collection combining urban land use and demographic data for the National Urban System in Mexico. This data collection includes a 2000 baseline cartography, ready to use and share for built-up and population density monitoring in a good sample of metropolitan zones of the NUS. It also makes available the 2000 - 2010 evolution of both spatial variables in MCAR, which enables to visually identify hotspots of urbanization in the periphery of cities in the Altiplano central region. When new data becomes available, these tendencies may be updated in future years. The online interactive map of the geospatial data collection allows a direct visualization of density hotspots (see <ext-link ext-link-type="uri" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero7/couturier/mapa_interactivo/">http://terradigitalis.igg.unam.mx/html/mapas/numero7/couturier/mapa_interactivo/</ext-link>). Considering the substantial spatial shortcomings of the original census digital data distributed by INEGI and CONAPO for a readily available consistent spatial database, the Urban Footprint of Mexico offers the first consistent online spatial platform for demographic studies in Mexico for public use. </p>
+			<p>As a first demonstration of this geospatial data collection, we performed a study on urban land consumption using UNLCI (the Land Consumption Index promoted by the UN). From the land consumption perspective, the proportion of counties with many low-income housing estates was found to be higher in the upper efficiency segment of the metropolis (one third) than in the lower efficiency segment of the metropolis (one fifth). It seems, therefore, that low-income housing estate programmes are diminishing land consumption per capita in the Mexico Central Altiplano Region. In terms of SDG 11 (“Make cities inclusive, safe, resilient and sustainable”), UNLCI partially relates to aspect of urban environmental sustainability. </p>
+			<p>However, for other aspects of SDG 11, such as inclusiveness, safety, environmental safety, and resiliency, the low-income housing programmes have long been questioned because of numerous cases of poor enforcement of the services advertised by the private estate companies. For example, access to norm-quality water, educational and recreational services fall short in many cases reported in the MCMZ. Additionally, peri-urban settings environmentally damaged by vast waste disposal sites and communication infrastructures have been reported as making housing in many sites highly unsafe. Also, little evidence of citizen participation is seen in the development process of the housing programmes, as well as in the housing condition monitoring process afterwards (<xref ref-type="bibr" rid="B1">Boudreau et al., 2016</xref>; <xref ref-type="bibr" rid="B3">Buckley et al., 2016</xref>). One should note that none of these latter aspects are reflected in the UNLCI analysis and these must be studied separately for a full assessment of SDG 11 in the Mexico MCAR. </p>
+			<p>In view of the above, the presented impact assessment of low-income housing estates is a preliminary result. A comprehensive database on the expected population per housing compound in MCMZ (from the companies’ websites) is being built, on the basis of a previously built geodatabase (<xref ref-type="bibr" rid="B11">GeoComunes, 2020</xref>) to complement and refine the present analysis and relate possible factors of success or failure of these projects in terms of the actual numbers of inhabitants. Additionally, a probabilistic accuracy assessment of the impervious surface extraction and quantitative comparison with global urban area products are some of the next steps of this research. </p>
+			<p>As a result of everyday struggles for a decent urban livelihood in the megalopolis, the Mexican citizenship has maintained a critical voice on prominent issues related to mega-infrastructures, popular (informal) urbanization and the emergence of extended housing compounds derived from market-driven public housing programmes. In this sense, the Urban Footprint of Mexico online platform, with its readily available visualization and capacity to gradually embrace new quantitative data on those topics, could contribute to the UN Sustainable Development Goals 11 (&quot;Make cities inclusive, safe, resilient and sustainable&quot;) in a far greater way than the application on land consumption presented in this study. The presented baseline dataset, once updated to 2020 with the upcoming INEGI census, should be useful for a spatially explicit analysis of various forms of urbanization and a 2000 - 2020 urban planning assessment. Our ambition is that the Urban Footprint of Mexico online platform will contribute to the scientific support and transparency for the public debate on desirable forms of urbanization, urban livelihoods and well-being in Mexico. </p>
+		</sec>
+		<sec>
+			<title>5. Spatial Data Infrastructure and Interactive Map characteristics</title>
+			<p>The Urban Footprint of Mexico geoscientific data collection gathers data developed in this research based on remote sensing systems, with geostatistical data from official national sources, after several geoprocessing steps for debugging and standardization. We argue that the common geodemographic thread that characterizes the displayed data is pertinent to many applications of urban studies including urban expansion monitoring, not readily available previously. This geospatial dataset is made available to the public in an open access manner with this publication, through an “attribution-creative commons-share alike” (A, CC, Sa 4.0) license.</p>
+			<p>Our Spatial Data Infrastructure supports the collaborative management of the content, such as metadata, layers and maps, available under the OGC (Open Geospatial Consortium) interoperability specifications. Typically, users can connect to the layers and maps of our collection and use them via WMS services (Web Map Services) on their desktop GIS system (e.g. QGIS or ArcMap).</p>
+			<p>The Urban Footprint of Mexico online platform is conceived as a dynamic spatial database on demography and urban use; gradual updating of the displayed layers is expected to enrich the scientific value of the geospatial database. The interactive map which accompanies the platform, implements an attractive visualization of major demographic and urban use variables, and was developed adapting open source mapbox-gl libraries. </p>
+		</sec>
+		<sec>
+			<title>6. Data</title>
+			<p>The online Urban Footprint of Mexico geoscientific data collection includes the following main features:</p>
+			<p>
+		<list list-type="order">
+					<list-item>
+						<p>1. An impervious surface (30m resolution) raster layer for the 10 major metropolitan zones in the MCAR, for year 2000 and 2010. </p>
+					</list-item>
+					<list-item>
+						<p>2. An impervious surface (30m resolution) raster layer for the metropolitan zones of 14 cities in the NUS of Mexico outside MCAR, for year 2000. </p>
+					</list-item>
+					<list-item>
+						<p>3. A population density at AGEB (urban neighbourhood) level, vector layer for the urban localities of the entire Mexican territory for years 2000, 2005 and 2010. </p>
+					</list-item>
+					<list-item>
+						<p>4. A vector layer at Municipio (county) level containing an estimate of the land consumption of urban growth in the MCAR for the 2000 - 2010 period.</p>
+					</list-item>
+						<list-item>
+						<p>5. The Global Human Settlement Layer (GHSL) (raster layer) at 30m resolution (2000, 2014) in all Metropolitan Zones of the NUS. </p>
+					</list-item>
+				</list>
+			</p>
+			<p>Acknowlegments</p>
+			<p>Thanks are due to the staff of INEGI and CONAPO, the public institutions in Mexico that build and freely distribute the national census data. We are thankful to Dr. Claudio Persello from ITC for his insights on earlier stages of this work. This research was made possible through the two following projects: </p>
+			<p>1. Collaboration Research Project between the Faculty of Geo-information Science and Earth Observation (ITC), University of Twente Netherlands, and the Geography Institute UNAM, Mexico (6th August 2019 - 5th August 2020): “Online processing platforms, Machine Learning and housing production analysis for built-up area detection and characterization in the Mexican National Urban System”, supported by DGAPA UNAM. </p>
+			<p>2. Research Project of the Social-Environmental Observatory (OSA) at the Centre for Complexity Science (C3), UNAM: “Social Appropriation of Geographical Information Technologies (ASTIG)”.</p>
+		</sec>
+		<sec sec-type="supplementary-material">
+		 <title>Visualizador</title>
+		 <supplementary-material id="map" xmlns:xlink="http://www.w3.org/1999/xlink"
+		   xlink:title="local_file" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero7/couturier/mapa_interactivo/">
+		   <label>(2D) Interactive map</label>
+		     <media mime-subtype="php" mimetype="application" xlink:href="http://terradigitalis.igg.unam.mx/html/mapas/numero7/couturier/mapa_interactivo/"/>
+		   </supplementary-material>
+		</sec>
+	</body>
+	<back>
+		<ref-list>
+			<title>References</title>
+			<ref id="B1">
+				<mixed-citation>Boudreau, J. A., Gilbert, L., &amp; Labbé, D. (2016). Uneven state formalization and periurban housing production in Hanoi and Mexico City: Comparative reflections from the global South. Environment and Planning A: Economy and Space, 48(12), 2383-2401. https://doi.org/10.1177/0308518X16660086</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Boudreau</surname>
+							<given-names>J. A.</given-names>
+						</name>
+						<name>
+							<surname>Gilbert</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Labbé</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Uneven state formalization and periurban housing production in Hanoi and Mexico City: Comparative reflections from the global South</article-title>
+					<source>Environment and Planning A: Economy and Space</source>
+					<volume>48(12)</volume>
+					<issue>12</issue>
+					<fpage>2383</fpage>
+					<lpage>2401</lpage>
+					<pub-id pub-id-type="doi">10.1177/0308518X16660086</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B2">
+				<mixed-citation>Bredenoord, J., Van Lindert, P. and Smets, P. eds., 2014. Affordable housing in the urban global south: Seeking sustainable solutions.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="editor">
+						<name>
+							<surname>Bredenoord</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Van Lindert</surname>
+							<given-names>P</given-names>
+						</name>
+						<name>
+							<surname>Smets</surname>
+							<given-names>P.</given-names>
+						</name>
+					</person-group>
+					<year>2014</year>
+					<article-title>Affordable housing in the urban global south: Seeking sustainable solutions</article-title>
+					<source>Routledge</source>
+				</element-citation>
+			</ref>
+			<ref id="B3">
+				<mixed-citation>Buckley, R.M., Kallergis, A. and Wainer, L., 2016. The emergence of large-scale housing programs: Beyond a public finance perspective. Habitat International, 54, pp.199-209. https://doi.org/10.1016/j.habitatint.2015.11.022</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Buckley</surname>
+							<given-names>R.M.</given-names>
+						</name>
+						<name>
+							<surname>Kallergis</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Wainer</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>The emergence of large-scale housing programs: Beyond a public finance perspective</article-title>
+					<source>Habitat International</source>
+					<volume>54</volume>
+					<fpage>199</fpage>
+					<lpage>209</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.habitatint.2015.11.022</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B22">
+				<mixed-citation>Cano Salinas, L., Rodríguez Laguna, R., Valdez Lazalde, J. R., Acevedo Sandoval, O. A. A., Beltrán Hernández, R. I., 2017. Detección del crecimiento urbano en el estado de Hidalgo mediante imágenes Landsat. Investigaciones Geográficas, 92, 64–73, https://doi.org/10.14350/rig.52339</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Cano Salinas</surname>
+							<given-names>L.</given-names>
+						</name>
+						<name>
+							<surname>Rodríguez Laguna</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Valdez-Lazalde</surname>
+							<given-names>J. R.</given-names>
+						</name>
+						<name>
+							<surname>Acevedo-Sandoval</surname>
+							<given-names>O. A.</given-names>
+						</name>
+						<name>
+							<surname>Beltrán-Hernández</surname>
+							<given-names>R. I.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Detección del crecimiento urbano en el estado de Hidalgo mediante imágenes Landsat</article-title>
+					<source>Investigaciones Geográficas</source>
+					<volume>92</volume>
+					<fpage>64</fpage>
+					<lpage>73</lpage>
+					<pub-id pub-id-type="doi">10.14350/rig.52339</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B4">
+				<mixed-citation>CONABIO, 2019, Visualizador de cobertura vegetal y usos de suelo MADMex</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>CONABIO</collab>
+					</person-group>
+					<year>2019</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://madmex.conabio.gob.mx/">Visualizador de cobertura vegetal y usos de suelo MADMex</ext-link></article-title>
+					<source>Comisión Nacional para el Conocimiento y Uso de la Biodiversidad</source>
+				</element-citation>
+			</ref>
+			<ref id="B27">
+				<mixed-citation>CONAPO, 2018, Delimitación de las zonas metropolitanas de México, 2015. Consejo Nacional de Población. Latest accessed March 2020: https://www.gob.mx/conapo/documentos/delimitacion-de-las-zonas-metropolitanas-de-mexico-2015</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>CONAPO</collab>
+					</person-group>
+					<year>2018</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://www.gob.mx/conapo/documentos/delimitacion-de-las-zonas-metropolitanas-de-mexico-2015">Delimitación de las zonas metropolitanas de México, 2015</ext-link></article-title>
+					<source>Consejo Nacional de Población</source>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-03-00">March 2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B5">
+				<mixed-citation>CONAPO, 2019, &quot;Índice de marginación por AGEB urbana 2000-2010&quot;, Comisión Nacional de Población, <comment>CONAPO, 2019, &quot;Índice de marginación por AGEB urbana 2000-2010&quot;, Comisión Nacional de Población, <ext-link ext-link-type="uri" xlink:href="http://www.conapo.gob.mx/es/CONAPO/Datos_Abiertos_del_Indice_de_Marginacion">http://www.conapo.gob.mx/es/CONAPO/Datos_Abiertos_del_Indice_de_Marginacion</ext-link>
+					</comment> (accessed Nov. 2019)</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>CONAPO</collab>
+					</person-group>
+					<year>2019</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="http://www.conapo.gob.mx/es/CONAPO/Datos_Abiertos_del_Indice_de_Marginacion">Índice de marginación por AGEB urbana 2000-2010</ext-link></article-title>
+					<source>Consejo Nacional de Población</source>
+					<comment>CONAPO, 2019, &quot;Índice de marginación por AGEB urbana 2000-2010&quot;, Comisión Nacional de Población, <ext-link ext-link-type="uri" xlink:href="http://www.conapo.gob.mx/es/CONAPO/Datos_Abiertos_del_Indice_de_Marginacion">http://www.conapo.gob.mx/es/CONAPO/Datos_Abiertos_del_Indice_de_Marginacion</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2019-11-00">Nov. 2019</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B6">
+				<mixed-citation>Couturier, S., Ricárdez Cabrera, M., Osorno Covarrubias J., y López-Martínez R. (2011). Morpho-spatial extraction of urban nuclei in diffusely urbanized metropolitan areas. Landscape and Urban Planning, 101(4), 338-348. https://doi.org/10.1016/j.landurbplan.2011.02.039</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Couturier</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ricárdez Cabrera</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Osorno Covarrubias</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>López-Martínez</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2011</year>
+					<article-title>Morpho-spatial extraction of urban nuclei in diffusely urbanized metropolitan areas</article-title>
+					<source>Landscape and Urban Planning</source>
+					<volume>101(4)</volume>
+					<issue>4</issue>
+					<fpage>338</fpage>
+					<lpage>348</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.landurbplan.2011.02.039</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B7">
+				<mixed-citation>Couturier, S., Ricárdez Cabrera, M., Osorno Covarrubias, J., Huerta Luna, R., y López Martínez, R. (2016). Landsat based urban sprawl extraction in the Altiplano region of Mexico, IX Congreso Internacional de Geomatica y XVI Convención Internacional Informática 2016, La Habana, Cuba, 14-18 March 2016.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Couturier</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Ricárdez Cabrera</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Osorno Covarrubias</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Huerta Luna</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>López Martínez</surname>
+							<given-names>R.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Landsat based urban sprawl extraction in the Altiplano region of Mexico</article-title>
+					<source>IX Congreso Internacional de Geomatica y XVI Convención Internacional Informática 2016</source>
+					<publisher-loc>La Habana, Cuba</publisher-loc>
+					<fpage>14</fpage>
+					<lpage>18</lpage>
+				</element-citation>
+			</ref>
+			<ref id="B8">
+				<mixed-citation>Crist, E.P. and Cicone, R.C. (1984). A physically-based transformation of Thematic Mapper data---The TM Tasseled Cap. IEEE Transactions on Geoscience and Remote sensing, GE-22(3), 256-263. https://doi.org/10.1109/TGRS.1984.350619</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Crist</surname>
+							<given-names>E.P.</given-names>
+						</name>
+						<name>
+							<surname>Cicone</surname>
+							<given-names>R.C.</given-names>
+						</name>
+					</person-group>
+					<year>1984</year>
+					<article-title>A physically-based transformation of Thematic Mapper data---The TM Tasseled Cap</article-title>
+					<source>IEEE Transactions on Geoscience and Remote sensing</source>
+					<volume>GE-22(3)</volume>
+					<issue>3</issue>
+					<fpage>256</fpage>
+					<lpage>263</lpage>
+					<pub-id pub-id-type="doi">10.1109/TGRS.1984.350619</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B9">
+				<mixed-citation>Delgado Campos, J., Suárez Lastra, M., Reyes García, V., and Pérez Hernández A.E. (2014), Expansión urbana en la Corona Regional del Centro de México y generación de mapas de excedencias, Annex 3, Final Report of: Estudios de calidad del aire y su impacto en el centro de México, INECC, CCA UNAM, IGg UNAM, September 2014, 72pp. </mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Delgado Campos</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Suárez Lastra</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Reyes García</surname>
+							<given-names>V.</given-names>
+						</name>
+						<name>
+							<surname>Pérez Hernández</surname>
+							<given-names>A.E.</given-names>
+						</name>
+					</person-group>
+					<year>72pp., 2014</year>
+					<article-title>Expansión urbana en la Corona Regional del Centro de México y generación de mapas de excedencias, Annex 3, Final Report of: Estudios de calidad del aire y su impacto en el centro de México</article-title>
+					<source>INECC, CCA UNAM, IGg UNAM</source>
+					<!-- <fpage>72pp</fpage>
+					<lpage>72pp</lpage> -->
+				</element-citation>
+			</ref>
+			<ref id="B10">
+				<mixed-citation>Flores Rangel, J.A (2019). Cartografía del tsunami inmobiliario: el movimiento urbano popular y los vínculos urbano-rurales del boom inmobiliario en la ciudad de México. Espiral, Revista De Geografías Y Ciencias Sociales, 1(1), 007-028. Available online : https://doi.org/10.15381/espiral.v1i1.15843</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Flores Rangel</surname>
+							<given-names>J.A</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Cartografía del tsunami inmobiliario: el movimiento urbano popular y los vínculos urbano-rurales del boom inmobiliario en la ciudad de México</article-title>
+					<source>Espiral, Revista De Geografías Y Ciencias Sociales</source>
+					<volume>1(1)</volume>
+					<issue>1</issue>
+					<fpage>007</fpage>
+					<lpage>028</lpage>
+					<pub-id pub-id-type="doi">10.15381/espiral.v1i1.15843</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B11">
+				<mixed-citation>GeoComunes (2020). “Collaborative cartography in defense of the Commons. Visualizer of Mexico City Metropolis”. www.geocomunes.org, <comment>org, <ext-link ext-link-type="uri" xlink:href="http://132.248.14.102/maps/213/view">http://132.248.14.102/maps/213/view</ext-link>
+					</comment> (accessed 15 Feb. 2020)</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>GeoComunes</collab>
+					</person-group>
+					<year>2020</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="http://132.248.14.102/maps/213/view">Collaborative cartography in defense of the Commons. Visualizer of Mexico City Metropolis</ext-link></article-title>
+					<source>www.geocomunes.org</source>
+					<comment>org, <ext-link ext-link-type="uri" xlink:href="http://132.248.14.102/maps/213/view">http://132.248.14.102/maps/213/view</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-02-15">15 Feb. 2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B12">
+				<mixed-citation>Gobierno del Estado de México, 2019,&quot;Lista de conjuntos urbanos autorizados&quot;, Secretaría de desarrollo urbano y metropolitano, <comment>Gobierno del Estado de México, 2019,&quot;Lista de conjuntos urbanos autorizados&quot;, Secretaría de desarrollo urbano y metropolitano, <ext-link ext-link-type="uri" xlink:href="http://seduym.edomex.gob.mx/autorizaciones">http://seduym.edomex.gob.mx/autorizaciones</ext-link>
+					</comment> ( accessed July 2019)</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>Gobierno del Estado de México</collab>
+					</person-group>
+					<year>2019</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="http://seduym.edomex.gob.mx/autorizaciones">Lista de conjuntos urbanos autorizados</ext-link></article-title>
+					<source>Secretaría de desarrollo urbano y metropolitano</source>
+					<comment>Gobierno del Estado de México, 2019,&quot;Lista de conjuntos urbanos autorizados&quot;, Secretaría de desarrollo urbano y metropolitano, <ext-link ext-link-type="uri" xlink:href="http://seduym.edomex.gob.mx/autorizaciones">http://seduym.edomex.gob.mx/autorizaciones</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2019-07-00">July 2019</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B13">
+				<mixed-citation>INEGI (2017). &quot;Conjunto de datos vectoriales de la carta de Uso del suelo y vegetación serie VI. Conjunto Nacional&quot;, INEGI, Aguascalientes, Mexico. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/mapas/default.html?t=0150011000000000&amp;ag=00">https://www.inegi.org.mx/app/mapas/default.html?t=0150011000000000&amp;ag=00</ext-link>
+					</comment> (accessed: 1 Dec. 2017)</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>INEGI</collab>
+					</person-group>
+					<year>2017</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/mapas/default.html?t=0150011000000000&amp;ag=00">Conjunto de datos vectoriales de la carta de Uso del suelo y vegetación serie VI. Conjunto Nacional</ext-link></article-title>
+					<source>INEGI, Aguascalientes, Mexico</source>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/mapas/default.html?t=0150011000000000&amp;ag=00">https://www.inegi.org.mx/app/mapas/default.html?t=0150011000000000&amp;ag=00</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2017-12-01">1 Dec. 2017</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B14">
+				<mixed-citation>INEGI (2019). “Mapas del Sistema Nacional de Información en Estadística y Geografía (SNIEG)”. INEGI, Aguascalientes, Mexico. <comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/mapas/">https://www.inegi.org.mx/app/mapas/</ext-link>
+					</comment> (accessed 15 Nov. 2019)</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>INEGI</collab>
+					</person-group>
+					<year>2019</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/mapas/">Mapas del Sistema Nacional de Información en Estadística y Geografía (SNIEG)</ext-link></article-title>
+					<source>INEGI, Aguascalientes, Mexico</source>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/mapas/">https://www.inegi.org.mx/app/mapas/</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2019-11-15">15 Nov. 2019</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B15">
+				<mixed-citation>INEGI (2020). &quot;Mapa Digital de México&quot;, INEGI, Aguascalientes, Mexico. <comment>
+						<ext-link ext-link-type="uri" xlink:href="http://gaia.inegi.org.mx/mdm6/?v=bGF0OjIzLjMyMDA4LGxvbjotMTAxLjUwMDAwLHo6MSxsOmMxMTFzZXJ2aWNpb3N8dGMxMTFzZXJ2aWNpb3M=">http://gaia.inegi.org.mx/mdm6/?v=bGF0OjIzLjMyMDA4LGxvbjotMTAxLjUwMDAwLHo6MSxsOmMxMTFzZXJ2aWNpb3N8dGMxMTFzZXJ2aWNpb3M=</ext-link>
+					</comment> (accessed: 15 Feb. 2020)</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>INEGI</collab>
+					</person-group>
+					<year>2020</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="http://gaia.inegi.org.mx/mdm6/?v=bGF0OjIzLjMyMDA4LGxvbjotMTAxLjUwMDAwLHo6MSxsOmMxMTFzZXJ2aWNpb3N8dGMxMTFzZXJ2aWNpb3M=">Mapa Digital de México</ext-link></article-title>
+					<source>INEGI, Aguascalientes, Mexico</source>
+					<comment>
+						<ext-link ext-link-type="uri" xlink:href="http://gaia.inegi.org.mx/mdm6/?v=bGF0OjIzLjMyMDA4LGxvbjotMTAxLjUwMDAwLHo6MSxsOmMxMTFzZXJ2aWNpb3N8dGMxMTFzZXJ2aWNpb3M=">http://gaia.inegi.org.mx/mdm6/?v=bGF0OjIzLjMyMDA4LGxvbjotMTAxLjUwMDAwLHo6MSxsOmMxMTFzZXJ2aWNpb3N8dGMxMTFzZXJ2aWNpb3M=</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2020-02-15">15 Feb. 2020</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B16">
+				<mixed-citation>Janoschka, M., &amp; Salinas, L. (2017). Peripheral urbanisation in Mexico City A comparative analysis of the uneven social and material geographies in low-income housing estates. Habitat International, 70, 43-49. https://doi.org/10.1016/j.habitatint.2017.10.003</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Janoschka</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Salinas</surname>
+							<given-names>L.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title>Peripheral urbanisation in Mexico City A comparative analysis of the uneven social and material geographies in low-income housing estates</article-title>
+					<source>Habitat International</source>
+					<volume>70</volume>
+					<fpage>43</fpage>
+					<lpage>49</lpage>
+					<pub-id pub-id-type="doi">10.1016/j.habitatint.2017.10.003</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B17">
+				<mixed-citation>King, R., M. Orloff, T. Virsilas, and T. Pande. 2017. “Confronting the Urban Housing Crisis in the Global South: Adequate, Secure, and Affordable Housing.” Working Paper. World Resources Institute, Washington, DC. <ext-link ext-link-type="uri" xlink:href="https://www.wri.org/wri-citiesforall/publication/towards-more-equal-city-confronting-urban-housing-crisis-global-south">www.citiesforall.org</ext-link>.</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>King</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>Orloff</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Virsilas</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Pande</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>2017</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://www.wri.org/wri-citiesforall/publication/towards-more-equal-city-confronting-urban-housing-crisis-global-south">Confronting the Urban Housing Crisis in the Global South: Adequate, Secure, and Affordable Housing</ext-link></article-title>
+					<source>World Resources Institute, Washington, DC</source>
+				</element-citation>
+			</ref>
+			<ref id="B18">
+				<mixed-citation>Mas, J.-F.; Couturier, S.; Paneque-Gálvez, J.; Skutsch, M.; Pérez-Vega, A.; Castillo-Santiago, M.A.; Bocco, G. Comment on Gebhardt et al. MAD-MEX: Automatic Wall-to-Wall Land Cover Monitoring for the Mexican REDD-MRV Program Using All Landsat Data. Remote Sens. 2014, 6, 3923-3943. Remote Sens. 2016, 8, 533. https://doi.org/10.3390/rs8070533</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Mas</surname>
+							<given-names>J.-F.</given-names>
+						</name>
+						<name>
+							<surname>Couturier</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Paneque-Gálvez</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Skutsch</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Pérez-Vega</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Castillo-Santiago</surname>
+							<given-names>M.A.</given-names>
+						</name>
+						<name>
+							<surname>Bocco</surname>
+							<given-names>G.</given-names>
+						</name>
+					</person-group>
+					<article-title>Comment on Gebhardt et al. MAD-MEX: Automatic Wall-to-Wall Land Cover Monitoring for the Mexican REDD-MRV Program Using All Landsat Data. Remote Sens. 2014, 6, 3923-3943</article-title>
+					<source>Remote Sens</source>
+					<year>533, 2016</year>
+					<volume>8</volume>
+					<!-- <fpage>533</fpage>
+					<lpage>533</lpage> -->
+					<pub-id pub-id-type="doi">10.3390/rs8070533</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B19">
+				<mixed-citation>Nicolau, R., David, J., Caetano, M., &amp; Pereira, J. (2019). Ratio of Land Consumption Rate to Population Growth Rate-Analysis of Different Formulations Applied to Mainland Portugal. ISPRS International Journal of Geo-Information, 8(1), https://doi.org/10.3390/ijgi8010010</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Nicolau</surname>
+							<given-names>R.</given-names>
+						</name>
+						<name>
+							<surname>David</surname>
+							<given-names>J.</given-names>
+						</name>
+						<name>
+							<surname>Caetano</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Pereira</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2019</year>
+					<article-title>Ratio of Land Consumption Rate to Population Growth Rate-Analysis of Different Formulations Applied to Mainland Portugal</article-title>
+					<source>ISPRS International Journal of Geo-Information</source>
+					<volume>8(1)</volume>
+					<issue>1</issue>
+					<pub-id pub-id-type="doi">10.3390/ijgi8010010</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B20">
+				<mixed-citation>Pesaresi, M., Ehrlich, D., Ferri, S., Florczyk, A., Freire S., Halkia, M., Julea, A., Kemper, T., Soille, P., Syrris, V. (2016). Operating procedure for the production of the Global Human Settlement Layer from Landsat data of the epochs 1975, 1990, 2000, and 2014;JRCTechnical Report EUR 27741EN; https://doi.org/10.2788/253582</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Pesaresi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Ehrlich</surname>
+							<given-names>D.</given-names>
+						</name>
+						<name>
+							<surname>Ferri</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Florczyk</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Freire</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Halkia</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Julea</surname>
+							<given-names>A.</given-names>
+						</name>
+						<name>
+							<surname>Kemper</surname>
+							<given-names>T.</given-names>
+						</name>
+						<name>
+							<surname>Soille</surname>
+							<given-names>P.</given-names>
+						</name>
+						<name>
+							<surname>Syrris</surname>
+							<given-names>V.</given-names>
+						</name>
+					</person-group>
+					<year>2016</year>
+					<article-title>Operating procedure for the production of the Global Human Settlement Layer from Landsat data of the epochs 1975, 1990, 2000, and 2014</article-title>
+					<source>JRCTechnical Report EUR 27741EN</source>
+					<pub-id pub-id-type="doi">10.2788/253582</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B21">
+				<mixed-citation>Sabo, F., Corbane, C., Florczyk, A. J., Ferri, S. , Pesaresi, M. , &amp; Kemper, T. (2018). Comparison of built-up area maps produced within the global human settlement framework. Transactions in GIS, 22(6), 1406-1436. https://doi.org/10.1111/tgis.12480</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Sabo</surname>
+							<given-names>F.</given-names>
+						</name>
+						<name>
+							<surname>Corbane</surname>
+							<given-names>C.</given-names>
+						</name>
+						<name>
+							<surname>Florczyk</surname>
+							<given-names>A. J.</given-names>
+						</name>
+						<name>
+							<surname>Ferri</surname>
+							<given-names>S.</given-names>
+						</name>
+						<name>
+							<surname>Pesaresi</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Kemper</surname>
+							<given-names>T.</given-names>
+						</name>
+					</person-group>
+					<year>2018</year>
+					<article-title>Comparison of built-up area maps produced within the global human settlement framework</article-title>
+					<source>Transactions in GIS</source>
+					<volume>22(6)</volume>
+					<issue>6</issue>
+					<fpage>1406</fpage>
+					<lpage>1436</lpage>
+					<pub-id pub-id-type="doi">10.1111/tgis.12480</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B23">
+				<mixed-citation>SCINCE (2019). &quot;Sistema para la Consulta de Información Censal (SCINCE) 2010&quot;, Instituto Nacional de Estadísticas y Geografía (INEGI), <comment> &quot;Sistema para la Consulta de Información Censal (SCINCE) 2010&quot;, Instituto Nacional de Estadísticas y Geografía (INEGI), <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/descarga/?ti=13&amp;ag=01">https://www.inegi.org.mx/app/descarga/?ti=13&amp;ag=01</ext-link>
+					</comment> (accessed in Nov. 2019)</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>SCINCE</collab>
+					</person-group>
+					<year>2019</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/descarga/?ti=13&amp;ag=01">Sistema para la Consulta de Información Censal (SCINCE) 2010</ext-link></article-title>
+					<source>Instituto Nacional de Estadísticas y Geografía (INEGI)</source>
+					<comment> &quot;Sistema para la Consulta de Información Censal (SCINCE) 2010&quot;, Instituto Nacional de Estadísticas y Geografía (INEGI), <ext-link ext-link-type="uri" xlink:href="https://www.inegi.org.mx/app/descarga/?ti=13&amp;ag=01">https://www.inegi.org.mx/app/descarga/?ti=13&amp;ag=01</ext-link>
+					</comment>
+					<date-in-citation content-type="access-date" iso-8601-date="2019-11-00">Nov. 2019</date-in-citation>
+				</element-citation>
+			</ref>
+			<ref id="B24">
+				<mixed-citation>Suárez, M., &amp; Delgado, J. (2007). La expansión urbana probable de la Ciudad de México. Un escenario pesimista y dos alternativos para el año 2020. Estudios demográficos y urbanos, 22(1), 101-142. <italic>https</italic>://<italic>doi</italic>.org/10.24201/edu.v22i1.1295</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Suárez</surname>
+							<given-names>M.</given-names>
+						</name>
+						<name>
+							<surname>Delgado</surname>
+							<given-names>J.</given-names>
+						</name>
+					</person-group>
+					<year>2007</year>
+					<article-title>La expansión urbana probable de la Ciudad de México. Un escenario pesimista y dos alternativos para el año 2020</article-title>
+					<source>Estudios demográficos y urbanos</source>
+					<volume>22(1)</volume>
+					<issue>1</issue>
+					<fpage>101</fpage>
+					<lpage>142</lpage>
+					<pub-id pub-id-type="doi">10.24201/edu.v22i1.1295</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B25">
+				<mixed-citation>Torres-Vera, M. A., Prol-Ledesma, R. M., &amp; García-López, D. (2009). Three decades of land use variations in Mexico City. International Journal of Remote Sensing, 30(1), 117-138. <italic>https</italic>://<italic>doi</italic>.org/10.1080/01431160802261163</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<name>
+							<surname>Torres-Vera</surname>
+							<given-names>M. A.</given-names>
+						</name>
+						<name>
+							<surname>Prol-Ledesma</surname>
+							<given-names>R. M.</given-names>
+						</name>
+						<name>
+							<surname>García-López</surname>
+							<given-names>D.</given-names>
+						</name>
+					</person-group>
+					<year>2009</year>
+					<article-title>Three decades of land use variations in Mexico City</article-title>
+					<source>International Journal of Remote Sensing</source>
+					<volume>30(1)</volume>
+					<issue>1</issue>
+					<fpage>117</fpage>
+					<lpage>138</lpage>
+					<pub-id pub-id-type="doi">10.1080/01431160802261163</pub-id>
+				</element-citation>
+			</ref>
+			<ref id="B26">
+				<mixed-citation>UN-Habitat (2019). Sustainable Development Goal 11 Make Cities and Human Settlements Inclusive, Safe, Resilient and Sustainable: A Guide to Assist National and Local Governments to Monitor and Report on SDG Goal 11+ Indicators. UN-Habitat https://smartnet.niua.org/sites/default/files/resources/sdg_goal_11_monitoring_framework.pdf (accessed 15 Dec. 2019)</mixed-citation>
+				<element-citation publication-type="journal">
+					<person-group person-group-type="author">
+						<collab>UN-Habitat</collab>
+					</person-group>
+					<year>2019</year>
+					<article-title><ext-link ext-link-type="uri" xlink:href="https://smartnet.niua.org/sites/default/files/resources/sdg_goal_11_monitoring_framework.pdf">Sustainable Development Goal 11 Make Cities and Human Settlements Inclusive, Safe, Resilient and Sustainable: A Guide to Assist National and Local Governments to Monitor and Report on SDG Goal 11+ Indicators</ext-link></article-title>
+					<source>UN-Habitat</source>
+				</element-citation>
+			</ref>
+		</ref-list>
+	</back>
+</article>
